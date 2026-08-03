@@ -1,39 +1,11 @@
 /* css styles */
 
-/* Syllabus header: course title left, ETH logo right, lecturers centered below */
-.syllabus-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 2rem;
-  margin: 1rem 0 0.5rem;
-}
-.syllabus-header > p {
-  flex: 0 0 auto;
-  margin: 0;
-}
-.course-title-block {
-  flex: 1;
-}
-img.hex-logo {
-  width: 105px;
-}
-.course-title {
-  display: block;
-  font-size: 1.9rem;
-  font-weight: 700;
-  line-height: 1.25;
-}
-.course-subtitle {
-  display: block;
-  margin-top: 0.5rem;
-  opacity: 0.7;
-}
-img.eth-logo {
-  width: 190px;
-}
-.lecturers {
+/* Syllabus: centered instructor lines under the logo row */
+.instructors {
   text-align: center;
-  font-size: 1.15rem;
-  margin: 1.5rem 0 2rem;
+  font-size: 1.05rem;
+  margin: 0.5rem 0 2rem;
+}
+.instructors p {
+  margin: 0 0 0.35rem;
 }

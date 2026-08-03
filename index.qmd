@@ -6,7 +6,7 @@ toc: false
 
 ## Instructors
 
-{{< fa user >}} [{{< var instructors.viktoria.name >}}]({{< var instructors.viktoria.url >}})<br>
+{{< fa user >}} [{{< var instructors.viktoria.name >}}]({{< var instructors.viktoria.url >}}) \| {{< fa envelope >}} <a href='mailto:{{< var instructors.viktoria.email >}}'>{{< var instructors.viktoria.email >}}</a><br>
 {{< fa user >}} [{{< var instructors.jan.name >}}]({{< var instructors.jan.url >}}) \| {{< fa envelope >}} <a href='mailto:{{< var instructors.jan.email >}}'>{{< var instructors.jan.email >}}</a> \| {{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}} [Bluesky]({{< var instructors.jan.bluesky >}})
 
 ## Course Description

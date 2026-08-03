@@ -1,8 +1,6 @@
 ---
-# title/subtitle/author are scoped to pdf and docx: the html page builds its own
-# header (title left, ETH logo right, lecturers centered) and must not also get
-# the default Quarto title block
-pagetitle: "The Psychology of Climate Change Communication — Syllabus"
+title: "The Psychology of Climate Change Communication"
+subtitle: "Theoretical insights and practical applications — Syllabus, Autumn 2026"
 bibliography: references.bib
 csl: apa.csl
 filters:
@@ -13,29 +11,21 @@ filters:
 format:
   html: default
   pdf: default
-  docx:
-    title: "The Psychology of Climate Change Communication"
-    subtitle: "Theoretical insights and practical applications — Syllabus, Autumn 2026"
-    author: "Viktoria Cologna & Jan Pfänder"
+  docx: default
 ---
+
+::: {layout-ncol=2 layout-valign="center"}
+![](images/logo.png){fig-align="left" width=110 fig-alt="Course hex logo"}
+
+![](images/eth_logo.png){fig-align="right" width=190 fig-alt="ETH Zurich logo"}
+:::
 
 ::: {.content-visible when-format="html"}
 
-:::: {.syllabus-header}
+::: {.instructors}
+[{{< var instructors.viktoria.name >}}]({{< var instructors.viktoria.url >}}) — [{{< var instructors.viktoria.email >}}](mailto:{{< var instructors.viktoria.email >}})
 
-![](images/logo.svg){.hex-logo fig-alt="Course hex logo"}
-
-::: {.course-title-block}
-[The Psychology of Climate Change Communication]{.course-title}
-[Theoretical insights and practical applications — Syllabus, Autumn 2026]{.course-subtitle}
-:::
-
-![](images/eth_logo.svg){.eth-logo fig-alt="ETH Zurich logo"}
-
-::::
-
-::: {.lecturers}
-[{{< var instructors.viktoria.name >}}]({{< var instructors.viktoria.url >}}) & [{{< var instructors.jan.name >}}]({{< var instructors.jan.url >}})
+[{{< var instructors.jan.name >}}]({{< var instructors.jan.url >}}) — [{{< var instructors.jan.email >}}](mailto:{{< var instructors.jan.email >}})
 :::
 
 :::
@@ -43,29 +33,20 @@ format:
 ::: {.content-visible when-format="pdf"}
 
 ```{=latex}
-\noindent
-\begin{minipage}[c]{0.16\textwidth}
-  \includegraphics[width=\linewidth]{images/logo.png}
-\end{minipage}\hfill
-\begin{minipage}[c]{0.52\textwidth}
-  {\LARGE\bfseries The Psychology of Climate Change Communication}\par\vspace{5pt}
-  {\small Theoretical insights and practical applications — Syllabus, Autumn 2026}
-\end{minipage}\hfill
-\begin{minipage}[c]{0.24\textwidth}
-  \raggedleft\includegraphics[width=0.95\linewidth]{images/eth_logo.png}
-\end{minipage}
-
-\begin{center}\large Viktoria Cologna \& Jan Pfänder\end{center}
-\vspace{1em}
+\begin{center}
+Viktoria Cologna — \href{mailto:viktoria.cologna@eawag.ch}{viktoria.cologna@eawag.ch}\\[2pt]
+Jan Pfänder — \href{mailto:janlukas.pfaender@gmail.com}{janlukas.pfaender@gmail.com}
+\end{center}
+\vspace{0.5em}
 ```
 
 :::
 
 ::: {.content-visible when-format="docx"}
 
-![](images/logo.png){width=25% fig-align="center"}
+{{< var instructors.viktoria.name >}} — {{< var instructors.viktoria.email >}}
 
-![](images/eth_logo.png){width=30% fig-align="center"}
+{{< var instructors.jan.name >}} — {{< var instructors.jan.email >}}
 
 :::
 

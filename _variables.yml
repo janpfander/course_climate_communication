@@ -4,7 +4,7 @@ instructors:
   viktoria:
     name: Viktoria Cologna
     url: "https://www.viktoriacologna.com/"
-    # email:  # TODO: add current address (old template had viktoria.cologna@uzh.ch, may be stale)
+    email: viktoria.cologna@eawag.ch
   jan:
     name: Jan Pfänder
     email: janlukas.pfaender@gmail.com  # TODO: swap for ETH address
