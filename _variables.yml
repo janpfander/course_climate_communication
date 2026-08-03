@@ -1,13 +1,16 @@
-author: Jan Pfänder
+author: Viktoria Cologna & Jan Pfänder
 
-instructor:
-  name: Jan Pfänder
-  name_no_title: Jan Pfänder
-  email: janlukas.pfaender@gmail.com  # TODO: swap for ETH address
-  url: "https://janpfander.github.io/"
-  office: "ETH Zurich"  # TODO: building/office if desired
-  github: janpfander
-  bluesky: "https://bsky.app/profile/janpfa.bsky.social"
+instructors:
+  viktoria:
+    name: Viktoria Cologna
+    url: "https://www.viktoriacologna.com/"
+    # email:  # TODO: add current address (old template had viktoria.cologna@uzh.ch, may be stale)
+  jan:
+    name: Jan Pfänder
+    email: janlukas.pfaender@gmail.com  # TODO: swap for ETH address
+    url: "https://janpfander.github.io/"
+    github: janpfander
+    bluesky: "https://bsky.app/profile/janpfa.bsky.social"
 
 course:
   semester: "Autumn 2026"

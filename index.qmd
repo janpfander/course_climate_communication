@@ -1,11 +1,13 @@
 ---
 title: "The Psychology of Climate Change Communication"
-subtitle: "Theoretical insights and practical applications — ETH Zurich, Autumn 2026"
+subtitle: "Theoretical insights and practical applications<br>{{< var university.name >}} · {{< var course.semester >}} · {{< var course.days >}} {{< var course.time >}} · room {{< var course.location >}}"
+toc: false
 ---
 
-## Instructor
+## Instructors
 
-{{< fa user >}} [{{< var instructor.name >}}]({{< var instructor.url >}}) \| {{< fa university >}} {{< var instructor.office >}} \| {{< fa envelope >}} <a href='mailto:{{< var instructor.email >}}'>{{< var instructor.email >}}</a> \| {{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}} [Bluesky]({{< var instructor.bluesky >}})
+{{< fa user >}} [{{< var instructors.viktoria.name >}}]({{< var instructors.viktoria.url >}})<br>
+{{< fa user >}} [{{< var instructors.jan.name >}}]({{< var instructors.jan.url >}}) \| {{< fa envelope >}} <a href='mailto:{{< var instructors.jan.email >}}'>{{< var instructors.jan.email >}}</a> \| {{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}} [Bluesky]({{< var instructors.jan.bluesky >}})
 
 ## Course Description
 
@@ -13,25 +15,23 @@ Climate change communication influences how individuals, organizations, and soci
 
 ## Schedule
 
-{{< var course.days >}} {{< var course.time >}}, {{< var university.name >}}, room {{< var course.location >}}.
+Session topics below are a draft carried over from a previous version of the course and will be revised. Full session descriptions and readings are in the [syllabus](syllabus.qmd).
 
-Session topics below are a draft carried over from a previous version of the course and will be revised.
+| \# | Date | Topic | Lecturer |
+|----|------------|---------------------------------------------|------------------|
+| 1 | 15.09.2026 | Introduction and organizational questions | Viktoria Cologna & Jan Pfänder |
+| 2 | 22.09.2026 | Climate change, the deficit model, and public opinion | Viktoria Cologna |
+| 3 | 29.09.2026 | Guest speaker: Dr. Leonard Creutzburg | Invited speaker |
+| 4 | 06.10.2026 | Mental models and framing | Jan Pfänder |
+| 5 | 13.10.2026 | Climate change misinformation | Jan Pfänder |
+| 6 | 20.10.2026 | Emotions and behavior | TODO |
+| 7 | 27.10.2026 | A question of trust | TODO |
+| 8 | 03.11.2026 | Guest speaker: Dr. Cornelia Schwierz | Invited speaker |
+| 9 | 10.11.2026 | Climate change in the media | Viktoria Cologna |
+| 10 | 17.11.2026 | TODO: topic missing in template | TODO |
+| 11 | 24.11.2026 | Guest speaker: Cornelia Eisenach | Invited speaker |
+| 12 | 01.12.2026 | Guest speaker: Reto Knutti | Invited speaker |
+| 13 | 08.12.2026 | Guest speaker: Industry/Kanton | Invited speaker |
+| 14 | 15.12.2026 | Discussion and lessons learnt | Viktoria Cologna & Jan Pfänder |
 
-| \# | Date | Topic |
-|----|------------|--------------------------------------------------------|
-| 1 | 15.09.2026 | Introduction and organizational questions |
-| 2 | 22.09.2026 | Climate change, the deficit model, and public opinion |
-| 3 | 29.09.2026 | Guest speaker: Dr. Leonard Creutzburg |
-| 4 | 06.10.2026 | Mental models and framing |
-| 5 | 13.10.2026 | Climate change misinformation |
-| 6 | 20.10.2026 | Emotions and behavior |
-| 7 | 27.10.2026 | A question of trust |
-| 8 | 03.11.2026 | Guest speaker: Dr. Cornelia Schwierz |
-| 9 | 10.11.2026 | Climate change in the media |
-| 10 | 17.11.2026 | TODO: topic missing in template |
-| 11 | 24.11.2026 | Guest speaker: Cornelia Eisenach |
-| 12 | 01.12.2026 | Guest speaker: Reto Knutti |
-| 13 | 08.12.2026 | Guest speaker: Industry/Kanton |
-| 14 | 15.12.2026 | Discussion and lessons learnt |
-
-The full session descriptions and readings are in the [syllabus](syllabus.qmd).
+: {.striped .hover tbl-colwidths="[5,13,52,30]"}
