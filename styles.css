@@ -1,2 +1,27 @@
 /* css styles */
 
+/* Syllabus header: instructor blocks flanking the hex logo */
+.syllabus-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 0.5rem 0 2rem;
+}
+.syllabus-header > p {
+  flex: 0 0 auto;
+  margin: 0;
+}
+.syllabus-header .contact {
+  flex: 1;
+  margin: 0;
+}
+.syllabus-header .contact p {
+  margin: 0 0 0.6rem;
+}
+.syllabus-header .contact.right {
+  text-align: right;
+}
+img.syllabus-logo {
+  width: 150px;
+}

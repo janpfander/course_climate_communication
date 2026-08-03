@@ -1,5 +1,6 @@
 ---
-title: Syllabus
+title: "The Psychology of Climate Change Communication"
+subtitle: "Theoretical insights and practical applications — Syllabus, Autumn 2026"
 bibliography: references.bib
 csl: apa.csl
 # Enable once references.bib has entries (Zotero Better BibTeX export):
@@ -11,17 +12,36 @@ format:
   docx: default
 ---
 
-## Instructors
-
 ::: {.content-visible when-format="html"}
-{{< fa user >}} [{{< var instructors.viktoria.name >}}]({{< var instructors.viktoria.url >}})<br>
-{{< fa user >}} [{{< var instructors.jan.name >}}]({{< var instructors.jan.url >}}) \| {{< fa envelope >}} <a href='mailto:{{< var instructors.jan.email >}}'>{{< var instructors.jan.email >}}</a> \| {{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}} [Bluesky]({{< var instructors.jan.bluesky >}})
+
+:::: {.syllabus-header}
+
+::: {.contact}
+**[{{< var instructors.viktoria.name >}}]({{< var instructors.viktoria.url >}})**
+
+{{< fa globe >}} [viktoriacologna.com]({{< var instructors.viktoria.url >}})
+:::
+
+![](images/logo.svg){.syllabus-logo fig-alt="Course hex logo"}
+
+::: {.contact .right}
+**[{{< var instructors.jan.name >}}]({{< var instructors.jan.url >}})**
+
+{{< fa envelope >}} [{{< var instructors.jan.email >}}](mailto:{{< var instructors.jan.email >}})
+:::
+
+::::
+
 :::
 
 ::: {.content-visible unless-format="html"}
-{{< var instructors.viktoria.name >}} \| {{< var instructors.viktoria.url >}}
 
-{{< var instructors.jan.name >}} \| {{< var instructors.jan.email >}} \| {{< var instructors.jan.url >}}
+![](images/logo.png){width=30% fig-align="center"}
+
+**{{< var instructors.viktoria.name >}}** — <https://www.viktoriacologna.com/>
+
+**{{< var instructors.jan.name >}}** — {{< var instructors.jan.email >}}
+
 :::
 
 ## Course Description
@@ -67,7 +87,7 @@ Course plan, reading materials, and slides will be available on OLAT. Please not
 ::: {.callout-warning}
 ## Draft
 
-Topics, descriptions, and literature below are carried over from a previous version of this course taught at UZH. Dates are correct for Autumn 2026. Everything else will be revised. Literature is cited as plain text until `references.bib` is populated from Zotero.
+Topics, descriptions, and literature below are carried over from a previous version of this course taught at UZH. Dates are correct for Autumn 2026, everything else will be revised. Citations are plain text copied from the old reference list. Once `references.bib` is exported from Zotero, they can be replaced by `@bibkeys` (Leiserowitz et al. 2024 and Corner et al. 2018 are missing from the old list).
 :::
 
 ```{r}
@@ -75,7 +95,6 @@ Topics, descriptions, and literature below are carried over from a previous vers
 #| message: false
 #| warning: false
 #| results: asis
-library(tinytable)
 schedule <- read.csv("data/schedule.csv")
 lecturer <- ifelse(schedule$lecturer == "TODO", "**[TODO: lecturer]**", schedule$lecturer)
 tab <- data.frame(
@@ -84,72 +103,23 @@ tab <- data.frame(
   Topic = paste0("**", schedule$topic, "** — ", lecturer, "\n\n", schedule$description),
   Literature = schedule$literature
 )
-
-if (identical(knitr::pandoc_to(), "docx")) {
-  # tinytable's markdown table is not pandoc grid syntax, so Word renders it as
-  # literal text. Build an HTML table and convert it to a pandoc grid table
-  # instead, which pandoc turns into a real Word table with multi-paragraph cells.
-  cell <- function(x) commonmark::markdown_html(x)
-  rows <- apply(tab, 1, function(r) {
-    paste0("<tr>", paste0("<td>", vapply(r, cell, character(1)), "</td>", collapse = ""), "</tr>")
-  })
-  html <- paste0(
-    "<table><thead><tr>",
-    paste0("<th>", c("#", "Date", "Topic", "Literature"), "</th>", collapse = ""),
-    "</tr></thead><tbody>", paste(rows, collapse = ""), "</tbody></table>"
-  )
-  md <- system2("quarto", c("pandoc", "-f", "html", "-t", "markdown-smart", "--columns=110"),
-                input = html, stdout = TRUE)
-  cat(md, sep = "\n")
-} else {
-  # escaped so markdown processing does not read the header as a heading
-  names(tab)[1] <- "\\#"
-  tt(tab, width = c(0.05, 0.13, 0.44, 0.38)) |>
-    format_tt(markdown = TRUE)
-}
+# Emit a pandoc grid table (cells converted markdown -> HTML -> pandoc grid
+# markdown). Unlike a tinytable, asis markdown passes through pandoc's citation
+# processing, so cells can hold full citations now and @bibkeys later.
+cell <- function(x) commonmark::markdown_html(x)
+rows <- apply(tab, 1, function(r) {
+  paste0("<tr>", paste0("<td>", vapply(r, cell, character(1)), "</td>", collapse = ""), "</tr>")
+})
+html <- paste0(
+  "<table><thead><tr>",
+  paste0("<th>", c("#", "Date", "Topic", "Literature"), "</th>", collapse = ""),
+  "</tr></thead><tbody>", paste(rows, collapse = ""), "</tbody></table>"
+)
+md <- system2("quarto", c("pandoc", "-f", "html", "-t", "markdown-smart", "--columns=120"),
+              input = html, stdout = TRUE)
+cat(md, sep = "\n")
+cat('\n\n: {tbl-colwidths="[4,11,45,40]"}\n')
 ```
-
-## References (draft, to be replaced by references.bib)
-
-**[TODO: replace this plain-text list with a Zotero Better BibTeX export to `references.bib`, then enable `nocite`/`reference-section-title` in the front matter and cite with `@keys`. Leiserowitz et al. (2024) and Corner et al. (2018) are cited above but missing here.]**
-
-Barkemeyer, R., Figge, F., Hoepner, A., Holt, D., Kraak, J. M., & Yu, P.-S. (2017). Media coverage of climate change: An international comparison. *Environment and Planning C: Politics and Space*, *35*(6), 1029–1054. <https://doi.org/10.1177/0263774X16680818>
-
-Cologna, V., Kotcher, J., Mede, N. G., Besley, J., Maibach, E. W., & Oreskes, N. (2024). Trust in climate science and climate scientists: A narrative review. *PLOS Climate*, *3*(5), e0000400. <https://doi.org/10.1371/journal.pclm.0000400>
-
-Cook, J. (2020). Deconstructing climate science denial. In D. C. Holmes & L. M. Richardson (Eds.), *Research Handbook on Communicating Climate Change*. Edward Elgar Publishing. <https://doi.org/10.4337/9781789900408.00014>
-
-Dasandi, N., Graham, H., Hudson, D., Jankin, S., vanHeerde-Hudson, J., & Watts, N. (2022). Positive, global, and health or environment framing bolsters public support for climate policies. *Communications Earth & Environment*, *3*(1), 239. <https://doi.org/10.1038/s43247-022-00571-x>
-
-Klinger, K., & Metag, J. (2021). Media Effects in the Context of Environmental Issues. In *The Handbook of International Trends in Environmental Communication*. Routledge.
-
-Lakoff, G. (2010). Why it Matters How We Frame the Environment. *Environmental Communication*, *4*(1), 70–81. <https://doi.org/10.1080/17524030903529749>
-
-Lamb, W. F., Mattioli, G., Levi, S., Roberts, J. T., Capstick, S., Creutzig, F., Minx, J. C., Müller-Hansen, F., Culhane, T., & Steinberger, J. K. (2020). Discourses of climate delay. *Global Sustainability*, *3*. <https://doi.org/10.1017/sus.2020.13>
-
-Maibach, E. W., Uppalapati, S. S., Orr, M., & Thaker, J. (2023). Harnessing the Power of Communication and Behavior Science to Enhance Society's Response to Climate Change. *Annual Review of Earth and Planetary Sciences*, *51*(1). <https://doi.org/10.1146/annurev-earth-031621-114417>
-
-Markowitz, E. M., & Guckian, M. L. (2018). Climate change communication: Challenges, insights, and opportunities. In S. Clayton & C. Manning (Eds.), *Psychology and Climate Change. Human Perceptions, Impacts, and Responses.* (pp. 35–63). Academic Press. <https://doi.org/10.1016/B978-0-12-813130-5.00003-5>
-
-Metag, J., Füchslin, T., & Schäfer, M. S. (2017). Global warming's five Germanys: A typology of Germans' views on climate change and patterns of media use and information. *Public Understanding of Science*, *26*(4), 434–451. <https://doi.org/10.1177/0963662515592558>
-
-Metag, J., Schäfer, M. S., Füchslin, T., Barsuhn, T., & Kleinen-von Königslöw, K. (2016). Perceptions of Climate Change Imagery: Evoked Salience and Self-Efficacy in Germany, Switzerland, and Austria. *Science Communication*, *38*(2), 197–227. <https://doi.org/10.1177/1075547016635181>
-
-Myers, T. A., Roser-Renouf, C., & Maibach, E. (2023). Emotional responses to climate change information and their effects on policy support. *Frontiers in Climate*, *5*. <https://www.frontiersin.org/articles/10.3389/fclim.2023.1135450>
-
-Ogunbode, C. A., Doran, R., Hanss, D., Ojala, M., Salmela-Aro, K., van den Broek, K. L., Bhullar, N., Aquino, S. D., Marot, T., Schermer, J. A., Wlodarczyk, A., Lu, S., Jiang, F., Maran, D. A., Yadav, R., Ardi, R., Chegeni, R., Ghanbarian, E., Zand, S., … Karasu, M. (2022). Climate anxiety, wellbeing and pro-environmental action: Correlates of negative emotional responses to climate change in 32 countries. *Journal of Environmental Psychology*, *84*, 101887. <https://doi.org/10.1016/j.jenvp.2022.101887>
-
-O'Neill, S. J. (2013). Image matters: Climate change imagery in US, UK and Australian newspapers. *Geoforum*, *49*, 10–19. <https://doi.org/10.1016/j.geoforum.2013.04.030>
-
-Oreskes, N. (2020). What Is the Social Responsibility of Climate Scientists? *Daedalus*, *149*(4), 33–45. <https://doi.org/10.1162/daed_a_01815>
-
-Schäfer, M. S., & Painter, J. (2021). Climate journalism in a changing media ecosystem: Assessing the production of climate change-related news around the world. *WIREs Climate Change*, *12*(1), e675. <https://doi.org/10.1002/wcc.675>
-
-Shi, J., Visschers, V. H. M., Siegrist, M., & Arvai, J. (2016). Knowledge as a driver of public perceptions about climate change reassessed. *Nature Climate Change*, *6*(8). <https://doi.org/10.1038/nclimate2997>
-
-Stanley, S. K., Hogg, T. L., Leviston, Z., & Walker, I. (2021). From anger to action: Differential impacts of eco-anxiety, eco-depression, and eco-anger on climate action and wellbeing. *The Journal of Climate Change and Health*, *1*, 100003. <https://doi.org/10.1016/j.joclim.2021.100003>
-
-Supran, G., & Oreskes, N. (2021). Rhetoric and frame analysis of ExxonMobil's climate change communications. *One Earth*, *4*(5), 696–719. <https://doi.org/10.1016/j.oneear.2021.04.014>
 
 <!-- Enable when citations go live:
 ::: {#references}

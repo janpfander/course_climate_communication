@@ -3,18 +3,18 @@
   <polygon points="87,2 170,50 170,150 87,198 4,150 4,50"
            fill="#fdf8ec" stroke="#660d20" stroke-width="7" stroke-linejoin="round"/>
   <!-- Speech bubble -->
-  <path d="M 54 42 H 120 A 12 12 0 0 1 132 54 V 90 A 12 12 0 0 1 120 102 H 84 L 56 120 L 64 102 H 54 A 12 12 0 0 1 42 90 V 54 A 12 12 0 0 1 54 42 Z"
+  <path d="M 54 36 H 120 A 12 12 0 0 1 132 48 V 76 A 12 12 0 0 1 120 88 H 84 L 58 104 L 64 88 H 54 A 12 12 0 0 1 42 76 V 48 A 12 12 0 0 1 54 36 Z"
         fill="#ffffff" stroke="#094568" stroke-width="4" stroke-linejoin="round"/>
   <!-- Warming stripes, cold to hot -->
-  <rect x="50"  y="50" width="13.5" height="44" rx="2" fill="#094568"/>
-  <rect x="65"  y="50" width="13.5" height="44" rx="2" fill="#e1c59a"/>
-  <rect x="80"  y="50" width="13.5" height="44" rx="2" fill="#edce79"/>
-  <rect x="95"  y="50" width="13.5" height="44" rx="2" fill="#e59a52"/>
-  <rect x="110" y="50" width="13.5" height="44" rx="2" fill="#660d20"/>
-  <!-- Wordmark -->
-  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif" text-anchor="middle" fill="#094568">
-    <text x="87" y="144" font-size="19" font-weight="700">Climate</text>
-    <text x="87" y="163" font-size="15" font-weight="700" textLength="104" lengthAdjust="spacingAndGlyphs">Communication</text>
-    <text x="87" y="177" font-size="7.5" font-weight="600" fill="#660d20">ETH Zurich · 2026</text>
+  <rect x="50"  y="43" width="13.5" height="38" rx="2" fill="#094568"/>
+  <rect x="65"  y="43" width="13.5" height="38" rx="2" fill="#e1c59a"/>
+  <rect x="80"  y="43" width="13.5" height="38" rx="2" fill="#edce79"/>
+  <rect x="95"  y="43" width="13.5" height="38" rx="2" fill="#e59a52"/>
+  <rect x="110" y="43" width="13.5" height="38" rx="2" fill="#660d20"/>
+  <!-- Wordmark: Psychology / Climate / Communication -->
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="87" y="124" font-size="13" font-weight="600" fill="#660d20">Psychology</text>
+    <text x="87" y="149" font-size="27" font-weight="700" fill="#094568">Climate</text>
+    <text x="87" y="166" font-size="13" font-weight="600" fill="#660d20" textLength="96" lengthAdjust="spacingAndGlyphs">Communication</text>
   </g>
 </svg>
