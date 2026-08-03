@@ -1,6 +1,8 @@
 ---
-title: "The Psychology of Climate Change Communication"
-subtitle: "Theoretical insights and practical applications — Syllabus, Autumn 2026"
+# title/subtitle/author are scoped to pdf and docx: the html page builds its own
+# header (title left, ETH logo right, lecturers centered) and must not also get
+# the default Quarto title block
+pagetitle: "The Psychology of Climate Change Communication — Syllabus"
 bibliography: references.bib
 csl: apa.csl
 filters:
@@ -10,39 +12,38 @@ filters:
 # reference-section-title: "Readings Assigned Throughout the Semester"
 format:
   html: default
-  pdf: default
-  docx: default
+  pdf:
+    title: "The Psychology of Climate Change Communication"
+    subtitle: "Theoretical insights and practical applications — Syllabus, Autumn 2026"
+    author: "Viktoria Cologna & Jan Pfänder"
+  docx:
+    title: "The Psychology of Climate Change Communication"
+    subtitle: "Theoretical insights and practical applications — Syllabus, Autumn 2026"
+    author: "Viktoria Cologna & Jan Pfänder"
 ---
 
 ::: {.content-visible when-format="html"}
 
 :::: {.syllabus-header}
 
-::: {.contact}
-**[{{< var instructors.viktoria.name >}}]({{< var instructors.viktoria.url >}})**
-
-{{< fa globe >}} [viktoriacologna.com]({{< var instructors.viktoria.url >}})
+::: {.course-title-block}
+[The Psychology of Climate Change Communication]{.course-title}
+[Theoretical insights and practical applications — Syllabus, Autumn 2026]{.course-subtitle}
 :::
 
-![](images/logo.svg){.syllabus-logo fig-alt="Course hex logo"}
-
-::: {.contact .right}
-**[{{< var instructors.jan.name >}}]({{< var instructors.jan.url >}})**
-
-{{< fa envelope >}} [{{< var instructors.jan.email >}}](mailto:{{< var instructors.jan.email >}})
-:::
+![](images/eth_logo.svg){.eth-logo fig-alt="ETH Zurich logo"}
 
 ::::
+
+::: {.lecturers}
+[{{< var instructors.viktoria.name >}}]({{< var instructors.viktoria.url >}}) & [{{< var instructors.jan.name >}}]({{< var instructors.jan.url >}})
+:::
 
 :::
 
 ::: {.content-visible unless-format="html"}
 
-![](images/logo.png){width=30% fig-align="center"}
-
-**{{< var instructors.viktoria.name >}}** — <https://www.viktoriacologna.com/>
-
-**{{< var instructors.jan.name >}}** — {{< var instructors.jan.email >}}
+![](images/eth_logo.png){width=35% fig-align="right"}
 
 :::
 
