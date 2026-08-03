@@ -5,10 +5,11 @@ project:
 website:
   page-navigation: true
   title: "The Psychology of Climate Change Communication: theoretical insights and practical applications"
+  favicon: images/logo.svg
 
   sidebar:
     title: "The Psychology of Climate Change Communication<br>(ETH Zurich – Autumn 2026)"
-    # logo: images/logo.png   # TODO: add course logo later
+    logo: images/logo.svg
     pinned: true
     align: center
     tools:
@@ -42,8 +43,8 @@ website:
 format:
   html:
     theme:
-      light: cosmo
-      dark: [cosmo, theme-dark.scss]
+      light: [cosmo, brand]
+      dark: [cosmo, brand, theme-dark.scss]
     code-copy: true
     css: styles.css
     toc: true

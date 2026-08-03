@@ -1,0 +1,23 @@
+---
+title: "Session 01 — Topic"
+subtitle: "The Psychology of Climate Change Communication"
+author: "Viktoria Cologna & Jan Pfänder"
+institute: "ETH Zurich"
+format:
+  revealjs:
+    slide-number: true
+    chalkboard: true
+    history: false
+    logo: ../images/logo.svg
+---
+
+## Template deck
+
+Copy this file to `NN-slides.qmd` for each session. The Navajo brand colors from `_brand.yml` apply automatically.
+
+- Bullet one
+- Bullet two
+
+## Second slide
+
+Content here.

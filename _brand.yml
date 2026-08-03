@@ -1,0 +1,24 @@
+# Brand theme: MetBrewer "Navajo" palette
+# https://github.com/BlakeRMills/MetBrewer
+# Applies to the website and (automatically) to revealjs slides.
+color:
+  palette:
+    maroon: "#660d20"
+    orange: "#e59a52"
+    gold: "#edce79"
+    navy: "#094568"
+    sand: "#e1c59a"
+    cream: "#fdf8ec"
+    charcoal: "#2b2b2b"
+  foreground: charcoal
+  background: cream
+  primary: navy
+  secondary: maroon
+  tertiary: sand
+  warning: orange
+  danger: maroon
+  info: gold
+logo:
+  small: images/logo.svg
+  medium: images/logo.svg
+  large: images/logo.svg

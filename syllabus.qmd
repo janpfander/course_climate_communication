@@ -70,259 +70,44 @@ Course plan, reading materials, and slides will be available on OLAT. Please not
 Topics, descriptions, and literature below are carried over from a previous version of this course taught at UZH. Dates are correct for Autumn 2026. Everything else will be revised. Literature is cited as plain text until `references.bib` is populated from Zotero.
 :::
 
-+--------------------------+--------------------------+--------------------------+--------------------------+
-| \#                       | Date                     | Topic                    | Literature               |
-+==========================+==========================+==========================+==========================+
-| 1                        | 15.09.2026               | **Introduction and       | Markowitz & Guckian      |
-|                          |                          | organizational           | (2018). Climate change   |
-|                          |                          | questions** — Viktoria   | communication:           |
-|                          |                          | Cologna & Jan Pfänder    | Challenges, insights,    |
-|                          |                          |                          | and opportunities.       |
-|                          |                          | Why is climate change    |                          |
-|                          |                          | communication important  |                          |
-|                          |                          | and why is it so         |                          |
-|                          |                          | challenging?             |                          |
-+--------------------------+--------------------------+--------------------------+--------------------------+
-| 2                        | 22.09.2026               | **Climate change, the    | Metag et al. (2017).     |
-|                          |                          | deficit model, and       | Global warming's five    |
-|                          |                          | public opinion** —       | Germanys.                |
-|                          |                          | Viktoria Cologna         |                          |
-|                          |                          |                          | Leiserowitz et al.       |
-|                          |                          | What is climate change   | (2024). Climate Change   |
-|                          |                          | and how does it occur?   | in the American Mind:    |
-|                          |                          | Does knowledge-focused   | Beliefs & Attitudes.     |
-|                          |                          | communication about      | **\[TODO: missing from   |
-|                          |                          | climate change lead to   | reference list\]**       |
-|                          |                          | more concern and         |                          |
-|                          |                          | engagement? What is the  | Shi et al. (2016).       |
-|                          |                          | public opinion about     | Knowledge as a driver of |
-|                          |                          | climate change?          | public perceptions about |
-|                          |                          |                          | climate change           |
-|                          |                          |                          | reassessed.              |
-+--------------------------+--------------------------+--------------------------+--------------------------+
-| 3                        | 29.09.2026               | **Guest speaker: Dr.     | **\[TODO: framing        |
-|                          |                          | Leonard Creutzburg**     | literature listed here   |
-|                          |                          |                          | in the template likely   |
-|                          |                          | **\[TODO: blurb below    | belongs to session 4\]** |
-|                          |                          | describes a different    |                          |
-|                          |                          | person (Dr. Lydia        | Lakoff, G. (2010). Why   |
-|                          |                          | Ebersbach, WWF) —        | it Matters How We Frame  |
-|                          |                          | rewrite for the actual   | the Environment.         |
-|                          |                          | speaker\]**              |                          |
-|                          |                          |                          | Dasandi et al. (2022).   |
-|                          |                          | Dr. Lydia Ebersbach is   | Positive, global, and    |
-|                          |                          | media relations manager  | health or environment    |
-|                          |                          | at WWF Switzerland. She  | framing bolsters public  |
-|                          |                          | holds a Magister in      | support for climate      |
-|                          |                          | History, Politics and    | policies.                |
-|                          |                          | Economics from Potsdam   |                          |
-|                          |                          | University, a PhD in     | Supran & Oreskes (2021). |
-|                          |                          | Marketing from St.       | Rhetoric and frame       |
-|                          |                          | Gallen University and    | analysis of ExxonMobil's |
-|                          |                          | completed a CAS in       | climate change           |
-|                          |                          | Storytelling and Brand   | communications.          |
-|                          |                          | Journalism at MAZ / HSL. |                          |
-|                          |                          | She will talk to us      |                          |
-|                          |                          | about the challenges of  |                          |
-|                          |                          | climate communication    |                          |
-|                          |                          | from the perspective of  |                          |
-|                          |                          | a Swiss NGO.             |                          |
-+--------------------------+--------------------------+--------------------------+--------------------------+
-| 4                        | 06.10.2026               | **Mental models and      | **\[TODO: template lists |
-|                          |                          | framing** — Jan Pfänder  | the climate-delay/denial |
-|                          |                          |                          | literature here, which   |
-|                          |                          | What are mental models?  | matches session 5's      |
-|                          |                          | Which frames are used in | topic — check            |
-|                          |                          | climate change           | alignment\]**            |
-|                          |                          | communication? How can   |                          |
-|                          |                          | we frame climate change  | Lamb, W. F. et al.       |
-|                          |                          | in a way that allows us  | (2020). Discourses of    |
-|                          |                          | to reach different       | climate delay.           |
-|                          |                          | population groups? What  |                          |
-|                          |                          | are the strategies,      | Cook, J. (2020).         |
-|                          |                          | channels, and messages   | Deconstructing Climate   |
-|                          |                          | used by different        | Science Denial.          |
-|                          |                          | stakeholders?            |                          |
-+--------------------------+--------------------------+--------------------------+--------------------------+
-| 5                        | 13.10.2026               | **Climate change         | **\[TODO: template's     |
-|                          |                          | misinformation** — Jan   | literature cell held     |
-|                          |                          | Pfänder                  | only a guest-prep note — |
-|                          |                          |                          | assign readings\]**      |
-|                          |                          | What are discourses that |                          |
-|                          |                          | delay action on climate  |                          |
-|                          |                          | change? How do you       |                          |
-|                          |                          | identify climate science |                          |
-|                          |                          | denial and how do you    |                          |
-|                          |                          | respond to it?           |                          |
-+--------------------------+--------------------------+--------------------------+--------------------------+
-| 6                        | 20.10.2026               | **Emotions and           | Myers, T. A. et al.      |
-|                          |                          | behavior** — **\[TODO:   | (2023). Emotional        |
-|                          |                          | lecturer\]**             | responses to climate     |
-|                          |                          |                          | change information and   |
-|                          |                          | What is the role of      | their effects on policy  |
-|                          |                          | emotions in climate      | support.                 |
-|                          |                          | change communication?    |                          |
-|                          |                          | How can we communicate   | Ogunbode et al. (2022).  |
-|                          |                          | about climate change in  | Climate anxiety,         |
-|                          |                          | a way that increases     | wellbeing and            |
-|                          |                          | feelings of              | pro-environmental        |
-|                          |                          | self-efficacy? How does  | action.                  |
-|                          |                          | media usage relate to    |                          |
-|                          |                          | behavioral intentions?   | Stanley et al. (2021).   |
-|                          |                          |                          | From anger to action.    |
-+--------------------------+--------------------------+--------------------------+--------------------------+
-| 7                        | 27.10.2026               | **A question of trust**  | Cologna, V. et al.       |
-|                          |                          | — **\[TODO: lecturer\]** | (2024). Trust in climate |
-|                          |                          |                          | science and climate      |
-|                          |                          | Which actors are the     | scientists: a narrative  |
-|                          |                          | most trusted sources of  | review.                  |
-|                          |                          | information about        |                          |
-|                          |                          | climate change? How can  | Oreskes, N. (2020). What |
-|                          |                          | we maintain and          | Is the Social            |
-|                          |                          | potentially increase     | Responsibility of        |
-|                          |                          | trust in climate change  | Climate Scientists?      |
-|                          |                          | communicators? What is   |                          |
-|                          |                          | the role of climate      |                          |
-|                          |                          | scientists in            |                          |
-|                          |                          | communicating and        |                          |
-|                          |                          | engaging on the topic?   |                          |
-+--------------------------+--------------------------+--------------------------+--------------------------+
-| 8                        | 03.11.2026               | **Guest speaker: Dr.     | Preparation: Come to     |
-|                          |                          | Cornelia Schwierz**      | class with at least 3    |
-|                          |                          | **\[TODO: confirm        | questions for our guest  |
-|                          |                          | speaker still            | speaker.                 |
-|                          |                          | current\]**              |                          |
-|                          |                          |                          |                          |
-|                          |                          | Dr. Cornelia Schwierz is |                          |
-|                          |                          | Head of Climate          |                          |
-|                          |                          | Monitoring and           |                          |
-|                          |                          | Information at the       |                          |
-|                          |                          | Federal Office of        |                          |
-|                          |                          | Meteorology and          |                          |
-|                          |                          | Climatology              |                          |
-|                          |                          | (MeteoSwiss). In her     |                          |
-|                          |                          | talk, she will tell us   |                          |
-|                          |                          | about the challenges the |                          |
-|                          |                          | Federal Office faces in  |                          |
-|                          |                          | communicating about      |                          |
-|                          |                          | climate change and how   |                          |
-|                          |                          | they overcome them.      |                          |
-+--------------------------+--------------------------+--------------------------+--------------------------+
-| 9                        | 10.11.2026               | **Climate change in the  | Metag, J. et al. (2016). |
-|                          |                          | media** — Viktoria       | Perceptions of Climate   |
-|                          |                          | Cologna                  | Change Imagery.          |
-|                          |                          |                          |                          |
-|                          |                          | How has climate change   | O'Neill, S. J. (2013).   |
-|                          |                          | communication in the     | Image matters. Climate   |
-|                          |                          | media evolved over time? | change imagery in US, UK |
-|                          |                          | How is climate change    | and Australian           |
-|                          |                          | depicted in the media?   | newspapers.              |
-|                          |                          | How does imagery affect  |                          |
-|                          |                          | public perceptions of    |                          |
-|                          |                          | climate change?          |                          |
-+--------------------------+--------------------------+--------------------------+--------------------------+
-| 10                       | 17.11.2026               | **MISSING** **\[TODO:    | Barkemeyer et al.        |
-|                          |                          | topic was literally      | (2017). Media coverage   |
-|                          |                          | "MISSING" in the         | of climate change: An    |
-|                          |                          | template — define this   | international            |
-|                          |                          | session\]**              | comparison.              |
-|                          |                          |                          |                          |
-|                          |                          |                          | Klinger, K., & Metag, J. |
-|                          |                          |                          | (2021). Media effects in |
-|                          |                          |                          | the context of           |
-|                          |                          |                          | environmental issues.    |
-|                          |                          |                          |                          |
-|                          |                          |                          | Schäfer and Painter      |
-|                          |                          |                          | (2021). Climate          |
-|                          |                          |                          | journalism in a changing |
-|                          |                          |                          | media ecosystem.         |
-+--------------------------+--------------------------+--------------------------+--------------------------+
-| 11                       | 24.11.2026               | **Guest speaker:         | Preparation: Come to     |
-|                          |                          | Cornelia Eisenach**      | class with at least 3    |
-|                          |                          |                          | questions for our guest  |
-|                          |                          | **\[TODO: blurb below    | speaker.                 |
-|                          |                          | describes a different    |                          |
-|                          |                          | person (Sabrina Weiss) — |                          |
-|                          |                          | rewrite for the actual   |                          |
-|                          |                          | speaker\]**              |                          |
-|                          |                          |                          |                          |
-|                          |                          | Sabrina Weiss is a Swiss |                          |
-|                          |                          | climate journalist. She  |                          |
-|                          |                          | holds a BA in Media &    |                          |
-|                          |                          | Communication Sciences   |                          |
-|                          |                          | from the University of   |                          |
-|                          |                          | Zurich and an MSc in     |                          |
-|                          |                          | Communication Psychology |                          |
-|                          |                          | from the London School   |                          |
-|                          |                          | of Economics and         |                          |
-|                          |                          | Political Science.       |                          |
-|                          |                          | Sabrina Weiss is the     |                          |
-|                          |                          | co-founder of the        |                          |
-|                          |                          | Climate Journalism       |                          |
-|                          |                          | Network. In her talk,    |                          |
-|                          |                          | she will tell us about   |                          |
-|                          |                          | the challenges of        |                          |
-|                          |                          | climate change           |                          |
-|                          |                          | communication in         |                          |
-|                          |                          | journalism and how to    |                          |
-|                          |                          | overcome them.           |                          |
-+--------------------------+--------------------------+--------------------------+--------------------------+
-| 12                       | 01.12.2026               | **Guest speaker: Reto    | Maibach, E. W. et al.    |
-|                          |                          | Knutti**                 | (2023). Harnessing the   |
-|                          |                          |                          | power of communication   |
-|                          |                          | **\[TODO: description    | and behavior science to  |
-|                          |                          | below is a wrap-up       | enhance society's        |
-|                          |                          | summary from the old     | response to climate      |
-|                          |                          | course, not a speaker    | change.                  |
-|                          |                          | blurb — rewrite\]**      |                          |
-|                          |                          |                          | Corner et al. (2018).    |
-|                          |                          | Based on what we have    | Principles for effective |
-|                          |                          | learned in the previous  | communication and public |
-|                          |                          | weeks, we will summarize | engagement on climate    |
-|                          |                          | and discuss successful   | change. **\[TODO:        |
-|                          |                          | communication            | missing from reference   |
-|                          |                          | strategies.              | list\]**                 |
-+--------------------------+--------------------------+--------------------------+--------------------------+
-| 13                       | 08.12.2026               | **Guest speaker:         |                          |
-|                          |                          | Industry/Kanton**        |                          |
-|                          |                          | **\[TODO: placeholder    |                          |
-|                          |                          | title — confirm          |                          |
-|                          |                          | speaker\]**              |                          |
-|                          |                          |                          |                          |
-|                          |                          | **\[TODO: description    |                          |
-|                          |                          | below is the old         |                          |
-|                          |                          | course's recap-session   |                          |
-|                          |                          | text\]**                 |                          |
-|                          |                          |                          |                          |
-|                          |                          | We will reflect on the   |                          |
-|                          |                          | contributions by our     |                          |
-|                          |                          | guest speakers and how   |                          |
-|                          |                          | they relate to what we   |                          |
-|                          |                          | have learned in the      |                          |
-|                          |                          | previous sessions. In    |                          |
-|                          |                          | preparation for the      |                          |
-|                          |                          | exam, we will recap the  |                          |
-|                          |                          | main lessons learnt in   |                          |
-|                          |                          | this course.             |                          |
-+--------------------------+--------------------------+--------------------------+--------------------------+
-| 14                       | 15.12.2026               | **Discussion and lessons |                          |
-|                          |                          | learnt** — Viktoria      |                          |
-|                          |                          | Cologna & Jan Pfänder    |                          |
-|                          |                          |                          |                          |
-|                          |                          | **\[TODO: description    |                          |
-|                          |                          | below contains stale     |                          |
-|                          |                          | 2024 exam logistics —    |                          |
-|                          |                          | rewrite\]**              |                          |
-|                          |                          |                          |                          |
-|                          |                          | The exam will take place |                          |
-|                          |                          | on-site. The format of   |                          |
-|                          |                          | the exam (online or pen  |                          |
-|                          |                          | and paper) will be       |                          |
-|                          |                          | communicated at a later  |                          |
-|                          |                          | stage.                   |                          |
-+--------------------------+--------------------------+--------------------------+--------------------------+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+#| results: asis
+library(tinytable)
+schedule <- read.csv("data/schedule.csv")
+lecturer <- ifelse(schedule$lecturer == "TODO", "**[TODO: lecturer]**", schedule$lecturer)
+tab <- data.frame(
+  n = schedule$session,
+  Date = schedule$date,
+  Topic = paste0("**", schedule$topic, "** — ", lecturer, "\n\n", schedule$description),
+  Literature = schedule$literature
+)
 
-: {tbl-colwidths="[4,11,47,38]"}
+if (identical(knitr::pandoc_to(), "docx")) {
+  # tinytable's markdown table is not pandoc grid syntax, so Word renders it as
+  # literal text. Build an HTML table and convert it to a pandoc grid table
+  # instead, which pandoc turns into a real Word table with multi-paragraph cells.
+  cell <- function(x) commonmark::markdown_html(x)
+  rows <- apply(tab, 1, function(r) {
+    paste0("<tr>", paste0("<td>", vapply(r, cell, character(1)), "</td>", collapse = ""), "</tr>")
+  })
+  html <- paste0(
+    "<table><thead><tr>",
+    paste0("<th>", c("#", "Date", "Topic", "Literature"), "</th>", collapse = ""),
+    "</tr></thead><tbody>", paste(rows, collapse = ""), "</tbody></table>"
+  )
+  md <- system2("quarto", c("pandoc", "-f", "html", "-t", "markdown-smart", "--columns=110"),
+                input = html, stdout = TRUE)
+  cat(md, sep = "\n")
+} else {
+  # escaped so markdown processing does not read the header as a heading
+  names(tab)[1] <- "\\#"
+  tt(tab, width = c(0.05, 0.13, 0.44, 0.38)) |>
+    format_tt(markdown = TRUE)
+}
+```
 
 ## References (draft, to be replaced by references.bib)
 

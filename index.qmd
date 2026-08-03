@@ -17,21 +17,18 @@ Climate change communication influences how individuals, organizations, and soci
 
 Session topics below are a draft carried over from a previous version of the course and will be revised. Full session descriptions and readings are in the [syllabus](syllabus.qmd).
 
-| \# | Date | Topic | Lecturer |
-|----|------------|---------------------------------------------|------------------|
-| 1 | 15.09.2026 | Introduction and organizational questions | Viktoria Cologna & Jan Pfänder |
-| 2 | 22.09.2026 | Climate change, the deficit model, and public opinion | Viktoria Cologna |
-| 3 | 29.09.2026 | Guest speaker: Dr. Leonard Creutzburg | Invited speaker |
-| 4 | 06.10.2026 | Mental models and framing | Jan Pfänder |
-| 5 | 13.10.2026 | Climate change misinformation | Jan Pfänder |
-| 6 | 20.10.2026 | Emotions and behavior | TODO |
-| 7 | 27.10.2026 | A question of trust | TODO |
-| 8 | 03.11.2026 | Guest speaker: Dr. Cornelia Schwierz | Invited speaker |
-| 9 | 10.11.2026 | Climate change in the media | Viktoria Cologna |
-| 10 | 17.11.2026 | TODO: topic missing in template | TODO |
-| 11 | 24.11.2026 | Guest speaker: Cornelia Eisenach | Invited speaker |
-| 12 | 01.12.2026 | Guest speaker: Reto Knutti | Invited speaker |
-| 13 | 08.12.2026 | Guest speaker: Industry/Kanton | Invited speaker |
-| 14 | 15.12.2026 | Discussion and lessons learnt | Viktoria Cologna & Jan Pfänder |
-
-: {.striped .hover tbl-colwidths="[5,13,52,30]"}
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+library(tinytable)
+schedule <- read.csv("data/schedule.csv")
+overview <- data.frame(
+  n = schedule$session,
+  Date = schedule$date,
+  Topic = schedule$topic,
+  Lecturer = schedule$lecturer
+)
+names(overview)[1] <- "#"
+tt(overview, width = c(0.05, 0.15, 0.52, 0.28))
+```
