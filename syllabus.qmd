@@ -12,10 +12,7 @@ filters:
 # reference-section-title: "Readings Assigned Throughout the Semester"
 format:
   html: default
-  pdf:
-    title: "The Psychology of Climate Change Communication"
-    subtitle: "Theoretical insights and practical applications — Syllabus, Autumn 2026"
-    author: "Viktoria Cologna & Jan Pfänder"
+  pdf: default
   docx:
     title: "The Psychology of Climate Change Communication"
     subtitle: "Theoretical insights and practical applications — Syllabus, Autumn 2026"
@@ -25,6 +22,8 @@ format:
 ::: {.content-visible when-format="html"}
 
 :::: {.syllabus-header}
+
+![](images/logo.svg){.hex-logo fig-alt="Course hex logo"}
 
 ::: {.course-title-block}
 [The Psychology of Climate Change Communication]{.course-title}
@@ -41,9 +40,32 @@ format:
 
 :::
 
-::: {.content-visible unless-format="html"}
+::: {.content-visible when-format="pdf"}
 
-![](images/eth_logo.png){width=35% fig-align="right"}
+```{=latex}
+\noindent
+\begin{minipage}[c]{0.16\textwidth}
+  \includegraphics[width=\linewidth]{images/logo.png}
+\end{minipage}\hfill
+\begin{minipage}[c]{0.52\textwidth}
+  {\LARGE\bfseries The Psychology of Climate Change Communication}\par\vspace{5pt}
+  {\small Theoretical insights and practical applications — Syllabus, Autumn 2026}
+\end{minipage}\hfill
+\begin{minipage}[c]{0.24\textwidth}
+  \raggedleft\includegraphics[width=0.95\linewidth]{images/eth_logo.png}
+\end{minipage}
+
+\begin{center}\large Viktoria Cologna \& Jan Pfänder\end{center}
+\vspace{1em}
+```
+
+:::
+
+::: {.content-visible when-format="docx"}
+
+![](images/logo.png){width=25% fig-align="center"}
+
+![](images/eth_logo.png){width=30% fig-align="center"}
 
 :::
 

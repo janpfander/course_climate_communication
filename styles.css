@@ -15,6 +15,9 @@
 .course-title-block {
   flex: 1;
 }
+img.hex-logo {
+  width: 105px;
+}
 .course-title {
   display: block;
   font-size: 1.9rem;
