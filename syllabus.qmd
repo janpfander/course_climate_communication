@@ -3,6 +3,8 @@ title: "The Psychology of Climate Change Communication"
 subtitle: "Theoretical insights and practical applications — Syllabus, Autumn 2026"
 bibliography: references.bib
 csl: apa.csl
+filters:
+  - course-structure.lua
 # Enable once references.bib has entries (Zotero Better BibTeX export):
 # nocite: '@*'
 # reference-section-title: "Readings Assigned Throughout the Semester"
@@ -90,36 +92,181 @@ Course plan, reading materials, and slides will be available on OLAT. Please not
 Topics, descriptions, and literature below are carried over from a previous version of this course taught at UZH. Dates are correct for Autumn 2026, everything else will be revised. Citations are plain text copied from the old reference list. Once `references.bib` is exported from Zotero, they can be replaced by `@bibkeys` (Leiserowitz et al. 2024 and Corner et al. 2018 are missing from the old list).
 :::
 
-```{r}
-#| echo: false
-#| message: false
-#| warning: false
-#| results: asis
-schedule <- read.csv("data/schedule.csv")
-lecturer <- ifelse(schedule$lecturer == "TODO", "**[TODO: lecturer]**", schedule$lecturer)
-tab <- data.frame(
-  n = schedule$session,
-  Date = schedule$date,
-  Topic = paste0("**", schedule$topic, "** — ", lecturer, "\n\n", schedule$description),
-  Literature = schedule$literature
-)
-# Emit a pandoc grid table (cells converted markdown -> HTML -> pandoc grid
-# markdown). Unlike a tinytable, asis markdown passes through pandoc's citation
-# processing, so cells can hold full citations now and @bibkeys later.
-cell <- function(x) commonmark::markdown_html(x)
-rows <- apply(tab, 1, function(r) {
-  paste0("<tr>", paste0("<td>", vapply(r, cell, character(1)), "</td>", collapse = ""), "</tr>")
-})
-html <- paste0(
-  "<table><thead><tr>",
-  paste0("<th>", c("#", "Date", "Topic", "Literature"), "</th>", collapse = ""),
-  "</tr></thead><tbody>", paste(rows, collapse = ""), "</tbody></table>"
-)
-md <- system2("quarto", c("pandoc", "-f", "html", "-t", "markdown-smart", "--columns=120"),
-              input = html, stdout = TRUE)
-cat(md, sep = "\n")
-cat('\n\n: {tbl-colwidths="[4,11,45,40]"}\n')
-```
+::::: {.course-structure}
+
+:::: {.session number="1" date="15.09.2026" lecturer="Viktoria Cologna & Jan Pfänder" topic="Introduction and organizational questions"}
+
+Why is climate change communication important and why is it so challenging?
+
+::: {.literature}
+Markowitz, E. M., & Guckian, M. L. (2018). Climate change communication: Challenges, insights, and opportunities. In S. Clayton & C. Manning (Eds.), *Psychology and Climate Change. Human Perceptions, Impacts, and Responses.* (pp. 35–63). Academic Press. <https://doi.org/10.1016/B978-0-12-813130-5.00003-5>
+:::
+
+::::
+
+:::: {.session number="2" date="22.09.2026" lecturer="Viktoria Cologna" topic="Climate change, the deficit model, and public opinion"}
+
+What is climate change and how does it occur? Does knowledge-focused communication about climate change lead to more concern and engagement? What is the public opinion about climate change?
+
+::: {.literature}
+Metag, J., Füchslin, T., & Schäfer, M. S. (2017). Global warming's five Germanys: A typology of Germans' views on climate change and patterns of media use and information. *Public Understanding of Science*, *26*(4), 434–451. <https://doi.org/10.1177/0963662515592558>
+
+Leiserowitz et al. (2024). Climate Change in the American Mind: Beliefs & Attitudes. **[TODO: full citation missing from template's reference list]**
+
+Shi, J., Visschers, V. H. M., Siegrist, M., & Arvai, J. (2016). Knowledge as a driver of public perceptions about climate change reassessed. *Nature Climate Change*, *6*(8). <https://doi.org/10.1038/nclimate2997>
+:::
+
+::::
+
+:::: {.session number="3" date="29.09.2026" lecturer="Invited speaker" topic="Guest speaker: Dr. Leonard Creutzburg"}
+
+**[TODO: blurb below describes a different person (Dr. Lydia Ebersbach, WWF) — rewrite for the actual speaker]**
+
+Dr. Lydia Ebersbach is media relations manager at WWF Switzerland. She holds a Magister in History, Politics and Economics from Potsdam University, a PhD in Marketing from St. Gallen University and completed a CAS in Storytelling and Brand Journalism at MAZ / HSL. She will talk to us about the challenges of climate communication from the perspective of a Swiss NGO.
+
+::: {.literature}
+**[TODO: framing literature listed here in the template likely belongs to session 4]**
+
+Lakoff, G. (2010). Why it Matters How We Frame the Environment. *Environmental Communication*, *4*(1), 70–81. <https://doi.org/10.1080/17524030903529749>
+
+Dasandi, N., Graham, H., Hudson, D., Jankin, S., vanHeerde-Hudson, J., & Watts, N. (2022). Positive, global, and health or environment framing bolsters public support for climate policies. *Communications Earth & Environment*, *3*(1), 239. <https://doi.org/10.1038/s43247-022-00571-x>
+
+Supran, G., & Oreskes, N. (2021). Rhetoric and frame analysis of ExxonMobil's climate change communications. *One Earth*, *4*(5), 696–719. <https://doi.org/10.1016/j.oneear.2021.04.014>
+:::
+
+::::
+
+:::: {.session number="4" date="06.10.2026" lecturer="Jan Pfänder" topic="Mental models and framing"}
+
+What are mental models? Which frames are used in climate change communication? How can we frame climate change in a way that allows us to reach different population groups? What are the strategies, channels, and messages used by different stakeholders?
+
+::: {.literature}
+**[TODO: template lists the climate-delay/denial literature here, which matches session 5's topic — check alignment]**
+
+Lamb, W. F., Mattioli, G., Levi, S., Roberts, J. T., Capstick, S., Creutzig, F., Minx, J. C., Müller-Hansen, F., Culhane, T., & Steinberger, J. K. (2020). Discourses of climate delay. *Global Sustainability*, *3*. <https://doi.org/10.1017/sus.2020.13>
+
+Cook, J. (2020). Deconstructing climate science denial. In D. C. Holmes & L. M. Richardson (Eds.), *Research Handbook on Communicating Climate Change*. Edward Elgar Publishing. <https://doi.org/10.4337/9781789900408.00014>
+:::
+
+::::
+
+:::: {.session number="5" date="13.10.2026" lecturer="Jan Pfänder" topic="Climate change misinformation"}
+
+What are discourses that delay action on climate change? How do you identify climate science denial and how do you respond to it?
+
+::: {.literature}
+**[TODO: template's literature cell held only a guest-prep note — assign readings]**
+:::
+
+::::
+
+:::: {.session number="6" date="20.10.2026" lecturer="[TODO: lecturer]" topic="Emotions and behavior"}
+
+What is the role of emotions in climate change communication? How can we communicate about climate change in a way that increases feelings of self-efficacy? How does media usage relate to behavioral intentions?
+
+::: {.literature}
+Myers, T. A., Roser-Renouf, C., & Maibach, E. (2023). Emotional responses to climate change information and their effects on policy support. *Frontiers in Climate*, *5*. <https://www.frontiersin.org/articles/10.3389/fclim.2023.1135450>
+
+Ogunbode, C. A., Doran, R., Hanss, D., Ojala, M., Salmela-Aro, K., van den Broek, K. L., Bhullar, N., Aquino, S. D., Marot, T., Schermer, J. A., Wlodarczyk, A., Lu, S., Jiang, F., Maran, D. A., Yadav, R., Ardi, R., Chegeni, R., Ghanbarian, E., Zand, S., … Karasu, M. (2022). Climate anxiety, wellbeing and pro-environmental action: Correlates of negative emotional responses to climate change in 32 countries. *Journal of Environmental Psychology*, *84*, 101887. <https://doi.org/10.1016/j.jenvp.2022.101887>
+
+Stanley, S. K., Hogg, T. L., Leviston, Z., & Walker, I. (2021). From anger to action: Differential impacts of eco-anxiety, eco-depression, and eco-anger on climate action and wellbeing. *The Journal of Climate Change and Health*, *1*, 100003. <https://doi.org/10.1016/j.joclim.2021.100003>
+:::
+
+::::
+
+:::: {.session number="7" date="27.10.2026" lecturer="[TODO: lecturer]" topic="A question of trust"}
+
+Which actors are the most trusted sources of information about climate change? How can we maintain and potentially increase trust in climate change communicators? What is the role of climate scientists in communicating and engaging on the topic?
+
+::: {.literature}
+Cologna, V., Kotcher, J., Mede, N. G., Besley, J., Maibach, E. W., & Oreskes, N. (2024). Trust in climate science and climate scientists: A narrative review. *PLOS Climate*, *3*(5), e0000400. <https://doi.org/10.1371/journal.pclm.0000400>
+
+Oreskes, N. (2020). What Is the Social Responsibility of Climate Scientists? *Daedalus*, *149*(4), 33–45. <https://doi.org/10.1162/daed_a_01815>
+:::
+
+::::
+
+:::: {.session number="8" date="03.11.2026" lecturer="Invited speaker" topic="Guest speaker: Dr. Cornelia Schwierz"}
+
+**[TODO: confirm speaker still current]**
+
+Dr. Cornelia Schwierz is Head of Climate Monitoring and Information at the Federal Office of Meteorology and Climatology (MeteoSwiss). In her talk, she will tell us about the challenges the Federal Office faces in communicating about climate change and how they overcome them.
+
+::: {.literature}
+Preparation: Come to class with at least 3 questions for our guest speaker.
+:::
+
+::::
+
+:::: {.session number="9" date="10.11.2026" lecturer="Viktoria Cologna" topic="Climate change in the media"}
+
+How has climate change communication in the media evolved over time? How is climate change depicted in the media? How does imagery affect public perceptions of climate change?
+
+::: {.literature}
+Metag, J., Schäfer, M. S., Füchslin, T., Barsuhn, T., & Kleinen-von Königslöw, K. (2016). Perceptions of Climate Change Imagery: Evoked Salience and Self-Efficacy in Germany, Switzerland, and Austria. *Science Communication*, *38*(2), 197–227. <https://doi.org/10.1177/1075547016635181>
+
+O'Neill, S. J. (2013). Image matters: Climate change imagery in US, UK and Australian newspapers. *Geoforum*, *49*, 10–19. <https://doi.org/10.1016/j.geoforum.2013.04.030>
+:::
+
+::::
+
+:::: {.session number="10" date="17.11.2026" lecturer="[TODO: lecturer]" topic="MISSING"}
+
+**[TODO: topic missing in the template — define this session]**
+
+::: {.literature}
+Barkemeyer, R., Figge, F., Hoepner, A., Holt, D., Kraak, J. M., & Yu, P.-S. (2017). Media coverage of climate change: An international comparison. *Environment and Planning C: Politics and Space*, *35*(6), 1029–1054. <https://doi.org/10.1177/0263774X16680818>
+
+Klinger, K., & Metag, J. (2021). Media Effects in the Context of Environmental Issues. In *The Handbook of International Trends in Environmental Communication*. Routledge.
+
+Schäfer, M. S., & Painter, J. (2021). Climate journalism in a changing media ecosystem: Assessing the production of climate change-related news around the world. *WIREs Climate Change*, *12*(1), e675. <https://doi.org/10.1002/wcc.675>
+:::
+
+::::
+
+:::: {.session number="11" date="24.11.2026" lecturer="Invited speaker" topic="Guest speaker: Cornelia Eisenach"}
+
+**[TODO: blurb below describes a different person (Sabrina Weiss) — rewrite for the actual speaker]**
+
+Sabrina Weiss is a Swiss climate journalist. She holds a BA in Media & Communication Sciences from the University of Zurich and an MSc in Communication Psychology from the London School of Economics and Political Science. Sabrina Weiss is the co-founder of the Climate Journalism Network. In her talk, she will tell us about the challenges of climate change communication in journalism and how to overcome them.
+
+::: {.literature}
+Preparation: Come to class with at least 3 questions for our guest speaker.
+:::
+
+::::
+
+:::: {.session number="12" date="01.12.2026" lecturer="Invited speaker" topic="Guest speaker: Reto Knutti"}
+
+**[TODO: description below is a wrap-up summary from the old course, not a speaker blurb — rewrite]**
+
+Based on what we have learned in the previous weeks, we will summarize and discuss successful communication strategies.
+
+::: {.literature}
+Maibach, E. W., Uppalapati, S. S., Orr, M., & Thaker, J. (2023). Harnessing the Power of Communication and Behavior Science to Enhance Society's Response to Climate Change. *Annual Review of Earth and Planetary Sciences*, *51*(1). <https://doi.org/10.1146/annurev-earth-031621-114417>
+
+Corner et al. (2018). Principles for effective communication and public engagement on climate change. **[TODO: full citation missing from template's reference list]**
+:::
+
+::::
+
+:::: {.session number="13" date="08.12.2026" lecturer="Invited speaker" topic="Guest speaker: Industry/Kanton"}
+
+**[TODO: placeholder title — confirm speaker. Description below is the old course's recap-session text]**
+
+We will reflect on the contributions by our guest speakers and how they relate to what we have learned in the previous sessions. In preparation for the exam, we will recap the main lessons learnt in this course.
+
+::::
+
+:::: {.session number="14" date="15.12.2026" lecturer="Viktoria Cologna & Jan Pfänder" topic="Discussion and lessons learnt"}
+
+**[TODO: description below contains stale 2024 exam logistics — rewrite]**
+
+The exam will take place on-site. The format of the exam (online or pen and paper) will be communicated at a later stage.
+
+::::
+
+:::::
 
 <!-- Enable when citations go live:
 ::: {#references}

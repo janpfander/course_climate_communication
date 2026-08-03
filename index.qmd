@@ -22,12 +22,16 @@ Session topics below are a draft carried over from a previous version of the cou
 #| message: false
 #| warning: false
 library(tinytable)
-schedule <- read.csv("data/schedule.csv")
+# The schedule's single source is the .session divs in syllabus.qmd
+# (authored there so citation keys autocomplete in Positron).
+lines <- readLines("syllabus.qmd", warn = FALSE)
+sess <- grep('\\{\\.session ', lines, value = TRUE)
+attr_of <- function(x, name) sub(paste0('.*', name, '="([^"]*)".*'), "\\1", x)
 overview <- data.frame(
-  n = schedule$session,
-  Date = schedule$date,
-  Topic = schedule$topic,
-  Lecturer = schedule$lecturer
+  n = attr_of(sess, "number"),
+  Date = attr_of(sess, "date"),
+  Topic = attr_of(sess, "topic"),
+  Lecturer = attr_of(sess, "lecturer")
 )
 names(overview)[1] <- "#"
 tt(overview, width = c(0.05, 0.15, 0.52, 0.28))
