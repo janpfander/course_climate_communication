@@ -1,0 +1,23 @@
+author: Jan Pfänder
+
+instructor:
+  name: Jan Pfänder
+  name_no_title: Jan Pfänder
+  email: janlukas.pfaender@gmail.com  # TODO: swap for ETH address
+  url: "https://janpfander.github.io/"
+  office: "ETH Zurich"  # TODO: building/office if desired
+  github: janpfander
+  bluesky: "https://bsky.app/profile/janpfa.bsky.social"
+
+course:
+  semester: "Autumn 2026"
+  days: "Tuesdays"
+  time: "16:15–18:00"
+  location: "CHN G 42"
+  dates: "September 15 – December 15, 2026"
+  github: "https://github.com/janpfander/course_climate_communication"  # TODO: confirm once remote exists
+  copyright_year: "2026"
+
+university:
+  name: ETH Zurich
+  url: "https://ethz.ch/"

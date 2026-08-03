@@ -1,0 +1,16 @@
+# Local-only source material — never commit
+Syllabus_early_template.docx
+
+# Quarto
+/.quarto/
+
+# OS
+.DS_Store
+
+# R/RStudio (unused here, kept in case RStudio is opened)
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+**/*.quarto_ipynb

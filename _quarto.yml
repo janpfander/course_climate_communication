@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "The Psychology of Climate Change Communication: theoretical insights and practical applications"
+
+  sidebar:
+    title: "The Psychology of Climate Change Communication<br>(ETH Zurich – Autumn 2026)"
+    # logo: images/logo.png   # TODO: add course logo later
+    pinned: true
+    align: center
+    tools:
+      - icon: github
+        href: https://github.com/janpfander/course_climate_communication
+        text: "View github repository"
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - text: "Home"
+        href: index.qmd
+      - text: "Syllabus"
+        href: syllabus.qmd
+      # Uncomment and extend as sessions are built out:
+      # - section: "Content"
+      #   contents:
+      #     - text: "01 - Introduction"
+      #       href: content/01-content.qmd
+
+  page-footer:
+    left: |
+      Content {{< fa brands creative-commons >}} {{< var course.copyright_year >}} by [{{< var instructor.name_no_title >}}]({{< var instructor.url >}}) <br>
+      All content licensed under a {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
+      [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+    right: |
+      Made with [Quarto](https://quarto.org/)<br>
+      [View the source at {{< fa brands github >}} GitHub]({{< var course.github >}})
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
+    code-copy: true
+    css: styles.css
+    toc: true
