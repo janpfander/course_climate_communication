@@ -74,40 +74,27 @@ The course will provide students with an overview of current psychological theor
 
 ## General Information
 
-- {{< var university.name >}}, room {{< var course.location >}}
-- {{< var course.days >}} {{< var course.time >}}, weekly, {{< var course.semester >}} ({{< var course.dates >}})
+- {{< var university.name >}}, room {{< var course.room >}}
+- {{< var course.weekday >}} {{< var course.start >}}–{{< var course.end >}}, weekly, {{< var course.semester >}} ({{< var course.dates >}})
 - An up-to-date schedule can be found on the [course website](index.qmd). This is also where slides and additional materials will be posted.
 
 ## Participation
 
-**[TODO: carried over from 2024 UZH syllabus — rewrite]**
-
-Students are expected to actively participate in the course by drawing on their own reading of the materials, as well as their personal experiences and perspectives.
+Students are expected to actively participate in the course by drawing on their own reading of the materials, as well as their personal experiences and perspectives. Participating means asking deep and challenging questions, but also asking simple clarification questions like “I’m just not getting this, please explain it in some new way” or “I’m lost, can you remind me why we’re talking about this?”. 
 
 ## Materials
 
-**[TODO: carried over from 2024 UZH syllabus — rewrite. OLAT is the UZH platform, ETH uses Moodle.]**
-
-Course plan, reading materials, and slides will be available on OLAT. Please note that no recording will be available for this course.
+Course plan, reading materials, and slides will be available on Moodle and on {{< var course.github >}}. Please note that **no** recording will be available for this course.
 
 ## Assessment
 
-**[TODO: carried over from 2024 UZH syllabus — rewrite. Exam date below is from the old course (2024).]**
-
-- On-site written exam (3 ECTS) with multiple choice and open questions.
-- The exam will take place on 18 December 2024.
+This class is not graded, students either pass or fail. Students are expected to prepare for class by completing assigned readings, attend all lectures, and meaningfully contribute to in-class exercises and discussion.
 
 ## Course Structure
 
-::: {.callout-warning}
-## Draft
-
-Topics, descriptions, and literature below are carried over from a previous version of this course taught at UZH. Dates are correct for Autumn 2026, everything else will be revised. Citations are plain text copied from the old reference list. Once `references.bib` is exported from Zotero, they can be replaced by `@bibkeys` (Leiserowitz et al. 2024 and Corner et al. 2018 are missing from the old list).
-:::
-
 ::::: {.course-structure}
 
-:::: {.session number="1" date="15.09.2026" lecturer="Viktoria Cologna & Jan Pfänder" topic="Introduction and organizational questions"}
+:::: {.session number="1" lecturer="Viktoria Cologna & Jan Pfänder" topic="Introduction and organizational questions"}
 
 Why is climate change communication important and why is it so challenging?
 
@@ -117,7 +104,7 @@ Markowitz, E. M., & Guckian, M. L. (2018). Climate change communication: Challen
 
 ::::
 
-:::: {.session number="2" date="22.09.2026" lecturer="Viktoria Cologna" topic="Climate change, the deficit model, and public opinion"}
+:::: {.session number="2" lecturer="Viktoria Cologna" topic="Climate change, the deficit model, and public opinion"}
 
 What is climate change and how does it occur? Does knowledge-focused communication about climate change lead to more concern and engagement? What is the public opinion about climate change?
 
@@ -131,9 +118,9 @@ Shi, J., Visschers, V. H. M., Siegrist, M., & Arvai, J. (2016). Knowledge as a d
 
 ::::
 
-:::: {.session number="3" date="29.09.2026" lecturer="Invited speaker" topic="Guest speaker: Dr. Leonard Creutzburg"}
+:::: {.session number="3" lecturer="Invited speaker" topic="Guest speaker: Dr. Leonard Creutzburg"}
 
-**[TODO: blurb below describes a different person (Dr. Lydia Ebersbach, WWF) — rewrite for the actual speaker]**
+**[TODO: rewrite for the actual speaker]**
 
 Dr. Lydia Ebersbach is media relations manager at WWF Switzerland. She holds a Magister in History, Politics and Economics from Potsdam University, a PhD in Marketing from St. Gallen University and completed a CAS in Storytelling and Brand Journalism at MAZ / HSL. She will talk to us about the challenges of climate communication from the perspective of a Swiss NGO.
 
@@ -149,31 +136,28 @@ Supran, G., & Oreskes, N. (2021). Rhetoric and frame analysis of ExxonMobil's cl
 
 ::::
 
-:::: {.session number="4" date="06.10.2026" lecturer="Jan Pfänder" topic="Mental models and framing"}
+:::: {.session number="4" lecturer="Jan Pfänder" topic="Mental models and framing"}
 
 What are mental models? Which frames are used in climate change communication? How can we frame climate change in a way that allows us to reach different population groups? What are the strategies, channels, and messages used by different stakeholders?
 
 ::: {.literature}
-**[TODO: template lists the climate-delay/denial literature here, which matches session 5's topic — check alignment]**
 
-Lamb, W. F., Mattioli, G., Levi, S., Roberts, J. T., Capstick, S., Creutzig, F., Minx, J. C., Müller-Hansen, F., Culhane, T., & Steinberger, J. K. (2020). Discourses of climate delay. *Global Sustainability*, *3*. <https://doi.org/10.1017/sus.2020.13>
-
-Cook, J. (2020). Deconstructing climate science denial. In D. C. Holmes & L. M. Richardson (Eds.), *Research Handbook on Communicating Climate Change*. Edward Elgar Publishing. <https://doi.org/10.4337/9781789900408.00014>
+tbd
 :::
 
 ::::
 
-:::: {.session number="5" date="13.10.2026" lecturer="Jan Pfänder" topic="Climate change misinformation"}
+:::: {.session number="5" lecturer="Jan Pfänder" topic="Climate change misinformation"}
 
 What are discourses that delay action on climate change? How do you identify climate science denial and how do you respond to it?
 
 ::: {.literature}
-**[TODO: template's literature cell held only a guest-prep note — assign readings]**
+tbd
 :::
 
 ::::
 
-:::: {.session number="6" date="20.10.2026" lecturer="[TODO: lecturer]" topic="Emotions and behavior"}
+:::: {.session number="6" lecturer="[TODO: lecturer]" topic="Emotions and behavior"}
 
 What is the role of emotions in climate change communication? How can we communicate about climate change in a way that increases feelings of self-efficacy? How does media usage relate to behavioral intentions?
 
@@ -187,7 +171,7 @@ Stanley, S. K., Hogg, T. L., Leviston, Z., & Walker, I. (2021). From anger to ac
 
 ::::
 
-:::: {.session number="7" date="27.10.2026" lecturer="[TODO: lecturer]" topic="A question of trust"}
+:::: {.session number="7" lecturer="[TODO: lecturer]" topic="A question of trust"}
 
 Which actors are the most trusted sources of information about climate change? How can we maintain and potentially increase trust in climate change communicators? What is the role of climate scientists in communicating and engaging on the topic?
 
@@ -199,7 +183,7 @@ Oreskes, N. (2020). What Is the Social Responsibility of Climate Scientists? *Da
 
 ::::
 
-:::: {.session number="8" date="03.11.2026" lecturer="Invited speaker" topic="Guest speaker: Dr. Cornelia Schwierz"}
+:::: {.session number="8" lecturer="Invited speaker" topic="Guest speaker: Dr. Cornelia Schwierz"}
 
 **[TODO: confirm speaker still current]**
 
@@ -211,7 +195,7 @@ Preparation: Come to class with at least 3 questions for our guest speaker.
 
 ::::
 
-:::: {.session number="9" date="10.11.2026" lecturer="Viktoria Cologna" topic="Climate change in the media"}
+:::: {.session number="9" lecturer="Viktoria Cologna" topic="Climate change in the media"}
 
 How has climate change communication in the media evolved over time? How is climate change depicted in the media? How does imagery affect public perceptions of climate change?
 
@@ -223,7 +207,7 @@ O'Neill, S. J. (2013). Image matters: Climate change imagery in US, UK and Austr
 
 ::::
 
-:::: {.session number="10" date="17.11.2026" lecturer="[TODO: lecturer]" topic="MISSING"}
+:::: {.session number="10" lecturer="[TODO: lecturer]" topic="MISSING"}
 
 **[TODO: topic missing in the template — define this session]**
 
@@ -237,7 +221,7 @@ Schäfer, M. S., & Painter, J. (2021). Climate journalism in a changing media ec
 
 ::::
 
-:::: {.session number="11" date="24.11.2026" lecturer="Invited speaker" topic="Guest speaker: Cornelia Eisenach"}
+:::: {.session number="11" lecturer="Invited speaker" topic="Guest speaker: Cornelia Eisenach"}
 
 **[TODO: blurb below describes a different person (Sabrina Weiss) — rewrite for the actual speaker]**
 
@@ -249,7 +233,7 @@ Preparation: Come to class with at least 3 questions for our guest speaker.
 
 ::::
 
-:::: {.session number="12" date="01.12.2026" lecturer="Invited speaker" topic="Guest speaker: Reto Knutti"}
+:::: {.session number="12" lecturer="Invited speaker" topic="Guest speaker: Reto Knutti"}
 
 **[TODO: description below is a wrap-up summary from the old course, not a speaker blurb — rewrite]**
 
@@ -263,7 +247,7 @@ Corner et al. (2018). Principles for effective communication and public engageme
 
 ::::
 
-:::: {.session number="13" date="08.12.2026" lecturer="Invited speaker" topic="Guest speaker: Industry/Kanton"}
+:::: {.session number="13" lecturer="Invited speaker" topic="Guest speaker: Industry/Kanton"}
 
 **[TODO: placeholder title — confirm speaker. Description below is the old course's recap-session text]**
 
@@ -271,11 +255,8 @@ We will reflect on the contributions by our guest speakers and how they relate t
 
 ::::
 
-:::: {.session number="14" date="15.12.2026" lecturer="Viktoria Cologna & Jan Pfänder" topic="Discussion and lessons learnt"}
+:::: {.session number="14" lecturer="Viktoria Cologna & Jan Pfänder" topic="Discussion and lessons learnt"}
 
-**[TODO: description below contains stale 2024 exam logistics — rewrite]**
-
-The exam will take place on-site. The format of the exam (online or pen and paper) will be communicated at a later stage.
 
 ::::
 

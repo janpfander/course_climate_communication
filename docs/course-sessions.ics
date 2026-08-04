@@ -1,0 +1,151 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//course_climate_communication//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:The Psychology of Climate Change Communication
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:session-01@course-climate-communication
+DTSTAMP:20260915T000000Z
+DTSTART;TZID=Europe/Zurich:20260915T161500
+DTEND;TZID=Europe/Zurich:20260915T180000
+SUMMARY:Climate Communication 1: Introduction and organizational question
+ s
+LOCATION:ETH Zurich\, CHN G 42
+DESCRIPTION:Lecturer: Viktoria Cologna & Jan Pfänder
+END:VEVENT
+BEGIN:VEVENT
+UID:session-02@course-climate-communication
+DTSTAMP:20260915T000000Z
+DTSTART;TZID=Europe/Zurich:20260922T161500
+DTEND;TZID=Europe/Zurich:20260922T180000
+SUMMARY:Climate Communication 2: Climate change\, the deficit model\, and
+  public opinion
+LOCATION:ETH Zurich\, CHN G 42
+DESCRIPTION:Lecturer: Viktoria Cologna
+END:VEVENT
+BEGIN:VEVENT
+UID:session-03@course-climate-communication
+DTSTAMP:20260915T000000Z
+DTSTART;TZID=Europe/Zurich:20260929T161500
+DTEND;TZID=Europe/Zurich:20260929T180000
+SUMMARY:Climate Communication 3: Guest speaker: Dr. Leonard Creutzburg
+LOCATION:ETH Zurich\, CHN G 42
+DESCRIPTION:Lecturer: Invited speaker
+END:VEVENT
+BEGIN:VEVENT
+UID:session-04@course-climate-communication
+DTSTAMP:20260915T000000Z
+DTSTART;TZID=Europe/Zurich:20261006T161500
+DTEND;TZID=Europe/Zurich:20261006T180000
+SUMMARY:Climate Communication 4: Mental models and framing
+LOCATION:ETH Zurich\, CHN G 42
+DESCRIPTION:Lecturer: Jan Pfänder
+END:VEVENT
+BEGIN:VEVENT
+UID:session-05@course-climate-communication
+DTSTAMP:20260915T000000Z
+DTSTART;TZID=Europe/Zurich:20261013T161500
+DTEND;TZID=Europe/Zurich:20261013T180000
+SUMMARY:Climate Communication 5: Climate change misinformation
+LOCATION:ETH Zurich\, CHN G 42
+DESCRIPTION:Lecturer: Jan Pfänder
+END:VEVENT
+BEGIN:VEVENT
+UID:session-06@course-climate-communication
+DTSTAMP:20260915T000000Z
+DTSTART;TZID=Europe/Zurich:20261020T161500
+DTEND;TZID=Europe/Zurich:20261020T180000
+SUMMARY:Climate Communication 6: Emotions and behavior
+LOCATION:ETH Zurich\, CHN G 42
+DESCRIPTION:Lecturer: [TODO: lecturer]
+END:VEVENT
+BEGIN:VEVENT
+UID:session-07@course-climate-communication
+DTSTAMP:20260915T000000Z
+DTSTART;TZID=Europe/Zurich:20261027T161500
+DTEND;TZID=Europe/Zurich:20261027T180000
+SUMMARY:Climate Communication 7: A question of trust
+LOCATION:ETH Zurich\, CHN G 42
+DESCRIPTION:Lecturer: [TODO: lecturer]
+END:VEVENT
+BEGIN:VEVENT
+UID:session-08@course-climate-communication
+DTSTAMP:20260915T000000Z
+DTSTART;TZID=Europe/Zurich:20261103T161500
+DTEND;TZID=Europe/Zurich:20261103T180000
+SUMMARY:Climate Communication 8: Guest speaker: Dr. Cornelia Schwierz
+LOCATION:ETH Zurich\, CHN G 42
+DESCRIPTION:Lecturer: Invited speaker
+END:VEVENT
+BEGIN:VEVENT
+UID:session-09@course-climate-communication
+DTSTAMP:20260915T000000Z
+DTSTART;TZID=Europe/Zurich:20261110T161500
+DTEND;TZID=Europe/Zurich:20261110T180000
+SUMMARY:Climate Communication 9: Climate change in the media
+LOCATION:ETH Zurich\, CHN G 42
+DESCRIPTION:Lecturer: Viktoria Cologna
+END:VEVENT
+BEGIN:VEVENT
+UID:session-10@course-climate-communication
+DTSTAMP:20260915T000000Z
+DTSTART;TZID=Europe/Zurich:20261117T161500
+DTEND;TZID=Europe/Zurich:20261117T180000
+SUMMARY:Climate Communication 10: MISSING
+LOCATION:ETH Zurich\, CHN G 42
+DESCRIPTION:Lecturer: [TODO: lecturer]
+END:VEVENT
+BEGIN:VEVENT
+UID:session-11@course-climate-communication
+DTSTAMP:20260915T000000Z
+DTSTART;TZID=Europe/Zurich:20261124T161500
+DTEND;TZID=Europe/Zurich:20261124T180000
+SUMMARY:Climate Communication 11: Guest speaker: Cornelia Eisenach
+LOCATION:ETH Zurich\, CHN G 42
+DESCRIPTION:Lecturer: Invited speaker
+END:VEVENT
+BEGIN:VEVENT
+UID:session-12@course-climate-communication
+DTSTAMP:20260915T000000Z
+DTSTART;TZID=Europe/Zurich:20261201T161500
+DTEND;TZID=Europe/Zurich:20261201T180000
+SUMMARY:Climate Communication 12: Guest speaker: Reto Knutti
+LOCATION:ETH Zurich\, CHN G 42
+DESCRIPTION:Lecturer: Invited speaker
+END:VEVENT
+BEGIN:VEVENT
+UID:session-13@course-climate-communication
+DTSTAMP:20260915T000000Z
+DTSTART;TZID=Europe/Zurich:20261208T161500
+DTEND;TZID=Europe/Zurich:20261208T180000
+SUMMARY:Climate Communication 13: Guest speaker: Industry/Kanton
+LOCATION:ETH Zurich\, CHN G 42
+DESCRIPTION:Lecturer: Invited speaker
+END:VEVENT
+BEGIN:VEVENT
+UID:session-14@course-climate-communication
+DTSTAMP:20260915T000000Z
+DTSTART;TZID=Europe/Zurich:20261215T161500
+DTEND;TZID=Europe/Zurich:20261215T180000
+SUMMARY:Climate Communication 14: Discussion and lessons learnt
+LOCATION:ETH Zurich\, CHN G 42
+DESCRIPTION:Lecturer: Viktoria Cologna & Jan Pfänder
+END:VEVENT
+END:VCALENDAR

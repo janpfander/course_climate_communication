@@ -1,7 +1,9 @@
 ---
 title: "The Psychology of Climate Change Communication"
-subtitle: "Theoretical insights and practical applications<br>{{< var university.name >}} · {{< var course.semester >}} · {{< var course.days >}} {{< var course.time >}} · room {{< var course.location >}}"
+subtitle: "Theoretical insights and practical applications<br>{{< var university.name >}} · {{< var course.semester >}} · {{< var course.weekday >}} {{< var course.start >}}–{{< var course.end >}} · room {{< var course.room >}}"
 toc: false
+resources:
+  - course-sessions.ics
 ---
 
 ## Instructors
@@ -17,22 +19,95 @@ Climate change communication influences how individuals, organizations, and soci
 
 Session topics below are a draft carried over from a previous version of the course and will be revised. Full session descriptions and readings are in the [syllabus](syllabus.qmd).
 
+{{< fa calendar >}} [Download all sessions as a calendar file (.ics)](course-sessions.ics)
+
 ```{r}
 #| echo: false
 #| message: false
 #| warning: false
 library(tinytable)
-# The schedule's single source is the .session divs in syllabus.qmd
-# (authored there so citation keys autocomplete in Positron).
+# Single sources: the .session divs in syllabus.qmd (topics, lecturers,
+# literature — authored there so citation keys autocomplete in Positron) and
+# _variables.yml (weekday, times, room, first_session). Session dates are
+# first_session + 7 days per session, unless a div sets an explicit
+# date="dd.mm.yyyy" override.
+vars <- yaml::read_yaml("_variables.yml")
 lines <- readLines("syllabus.qmd", warn = FALSE)
 sess <- grep('\\{\\.session ', lines, value = TRUE)
-attr_of <- function(x, name) sub(paste0('.*', name, '="([^"]*)".*'), "\\1", x)
+attr_of <- function(x, name) {
+  ifelse(grepl(paste0(" ", name, '="'), x),
+         sub(paste0('.*', name, '="([^"]*)".*'), "\\1", x),
+         NA_character_)
+}
+n <- as.integer(attr_of(sess, "number"))
+computed <- format(as.Date(vars$course$first_session) + (n - 1) * 7, "%d.%m.%Y")
+date_override <- attr_of(sess, "date")
 overview <- data.frame(
-  n = attr_of(sess, "number"),
-  Date = attr_of(sess, "date"),
+  n = n,
+  Date = ifelse(is.na(date_override), computed, date_override),
   Topic = attr_of(sess, "topic"),
   Lecturer = attr_of(sess, "lecturer")
 )
 names(overview)[1] <- "#"
 tt(overview, width = c(0.05, 0.15, 0.52, 0.28))
+```
+
+```{r}
+#| label: write-ics
+#| include: false
+# Calendar file with one event per session, downloadable from the link above.
+# Times use TZID so the late-October clock change does not shift the sessions.
+esc <- function(x) gsub("([\\\\;,])", "\\\\\\1", x)
+fold <- function(lines) {
+  unlist(lapply(lines, function(l) {
+    out <- character(0)
+    while (nchar(l) > 73) {
+      out <- c(out, substr(l, 1, 73))
+      l <- paste0(" ", substr(l, 74, nchar(l)))
+    }
+    c(out, l)
+  }))
+}
+tz <- vars$course$timezone
+dates_iso <- format(as.Date(overview$Date, "%d.%m.%Y"), "%Y%m%d")
+start_t <- paste0(gsub(":", "", vars$course$start), "00")
+end_t <- paste0(gsub(":", "", vars$course$end), "00")
+loc <- paste0(vars$university$name, ", ", vars$course$room)
+stamp <- paste0(format(as.Date(vars$course$first_session), "%Y%m%d"), "T000000Z")
+events <- unlist(lapply(seq_along(n), function(i) c(
+  "BEGIN:VEVENT",
+  sprintf("UID:session-%02d@course-climate-communication", n[i]),
+  paste0("DTSTAMP:", stamp),
+  paste0("DTSTART;TZID=", tz, ":", dates_iso[i], "T", start_t),
+  paste0("DTEND;TZID=", tz, ":", dates_iso[i], "T", end_t),
+  paste0("SUMMARY:", esc(paste0("Climate Communication ", n[i], ": ", overview$Topic[i]))),
+  paste0("LOCATION:", esc(loc)),
+  paste0("DESCRIPTION:", esc(paste0("Lecturer: ", overview$Lecturer[i]))),
+  "END:VEVENT"
+)))
+# Central European daylight-saving rules (last Sunday of March / October)
+vtimezone <- c(
+  "BEGIN:VTIMEZONE",
+  paste0("TZID:", tz),
+  "BEGIN:DAYLIGHT",
+  "TZOFFSETFROM:+0100", "TZOFFSETTO:+0200", "TZNAME:CEST",
+  "DTSTART:19700329T020000", "RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU",
+  "END:DAYLIGHT",
+  "BEGIN:STANDARD",
+  "TZOFFSETFROM:+0200", "TZOFFSETTO:+0100", "TZNAME:CET",
+  "DTSTART:19701025T030000", "RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU",
+  "END:STANDARD",
+  "END:VTIMEZONE"
+)
+ics <- c(
+  "BEGIN:VCALENDAR",
+  "VERSION:2.0",
+  "PRODID:-//course_climate_communication//EN",
+  "CALSCALE:GREGORIAN",
+  "X-WR-CALNAME:The Psychology of Climate Change Communication",
+  vtimezone,
+  events,
+  "END:VCALENDAR"
+)
+writeLines(fold(ics), "course-sessions.ics", sep = "\r\n")
 ```

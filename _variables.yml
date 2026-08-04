@@ -2,11 +2,11 @@ author: Viktoria Cologna & Jan Pfänder
 
 instructors:
   viktoria:
-    name: Viktoria Cologna
+    name: Dr. Viktoria Cologna
     url: "https://www.viktoriacologna.com/"
     email: viktoria.cologna@eawag.ch
   jan:
-    name: Jan Pfänder
+    name: Dr. Jan Pfänder
     email: janlukas.pfaender@gmail.com  # TODO: swap for ETH address
     url: "https://janpfander.github.io/"
     github: janpfander
@@ -14,9 +14,14 @@ instructors:
 
 course:
   semester: "Autumn 2026"
-  days: "Tuesdays"
-  time: "16:15–18:00"
-  location: "CHN G 42"
+  weekday: "Tuesdays"
+  start: "16:15"
+  end: "18:00"
+  room: "CHN G 42"
+  timezone: "Europe/Zurich"
+  # first session date; all other session dates are first_session + 7 days each,
+  # unless a session div in syllabus.qmd sets an explicit date="dd.mm.yyyy"
+  first_session: "2026-09-15"
   dates: "September 15 – December 15, 2026"
   github: "https://github.com/janpfander/course_climate_communication"  # TODO: confirm once remote exists
   copyright_year: "2026"

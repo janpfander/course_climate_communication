@@ -13,6 +13,32 @@
 --   ::::
 --   :::::
 
+-- Session dates are computed: first_session (from _variables.yml) + 7 days per
+-- session. A session div can still set date="dd.mm.yyyy" to override (e.g. a
+-- moved class).
+local function first_session_time()
+  local f = io.open("_variables.yml", "r")
+  if not f then return nil end
+  local y, m, d
+  for line in f:lines() do
+    y, m, d = line:match('first_session:%s*"?(%d%d%d%d)%-(%d%d)%-(%d%d)')
+    if y then break end
+  end
+  f:close()
+  if y then
+    -- noon avoids any daylight-saving edge cases in the day arithmetic
+    return os.time({ year = tonumber(y), month = tonumber(m), day = tonumber(d), hour = 12 })
+  end
+end
+
+local function session_date(a)
+  if a.date and a.date ~= "" then return a.date end
+  local t0 = first_session_time()
+  local n = tonumber(a.number)
+  if not (t0 and n) then return a.date or "" end
+  return os.date("%d.%m.%Y", t0 + (n - 1) * 7 * 86400)
+end
+
 function Div(div)
   if not div.classes:includes("course-structure") then
     return nil
@@ -53,7 +79,7 @@ function Div(div)
 
       table.insert(rows, {
         { pandoc.Plain { pandoc.Str(a.number or "") } },
-        { pandoc.Plain { pandoc.Str(a.date or "") } },
+        { pandoc.Plain { pandoc.Str(session_date(a)) } },
         topic,
         lit,
       })
