@@ -23,7 +23,7 @@ course:
   # unless a session div in syllabus.qmd sets an explicit date="dd.mm.yyyy"
   first_session: "2026-09-15"
   dates: "September 15 – December 15, 2026"
-  github: "https://github.com/janpfander/course_climate_communication"  # TODO: confirm once remote exists
+  github: "https://github.com/janpfander/course_climate_communication"
   copyright_year: "2026"
 
 university:
