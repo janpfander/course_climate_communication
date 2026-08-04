@@ -19,7 +19,9 @@ Climate change communication influences how individuals, organizations, and soci
 
 Session topics below are a draft carried over from a previous version of the course and will be revised. Full session descriptions and readings are in the [syllabus](syllabus.qmd).
 
-{{< fa calendar >}} [Download all sessions as a calendar file (.ics)](course-sessions.ics)
+<!-- TODO: links go live once the repo is published on GitHub Pages; confirm the
+     janpfander.github.io URL then -->
+{{< fa calendar >}} [Subscribe to the sessions calendar](webcal://janpfander.github.io/course_climate_communication/course-sessions.ics) — it stays up to date when the schedule changes. In Google Calendar, go to *Settings → Add calendar → From URL* and paste `https://janpfander.github.io/course_climate_communication/course-sessions.ics`.
 
 ```{r}
 #| echo: false
