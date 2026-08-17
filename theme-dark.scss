@@ -6,3 +6,9 @@ $sidebar-bg: #303030;
 $code-background-alpha: -.8;
 $popover-bg: #242424;
 $input-bg: #242424;
+
+/*-- scss:rules --*/
+// The ETH logo SVG is black on transparent, so flip it to white on the dark sidebar
+.sidebar-header .sidebar-logo-link::after {
+  filter: invert(1);
+}

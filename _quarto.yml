@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - images/eth_logo.svg
 
 website:
   page-navigation: true
@@ -8,7 +10,7 @@ website:
   favicon: images/logo.svg
 
   sidebar:
-    title: "The Psychology of Climate Change Communication<br>(ETH Zurich – Autumn 2026)"
+    title: "Autumn 2026"
     logo: images/logo.svg
     pinned: true
     align: center

@@ -11,9 +11,9 @@
   <rect x="80"  y="43" width="13.5" height="38" rx="2" fill="#edce79"/>
   <rect x="95"  y="43" width="13.5" height="38" rx="2" fill="#e59a52"/>
   <rect x="110" y="43" width="13.5" height="38" rx="2" fill="#660d20"/>
-  <!-- Wordmark: Psychology / Climate / Communication -->
+  <!-- Wordmark: Psychology of / Climate / Communication -->
   <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif" text-anchor="middle">
-    <text x="87" y="124" font-size="13" font-weight="600" fill="#660d20">Psychology</text>
+    <text x="87" y="124" font-size="13" font-weight="600" fill="#660d20">Psychology of</text>
     <text x="87" y="149" font-size="27" font-weight="700" fill="#094568">Climate</text>
     <text x="87" y="166" font-size="13" font-weight="600" fill="#660d20" textLength="96" lengthAdjust="spacingAndGlyphs">Communication</text>
   </g>

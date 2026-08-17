@@ -17,7 +17,7 @@ Climate change communication influences how individuals, organizations, and soci
 
 ## Schedule
 
-Session topics below are a draft carried over from a previous version of the course and will be revised. Full session descriptions and readings are in the [syllabus](syllabus.qmd).
+Guest speaker descriptions and some readings are still being finalized. Full session descriptions and readings are in the [syllabus](syllabus.qmd).
 
 ::: {.calendar-box}
 **{{< fa calendar >}} Course calendar** — get all sessions into your calendar app.
@@ -81,11 +81,18 @@ dates_iso <- format(as.Date(overview$Date, "%d.%m.%Y"), "%Y%m%d")
 start_t <- paste0(gsub(":", "", vars$course$start), "00")
 end_t <- paste0(gsub(":", "", vars$course$end), "00")
 loc <- paste0(vars$university$name, ", ", vars$course$room)
-stamp <- paste0(format(as.Date(vars$course$first_session), "%Y%m%d"), "T000000Z")
+# DTSTAMP/LAST-MODIFIED = render time and SEQUENCE = number of commits that
+# touched syllabus.qmd, so subscribed calendars treat every schedule change as
+# an update (some clients ignore edits when these fields do not change).
+stamp <- format(Sys.time(), "%Y%m%dT%H%M%SZ", tz = "UTC")
+seq_n <- suppressWarnings(as.integer(system("git rev-list --count HEAD -- syllabus.qmd", intern = TRUE)))
+if (length(seq_n) != 1 || is.na(seq_n)) seq_n <- 0L
 events <- unlist(lapply(seq_along(n), function(i) c(
   "BEGIN:VEVENT",
   sprintf("UID:session-%02d@course-climate-communication", n[i]),
   paste0("DTSTAMP:", stamp),
+  paste0("LAST-MODIFIED:", stamp),
+  paste0("SEQUENCE:", seq_n),
   paste0("DTSTART;TZID=", tz, ":", dates_iso[i], "T", start_t),
   paste0("DTEND;TZID=", tz, ":", dates_iso[i], "T", end_t),
   paste0("SUMMARY:", esc(paste0("Climate Communication ", n[i], ": ", overview$Topic[i]))),
@@ -113,6 +120,8 @@ ics <- c(
   "PRODID:-//course_climate_communication//EN",
   "CALSCALE:GREGORIAN",
   "X-WR-CALNAME:The Psychology of Climate Change Communication",
+  "X-PUBLISHED-TTL:PT12H",
+  "REFRESH-INTERVAL;VALUE=DURATION:PT12H",
   vtimezone,
   events,
   "END:VCALENDAR"

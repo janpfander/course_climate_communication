@@ -16,10 +16,6 @@ format:
 
 ::: {.content-visible when-format="html"}
 
-::: {.logo-row}
-![](images/logo.png){width=110 fig-alt="Course hex logo"} ![](images/eth_logo.png){width=190 fig-alt="ETH Zurich logo"}
-:::
-
 ::: {.instructors}
 [{{< var instructors.viktoria.name >}}]({{< var instructors.viktoria.url >}}) — [{{< var instructors.viktoria.email >}}](mailto:{{< var instructors.viktoria.email >}})
 
@@ -118,46 +114,7 @@ Shi, J., Visschers, V. H. M., Siegrist, M., & Arvai, J. (2016). Knowledge as a d
 
 ::::
 
-:::: {.session number="3" lecturer="Invited speaker" topic="Guest speaker: Dr. Leonard Creutzburg"}
-
-**[TODO: rewrite for the actual speaker]**
-
-Dr. Lydia Ebersbach is media relations manager at WWF Switzerland. She holds a Magister in History, Politics and Economics from Potsdam University, a PhD in Marketing from St. Gallen University and completed a CAS in Storytelling and Brand Journalism at MAZ / HSL. She will talk to us about the challenges of climate communication from the perspective of a Swiss NGO.
-
-::: {.literature}
-**[TODO: framing literature listed here in the template likely belongs to session 4]**
-
-Lakoff, G. (2010). Why it Matters How We Frame the Environment. *Environmental Communication*, *4*(1), 70–81. <https://doi.org/10.1080/17524030903529749>
-
-Dasandi, N., Graham, H., Hudson, D., Jankin, S., vanHeerde-Hudson, J., & Watts, N. (2022). Positive, global, and health or environment framing bolsters public support for climate policies. *Communications Earth & Environment*, *3*(1), 239. <https://doi.org/10.1038/s43247-022-00571-x>
-
-Supran, G., & Oreskes, N. (2021). Rhetoric and frame analysis of ExxonMobil's climate change communications. *One Earth*, *4*(5), 696–719. <https://doi.org/10.1016/j.oneear.2021.04.014>
-:::
-
-::::
-
-:::: {.session number="4" lecturer="Jan Pfänder" topic="Mental models and framing"}
-
-What are mental models? Which frames are used in climate change communication? How can we frame climate change in a way that allows us to reach different population groups? What are the strategies, channels, and messages used by different stakeholders?
-
-::: {.literature}
-
-tbd
-:::
-
-::::
-
-:::: {.session number="5" lecturer="Jan Pfänder" topic="Climate change misinformation"}
-
-What are discourses that delay action on climate change? How do you identify climate science denial and how do you respond to it?
-
-::: {.literature}
-tbd
-:::
-
-::::
-
-:::: {.session number="6" lecturer="[TODO: lecturer]" topic="Emotions and behavior"}
+:::: {.session number="3" lecturer="Viktoria Cologna" topic="Climate change emotions"}
 
 What is the role of emotions in climate change communication? How can we communicate about climate change in a way that increases feelings of self-efficacy? How does media usage relate to behavioral intentions?
 
@@ -171,7 +128,21 @@ Stanley, S. K., Hogg, T. L., Leviston, Z., & Walker, I. (2021). From anger to ac
 
 ::::
 
-:::: {.session number="7" lecturer="[TODO: lecturer]" topic="A question of trust"}
+:::: {.session number="4" lecturer="Jan Pfänder" topic="Mental models and framing"}
+
+What are mental models? Which frames are used in climate change communication? How can we frame climate change in a way that allows us to reach different population groups? What are the strategies, channels, and messages used by different stakeholders?
+
+::: {.literature}
+Lakoff, G. (2010). Why it Matters How We Frame the Environment. *Environmental Communication*, *4*(1), 70–81. <https://doi.org/10.1080/17524030903529749>
+
+Dasandi, N., Graham, H., Hudson, D., Jankin, S., vanHeerde-Hudson, J., & Watts, N. (2022). Positive, global, and health or environment framing bolsters public support for climate policies. *Communications Earth & Environment*, *3*(1), 239. <https://doi.org/10.1038/s43247-022-00571-x>
+
+Supran, G., & Oreskes, N. (2021). Rhetoric and frame analysis of ExxonMobil's climate change communications. *One Earth*, *4*(5), 696–719. <https://doi.org/10.1016/j.oneear.2021.04.014>
+:::
+
+::::
+
+:::: {.session number="5" lecturer="Viktoria Cologna" topic="A question of trust"}
 
 Which actors are the most trusted sources of information about climate change? How can we maintain and potentially increase trust in climate change communicators? What is the role of climate scientists in communicating and engaging on the topic?
 
@@ -183,9 +154,7 @@ Oreskes, N. (2020). What Is the Social Responsibility of Climate Scientists? *Da
 
 ::::
 
-:::: {.session number="8" lecturer="Invited speaker" topic="Guest speaker: Dr. Cornelia Schwierz"}
-
-**[TODO: confirm speaker still current]**
+:::: {.session number="6" lecturer="Invited speaker" topic="Guest speaker: Dr. Cornelia Schwierz"}
 
 Dr. Cornelia Schwierz is Head of Climate Monitoring and Information at the Federal Office of Meteorology and Climatology (MeteoSwiss). In her talk, she will tell us about the challenges the Federal Office faces in communicating about climate change and how they overcome them.
 
@@ -195,7 +164,17 @@ Preparation: Come to class with at least 3 questions for our guest speaker.
 
 ::::
 
-:::: {.session number="9" lecturer="Viktoria Cologna" topic="Climate change in the media"}
+:::: {.session number="7" lecturer="Invited speaker" topic="Guest speaker: Dr. Reto Knutti"}
+
+**[TODO: speaker blurb]**
+
+::: {.literature}
+Preparation: Come to class with at least 3 questions for our guest speaker.
+:::
+
+::::
+
+:::: {.session number="8" lecturer="Viktoria Cologna" topic="Climate change in news and social media"}
 
 How has climate change communication in the media evolved over time? How is climate change depicted in the media? How does imagery affect public perceptions of climate change?
 
@@ -203,15 +182,7 @@ How has climate change communication in the media evolved over time? How is clim
 Metag, J., Schäfer, M. S., Füchslin, T., Barsuhn, T., & Kleinen-von Königslöw, K. (2016). Perceptions of Climate Change Imagery: Evoked Salience and Self-Efficacy in Germany, Switzerland, and Austria. *Science Communication*, *38*(2), 197–227. <https://doi.org/10.1177/1075547016635181>
 
 O'Neill, S. J. (2013). Image matters: Climate change imagery in US, UK and Australian newspapers. *Geoforum*, *49*, 10–19. <https://doi.org/10.1016/j.geoforum.2013.04.030>
-:::
 
-::::
-
-:::: {.session number="10" lecturer="[TODO: lecturer]" topic="MISSING"}
-
-**[TODO: topic missing in the template — define this session]**
-
-::: {.literature}
 Barkemeyer, R., Figge, F., Hoepner, A., Holt, D., Kraak, J. M., & Yu, P.-S. (2017). Media coverage of climate change: An international comparison. *Environment and Planning C: Politics and Space*, *35*(6), 1029–1054. <https://doi.org/10.1177/0263774X16680818>
 
 Klinger, K., & Metag, J. (2021). Media Effects in the Context of Environmental Issues. In *The Handbook of International Trends in Environmental Communication*. Routledge.
@@ -221,11 +192,19 @@ Schäfer, M. S., & Painter, J. (2021). Climate journalism in a changing media ec
 
 ::::
 
-:::: {.session number="11" lecturer="Invited speaker" topic="Guest speaker: Cornelia Eisenach"}
+:::: {.session number="9" lecturer="Jan Pfänder" topic="Climate change misinformation"}
 
-**[TODO: blurb below describes a different person (Sabrina Weiss) — rewrite for the actual speaker]**
+What are discourses that delay action on climate change? How do you identify climate science denial and how do you respond to it?
 
-Sabrina Weiss is a Swiss climate journalist. She holds a BA in Media & Communication Sciences from the University of Zurich and an MSc in Communication Psychology from the London School of Economics and Political Science. Sabrina Weiss is the co-founder of the Climate Journalism Network. In her talk, she will tell us about the challenges of climate change communication in journalism and how to overcome them.
+::: {.literature}
+tbd
+:::
+
+::::
+
+:::: {.session number="10" lecturer="Invited speaker" topic="Guest speaker: Dr. Leonard Creutzburg"}
+
+**[TODO: speaker blurb]**
 
 ::: {.literature}
 Preparation: Come to class with at least 3 questions for our guest speaker.
@@ -233,30 +212,45 @@ Preparation: Come to class with at least 3 questions for our guest speaker.
 
 ::::
 
-:::: {.session number="12" lecturer="Invited speaker" topic="Guest speaker: Reto Knutti"}
+:::: {.session number="11" lecturer="Jan Pfänder" topic="TBD"}
 
-**[TODO: description below is a wrap-up summary from the old course, not a speaker blurb — rewrite]**
+**[TODO: topic]**
 
-Based on what we have learned in the previous weeks, we will summarize and discuss successful communication strategies.
+::: {.literature}
+tbd
+:::
+
+::::
+
+:::: {.session number="12" lecturer="Invited speaker" topic="Guest speaker: Dr. Cornelia Staub"}
+
+**[TODO: speaker blurb]**
+
+::: {.literature}
+Preparation: Come to class with at least 3 questions for our guest speaker.
+:::
+
+::::
+
+:::: {.session number="13" lecturer="Invited speaker" topic="Guest speaker: Dr. Cornelia Eisenach"}
+
+**[TODO: speaker blurb]**
+
+::: {.literature}
+Preparation: Come to class with at least 3 questions for our guest speaker.
+:::
+
+::::
+
+:::: {.session number="14" lecturer="Viktoria Cologna & Jan Pfänder" topic="Discussion and lessons learnt"}
+
+Based on what we have learned in the previous weeks, we will summarize and discuss successful communication strategies, and reflect on the contributions by our guest speakers and how they relate to what we have learned in the previous sessions.
 
 ::: {.literature}
 Maibach, E. W., Uppalapati, S. S., Orr, M., & Thaker, J. (2023). Harnessing the Power of Communication and Behavior Science to Enhance Society's Response to Climate Change. *Annual Review of Earth and Planetary Sciences*, *51*(1). <https://doi.org/10.1146/annurev-earth-031621-114417>
 
 Corner et al. (2018). Principles for effective communication and public engagement on climate change. **[TODO: full citation missing from template's reference list]**
 :::
-
-::::
-
-:::: {.session number="13" lecturer="Invited speaker" topic="Guest speaker: Industry/Kanton"}
-
-**[TODO: placeholder title — confirm speaker. Description below is the old course's recap-session text]**
-
-We will reflect on the contributions by our guest speakers and how they relate to what we have learned in the previous sessions. In preparation for the exam, we will recap the main lessons learnt in this course.
-
-::::
-
-:::: {.session number="14" lecturer="Viktoria Cologna & Jan Pfänder" topic="Discussion and lessons learnt"}
-
 
 ::::
 
