@@ -21,6 +21,6 @@ Workflow after any change to sessions, times, or room:
 
 1. Edit `syllabus.qmd` (sessions) or `_variables.yml` (weekday, times, room, first session).
 2. `quarto render`
-3. Commit `syllabus.qmd`, `course-sessions.ics`, and `docs/`, then push.
+3. Commit `syllabus.qmd` and `docs/` (the root `course-sessions.ics` is gitignored, only the `docs/` copy is served), then push.
    Subscribers see the change on their client's next refresh (typically within a day).
    People who downloaded the `.ics` file once will not get updates.
