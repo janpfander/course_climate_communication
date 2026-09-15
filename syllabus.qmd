@@ -225,7 +225,7 @@ Preparation: Come to class with at least 3 questions for our guest speaker.
 
 :::: {.session number="11" lecturer="Jan Pfänder" topic="From communication to behavior change"}
 
-**[TODO: description]**
+Which behaviors are most effective when it comes to climate change? How can we overcome the intention-action gap? What role can communication play for structural change?
 
 ::: {.literature}
 Fielding, K.S., & Hornsey, M.J. (2026). Understanding and reducing the intention–behaviour gap in climate action. *Nature Climate Change*, *16*(6), 638-647. <https://doi.org/10.1038/s41558-026-02630-z>
