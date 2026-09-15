@@ -19,7 +19,7 @@ Participation requires a course-internal commitment at latest by {{< var course.
 
 ## Schedule
 
-Guest speaker descriptions and some readings are still being finalized. Full session descriptions and readings are in the [syllabus](syllabus.qmd).
+Guest speaker descriptions and some readings are still being finalized. Full session descriptions and readings are in the [syllabus](syllabus.qmd). Slides are posted in the table below after each session, Quarto decks as HTML and PDF, other decks as PDF.
 
 ::: {.calendar-box}
 **{{< fa calendar >}} Course calendar** — get all sessions into your calendar app.
@@ -59,7 +59,22 @@ overview <- data.frame(
   Lecturer = attr_of(sess, "lecturer")
 )
 names(overview)[1] <- "#"
-tt(overview, width = c(0.05, 0.15, 0.52, 0.28))
+# Slides column: links to whatever exists in slides/ for each session.
+# NN-slides.qmd (Quarto deck) -> HTML link; NN-slides.pdf -> PDF link.
+# Plain text links (raw HTML, since tinytable emits a raw HTML block).
+slide_id <- sprintf("%02d-slides", n)
+lnk <- function(href, label, blank = FALSE) {
+  sprintf('<a href="slides/%s"%s>%s</a>', href, if (blank) ' target="_blank"' else "", label)
+}
+overview$Slides <- mapply(function(id) {
+  out <- character(0)
+  if (file.exists(file.path("slides", paste0(id, ".qmd"))))
+    out <- c(out, lnk(paste0(id, ".html"), "HTML", blank = TRUE))
+  if (file.exists(file.path("slides", paste0(id, ".pdf"))))
+    out <- c(out, lnk(paste0(id, ".pdf"), "PDF"))
+  paste(out, collapse = " · ")
+}, slide_id)
+tt(overview, width = c(0.05, 0.13, 0.47, 0.25, 0.10))
 ```
 
 ```{r}

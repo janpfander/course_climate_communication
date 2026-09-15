@@ -31,6 +31,7 @@ which is also available as PDF and Word document on the website.
   (subscribe or download `.ics`) with all sessions.
 - **Syllabus** — learning objectives, organisational information, assessment
   guidelines, and the session-by-session schedule with assigned readings.
+- **Course evaluation** — the assessment guidelines as a standalone document.
 - **Slides and materials** — posted throughout the semester as sessions take
   place.
 
@@ -43,11 +44,13 @@ The site is built with [Quarto](https://quarto.org/) and published from
 |---|---|
 | `index.qmd` | Homepage: description, session overview table, calendar feed |
 | `syllabus.qmd` | Syllabus: rendered to HTML, PDF, and docx |
+| `evaluation.qmd` | Standalone course evaluation guidelines (for Moodle), rendered to HTML, PDF, and docx |
+| `_assessment.md`, `_header.md` | Text shared by the syllabus and the evaluation document via `{{< include >}}` |
 | `_variables.yml` | Course facts used across pages: instructors, room, times, dates, deadlines |
 | `_quarto.yml` | Site configuration and navigation |
 | `course-structure.lua` | Pandoc filter that turns the session blocks in `syllabus.qmd` into the course structure table |
 | `references.bib`, `apa.csl` | Bibliography and citation style |
-| `slides/` | Lecture slides (Quarto revealjs) |
+| `slides/` | Lecture slides: Quarto revealjs decks (`NN-slides.qmd`) and PDFs (`NN-slides.pdf`). PowerPoint sources (`NN-slides.pptx`) are kept here but gitignored |
 | `content/` | Per-session pages (added as the course progresses) |
 | `images/` | Logos |
 | `styles.css`, `theme-dark.scss`, `_brand.yml` | Styling, light and dark theme |
@@ -85,6 +88,32 @@ Workflow after any change to sessions, times, or room:
 3. Commit `syllabus.qmd` and `docs/` (the root `course-sessions.ics` is gitignored, only the `docs/` copy is served), then push.
    Subscribers see the change on their client's next refresh (typically within a day).
    People who downloaded the `.ics` file once will not get updates.
+
+### Slides
+
+Decks live flat in `slides/`, keyed by the two-digit session number:
+
+| File | Git | Published as |
+|---|---|---|
+| `slides/NN-slides.qmd` (Quarto revealjs) | committed | `docs/slides/NN-slides.html` |
+| `slides/NN-slides.pdf` | committed | `docs/slides/NN-slides.pdf` (copied via `resources` in `_quarto.yml`) |
+| `slides/NN-slides.pptx` | ignored (`*.pptx` in `.gitignore`) | never |
+
+The schedule table on the homepage looks for these files at render time and
+shows an HTML and/or PDF button per session. `slides/_template-slides.qmd` is
+the starting point for a new Quarto deck (files starting with `_` are not
+rendered).
+
+- **Quarto deck:** copy the template to `slides/NN-slides.qmd` and
+  `quarto render`. Then print the deck to PDF by hand (works in Firefox and
+  Chrome, see the [Quarto docs](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf)):
+  open `docs/slides/NN-slides.html`, press `E` for print view, open the print
+  dialog, choose *Save as PDF*, landscape, no margins, background graphics on,
+  and save as `slides/NN-slides.pdf`. Render again so the PDF is copied to
+  `docs/slides/`. Commit the `.qmd`, the `.pdf`, and `docs/`.
+- **PowerPoint deck:** save `slides/NN-slides.pptx` and export
+  `slides/NN-slides.pdf` from PowerPoint, then `quarto render` and commit the
+  `.pdf` and `docs/`.
 
 ### Course facts
 

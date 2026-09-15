@@ -1,0 +1,3 @@
+# Keys verified by hand; skipped by check_citations.py
+# metagGlobalWarmingsFive2015: Zotero uses the online-first year 2015 (print issue is 2017), confirmed by Jan 2026-09-15
+metagGlobalWarmingsFive2015

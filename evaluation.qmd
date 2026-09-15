@@ -1,0 +1,17 @@
+---
+title: "Course Evaluation"
+subtitle: "The Psychology of Climate Change Communication — {{< var course.semester >}}"
+shift-heading-level-by: -1
+format:
+  html: default
+  pdf: default
+  docx: default
+---
+
+{{< include _header.md >}}
+
+::: {.callout-note}
+This information is also part of the [syllabus]({{< var course.website >}}syllabus.html) on the course website.
+:::
+
+{{< include _assessment.md >}}
