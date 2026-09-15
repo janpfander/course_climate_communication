@@ -13,7 +13,9 @@ resources:
 
 ## Course Description
 
-Climate change communication influences how individuals, organizations, and societies perceive climate change, and how they react to it. In this course, we will discuss research findings in environmental psychology and communication science to understand specific challenges of climate change communication and how to address them.
+Climate change communication influences how individuals, organizations, and societies perceive climate change, and how they react to it. In this course, students explore research from environmental psychology and communication science to understand how people respond to climate change messages and what makes communication effective. Students work in groups to evaluate climate change communication examples and propose evidence-informed improvements, presenting their analyses orally and reflecting on the process in writing. The course is pass/fail based on a group presentation and written individual reflection.
+
+Participation requires a course-internal commitment at latest by {{< var course.commitment_deadline >}}. After this date, groups/projects will be fixed, and students are expected to remain in the course. See the [syllabus](syllabus.qmd) for details.
 
 ## Schedule
 
