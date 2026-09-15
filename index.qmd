@@ -102,6 +102,21 @@ events <- unlist(lapply(seq_along(n), function(i) c(
   paste0("DESCRIPTION:", esc(paste0("Lecturer: ", overview$Lecturer[i]))),
   "END:VEVENT"
 )))
+# All-day event for the reflection task deadline (see syllabus, Assessment)
+deadline_iso <- format(as.Date(vars$course$reflection_deadline_date), "%Y%m%d")
+deadline_next <- format(as.Date(vars$course$reflection_deadline_date) + 1, "%Y%m%d")
+deadline_event <- c(
+  "BEGIN:VEVENT",
+  "UID:deadline-reflection@course-climate-communication",
+  paste0("DTSTAMP:", stamp),
+  paste0("LAST-MODIFIED:", stamp),
+  paste0("SEQUENCE:", seq_n),
+  paste0("DTSTART;VALUE=DATE:", deadline_iso),
+  paste0("DTEND;VALUE=DATE:", deadline_next),
+  paste0("SUMMARY:", esc("Deadline: reflection task (23:59)")),
+  paste0("DESCRIPTION:", esc("Submit the individual reflection on the group presentation (400-600 words) on Moodle by 23:59.")),
+  "END:VEVENT"
+)
 # Central European daylight-saving rules (last Sunday of March / October)
 vtimezone <- c(
   "BEGIN:VTIMEZONE",
@@ -126,6 +141,7 @@ ics <- c(
   "REFRESH-INTERVAL;VALUE=DURATION:PT12H",
   vtimezone,
   events,
+  deadline_event,
   "END:VCALENDAR"
 )
 writeLines(fold(ics), "course-sessions.ics", sep = "\r\n")

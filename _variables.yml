@@ -25,7 +25,8 @@ course:
   dates: "September 15 – December 15, 2026"
   drop_deadline: "29.09.2026"
   commitment_deadline: "Friday, September 25, 2026 (23:59)"
-  reflection_deadline: "December 18, 2026"
+  reflection_deadline: "December 18, 2026 (23:59)"
+  reflection_deadline_date: "2026-12-18"  # ISO date, used for the calendar feed
   github: "https://github.com/janpfander/course_climate_communication"
   copyright_year: "2026"
 

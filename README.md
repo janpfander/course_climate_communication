@@ -1,8 +1,69 @@
-# The Psychology of Climate Change Communication — course website
+# The Psychology of Climate Change Communication
 
-Quarto website, published from `docs/` via GitHub Pages.
+Course website for *The Psychology of Climate Change Communication: theoretical
+insights and practical applications*, a course taught at ETH Zurich in
+Autumn 2026 by [Viktoria Cologna](https://www.viktoriacologna.com/) and
+[Jan Pfänder](https://janpfander.github.io/).
 
-## Updating the schedule (and the calendar feed)
+The website is live at
+<https://janpfander.github.io/course_climate_communication/>.
+
+## About the course
+
+Climate change communication influences how individuals, organizations, and
+societies perceive climate change, and how they react to it. The course draws
+on research from environmental psychology and communication science to
+understand how people respond to climate change messages and what makes
+communication effective. Lectures by the instructors alternate with talks by
+invited guest speakers, including practitioners from a federal office, an NGO,
+and journalism.
+
+Students work in groups to evaluate a real example of climate change
+communication and propose evidence-informed improvements. The course is
+pass/fail, based on an oral group presentation and an individual written
+reflection. Full details, session descriptions, and readings are in the
+[syllabus](https://janpfander.github.io/course_climate_communication/syllabus.html),
+which is also available as PDF and Word document on the website.
+
+## What is on the website
+
+- **Home** — course description, session overview table, and a calendar feed
+  (subscribe or download `.ics`) with all sessions.
+- **Syllabus** — learning objectives, organisational information, assessment
+  guidelines, and the session-by-session schedule with assigned readings.
+- **Slides and materials** — posted throughout the semester as sessions take
+  place.
+
+## Repository structure
+
+The site is built with [Quarto](https://quarto.org/) and published from
+`docs/` via GitHub Pages.
+
+| Path | Purpose |
+|---|---|
+| `index.qmd` | Homepage: description, session overview table, calendar feed |
+| `syllabus.qmd` | Syllabus: rendered to HTML, PDF, and docx |
+| `_variables.yml` | Course facts used across pages: instructors, room, times, dates, deadlines |
+| `_quarto.yml` | Site configuration and navigation |
+| `course-structure.lua` | Pandoc filter that turns the session blocks in `syllabus.qmd` into the course structure table |
+| `references.bib`, `apa.csl` | Bibliography and citation style |
+| `slides/` | Lecture slides (Quarto revealjs) |
+| `content/` | Per-session pages (added as the course progresses) |
+| `images/` | Logos |
+| `styles.css`, `theme-dark.scss`, `_brand.yml` | Styling, light and dark theme |
+| `docs/` | Rendered site, served by GitHub Pages |
+
+## License
+
+Content is licensed under
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+
+## Using this repository as a template
+
+The notes below describe how the site is maintained. They are only relevant if
+you want to reuse this repository for your own course.
+
+### Schedule and calendar feed
 
 The schedule has one source of truth: the `.session` divs in `syllabus.qmd`.
 Everything else is derived at render time:
@@ -24,3 +85,9 @@ Workflow after any change to sessions, times, or room:
 3. Commit `syllabus.qmd` and `docs/` (the root `course-sessions.ics` is gitignored, only the `docs/` copy is served), then push.
    Subscribers see the change on their client's next refresh (typically within a day).
    People who downloaded the `.ics` file once will not get updates.
+
+### Course facts
+
+Instructor names, contact details, room, weekday, times, and deadlines live in
+`_variables.yml` and are inserted into the pages with `{{< var ... >}}`. Change
+them there rather than in the pages.
