@@ -17,7 +17,7 @@ course:
   weekday: "Tuesdays"
   start: "16:15"
   end: "18:00"
-  room: "CHN G 42"
+  room: "CAB G 61"
   timezone: "Europe/Zurich"
   # first session date; all other session dates are first_session + 7 days each,
   # unless a session div in syllabus.qmd sets an explicit date="dd.mm.yyyy"

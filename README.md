@@ -78,8 +78,8 @@ Everything else is derived at render time:
   `index.qmd`, copied to `docs/`, and served at
   `https://janpfander.github.io/course_climate_communication/course-sessions.ics`.
   Each render stamps the current time (`DTSTAMP`, `LAST-MODIFIED`) and a
-  `SEQUENCE` based on the git history of `syllabus.qmd`, so subscribed calendars
-  pick up changes.
+  `SEQUENCE` based on the git history of `syllabus.qmd` and `_variables.yml`, so
+  subscribed calendars pick up changes.
 
 Workflow after any change to sessions, times, or room:
 
