@@ -8,6 +8,9 @@ Syllabus_early_template.docx
 /_readings_archive.md
 /_reading_candidates.md
 
+# Email drafts to students (local only)
+/emails/
+
 # PowerPoint slide sources stay local; only the exported PDF is committed
 *.pptx
 
