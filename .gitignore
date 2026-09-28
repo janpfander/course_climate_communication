@@ -11,6 +11,15 @@ Syllabus_early_template.docx
 # Email drafts to students (local only)
 /emails/
 
+# Student data: roster, group assignment, group list PDF (local only, this
+# repo is public). The second line guards against a rendered copy.
+/students/
+/docs/students/
+
+# Credentials for the email send scripts
+.Renviron
+.Rprofile
+
 # PowerPoint slide sources stay local; only the exported PDF is committed
 *.pptx
 

@@ -1,6 +1,14 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "slides/*.qmd"
+    - "content/*.qmd"
+    # local-only folders (gitignored) must never be rendered into docs/
+    - "!emails/"
+    - "!students/"
+    - "!resources/"
   resources:
     - images/eth_logo.svg
     - "slides/*.pdf"

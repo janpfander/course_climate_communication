@@ -80,6 +80,36 @@
     ]
   },
   {
+    "objectID": "evaluation.html",
+    "href": "evaluation.html",
+    "title": "Course Evaluation",
+    "section": "",
+    "text": "Dr. Viktoria Cologna — viktoria.cologna@eawag.ch\nDr. Jan Pfänder — janlukas.pfaender@gmail.com\nThis class is not graded, students either pass or fail. Students are expected to prepare for class by completing assigned readings, attend lectures, and meaningfully contribute to in-class exercises and discussion. To pass the class, students need to",
+    "crumbs": [
+      "Course evaluation"
+    ]
+  },
+  {
+    "objectID": "evaluation.html#oral-group-presentation",
+    "href": "evaluation.html#oral-group-presentation",
+    "title": "Course Evaluation",
+    "section": "Oral group presentation",
+    "text": "Oral group presentation\nGroups present an example of climate change communication. Presentations start in week 5.\n\nPresentations last 10 minutes, followed by 5 minutes of Q&A.\nSlides (PowerPoint or similar) are required.\nAll group members need to actively present, with an approximately equal time split.\nAny type of content or message that focuses on climate change can be presented as an example, such as an advertisement, political campaign, social media post (video or text), newspaper article, etc. You can present good or bad examples of climate change communication, including messages on climate change denial, and be as creative as you want.\nPresentations need to introduce the content/message, address the following questions, and explicitly draw on relevant concepts learned in the course:\n\nIntroduce your example. How did you come across it and why did you pick it?\nWho is the communicator and what is their motivation?\nWho is the target audience?\nWhat makes this a good/bad example of climate change communication? Is the communicator reaching the right target audience with their message/content? Is the chosen medium appropriate to support the message, and why?\nHow could the message/content be improved?\n\nYou can use AI for the preparation of the presentation, but examples should be selected by group members.",
+    "crumbs": [
+      "Course evaluation"
+    ]
+  },
+  {
+    "objectID": "evaluation.html#reflection-task",
+    "href": "evaluation.html#reflection-task",
+    "title": "Course Evaluation",
+    "section": "Reflection task",
+    "text": "Reflection task\nEach group member writes their own, separate reflection and hands it in individually. Take some time to reflect on the group presentation following the structure below. Then write down your thoughts in 400–600 words and submit the reflection on Moodle by December 18, 2026 (23:59).\nIn the reflection task, please do the following:\n\nDescribe how your group selected the communication example.\nClearly state your role in the project and your overall contribution to the group project.\nDescribe the group dynamics (e.g., Were there any conflicts? How did you manage the organization, prepare for the presentation, and decide on whether to use AI?). Is there anything you would do differently in hindsight?\nReflect on your own contribution. Are you happy with your contribution/performance? Would you have liked to do more/less?\nDeclare the use of AI in your group. If yes: How did you use it? Which model did you use? In which ways do you think using AI helped you? Do you think there are any downsides to the use of AI for your project?",
+    "crumbs": [
+      "Course evaluation"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "The Psychology of Climate Change Communication",
@@ -114,60 +144,9 @@
     "href": "index.html#schedule",
     "title": "The Psychology of Climate Change Communication",
     "section": "Schedule",
-    "text": "Schedule\nGuest speaker descriptions and some readings are still being finalized. Full session descriptions and readings are in the syllabus. Slides are posted in the table below after each session, Quarto decks as HTML and PDF, other decks as PDF.\n\n Course calendar — get all sessions into your calendar app.\n Subscribe  Download .ics\n\nSubscribing keeps the events up to date when the schedule changes. A downloaded copy will not receive later changes. In Google Calendar, subscribe via Settings → Add calendar → From URL with https://janpfander.github.io/course_climate_communication/course-sessions.ics.\n\n\n\n\n\n\n    \n\n    \n\n    \n    \n    \n      \n        \n        \n              \n                #\n                Date\n                Topic\n                Lecturer\n                Slides\n              \n        \n        \n        \n                \n                  1\n                  15.09.2026\n                  Introduction and key concepts in environmental psychology\n                  Viktoria Cologna & Jan Pfänder\n                  PDF\n                \n                \n                  2\n                  22.09.2026\n                  Public opinion on climate change and the deficit model\n                  Viktoria Cologna\n                  PDF\n                \n                \n                  3\n                  29.09.2026\n                  A question of trust\n                  Viktoria Cologna\n                  \n                \n                \n                  4\n                  06.10.2026\n                  Mental models and framing\n                  Jan Pfänder\n                  \n                \n                \n                  5\n                  13.10.2026\n                  Climate change emotions\n                  Viktoria Cologna\n                  \n                \n                \n                  6\n                  20.10.2026\n                  Guest speaker: Dr. Cornelia Schwierz\n                  Invited speaker\n                  \n                \n                \n                  7\n                  27.10.2026\n                  Guest speaker: Prof. Dr. Reto Knutti\n                  Invited speaker\n                  \n                \n                \n                  8\n                  03.11.2026\n                  Climate change in the media\n                  Viktoria Cologna\n                  \n                \n                \n                  9\n                  10.11.2026\n                  Climate change misinformation\n                  Jan Pfänder\n                  \n                \n                \n                  10\n                  17.11.2026\n                  Guest speaker: Dr. Leonard Creutzburg\n                  Invited speaker\n                  \n                \n                \n                  11\n                  24.11.2026\n                  From communication to behavior change\n                  Jan Pfänder\n                  \n                \n                \n                  12\n                  01.12.2026\n                  Guest speaker: Dr. Cornelia Staub\n                  Invited speaker\n                  \n                \n                \n                  13\n                  08.12.2026\n                  Guest speaker: Dr. Cornelia Eisenach\n                  Invited speaker\n                  \n                \n                \n                  14\n                  15.12.2026\n                  Discussion and lessons learnt\n                  Viktoria Cologna & Jan Pfänder",
+    "text": "Schedule\nGuest speaker descriptions and some readings are still being finalized. Full session descriptions and readings are in the syllabus. Slides are posted in the table below after each session, Quarto decks as HTML and PDF, other decks as PDF.\n\n Course calendar — get all sessions into your calendar app.\n Subscribe  Download .ics\n\nSubscribing keeps the events up to date when the schedule changes. A downloaded copy will not receive later changes. In Google Calendar, subscribe via Settings → Add calendar → From URL with https://janpfander.github.io/course_climate_communication/course-sessions.ics.\n\n\n\n\n\n\n    \n\n    \n\n    \n    \n    \n      \n        \n        \n              \n                #\n                Date\n                Topic\n                Lecturer\n                Slides\n                Group presentations\n              \n        \n        \n        \n                \n                  1\n                  15.09.2026\n                  Introduction and key concepts in environmental psychology\n                  Viktoria Cologna & Jan Pfänder\n                  PDF\n                  No presentations\n                \n                \n                  2\n                  22.09.2026\n                  Public opinion on climate change and the deficit model\n                  Viktoria Cologna\n                  PDF\n                  No presentations\n                \n                \n                  3\n                  29.09.2026\n                  A question of trust\n                  Viktoria Cologna\n                  \n                  No presentations\n                \n                \n                  4\n                  06.10.2026\n                  Mental models and framing\n                  Jan Pfänder\n                  \n                  No presentations\n                \n                \n                  5\n                  13.10.2026\n                  Climate change emotions\n                  Viktoria Cologna\n                  \n                  Groups 1 & 2\n                \n                \n                  6\n                  20.10.2026\n                  Guest speaker: Dr. Cornelia Schwierz\n                  Invited speaker\n                  \n                  Group 3\n                \n                \n                  7\n                  27.10.2026\n                  Guest speaker: Prof. Dr. Reto Knutti\n                  Invited speaker\n                  \n                  Group 4\n                \n                \n                  8\n                  03.11.2026\n                  Climate change in the media\n                  Viktoria Cologna\n                  \n                  Groups 5 & 6\n                \n                \n                  9\n                  10.11.2026\n                  Climate change misinformation\n                  Jan Pfänder\n                  \n                  Group 7\n                \n                \n                  10\n                  17.11.2026\n                  Guest speaker: Dr. Leonard Creutzburg\n                  Invited speaker\n                  \n                  Group 8\n                \n                \n                  11\n                  24.11.2026\n                  From communication to behavior change\n                  Jan Pfänder\n                  \n                  Group 9\n                \n                \n                  12\n                  01.12.2026\n                  Guest speaker: Dr. Cornelia Staub\n                  Invited speaker\n                  \n                  Group 10\n                \n                \n                  13\n                  08.12.2026\n                  Guest speaker: Dr. Cornelia Eisenach\n                  Invited speaker\n                  \n                  Group 11\n                \n                \n                  14\n                  15.12.2026\n                  Discussion and lessons learnt\n                  Viktoria Cologna & Jan Pfänder\n                  \n                  Groups 12 & 13",
     "crumbs": [
       "Home"
-    ]
-  },
-  {
-    "objectID": "resources/links.html",
-    "href": "resources/links.html",
-    "title": "Resource links",
-    "section": "",
-    "text": "Courses and other external resources that might be useful for course prep. Local copies of downloaded materials live in subfolders next to this file (one per course, named institution_lecturer). Everything in resources/ is gitignored.\n\n\n\nPsychology of the Climate Crisis — Dr. Anne Urai, Leiden University, 2026. https://anneurai.net/climate-psychology/. Syllabus shared at https://surfdrive.surf.nl/s/HKXQtFXZRfWDGgB. Local copy of syllabus and slides in leiden_anne_urai/.\nIntroducing Climate Psychology: facing the climate crisis — The Open University (OpenLearn free course, 12 hours, level 2 intermediate). https://www.open.edu/openlearn/health-sports-psychology/introducing-climate-psychology-facing-the-climate-crisis/content-section-overview. Covers emotional responses to the climate crisis, defense mechanisms, and resilience, drawing on social theory, psychoanalysis, and ecopsychology.\n\n\n\n\n\nLa psychologie de la désinformation sur les changements climatiques — Tobia Spampatti, University of Geneva, guest lecture 22 April 2024 (slides in French). Shared by the author. Local copy and content summary in unige_tobia_spampatti/. Main input for session 9 (climate change misinformation)."
-  },
-  {
-    "objectID": "resources/links.html#courses",
-    "href": "resources/links.html#courses",
-    "title": "Resource links",
-    "section": "",
-    "text": "Psychology of the Climate Crisis — Dr. Anne Urai, Leiden University, 2026. https://anneurai.net/climate-psychology/. Syllabus shared at https://surfdrive.surf.nl/s/HKXQtFXZRfWDGgB. Local copy of syllabus and slides in leiden_anne_urai/.\nIntroducing Climate Psychology: facing the climate crisis — The Open University (OpenLearn free course, 12 hours, level 2 intermediate). https://www.open.edu/openlearn/health-sports-psychology/introducing-climate-psychology-facing-the-climate-crisis/content-section-overview. Covers emotional responses to the climate crisis, defense mechanisms, and resilience, drawing on social theory, psychoanalysis, and ecopsychology."
-  },
-  {
-    "objectID": "resources/links.html#individual-lectures",
-    "href": "resources/links.html#individual-lectures",
-    "title": "Resource links",
-    "section": "",
-    "text": "La psychologie de la désinformation sur les changements climatiques — Tobia Spampatti, University of Geneva, guest lecture 22 April 2024 (slides in French). Shared by the author. Local copy and content summary in unige_tobia_spampatti/. Main input for session 9 (climate change misinformation)."
-  },
-  {
-    "objectID": "evaluation.html",
-    "href": "evaluation.html",
-    "title": "Course Evaluation",
-    "section": "",
-    "text": "Dr. Viktoria Cologna — viktoria.cologna@eawag.ch\nDr. Jan Pfänder — janlukas.pfaender@gmail.com\nThis class is not graded, students either pass or fail. Students are expected to prepare for class by completing assigned readings, attend lectures, and meaningfully contribute to in-class exercises and discussion. To pass the class, students need to",
-    "crumbs": [
-      "Course evaluation"
-    ]
-  },
-  {
-    "objectID": "evaluation.html#oral-group-presentation",
-    "href": "evaluation.html#oral-group-presentation",
-    "title": "Course Evaluation",
-    "section": "Oral group presentation",
-    "text": "Oral group presentation\nGroups present an example of climate change communication. Presentations start in week 5.\n\nPresentations last 10 minutes, followed by 5 minutes of Q&A.\nSlides (PowerPoint or similar) are required.\nAll group members need to actively present, with an approximately equal time split.\nAny type of content or message that focuses on climate change can be presented as an example, such as an advertisement, political campaign, social media post (video or text), newspaper article, etc. You can present good or bad examples of climate change communication, including messages on climate change denial, and be as creative as you want.\nPresentations need to introduce the content/message, address the following questions, and explicitly draw on relevant concepts learned in the course:\n\nIntroduce your example. How did you come across it and why did you pick it?\nWho is the communicator and what is their motivation?\nWho is the target audience?\nWhat makes this a good/bad example of climate change communication? Is the communicator reaching the right target audience with their message/content? Is the chosen medium appropriate to support the message, and why?\nHow could the message/content be improved?\n\nYou can use AI for the preparation of the presentation, but examples should be selected by group members.",
-    "crumbs": [
-      "Course evaluation"
-    ]
-  },
-  {
-    "objectID": "evaluation.html#reflection-task",
-    "href": "evaluation.html#reflection-task",
-    "title": "Course Evaluation",
-    "section": "Reflection task",
-    "text": "Reflection task\nEach group member writes their own, separate reflection and hands it in individually. Take some time to reflect on the group presentation following the structure below. Then write down your thoughts in 400–600 words and submit the reflection on Moodle by December 18, 2026 (23:59).\nIn the reflection task, please do the following:\n\nDescribe how your group selected the communication example.\nClearly state your role in the project and your overall contribution to the group project.\nDescribe the group dynamics (e.g., Were there any conflicts? How did you manage the organization, prepare for the presentation, and decide on whether to use AI?). Is there anything you would do differently in hindsight?\nReflect on your own contribution. Are you happy with your contribution/performance? Would you have liked to do more/less?\nDeclare the use of AI in your group. If yes: How did you use it? Which model did you use? In which ways do you think using AI helped you? Do you think there are any downsides to the use of AI for your project?",
-    "crumbs": [
-      "Course evaluation"
     ]
   }
 ]

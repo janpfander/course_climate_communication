@@ -42,10 +42,10 @@ Subscribing keeps the events up to date when the schedule changes. A downloaded 
 #| warning: false
 library(tinytable)
 # Single sources: the .session divs in syllabus.qmd (topics, lecturers,
-# literature — authored there so citation keys autocomplete in Positron) and
-# _variables.yml (weekday, times, room, first_session). Session dates are
-# first_session + 7 days per session, unless a div sets an explicit
-# date="dd.mm.yyyy" override.
+# presenting groups, literature — authored there so citation keys autocomplete
+# in Positron) and _variables.yml (weekday, times, room, first_session).
+# Session dates are first_session + 7 days per session, unless a div sets an
+# explicit date="dd.mm.yyyy" override.
 vars <- yaml::read_yaml("_variables.yml")
 lines <- readLines("syllabus.qmd", warn = FALSE)
 sess <- grep('\\{\\.session ', lines, value = TRUE)
@@ -79,7 +79,16 @@ overview$Slides <- mapply(function(id) {
     out <- c(out, lnk(paste0(id, ".pdf"), "PDF"))
   paste(out, collapse = " · ")
 }, slide_id)
-tt(overview, width = c(0.05, 0.13, 0.47, 0.25, 0.10))
+# Group presentations column: groups="1,2" on a session div lists the groups
+# presenting that day. Sessions without the attribute have no presentations.
+groups_label <- function(x) {
+  if (is.na(x)) return(NA_character_)
+  g <- trimws(strsplit(x, ",")[[1]])
+  paste(if (length(g) > 1) "Groups" else "Group", paste(g, collapse = " & "))
+}
+presentations <- vapply(attr_of(sess, "groups"), groups_label, character(1), USE.NAMES = FALSE)
+overview[["Group presentations"]] <- ifelse(is.na(presentations), "No presentations", presentations)
+tt(overview, width = c(0.05, 0.12, 0.38, 0.20, 0.08, 0.17))
 ```
 
 ```{r}
@@ -123,7 +132,11 @@ events <- unlist(lapply(seq_along(n), function(i) c(
   paste0("DTEND;TZID=", tz, ":", dates_iso[i], "T", end_t),
   paste0("SUMMARY:", esc(paste0("Climate Communication ", n[i], ": ", overview$Topic[i]))),
   paste0("LOCATION:", esc(loc)),
-  paste0("DESCRIPTION:", esc(paste0("Lecturer: ", overview$Lecturer[i]))),
+  # "\\n" is the iCalendar line break, added after esc() so that its backslash
+  # is not escaped
+  paste0("DESCRIPTION:", esc(paste0("Lecturer: ", overview$Lecturer[i])),
+         if (!is.na(presentations[i]))
+           paste0("\\n", esc(paste0("Group presentations: ", presentations[i])))),
   "END:VEVENT"
 )))
 # All-day event for the reflection task deadline (see syllabus, Assessment)

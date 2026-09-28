@@ -49,6 +49,7 @@ The site is built with [Quarto](https://quarto.org/) and published from
 | `_variables.yml` | Course facts used across pages: instructors, room, times, dates, deadlines |
 | `_quarto.yml` | Site configuration and navigation |
 | `course-structure.lua` | Pandoc filter that turns the session blocks in `syllabus.qmd` into the course structure table |
+| `tools/` | Scripts for the group assignment and the group list PDF, citation whitelist |
 | `references.bib`, `apa.csl` | Bibliography and citation style |
 | `slides/` | Lecture slides: Quarto revealjs decks (`NN-slides.qmd`) and PDFs (`NN-slides.pdf`). PowerPoint sources (`NN-slides.pptx`) are kept here but gitignored |
 | `content/` | Per-session pages (added as the course progresses) |
@@ -88,6 +89,23 @@ Workflow after any change to sessions, times, or room:
 3. Commit `syllabus.qmd` and `docs/` (the root `course-sessions.ics` is gitignored, only the `docs/` copy is served), then push.
    Subscribers see the change on their client's next refresh (typically within a day).
    People who downloaded the `.ics` file once will not get updates.
+
+### Group presentations
+
+Which groups present in which session is set on the session divs in
+`syllabus.qmd` with a `groups` attribute, e.g. `groups="1,2"`. Sessions without
+the attribute show "No presentations". The homepage table and the calendar feed
+read it at render time. If two groups swap dates, change the attribute, then
+`quarto render` and rebuild the PDF.
+
+Student data never enters the repository. The roster, the group list, and the
+PDF with names live in `students/`, which is gitignored.
+
+| Script | Purpose |
+|---|---|
+| `tools/assign_groups.R` | Random draw of the groups from the roster, writes `students/groups.csv`. Runs once and stops if the file exists |
+| `tools/build_groups_pdf.R` | Builds `students/Group_assignment_and_presentation_schedule.pdf` (schedule and names per group) for Moodle. Renders in a temporary directory outside the website project |
+| `tools/schedule.R` | Reads the schedule from `syllabus.qmd` and `_variables.yml`, sourced by the PDF script and the email scripts |
 
 ### Slides
 

@@ -93,7 +93,7 @@ What are mental models? Which frames are used in climate change communication? H
 
 ::::
 
-:::: {.session number="5" lecturer="Viktoria Cologna" topic="Climate change emotions"}
+:::: {.session number="5" groups="1,2" lecturer="Viktoria Cologna" topic="Climate change emotions"}
 
 What is the role of emotions in climate change communication? How can we communicate about climate change in a way that increases feelings of self-efficacy? How does media usage relate to behavioral intentions? Group presentations start this week.
 
@@ -103,7 +103,7 @@ What is the role of emotions in climate change communication? How can we communi
 
 ::::
 
-:::: {.session number="6" lecturer="Invited speaker" topic="Guest speaker: Dr. Cornelia Schwierz"}
+:::: {.session number="6" groups="3" lecturer="Invited speaker" topic="Guest speaker: Dr. Cornelia Schwierz"}
 
 Dr. Cornelia Schwierz is Head of Climate Monitoring and Information at the Federal Office of Meteorology and Climatology (MeteoSwiss). In her talk, she will tell us about the challenges the Federal Office faces in communicating about climate change and how they overcome them.
 
@@ -113,7 +113,7 @@ Preparation: Come to class with at least 3 questions for our guest speaker.
 
 ::::
 
-:::: {.session number="7" lecturer="Invited speaker" topic="Guest speaker: Prof. Dr. Reto Knutti"}
+:::: {.session number="7" groups="4" lecturer="Invited speaker" topic="Guest speaker: Prof. Dr. Reto Knutti"}
 
 Prof. Dr. Reto Knutti is Professor of Climate Physics at the Institute for Atmospheric and Climate Science at ETH Zurich and has served as a lead author of the Intergovernmental Panel on Climate Change (IPCC) assessment reports.
 
@@ -123,7 +123,7 @@ Preparation: Come to class with at least 3 questions for our guest speaker.
 
 ::::
 
-:::: {.session number="8" lecturer="Viktoria Cologna" topic="Climate change in the media"}
+:::: {.session number="8" groups="5,6" lecturer="Viktoria Cologna" topic="Climate change in the media"}
 
 How has climate change communication in the media evolved over time? How is climate change depicted in the media? How does imagery affect public perceptions of climate change?
 
@@ -133,7 +133,7 @@ How has climate change communication in the media evolved over time? How is clim
 
 ::::
 
-:::: {.session number="9" lecturer="Jan Pfänder" topic="Climate change misinformation"}
+:::: {.session number="9" groups="7" lecturer="Jan Pfänder" topic="Climate change misinformation"}
 
 What are discourses that delay action on climate change? How do you identify climate science denial and how do you respond to it?
 
@@ -143,7 +143,7 @@ What are discourses that delay action on climate change? How do you identify cli
 
 ::::
 
-:::: {.session number="10" lecturer="Invited speaker" topic="Guest speaker: Dr. Leonard Creutzburg"}
+:::: {.session number="10" groups="8" lecturer="Invited speaker" topic="Guest speaker: Dr. Leonard Creutzburg"}
 
 Dr. Leonard Creutzburg co-leads the WWF Switzerland One Planet Lab, where he is a project lead for new economic systems. He was a research assistant at ETH Zurich at the Natural Research Policy Group (NARP) and completed his PhD in Economic Geography at the University of Zurich. He will talk to us about the challenges of climate communication from the perspective of a Swiss NGO.
 
@@ -153,7 +153,7 @@ Preparation: Come to class with at least 3 questions for our guest speaker.
 
 ::::
 
-:::: {.session number="11" lecturer="Jan Pfänder" topic="From communication to behavior change"}
+:::: {.session number="11" groups="9" lecturer="Jan Pfänder" topic="From communication to behavior change"}
 
 Which behaviors are most effective when it comes to climate change? How can we overcome the intention-action gap? What role can communication play for structural change?
 
@@ -163,7 +163,7 @@ Which behaviors are most effective when it comes to climate change? How can we o
 
 ::::
 
-:::: {.session number="12" lecturer="Invited speaker" topic="Guest speaker: Dr. Cornelia Staub"}
+:::: {.session number="12" groups="10" lecturer="Invited speaker" topic="Guest speaker: Dr. Cornelia Staub"}
 
 Dr. Cornelia Staub is Head of Sustainability at Migros Industrie, the food and consumer goods production arm of the Migros Group.
 
@@ -173,7 +173,7 @@ Preparation: Come to class with at least 3 questions for our guest speaker.
 
 ::::
 
-:::: {.session number="13" lecturer="Invited speaker" topic="Guest speaker: Dr. Cornelia Eisenach"}
+:::: {.session number="13" groups="11" lecturer="Invited speaker" topic="Guest speaker: Dr. Cornelia Eisenach"}
 
 Dr. Cornelia Eisenach is a science journalist at Republik Magazin, where she writes about health and environmental topics. She holds a PhD in Biology from the University of Glasgow and was a postdoc at the University of Zurich before moving into journalism. In her talk, she will tell us about the challenges of climate change communication in journalism and how to overcome them.
 
@@ -183,7 +183,7 @@ Preparation: Come to class with at least 3 questions for our guest speaker.
 
 ::::
 
-:::: {.session number="14" lecturer="Viktoria Cologna & Jan Pfänder" topic="Discussion and lessons learnt"}
+:::: {.session number="14" groups="12,13" lecturer="Viktoria Cologna & Jan Pfänder" topic="Discussion and lessons learnt"}
 
 Based on what we have learned in the previous weeks, we will summarize and discuss successful communication strategies, and reflect on the contributions by our guest speakers and how they relate to what we have learned in the previous sessions.
 
