@@ -35,7 +35,7 @@ At the completion of the course, students will be able to:
 - {{< var university.name >}}, room {{< var course.room >}}
 - {{< var course.weekday >}} {{< var course.start >}}–{{< var course.end >}}, weekly, {{< var course.semester >}} ({{< var course.dates >}})
 - An up-to-date schedule can be found on the [course website](index.qmd). This is also where slides and additional materials will be posted.
-- Students wishing to drop the course need to do so before {{< var course.drop_deadline >}}
+- Students wishing to drop the course need to do so by {{< var course.commitment_deadline >}}
 
 ## Participation
 

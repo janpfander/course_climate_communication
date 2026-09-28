@@ -23,7 +23,6 @@ course:
   # unless a session div in syllabus.qmd sets an explicit date="dd.mm.yyyy"
   first_session: "2026-09-15"
   dates: "September 15 – December 15, 2026"
-  drop_deadline: "29.09.2026"
   commitment_deadline: "Friday, September 25, 2026 (23:59)"
   reflection_deadline: "December 18, 2026 (23:59)"
   reflection_deadline_date: "2026-12-18"  # ISO date, used for the calendar feed
