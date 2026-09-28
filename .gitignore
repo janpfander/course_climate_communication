@@ -1,12 +1,9 @@
-# Local-only source material — never commit
-Syllabus_early_template.docx
+# Local-only notes — never commit: the early syllabus template, reading
+# options for slide preparation, readings removed from the syllabus
+/notes/
 
 # Resources from other courses (local reference only, not ours to publish)
 /resources/
-
-# Readings removed from the syllabus, kept locally in case we add them back
-/_readings_archive.md
-/_reading_candidates.md
 
 # Email drafts to students (local only)
 /emails/

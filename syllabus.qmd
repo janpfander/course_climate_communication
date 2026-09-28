@@ -2,9 +2,9 @@
 title: "The Psychology of Climate Change Communication"
 subtitle: "Theoretical insights and practical applications — Syllabus, Autumn 2026"
 bibliography: references.bib
-csl: apa-cv.csl
+csl: assets/apa-cv.csl
 filters:
-  - course-structure.lua
+  - assets/course-structure.lua
 # apa-cv.csl prints the full reference in place of each citation; no reference list needed.
 suppress-bibliography: true
 format:
@@ -13,7 +13,7 @@ format:
   docx: default
 ---
 
-{{< include _header.md >}}
+{{< include _includes/header.md >}}
 
 ## Course Description
 
@@ -47,7 +47,7 @@ Course plan, reading materials, and slides will be available on Moodle and on th
 
 ## Assessment
 
-{{< include _assessment.md >}}
+{{< include _includes/assessment.md >}}
 
 ## Course Structure
 

@@ -45,17 +45,19 @@ The site is built with [Quarto](https://quarto.org/) and published from
 | `index.qmd` | Homepage: description, session overview table, calendar feed |
 | `syllabus.qmd` | Syllabus: rendered to HTML, PDF, and docx |
 | `evaluation.qmd` | Standalone course evaluation guidelines (for Moodle), rendered to HTML, PDF, and docx |
-| `_assessment.md`, `_header.md` | Text shared by the syllabus and the evaluation document via `{{< include >}}` |
 | `_variables.yml` | Course facts used across pages: instructors, room, times, dates, deadlines |
 | `_quarto.yml` | Site configuration and navigation |
-| `course-structure.lua` | Pandoc filter that turns the session blocks in `syllabus.qmd` into the course structure table |
+| `_brand.yml` | Brand colors and logo |
+| `references.bib` | Bibliography |
+| `_includes/` | Text shared by the syllabus and the evaluation document via `{{< include >}}`: `header.md` (logos, instructors) and `assessment.md` |
+| `assets/` | `styles.css` and `theme-dark.scss` (styling, light and dark theme), `apa-cv.csl` (citation style that prints full references inline), `course-structure.lua` (Pandoc filter that turns the session blocks in `syllabus.qmd` into the course structure table) |
 | `tools/` | Scripts for the group assignment and the group list PDF, citation whitelist |
-| `references.bib`, `apa.csl` | Bibliography and citation style |
 | `slides/` | Lecture slides: Quarto revealjs decks (`NN-slides.qmd`) and PDFs (`NN-slides.pdf`). PowerPoint sources (`NN-slides.pptx`) are kept here but gitignored |
-| `content/` | Per-session pages (added as the course progresses) |
 | `images/` | Logos |
-| `styles.css`, `theme-dark.scss`, `_brand.yml` | Styling, light and dark theme |
 | `docs/` | Rendered site, served by GitHub Pages |
+
+Four more folders exist only on the instructors' machines and are gitignored:
+`notes/`, `resources/`, `emails/`, and `students/`.
 
 ## License
 

@@ -8,10 +8,10 @@ format:
   docx: default
 ---
 
-{{< include _header.md >}}
+{{< include _includes/header.md >}}
 
 ::: {.callout-note}
 This information is also part of the [syllabus]({{< var course.website >}}syllabus.html) on the course website.
 :::
 
-{{< include _assessment.md >}}
+{{< include _includes/assessment.md >}}

@@ -9,6 +9,7 @@ project:
     - "!emails/"
     - "!students/"
     - "!resources/"
+    - "!notes/"
   resources:
     - images/eth_logo.svg
     - "slides/*.pdf"
@@ -57,7 +58,7 @@ format:
   html:
     theme:
       light: [cosmo, brand]
-      dark: [cosmo, brand, theme-dark.scss]
+      dark: [cosmo, brand, assets/theme-dark.scss]
     code-copy: true
-    css: styles.css
+    css: assets/styles.css
     toc: true
