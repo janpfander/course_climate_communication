@@ -2,14 +2,17 @@
 # Run once, from the project root: Rscript tools/assign_groups.R
 #
 # Input:  students/roster_2026-09-28.xlsx (myStudies export, gitignored)
-# Output: students/groups.csv (gitignored), one row per student
+# Output: students/groups_draw_2026-09-28.csv (gitignored), one row per student
 #
-# The result is frozen: the script stops if students/groups.csv exists, so a
-# draw that has been announced to students cannot be reshuffled by accident.
+# The result is frozen: the script stops if the output exists, so a draw that
+# has been announced to students cannot be reshuffled by accident. Later
+# changes (drop-outs, students changing group) are never made here: record
+# them in students/group_changes.csv and run tools/update_groups.R, which
+# writes the current list students/groups.csv.
 # Which group presents in which session is set in syllabus.qmd (groups="...").
 
 roster_file <- "students/roster_2026-09-28.xlsx"
-groups_file <- "students/groups.csv"
+groups_file <- "students/groups_draw_2026-09-28.csv"
 n_students <- 65
 n_groups <- 13
 seed <- 20260928

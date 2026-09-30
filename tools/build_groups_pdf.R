@@ -1,9 +1,10 @@
 # Builds the PDF for Moodle: presentation schedule and names per group.
 # Run from the project root: Rscript tools/build_groups_pdf.R
-# Re-run after any change to students/groups.csv or to the groups="..."
-# attributes in syllabus.qmd (e.g. two groups swapping dates).
+# Re-run after any change to students/groups.csv (tools/update_groups.R) or
+# to the groups="..." attributes in syllabus.qmd (two groups swapping dates).
+# The PDF states its version date so that the copy on Moodle can be checked.
 #
-# Input:  students/groups.csv (from tools/assign_groups.R), syllabus.qmd,
+# Input:  students/groups.csv (from tools/update_groups.R), syllabus.qmd,
 #         _variables.yml
 # Output: students/Group_assignment_and_presentation_schedule.pdf (gitignored)
 #
@@ -73,6 +74,9 @@ qmd <- c(
   sprintf("Students were randomly assigned to %d groups. %s %s–%s, room %s.",
           length(unique(groups$group)), vars$course$weekday,
           vars$course$start, vars$course$end, vars$course$room),
+  "",
+  sprintf("Version of %s (%d students). Groups change when students drop the course or change group, this version replaces earlier ones.",
+          format(Sys.Date(), "%d.%m.%Y"), nrow(groups)),
   "",
   "## Presentation schedule",
   "",

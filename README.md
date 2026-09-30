@@ -100,13 +100,18 @@ the attribute show "No presentations". The homepage table and the calendar feed
 read it at render time. If two groups swap dates, change the attribute, then
 `quarto render` and rebuild the PDF.
 
-Student data never enters the repository. The roster, the group list, and the
-PDF with names live in `students/`, which is gitignored.
+Student data never enters the repository. The roster, the group lists, and the
+PDF with names live in `students/`, which is gitignored. The random draw is
+frozen once announced. Later changes (a student drops the course or moves to
+another group) are recorded as one row each in `students/group_changes.csv`
+and applied by a script, so the current list can always be rebuilt from the
+draw plus the change log.
 
 | Script | Purpose |
 |---|---|
-| `tools/assign_groups.R` | Random draw of the groups from the roster, writes `students/groups.csv`. Runs once and stops if the file exists |
-| `tools/build_groups_pdf.R` | Builds `students/Group_assignment_and_presentation_schedule.pdf` (schedule and names per group) for Moodle. Renders in a temporary directory outside the website project |
+| `tools/assign_groups.R` | Random draw of the groups from the roster, writes `students/groups_draw_<date>.csv`. Runs once and stops if the file exists |
+| `tools/update_groups.R` | Applies `students/group_changes.csv` to the frozen draw and writes the current list `students/groups.csv`. Run after every new row in the change log |
+| `tools/build_groups_pdf.R` | Builds `students/Group_assignment_and_presentation_schedule.pdf` (schedule and names per group, with a version date) for Moodle. Renders in a temporary directory outside the website project |
 | `tools/schedule.R` | Reads the schedule from `syllabus.qmd` and `_variables.yml`, sourced by the PDF script and the email scripts |
 
 ### Slides
