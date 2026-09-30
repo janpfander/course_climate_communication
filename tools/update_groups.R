@@ -1,5 +1,5 @@
-# Applies the recorded group changes (drop-outs and moves after the draw) to
-# the frozen draw and writes the current group list.
+# Applies the recorded group changes (drop-outs, moves and late additions
+# after the draw) to the frozen draw and writes the current group list.
 # Run from the project root after adding a row to students/group_changes.csv:
 #   Rscript tools/update_groups.R
 # then Rscript tools/build_groups_pdf.R and re-upload the PDF to Moodle.
@@ -10,10 +10,12 @@
 #
 # Columns of group_changes.csv:
 #   date          day the change was recorded (ISO). Changes apply in this order
-#   change        "drop" (student left the course) or "move" (changed group)
-#   familienname, rufname, email   as in the draw (matched by email)
-#   from_group    the student's group before the change
-#   to_group      new group for a move, empty for a drop
+#   change        "drop" (student left the course), "move" (changed group)
+#                 or "add" (joined the course after the draw)
+#   familienname, rufname, email   as in the draw (matched by email); for an
+#                 add, as in the roster export (the email must be new)
+#   from_group    the student's group before the change, empty for an add
+#   to_group      new group for a move or an add, empty for a drop
 #   note          free text: who reported it, how it was announced
 
 draw_file <- "students/groups_draw_2026-09-28.csv"
@@ -30,6 +32,16 @@ for (i in seq_len(nrow(changes))) {
   ch <- changes[i, ]
   who <- paste(ch$rufname, ch$familienname)
   row <- which(tolower(groups$email) == tolower(ch$email))
+  if (ch$change == "add") {
+    if (length(row) != 0) stop(who, ": email already in the list, not an add")
+    if (!is.na(ch$from_group)) stop(who, ": an add must have an empty from_group")
+    if (!ch$to_group %in% valid_groups) stop(who, ": unknown to_group ", ch$to_group)
+    groups <- rbind(groups, data.frame(
+      group = ch$to_group, familienname = ch$familienname, rufname = ch$rufname,
+      email = ch$email, stringsAsFactors = FALSE
+    ))
+    next
+  }
   if (length(row) != 1) stop(who, ": email not found once in the current list")
   if (groups$group[row] != ch$from_group) {
     stop(who, " is in group ", groups$group[row], ", not ", ch$from_group)
@@ -41,7 +53,7 @@ for (i in seq_len(nrow(changes))) {
     if (!ch$to_group %in% valid_groups) stop(who, ": unknown to_group ", ch$to_group)
     groups$group[row] <- ch$to_group
   } else {
-    stop(who, ": change must be drop or move, got ", ch$change)
+    stop(who, ": change must be drop, move or add, got ", ch$change)
   }
 }
 
