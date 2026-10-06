@@ -224,7 +224,7 @@ This correction is fast and automatic. Knowing about it does not make the illusi
 
 ## From visual perception to information processing
 
-Visual illusions occur because our brains rely on certain standard operation procedures (e.g., correcting for shadows).
+Visual illusions occur because our brains rely on certain standard operating procedures (e.g., correcting for shadows).
 
 . . .
 
@@ -236,13 +236,7 @@ The idea behind today's lecture is that this is also true for information proces
 
 . . .
 
-Here, we will call these standard operation procedures *mental models*.
-
-. . .
-
-There are many synonyms (with roughly\*) the same meaning: heuristics, biases, shortcuts, mental models.
-
-[\*psychologists would not approve]{.citation}
+Here, we will call these standard operating procedures *mental models*.
 
 ## Why do we use mental models?
 
