@@ -610,20 +610,32 @@ The quote is from the reading (insight 1, "The Human Brain Privileges Experience
 
 ## Today's weather and beliefs about climate change
 
-In three studies, residents of the United States and Australia were asked about global warming, and whether the day of the study was warmer or colder than usual [@liLocalWarmingDaily2011].
+582 Americans and 290 Australians were asked how convinced they are that global warming is happening, and whether the day was colder or warmer than usual [@liLocalWarmingDaily2011].
 
 . . .
 
-Those who thought the day was warmer than usual believed more in global warming and were more concerned about it. They also donated more money to a global-warming charity.
+Those who found the day much warmer than usual were about one point more convinced, on a 4-point scale, than those who found it much colder.
 
 . . .
 
-Five further studies support the explanation: people "use less relevant but available information (for example, today's temperature) in place of more diagnostic but less accessible information (for example, global climate change patterns)" [@zavalHowWarmDays2014].
+In a further study, they also donated more to a climate charity: \$2.04 on average, against \$0.48.
+
+. . .
+
+An easy judgement (today's temperature) seems to replace a hard one (global temperature trends).
 
 ::: {.notes}
-Li, Johnson & Zaval 2011, Psychological Science, DOI 10.1177/0956797611400913, "Local Warming: Daily Temperature Change Influences Belief in Global Warming". The authors call the mechanism attribute substitution: the "replacement of a more complex, less easily accessed judgment with a simple, more accessible one".
+Li, Johnson & Zaval 2011, Psychological Science, 22(4), 454–459, DOI 10.1177/0956797611400913.
 
-Zaval, Keenan, Johnson & Weber 2014, Nature Climate Change, DOI 10.1038/nclimate2093. "present temperature abnormalities are given undue weight and lead to an overestimation of the frequency of similar past events, thereby increasing belief in and concern for global warming." One of the five studies, in which words related to heat were used as a prime, did not replicate in Many Labs 2 (original d = 0.31, replication d = −0.03, N = 4,204).
+Studies 1a and 1b: a short web survey with 582 people in the United States (in winter) and 290 in Australia (in summer). Belief ("how convinced are you that global warming is happening") and concern were measured from 0 (not at all) to 3 (completely / a great deal). Perceived temperature went from −2 (much colder than usual for the time of year) to 2 (much warmer). "For the two temperature extremes, the difference in perceived deviation resulted in a one-point difference (on a 4-point scale) in both belief and concern." The order of the questions made little difference, which suggests that people were not aware of the influence.
+
+Study 2: 251 participants, with 18 minutes of unrelated tasks between the two questions. They could donate part of their payment to the charity Clean Air-Cool Planet. "Participants who thought the temperature was much colder than usual donated an average of only $0.48 (SD = $1.74; 24% of participants donated), whereas those who thought the temperature was much warmer than usual donated an average of $2.04 (SD = $2.43; 63% of participants donated)."
+
+The data are correlational. To address reverse causation (believers may perceive the day as warmer), the authors used the actual temperature deviation as an instrument for the perceived one. The effect on belief and concern remained.
+
+Their interpretation is attribute substitution, "in which an easily accessible judgment (the current day's local temperature) is used in place of a more complex and less accessible one (global temperature trends)".
+
+A follow-up with five further studies supports this explanation (Zaval, Keenan, Johnson & Weber 2014, Nature Climate Change, DOI 10.1038/nclimate2093): people "use less relevant but available information (for example, today's temperature) in place of more diagnostic but less accessible information (for example, global climate change patterns)". One of the five, in which words related to heat were used as a prime, did not replicate in Many Labs 2 (original d = 0.31, replication d = −0.03, N = 4,204).
 :::
 
 ## 4. Social norms and climate change
