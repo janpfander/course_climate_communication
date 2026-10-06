@@ -280,6 +280,10 @@ Tversky and Kahneman's answer: people judge outcomes as gains or losses relative
 
 [@tverskyFramingDecisionsPsychology1981]
 
+. . .
+
+In our experiment: faced with a certain loss (400 deaths), most people (78%) preferred the gamble that offered a chance of losing nothing.
+
 ::: {.notes}
 The quote is from Tversky & Kahneman 1981. The reading (insight 4): "people psychologically evaluate gains and losses in fundamentally different ways". Prospect theory patterns replicated in 19 countries (Ruggeri et al. 2020, n = 4,098: "The results replicated for 94% of items, with some attenuation."). Whether losses in general weigh more than gains is disputed: Gal & Rucker 2018 conclude that "current evidence does not support that losses, on balance, tend to be any more impactful than gains".
 :::
@@ -462,24 +466,56 @@ Jan's note: to answer this, we need to introduce probability in loss aversion. P
 
 ## Why gain frames, if people would like to avoid losses?
 
-Climate solutions are often presented as certain losses today (e.g., higher taxes), and climate impacts as uncertain losses in the distant future.
+Two losses are in play here, and they differ in time. Climate solutions are often presented as an immediate and certain loss (e.g., higher taxes). Climate impacts are uncertain losses in the distant future.
 
 . . .
 
-Remember our experiment: "choices involving gains are often risk averse and choices involving losses are often risk taking" [@tverskyFramingDecisionsPsychology1981].
+Now beats later: the distant loss may count for less. The loss that people want to avoid most could then be the cost of acting.
 
 . . .
 
-When everything is framed as a loss, this "encourages people to conclude that maintaining the status quo may be 'worth the gamble'" [@vanderlindenImprovingPublicEngagement2015].
+And when losses are uncertain, people tend to gamble, as in our experiment. This "encourages people to conclude that maintaining the status quo may be 'worth the gamble'" [@vanderlindenImprovingPublicEngagement2015].
 
 . . .
 
 The reading therefore suggests talking about "the positive benefits (gains) of immediate action".
 
 ::: {.notes}
-This is the reading's own argument (insight 4): "prospect theory (Kahneman & Tversky, 1979) demonstrates that people are more risk-seeking in loss domains than they are in gain domains. In particular, people are more reluctant to take action when losses are paired with uncertainty (Tversky & Shafir, 1992). In other words, when climate change impacts are framed as potential (i.e., uncertain) losses in the distant future, whereas climate change solutions are framed as certain losses for society at present, it encourages people to conclude that maintaining the status quo may be 'worth the gamble.'"
+The reading's passage (insight 4) names both ingredients, time and certainty: "when climate change impacts are framed as potential (i.e., uncertain) losses in the distant future, whereas climate change solutions are framed as certain losses for society at present, it encourages people to conclude that maintaining the status quo may be 'worth the gamble.'" Just before: "prospect theory (Kahneman & Tversky, 1979) demonstrates that people are more risk-seeking in loss domains than they are in gain domains. In particular, people are more reluctant to take action when losses are paired with uncertainty (Tversky & Shafir, 1992)."
 
-So the advice to use gain frames rests on risk attitudes, the probability part of prospect theory. The claim that losses weigh more than gains is a separate one, and it is disputed (Gal & Rucker 2018, see the notes of "1. Losses and gains").
+The link to time discounting on this slide is our reading of that passage. The reading itself stresses the uncertainty. A caveat from Ruggeri et al. 2022: gains seem to be discounted more than losses. Their example: people "prefer to receive $500 now over $550 in 12 months, but also prefer to pay $500 now over paying $550 in 12 months". This gain–loss asymmetry was the most common anomaly (40.1%).
+
+Whether losses weigh more than equal gains in general is disputed (Gal & Rucker 2018, see the notes of "1. Losses and gains").
+:::
+
+## 2. Now beats later, and climate change
+
+For many people, climate change is distant in all three ways at once: "a nonurgent and psychologically distant risk—spatially, temporally, and socially" [@vanderlindenImprovingPublicEngagement2015].
+
+. . .
+
+The reading's advice follows from this: "Emphasize the present and make climate change impacts and solutions locally relevant."
+
+::: {.notes}
+The quote is from the reading (insight 3, "Out of Sight, Out of Mind: The Nature of Psychological Distance"), the advice from its Table 1.
+:::
+
+## Discounting in a climate game
+
+In a group experiment framed around climate change, participants could contribute money to avoid a collective loss.
+
+. . .
+
+The rewards of cooperating were paid out after one day, after seven weeks, or several decades later.
+
+. . .
+
+The longer the delay, the less the groups cooperated. Gains "delayed significantly into the future" were found to "markedly diminish cooperation".
+
+[@jacquetIntraIntergenerationalDiscounting2013]
+
+::: {.notes}
+Jacquet, Hagel, Hauert, Marotzke, Röhl & Milinski 2013, Nature Climate Change, DOI 10.1038/nclimate2024. Abstract: "The rewards of defection were immediate, whereas the rewards of cooperation were delayed by one day, delayed by seven weeks (intragenerational discounting), or delayed by several decades and spread over a much larger" group. Only the abstract was read.
 :::
 
 ## Framing climate change: themes
@@ -516,36 +552,6 @@ Two survey experiments with 1,675 participants in total suggest that they are no
 
 ::: {.notes}
 Bernauer & McGrath 2016, Nature Climate Change, DOI 10.1038/nclimate2948 (ETH Zurich). "strategies to garner public support based on the traditional justification of reducing the risks of climate change remain the most effective".
-:::
-
-## 2. Now beats later, and climate change
-
-For many people, climate change is distant in all three ways at once: "a nonurgent and psychologically distant risk—spatially, temporally, and socially" [@vanderlindenImprovingPublicEngagement2015].
-
-. . .
-
-The reading's advice follows from this: "Emphasize the present and make climate change impacts and solutions locally relevant."
-
-::: {.notes}
-The quote is from the reading (insight 3, "Out of Sight, Out of Mind: The Nature of Psychological Distance"), the advice from its Table 1.
-:::
-
-## Discounting in a climate game
-
-In a group experiment framed around climate change, participants could contribute money to avoid a collective loss.
-
-. . .
-
-The rewards of cooperating were paid out after one day, after seven weeks, or several decades later.
-
-. . .
-
-The longer the delay, the less the groups cooperated. Gains "delayed significantly into the future" were found to "markedly diminish cooperation".
-
-[@jacquetIntraIntergenerationalDiscounting2013]
-
-::: {.notes}
-Jacquet, Hagel, Hauert, Marotzke, Röhl & Milinski 2013, Nature Climate Change, DOI 10.1038/nclimate2024. Abstract: "The rewards of defection were immediate, whereas the rewards of cooperation were delayed by one day, delayed by seven weeks (intragenerational discounting), or delayed by several decades and spread over a much larger" group. Only the abstract was read.
 :::
 
 ## 3. Experience and climate change
