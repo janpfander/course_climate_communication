@@ -9,14 +9,15 @@ subtitle: "Psychology of Climate Change Communication · Week 4"
 
 ## Trigger warning to psychologists
 
-A narrow definition of mental models: 
+A narrow definition of mental models:
 
 A simplified picture, in someone’s head, of how something works (e.g., climate change as a bathtub [bring back the example here with a citation and some notes for me to explain])
 
-A broader definition I would like to take today: 
+. . .
 
-General features of human psychology that describe how people think, decide, and act across a range of contexts. 
+A broader definition I would like to take today:
 
+General features of human psychology that describe how people think, decide, and act across a range of contexts.
 
 ## Recap
 
@@ -33,7 +34,7 @@ Without trust in the messenger, it is hard to change minds.
 **TODAY: Week 4 · Mental models and framing**\
 How can we communicate more effectively to change minds? By appealing to features of human psychology.
 
-(some of these were teasered in Week 1 already)
+(some of these were teased in Week 1 already)
 
 ::: {.notes}
 Recap, kept superficial on purpose.
@@ -44,7 +45,7 @@ Recap, kept superficial on purpose.
 1. A quick experiment
 2. Mental models
 3. Framing effects in climate change communication
-5. Revisting the deficit model
+4. Revisiting the deficit model
 
 # 1. A quick experiment
 
@@ -140,7 +141,7 @@ The main idea: individuals make rational decisions by analysing the costs and be
 
 . . .
 
-Mental models and framing effects hard to reconcile with this picture. The costs and benefits of the two programs were identical. Only the description changed.
+Mental models and framing effects are hard to reconcile with this picture. The costs and benefits of the two programs were identical. Only the description changed.
 
 ::: {.notes}
 The definition of rational choice theory follows Mélusine Boon-Falleur's lecture 2 ("From Homo Economicus to Homo Bias").
@@ -158,8 +159,7 @@ Features of human psychology that describe how people think, decide, and act...
 
 . . .
 
-Many terms for roughly the same idea: heuristics, biases, mental shortcuts
-
+Many terms for roughly the same idea: heuristics, biases, mental shortcuts.
 
 ## The mind as an information-processing device
 
@@ -168,12 +168,11 @@ Many terms for roughly the same idea: heuristics, biases, mental shortcuts
 Input → Computation → Output
 
 ::: {.notes}
-
 In cognitive science, people study the mind as an information-processing device.
 
 Information comes in, the mind does something with it, and a perception, a judgement or a decision comes out.
 
-To convince you that our mind is not just a perfect mirror of reality, let's have a look at some well known optical illusions.
+To convince you that our mind is not just a perfect mirror of reality, let's have a look at some well-known optical illusions.
 :::
 
 ## Which square is darker, A or B?
@@ -210,22 +209,21 @@ This correction is fast and automatic. Knowing about it does not make the illusi
 
 ![[Roger Shepard, Terror Subterra]{.citation}](images/not_cleared/terror_subterra_line2.png)
 
-
 ## They are the same
 
 ![[Roger Shepard, Terror Subterra]{.citation}](images/not_cleared/terror_subterra_lines.png)
 
 ## From visual perception to information processing
 
-Visual illusions occur because our brains relies on certain standard operation procedures (e.g., correcting for shadows).
+Visual illusions occur because our brains rely on certain standard operation procedures (e.g., correcting for shadows).
 
-. . . 
+. . .
 
 These procedures use simplified assumptions about how the world works.
 
 . . .
 
-The idea behind today's lecture is that is also true for information processing.
+The idea behind today's lecture is that this is also true for information processing.
 
 . . .
 
@@ -233,9 +231,9 @@ Here, we will call these standard operation procedures *mental models*.
 
 . . .
 
-There are many synonyms (with roughly*) the same meaning: heuristics, biases, shortcuts, mental models.
+There are many synonyms (with roughly\*) the same meaning: heuristics, biases, shortcuts, mental models.
 
-*psychologists would not approve
+[\*psychologists would not approve]{.citation}
 
 ## Why do we use mental models?
 
@@ -297,17 +295,15 @@ Gain frames led to more positive attitudes towards climate change mitigation tha
 Spence & Pidgeon 2010, Global Environmental Change, DOI 10.1016/j.gloenvcha.2010.07.002. Abstract: "gain frames were superior to loss frames in increasing positive attitudes towards climate change mitigation, and also increased the perceived severity of climate change impacts." The text was adapted from the 2007 IPCC report. One small study, see section 4.
 :::
 
----
+##
 
-[Exercise: if people would like to avoid losses more, how does this relate to todays reading, suggesting that positive frames might aid]
+[Exercise: if people would like to avoid losses more, how does this relate to today's reading, suggesting that positive frames might aid]
 
-Go read the paper gain and discuss with your neighbor 5mins
+Go read the paper again and discuss with your neighbor (5 minutes).
 
----
+##
 
 [to answer this, we need to introduce probability in loss aversion]
-
----
 
 ## 2. Now beats later
 
@@ -495,24 +491,27 @@ The authors' explanation: people expect money raised in one domain to be spent i
 Mus et al. 2023: "people create mental budgets where the origin of revenues is matched thematically with their domain of use". Most support for a mixed scheme: most revenue to green projects, the rest to low-income households.
 :::
 
-# Framing
+# 3. Framing effects in climate change communication
 
-## How does framing relate to mental models? 
+## How does framing relate to mental models?
 
-They are two sides of the same coin
+They are two sides of the same coin.
 
-A framing effect is the "odd observation", where the same information only packaged slightly differently causes different reactions
+. . .
 
-If similar framing effects are regularly appearing across contexts, we call it a mental model
+A framing effect is the "odd observation", where the same information only packaged slightly differently causes different reactions.
+
+. . .
+
+If similar framing effects are regularly appearing across contexts, we call it a mental model.
 
 ## A (kind of) practical definition
 
 How to package the essentially same information slightly differently, by appealing to the mental models.
 
----
+## {.big-center}
 
-What's the evidence on framing effects in climate change communication [center big]
-
+What's the evidence on framing effects in climate change communication?
 
 ## Classic example 1: the same beef
 
@@ -720,8 +719,6 @@ The authors link this to the "boiling frog" effect: a slow, gradual shift is eas
 Liu, Snell, Griffiths & Dubey 2025, Nature Human Behaviour. "our approach does not involve selective data presentation but rather compares different datasets that reflect equivalent trends in climate change over time". A link to mental model 3. The figure is in Anne Urai's Leiden deck 6, p. 6. No open licence found, so no figure here.
 :::
 
-# 4. Does it work for climate change?
-
 ##
 
 These studies suggest that framing matters for climate change communication.
@@ -836,7 +833,7 @@ Costly behaviour is much harder to influence with a message alone.
 
 And the effect of a frame depends on who is listening.
 
-# 5. Back to the deficit model
+# 4. Revisiting the deficit model
 
 ##
 
@@ -890,7 +887,6 @@ Is a personalised conversation still "facts alone", or is it a form of framing?
 
 What could go wrong?
 
-
 ## A long list of regularities
 
 ![[Cognitive Bias Codex. Design: John Manoogian III, categories: Buster Benson. CC BY-SA 4.0, via Wikimedia Commons]{.citation}](images/cognitive_bias_codex.svg)
@@ -898,7 +894,6 @@ What could go wrong?
 ::: {.notes}
 The codex groups 188 cognitive biases listed on Wikipedia. The point of the slide is the sheer number, nobody needs to read it.
 :::
-
 
 ## To take home
 
@@ -917,11 +912,7 @@ For climate change, large studies suggest that framing helps modestly: a few per
 ::: {#refs}
 :::
 
-
----
-
-# backup slides (potentiall thrown out)
-
+# Backup slides (potentially thrown out)
 
 ## Are these mistakes?
 
@@ -938,7 +929,6 @@ For communicators, a more useful reading may be this: these are regular features
 ::: {.notes}
 Mélusine Boon-Falleur's lecture 3 ends on the same note: heuristics often satisfice, and many follow a simple logic that minimises costly errors (the "smoke detector principle").
 :::
-
 
 ## Your turn
 
