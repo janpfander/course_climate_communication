@@ -293,11 +293,13 @@ Would you rather receive CHF 100 today, or CHF 110 in a year?
 Hands. The amounts are an illustration. The structure of the choice (10% more after one year) is the first question in Ruggeri et al. 2022, two slides further.
 :::
 
-## {.big-center}
+## The Marshmallow Test
 
-The Marshmallow Test
+```{=html}
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/QX_oy9614HQ" title="The Marshmallow Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
 
-[▶ Watch the video on YouTube](https://www.youtube.com/watch?v=QX_oy9614HQ){target="_blank"}
+[▶ If the video does not load: watch it on YouTube](https://www.youtube.com/watch?v=QX_oy9614HQ){target="_blank"}
 
 ::: {.notes}
 The Marshmallow Test (Walter Mischel, Stanford, 1960s) was on the Week 1 slides, but there was no time to show the video. It illustrates the choice between a smaller reward now and a larger reward later.
