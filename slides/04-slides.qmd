@@ -702,10 +702,6 @@ A caution on the wording of norm messages (Schultz et al. 2007, Psychological Sc
 
 . . .
 
-In a US experiment (N = 1,104), people who came to perceive a higher scientific consensus were more likely to believe that climate change is happening, human-caused and a worrisome threat. These beliefs in turn predicted more support for public action. The authors call perceived scientific agreement a "gateway belief" [@vanderlindenScientificConsensusClimate2015].
-
-. . .
-
 Across 27 countries (n = 10,527), the consensus message substantially reduced misperceptions and slightly increased climate change beliefs. It did not directly increase support for public action [@veckalov27countryTestCommunicating2024].
 
 ::: {.notes}
@@ -810,24 +806,6 @@ This framing increased belief in climate change and support for climate policies
 
 ::: {.notes}
 Mason, Vlasceanu & Jost 2024, PNAS. The same paper also tested the frame across 63 countries, see "How big are the effects?". The words and labels examples show a similar thing within the United States: who hears a frame matters. More on identity and motivated reasoning in week 9.
-:::
-
-## Other framing effects: themes
-
-7,500 adults in China, Germany, India, the United Kingdom and the United States saw climate messages that varied at random.
-
-. . .
-
-Support for climate policies was higher with a positive frame (opportunity instead of threat), with health and environment themes, and with a global and immediate perspective.
-
-. . .
-
-Among people unconcerned about climate change, positive and health frames increased support.
-
-[@dasandiPositiveGlobalHealth2022]
-
-::: {.notes}
-Dasandi, Graham, Hudson, Jankin, vanHeerde-Hudson & Watts 2022, Communications Earth & Environment, DOI 10.1038/s43247-022-00571-x. Conjoint experiment. Messages varied on framing (positive or negative), theme (health, environment, economy, migration), scale (individual, community, national, global) and time (current, 2030, 2050).
 :::
 
 ## Other framing effects: data
