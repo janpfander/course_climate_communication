@@ -1034,10 +1034,6 @@ A single message cannot answer back. In a discussion, a person's counterargument
 
 . . .
 
-In a study on genetically modified organisms (GMOs), giving people good arguments that rebut the most common counterarguments led to much more positive attitudes towards GMOs [@altayScalingInteractiveArgumentation2022].
-
-. . .
-
 This may also explain the conversations with an AI. Earlier attempts may have failed because the counterevidence was "insufficiently compelling and tailored" [@costelloDurablyReducingConspiracy2024].
 
 ::: {.notes}
@@ -1062,7 +1058,7 @@ Framing means packaging essentially the same information differently, by appeali
 
 Mental models are no universal rules that always apply in different contexts. Sometimes, other factors are more important.
 
-. . .
+## To take home
 
 For climate change, large studies suggest that framing helps modestly: a few percentage points on attitudes, and little on costly behaviour.
 
