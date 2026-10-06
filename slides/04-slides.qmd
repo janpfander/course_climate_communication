@@ -323,19 +323,17 @@ The result: "Temporal discounting was present in all countries, with only modest
 Ruggeri et al. 2022, Nature Human Behaviour, DOI 10.1038/s41562-022-01392-w, CC BY 4.0. First choice: "approximately 10% of the national monthly household income average" immediately, "or 110% of that value in 12 months". Those who chose the immediate option were then offered 120%, and then 150%. Caption of Fig. 3: "all locations indicate some preference for immediate over delayed". Also: "countries with lower incomes typically had greater temporal discounting levels in the baseline items". The paper's main interest is in intertemporal choice anomalies: "54% of participants showed at least one anomaly".
 :::
 
-## 2. Temporal discounting
+## Temporal discounting in 61 countries
 
-"people tend to heavily discount (uncertain) future events when making trade-offs between cost and benefits that accrue at different points in time" [@vanderlindenImprovingPublicEngagement2015]
-
-. . .
-
-This is called *temporal discounting*. Something similar seems to hold for distance more generally: what is far away in time, in space, or from people like us tends to feel less urgent.
+![[Fig. 4c from @ruggeriGlobalizabilityTemporalDiscounting2022, CC BY 4.0, cropped]](images/ruggeri2022_fig4c.png)
 
 ::: {.notes}
-The quote is from the reading (insight 3, "Out of Sight, Out of Mind: The Nature of Psychological Distance").
+One line per country, ordered from the lowest score (Japan) to the highest (Argentina). The score summarises all choices of a participant and runs "from 0 (always prefer delayed gains or earlier losses) to 19 (always prefer immediate gains or delayed losses)". Dots are country means with prediction intervals, grey bars are standard deviations. Colours: purple for high-income, red for upper-middle-income and yellow for lower-middle-income countries.
+
+What to see: no country is near 0. National means range "from Japan (mean = 7.1, s.d. = 3.9) to Argentina (mean = 14.1, s.d. = 3.0)", with an aggregate mean of 10.3. Switzerland (CHE) is the fifth line from the top.
 :::
 
-##
+## 3. Availability bias
 
 What causes more deaths: tornadoes or asthma?
 

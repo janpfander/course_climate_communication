@@ -224,28 +224,28 @@
     "href": "slides/04-slides.html#section-5",
     "title": "Mental models and framing",
     "section": "",
-    "text": "What causes more deaths: tornadoes or asthma?\n\nHands. Tornadoes are seen as more frequent killers than asthma, although asthma causes 20 times more deaths. The same example was on the Week 1 slides."
+    "text": "Imagine you are about to buy a jacket for $125 and a calculator for $15. The calculator is on sale for $10 at another branch of the store, 20 minutes’ drive away. Would you make the trip?\n\nNow imagine the calculator costs $125 and is on sale for $120 at the other branch. Would you make the trip?\n\nHands after each version. Adapted from Tversky & Kahneman 1981, Problem 10. In the original the two versions went to two different groups (N = 93 and N = 88) and the jacket price was swapped as well ($15 in the second version), so that the total was the same."
   },
   {
     "objectID": "slides/04-slides.html#section-6",
     "href": "slides/04-slides.html#section-6",
     "title": "Mental models and framing",
     "section": "",
-    "text": "Imagine you are about to buy a jacket for $125 and a calculator for $15. The calculator is on sale for $10 at another branch of the store, 20 minutes’ drive away. Would you make the trip?\n\nNow imagine the calculator costs $125 and is on sale for $120 at the other branch. Would you make the trip?\n\nHands after each version. Adapted from Tversky & Kahneman 1981, Problem 10. In the original the two versions went to two different groups (N = 93 and N = 88) and the jacket price was swapped as well ($15 in the second version), so that the total was the same."
+    "text": "What’s the evidence on framing effects in climate change communication?"
   },
   {
     "objectID": "slides/04-slides.html#section-7",
     "href": "slides/04-slides.html#section-7",
     "title": "Mental models and framing",
     "section": "",
-    "text": "What’s the evidence on framing effects in climate change communication?"
+    "text": "If people would like to avoid losses more, how does this relate to today’s reading, suggesting that positive frames might aid?\nGo read the paper again and discuss with your neighbor (5 minutes).\n\n\nPointer for students: insight 4 in the reading, “Framing the Big Picture: Nobody Likes Losing (but Everyone Likes Gaining)”."
   },
   {
     "objectID": "slides/04-slides.html#section-8",
     "href": "slides/04-slides.html#section-8",
     "title": "Mental models and framing",
     "section": "",
-    "text": "If people would like to avoid losses more, how does this relate to today’s reading, suggesting that positive frames might aid?\nGo read the paper again and discuss with your neighbor (5 minutes).\n\n\nPointer for students: insight 4 in the reading, “Framing the Big Picture: Nobody Likes Losing (but Everyone Likes Gaining)”."
+    "text": "How big are the effects?"
   },
   {
     "objectID": "slides/04-slides.html#now-beats-later",
@@ -259,7 +259,7 @@
     "href": "slides/04-slides.html#section-9",
     "title": "Mental models and framing",
     "section": "",
-    "text": "How big are the effects?"
+    "text": "In week 2, the conclusion was that facts alone rarely change minds.\n\nA recent line of research complicates this picture."
   },
   {
     "objectID": "slides/04-slides.html#losses-and-gains",
@@ -273,14 +273,14 @@
     "href": "slides/04-slides.html#section-10",
     "title": "Mental models and framing",
     "section": "",
-    "text": "In week 2, the conclusion was that facts alone rarely change minds.\n\nA recent line of research complicates this picture."
+    "text": "Why do facts seem to work in conversations with chatbots?"
   },
   {
     "objectID": "slides/04-slides.html#section-11",
     "href": "slides/04-slides.html#section-11",
     "title": "Mental models and framing",
     "section": "",
-    "text": "Why do facts seem to work in conversations with chatbots?"
+    "text": "Loss aversion\nTemporal discounting\nAvailability bias\nSocial norms\nMental accounting\n\n\nA. “Leverage intrinsic motivation to support long-term environmental goals.”\nB. “Frame policy solutions in terms of what can be gained (not in terms of what is lost).”\nC. “Highlight relevant personal experiences through affective recall, stories, and metaphors.”\nD. “Emphasize the present and make climate change impacts and solutions locally relevant.”\nE. “Activate and leverage relevant social group norms to promote and increase collective action.”\n\n(Van Der Linden et al., 2015, Table 1)\n\nSolution: 1–B, 2–D, 3–C, 4–E. Advice A (intrinsic motivation) has no match. Mental model 5 has no advice, mental accounting is not in the reading. Debrief question: what advice would you write for number 5? Optional example for A: Gneezy & Rustichini 2000, “A Fine is a Price” (DOI 10.1086/468061). A day-care fine for late parents: “the number of late-coming parents increased significantly”, and it did not go down again after the fine was removed."
   },
   {
     "objectID": "slides/04-slides.html#section-12",
@@ -1141,7 +1141,7 @@
     "href": "slides/04-slides.html#availability-bias",
     "title": "Mental models and framing",
     "section": "3. Availability bias",
-    "text": "3. Availability bias\nWhen people judge how frequent different causes of death are, their estimates are “systematically biased”. Some causes are exaggerated, others underestimated.\n\nThe authors traced this to “disproportionate exposure, memorability, or imaginability”. What comes to mind easily seems more frequent.\n\n\nThe reading states the general point as: “The human brain privileges experience over analysis” (Van Der Linden et al., 2015).\n(Lichtenstein et al., 1978)\n\nLichtenstein, Slovic, Fischhoff, Layman & Combs 1978, DOI 10.1037/0278-7393.4.6.551, quotes from the abstract. The pattern is called the availability bias, or the availability heuristic."
+    "text": "3. Availability bias\nWhat causes more deaths: tornadoes or asthma?\n\nHands. Tornadoes are seen as more frequent killers than asthma, although asthma causes 20 times more deaths. The same example was on the Week 1 slides."
   },
   {
     "objectID": "slides/04-slides.html#social-norms-paying-taxes-1",
@@ -1233,5 +1233,19 @@
     "title": "Mental models and framing",
     "section": "Chatbots as scaled-up dialogue",
     "text": "Chatbots as scaled-up dialogue\nA leaflet cannot answer back. In a discussion, a person’s counterarguments can be addressed one by one.\n\nIn France, 701 participants could ask a chatbot their questions about COVID-19 vaccines. After a few minutes, their attitudes towards vaccination were more positive and their intentions to get vaccinated were higher (Altay et al., 2021).\n\n\nThis may also explain the conversations with an AI. Earlier attempts may have failed because the counterevidence was “insufficiently compelling and tailored” (Costello et al., 2024).\n\nAltay, Hacquin, Chevallier & Mercier 2021, Journal of Experimental Psychology: Applied, DOI 10.1037/xap0000400. Intentions ß = 0.12, attitudes ß = 0.23. Their argument: if people “do not have an interlocutor who can address these counter-arguments (e.g., if they read a leaflet), they are less likely to change their minds”, and “The interactivity that small-group discussion provides is, however, difficult to scale up.”\nA caveat: it may be the good arguments more than the interactivity. In a study on genetically modified organisms, good arguments against the most common counterarguments led to much more positive attitudes, but “we found no evidence that an interactive chatbot proves more persuasive than a list of arguments and counterarguments” (Altay et al. 2022, Nature Human Behaviour, DOI 10.1038/s41562-021-01271-w).\nCostello et al. 2024 on their own result: the AI can “tailor counterarguments to specific conspiracies, reasoning, and evidence the believer brings to bear”. They also write that “the causal mechanisms underpinning our results remain unformalized”."
+  },
+  {
+    "objectID": "slides/04-slides.html#temporal-discounting-in-61-countries-1",
+    "href": "slides/04-slides.html#temporal-discounting-in-61-countries-1",
+    "title": "Mental models and framing",
+    "section": "Temporal discounting in 61 countries",
+    "text": "Temporal discounting in 61 countries\n\n(Fig. 4c from Ruggeri et al., 2022, CC BY 4.0, cropped)\nOne line per country, ordered from the lowest score (Japan) to the highest (Argentina). The score summarises all choices of a participant and runs “from 0 (always prefer delayed gains or earlier losses) to 19 (always prefer immediate gains or delayed losses)”. Dots are country means with prediction intervals, grey bars are standard deviations. Colours: purple for high-income, red for upper-middle-income and yellow for lower-middle-income countries.\nWhat to see: no country is near 0. National means range “from Japan (mean = 7.1, s.d. = 3.9) to Argentina (mean = 14.1, s.d. = 3.0)”, with an aggregate mean of 10.3. Switzerland (CHE) is the fifth line from the top."
+  },
+  {
+    "objectID": "slides/04-slides.html#availability-bias-1",
+    "href": "slides/04-slides.html#availability-bias-1",
+    "title": "Mental models and framing",
+    "section": "3. Availability bias",
+    "text": "3. Availability bias\nWhen people judge how frequent different causes of death are, their estimates are “systematically biased”. Some causes are exaggerated, others underestimated.\n\nThe authors traced this to “disproportionate exposure, memorability, or imaginability”. What comes to mind easily seems more frequent.\n\n\nThe reading states the general point as: “The human brain privileges experience over analysis” (Van Der Linden et al., 2015).\n(Lichtenstein et al., 1978)\n\nLichtenstein, Slovic, Fischhoff, Layman & Combs 1978, DOI 10.1037/0278-7393.4.6.551, quotes from the abstract. The pattern is called the availability bias, or the availability heuristic."
   }
 ]
