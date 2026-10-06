@@ -224,28 +224,28 @@
     "href": "slides/04-slides.html#section-5",
     "title": "Mental models and framing",
     "section": "",
-    "text": "Imagine you are about to buy a jacket for $125 and a calculator for $15. The calculator is on sale for $10 at another branch of the store, 20 minutes’ drive away. Would you make the trip?\n\nNow imagine the calculator costs $125 and is on sale for $120 at the other branch. Would you make the trip?\n\nHands after each version. Adapted from Tversky & Kahneman 1981, Problem 10. In the original the two versions went to two different groups (N = 93 and N = 88) and the jacket price was swapped as well ($15 in the second version), so that the total was the same."
+    "text": "What’s the evidence on framing effects in climate change communication?"
   },
   {
     "objectID": "slides/04-slides.html#section-6",
     "href": "slides/04-slides.html#section-6",
     "title": "Mental models and framing",
     "section": "",
-    "text": "What’s the evidence on framing effects in climate change communication?"
+    "text": "If people would like to avoid losses more, how does this relate to today’s reading, suggesting that positive frames might aid?\nGo read the paper again and discuss with your neighbor (5 minutes).\n\n\nPointer for students: insight 4 in the reading, “Framing the Big Picture: Nobody Likes Losing (but Everyone Likes Gaining)”."
   },
   {
     "objectID": "slides/04-slides.html#section-7",
     "href": "slides/04-slides.html#section-7",
     "title": "Mental models and framing",
     "section": "",
-    "text": "If people would like to avoid losses more, how does this relate to today’s reading, suggesting that positive frames might aid?\nGo read the paper again and discuss with your neighbor (5 minutes).\n\n\nPointer for students: insight 4 in the reading, “Framing the Big Picture: Nobody Likes Losing (but Everyone Likes Gaining)”."
+    "text": "How big are the effects?"
   },
   {
     "objectID": "slides/04-slides.html#section-8",
     "href": "slides/04-slides.html#section-8",
     "title": "Mental models and framing",
     "section": "",
-    "text": "How big are the effects?"
+    "text": "In week 2, the conclusion was that facts alone rarely change minds.\n\nA recent line of research complicates this picture."
   },
   {
     "objectID": "slides/04-slides.html#now-beats-later",
@@ -259,7 +259,7 @@
     "href": "slides/04-slides.html#section-9",
     "title": "Mental models and framing",
     "section": "",
-    "text": "In week 2, the conclusion was that facts alone rarely change minds.\n\nA recent line of research complicates this picture."
+    "text": "Why do facts seem to work in conversations with chatbots?"
   },
   {
     "objectID": "slides/04-slides.html#losses-and-gains",
@@ -273,7 +273,7 @@
     "href": "slides/04-slides.html#section-10",
     "title": "Mental models and framing",
     "section": "",
-    "text": "Why do facts seem to work in conversations with chatbots?"
+    "text": "Loss aversion\nTemporal discounting\nAvailability bias\nSocial norms\nMental accounting\n\n\nA. “Leverage intrinsic motivation to support long-term environmental goals.”\nB. “Frame policy solutions in terms of what can be gained (not in terms of what is lost).”\nC. “Highlight relevant personal experiences through affective recall, stories, and metaphors.”\nD. “Emphasize the present and make climate change impacts and solutions locally relevant.”\nE. “Activate and leverage relevant social group norms to promote and increase collective action.”\n\n(Van Der Linden et al., 2015, Table 1)\n\nSolution: 1–B, 2–D, 3–C, 4–E. Advice A (intrinsic motivation) has no match. Mental model 5 has no advice, mental accounting is not in the reading. Debrief question: what advice would you write for number 5? Optional example for A: Gneezy & Rustichini 2000, “A Fine is a Price” (DOI 10.1086/468061). A day-care fine for late parents: “the number of late-coming parents increased significantly”, and it did not go down again after the fine was removed."
   },
   {
     "objectID": "slides/04-slides.html#section-11",
@@ -1085,14 +1085,14 @@
     "href": "slides/04-slides.html#mental-accounting",
     "title": "Mental models and framing",
     "section": "5. Mental accounting",
-    "text": "5. Mental accounting\nIn the original study, 68% were willing to make the trip to save $5 on a $15 calculator. Only 29% were willing to make the same trip to save $5 on a $125 calculator (Tversky & Kahneman, 1981).\n\nPeople do not seem to treat the $5 as simply $5. They set it against the price of the item, as if each purchase had its own account.\n\n\nThis is called mental accounting: people seem to keep separate mental budgets, and money in one budget is not treated like money in another.\n\nA second example in the same paper, Problems 8 and 9: after losing a $10 bill, 88% would still buy a $10 theatre ticket. After losing the ticket itself, only 46% would buy another one. Mental accounting effects replicated across 21 countries (Priolo et al. 2026)."
+    "text": "5. Mental accounting\nImagine you are about to buy a jacket for $125 and a calculator for $15. The calculator is on sale for $10 at another branch of the store, 20 minutes’ drive away. Would you make the trip?\n\nNow imagine the calculator costs $125 and is on sale for $120 at the other branch. Would you make the trip?\n\nHands after each version. Adapted from Tversky & Kahneman 1981, Problem 10. In the original the two versions went to two different groups (N = 93 and N = 88) and the jacket price was swapped as well ($15 in the second version), so that the total was the same."
   },
   {
     "objectID": "slides/04-slides.html#loss-aversion-and-climate-change",
     "href": "slides/04-slides.html#loss-aversion-and-climate-change",
     "title": "Mental models and framing",
     "section": "1. Loss aversion and climate change",
-    "text": "1. Loss aversion and climate change\nClimate solutions are often “framed as an immediate loss for society (e.g., higher taxes, reducing energy consumption)” (Van Der Linden et al., 2015).\n\nIn one experiment, 161 participants read the same information about climate change impacts, framed either in terms of gains or in terms of losses.\n\n\nGain frames led to more positive attitudes towards climate change mitigation than loss frames.\n(Spence & Pidgeon, 2010)\n\nSpence & Pidgeon 2010, Global Environmental Change, DOI 10.1016/j.gloenvcha.2010.07.002. Abstract: “gain frames were superior to loss frames in increasing positive attitudes towards climate change mitigation, and also increased the perceived severity of climate change impacts.” The text was adapted from the 2007 IPCC report."
+    "text": "1. Loss aversion and climate change\nClimate solutions are often “framed as an immediate loss for society (e.g., higher taxes, reducing energy consumption)” (Van Der Linden et al., 2015).\n\nIn one experiment, 161 participants read the same information about climate change impacts, framed either in terms of gains or in terms of losses (Spence & Pidgeon, 2010)."
   },
   {
     "objectID": "slides/04-slides.html#temporal-discounting-and-climate-change",
@@ -1247,5 +1247,26 @@
     "title": "Mental models and framing",
     "section": "3. Availability bias",
     "text": "3. Availability bias\nWhen people judge how frequent different causes of death are, their estimates are “systematically biased”. Some causes are exaggerated, others underestimated.\n\nThe authors traced this to “disproportionate exposure, memorability, or imaginability”. What comes to mind easily seems more frequent.\n\n\nThe reading states the general point as: “The human brain privileges experience over analysis” (Van Der Linden et al., 2015).\n(Lichtenstein et al., 1978)\n\nLichtenstein, Slovic, Fischhoff, Layman & Combs 1978, DOI 10.1037/0278-7393.4.6.551, quotes from the abstract. The pattern is called the availability bias, or the availability heuristic."
+  },
+  {
+    "objectID": "slides/04-slides.html#mental-accounting-1",
+    "href": "slides/04-slides.html#mental-accounting-1",
+    "title": "Mental models and framing",
+    "section": "5. Mental accounting",
+    "text": "5. Mental accounting\nIn the original study, 68% were willing to make the trip to save $5 on a $15 calculator. Only 29% were willing to make the same trip to save $5 on a $125 calculator (Tversky & Kahneman, 1981).\n\nPeople do not seem to treat the $5 as simply $5. They set it against the price of the item, as if each purchase had its own account.\n\n\nThis is called mental accounting: people seem to keep separate mental budgets, and money in one budget is not treated like money in another.\n\nA second example in the same paper, Problems 8 and 9: after losing a $10 bill, 88% would still buy a $10 theatre ticket. After losing the ticket itself, only 46% would buy another one. Mental accounting effects replicated across 21 countries (Priolo et al. 2026)."
+  },
+  {
+    "objectID": "slides/04-slides.html#a-kind-of-practical-definition-of-framing",
+    "href": "slides/04-slides.html#a-kind-of-practical-definition-of-framing",
+    "title": "Mental models and framing",
+    "section": "A (kind of) practical definition of framing",
+    "text": "A (kind of) practical definition of framing\nHow to package the essentially same information slightly differently, by appealing to the mental models."
+  },
+  {
+    "objectID": "slides/04-slides.html#gain-frame-or-loss-frame",
+    "href": "slides/04-slides.html#gain-frame-or-loss-frame",
+    "title": "Mental models and framing",
+    "section": "Gain frame or loss frame?",
+    "text": "Gain frame or loss frame?\n\n\nGain frame\n“By mitigating climate change, we can prevent further increases in winter floods in maritime regions and flash floods throughout Europe.”\n“By preventing further sea-level rises, we can prevent the inland migration of beaches and save up to 20% of coastal wetlands …”\n\n\n\nLoss frame\n“Without mitigating climate change, we will see further increases in winter floods in maritime regions and flash floods throughout Europe.”\n“With further sea-level rises, beaches will migrate inland and threaten up to 20% of coastal wetlands …”\n\n\nGain frames led to more positive attitudes towards climate change mitigation than loss frames (Spence & Pidgeon, 2010).\n\nSpence & Pidgeon 2010, Global Environmental Change, DOI 10.1016/j.gloenvcha.2010.07.002. The extracts are from the paper’s Appendix A. The text was adapted from the 2007 IPCC report, about 900 words in total, “adjusted to either describe the losses that will occur from climate change or the gains that will occur from climate change mitigation”. Participants lived in or near Cardiff. A second manipulation varied whether the impacts were described for the UK or for continental Europe.\nWorth pointing out: the gain frame here is about losses that can be prevented. Both versions talk about floods. What differs is whether the floods are presented as avoidable through action or as coming without action.\nAbstract: “gain frames were superior to loss frames in increasing positive attitudes towards climate change mitigation, and also increased the perceived severity of climate change impacts.” The loss frame had effects of its own: fear was higher (M = 3.45 against 3.10) and people recalled more statements (M = 6.93 against 4.96). The abstract says the advantage of the gain frame “was partially suppressed by lower fear responses and poorer information recall”."
   }
 ]

@@ -401,7 +401,7 @@ A link to loss aversion: the gain-framed and the loss-framed sentence about publ
 Does it replicate? The record is mixed. A meta-analysis of tax nudges (Antinyan & Asatryan 2024, Economic Journal, DOI 10.1093/ej/ueae088): "simple reminders increase the probability of compliance by 2.7 percentage points, while tax morale and deterrence nudges increase compliance by an additional 1.4 and 3.2 percentage points". A study with all income taxpayers in Belgium (De Neve et al. 2021, Journal of Political Economy, DOI 10.1086/713096): "invoking tax morale is not effective and often backfires".
 :::
 
-##
+## 5. Mental accounting
 
 Imagine you are about to buy a jacket for \$125 and a calculator for \$15. The calculator is on sale for \$10 at another branch of the store, 20 minutes' drive away. Would you make the trip?
 
@@ -443,7 +443,7 @@ A framing effect is the "odd observation", where the same information only packa
 
 If similar framing effects are regularly appearing across contexts, we call it a mental model.
 
-## A (kind of) practical definition
+## A (kind of) practical definition of framing
 
 How to package the essentially same information slightly differently, by appealing to the mental models.
 
@@ -457,16 +457,43 @@ Climate solutions are often "framed as an immediate loss for society (e.g., high
 
 . . .
 
-In one experiment, 161 participants read the same information about climate change impacts, framed either in terms of gains or in terms of losses.
+In one experiment, 161 participants read the same information about climate change impacts, framed either in terms of gains or in terms of losses [@spenceFramingCommunicatingClimate2010].
+
+## Gain frame or loss frame? {.smaller}
+
+:::: {.columns}
+
+::: {.column width="47%"}
+**Gain frame**
+
+"By mitigating climate change, we can prevent further increases in winter floods in maritime regions and flash floods throughout Europe."
+
+"By preventing further sea-level rises, we can prevent the inland migration of beaches and save up to 20% of coastal wetlands …"
+:::
+
+::: {.column width="6%"}
+:::
+
+::: {.column width="47%"}
+**Loss frame**
+
+"Without mitigating climate change, we will see further increases in winter floods in maritime regions and flash floods throughout Europe."
+
+"With further sea-level rises, beaches will migrate inland and threaten up to 20% of coastal wetlands …"
+:::
+
+::::
 
 . . .
 
-Gain frames led to more positive attitudes towards climate change mitigation than loss frames.
-
-[@spenceFramingCommunicatingClimate2010]
+Gain frames led to more positive attitudes towards climate change mitigation than loss frames [@spenceFramingCommunicatingClimate2010].
 
 ::: {.notes}
-Spence & Pidgeon 2010, Global Environmental Change, DOI 10.1016/j.gloenvcha.2010.07.002. Abstract: "gain frames were superior to loss frames in increasing positive attitudes towards climate change mitigation, and also increased the perceived severity of climate change impacts." The text was adapted from the 2007 IPCC report.
+Spence & Pidgeon 2010, Global Environmental Change, DOI 10.1016/j.gloenvcha.2010.07.002. The extracts are from the paper's Appendix A. The text was adapted from the 2007 IPCC report, about 900 words in total, "adjusted to either describe the losses that will occur from climate change or the gains that will occur from climate change mitigation". Participants lived in or near Cardiff. A second manipulation varied whether the impacts were described for the UK or for continental Europe.
+
+Worth pointing out: the gain frame here is about losses that can be prevented. Both versions talk about floods. What differs is whether the floods are presented as avoidable through action or as coming without action.
+
+Abstract: "gain frames were superior to loss frames in increasing positive attitudes towards climate change mitigation, and also increased the perceived severity of climate change impacts." The loss frame had effects of its own: fear was higher (M = 3.45 against 3.10) and people recalled more statements (M = 6.93 against 4.96). The abstract says the advantage of the gain frame "was partially suppressed by lower fear responses and poorer information recall".
 :::
 
 ##
