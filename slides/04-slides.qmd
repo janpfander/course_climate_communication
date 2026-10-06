@@ -509,9 +509,11 @@ Abstract: "gain frames were superior to loss frames in increasing positive attit
 ##
 
 ::: {.exercise}
-If people would like to avoid losses more, how does this relate to today's reading, suggesting that positive frames might aid?
+How are these findings (gain frames beat loss frames) compatible with loss aversion (losses weigh more than gains)? 
 
-Go read the paper again and discuss with your neighbor (5 minutes).
+Go read the section in the paper again and discuss with your neighbor (5 minutes).
+
+(Insight 4 in the reading, "Framing the Big Picture: Nobody Likes Losing (but Everyone Likes Gaining)")
 :::
 
 ::: {.notes}
@@ -520,24 +522,43 @@ Pointer for students: insight 4 in the reading, "Framing the Big Picture: Nobody
 
 ## Why gain frames, if people would like to avoid losses?
 
-Climate solutions are often presented as a certain loss today. Climate impacts are uncertain losses in the distant future.
+As climate change is usually presented, both options are losses. Wanting to avoid losses does not tell us which one to pick.
+
+|  | Our experiment | Climate change |
+|---|---|---|
+| **A sure loss** | Program C: 400 people will die | Act: certain costs today (e.g., higher taxes) |
+| **A gamble** | Program D: maybe nobody dies, maybe 600 people die | Do not act: uncertain losses in the distant future |
 
 . . .
 
-Now beats later: the loss that people want to avoid most may be the cost of acting.
-
-. . .
-
-The reading's advice: talk about "the positive benefits (gains) of immediate action" [@vanderlindenImprovingPublicEngagement2015].
+Between a sure loss and a gamble, most people gamble (78% chose Program D). For climate change, the gamble is to do nothing: the status quo seems "worth the gamble" [@vanderlindenImprovingPublicEngagement2015].
 
 ::: {.notes}
 Two losses are in play, and they differ in time and in certainty. The reading's passage (insight 4): "when climate change impacts are framed as potential (i.e., uncertain) losses in the distant future, whereas climate change solutions are framed as certain losses for society at present, it encourages people to conclude that maintaining the status quo may be 'worth the gamble.'" Just before: "prospect theory (Kahneman & Tversky, 1979) demonstrates that people are more risk-seeking in loss domains than they are in gain domains. In particular, people are more reluctant to take action when losses are paired with uncertainty (Tversky & Shafir, 1992)."
 
 The same pattern as in our experiment: "choices involving gains are often risk averse and choices involving losses are often risk taking" (Tversky & Kahneman 1981). When losses are uncertain, people tend to gamble.
 
-The link to temporal discounting is our reading of the passage. The reading itself stresses the uncertainty. A limitation of the temporal discounting step is described at the end of these notes.
+The mapping on the slide: acting on climate change is the sure option, with costs that are certain and come today. Not acting is the gamble, because the impacts are uncertain and far away. In our experiment the same two kinds of options were Program C and Program D.
+:::
+
+## Why gain frames, if people would like to avoid losses?
+
+When the same options were described as gains, most people took the sure option (72% chose Program A).
+
+. . .
+
+Hence the reading's advice: present acting as a gain, and talk about "the positive benefits (gains) of immediate action" [@vanderlindenImprovingPublicEngagement2015].
+
+. . .
+
+Now beats later adds to this. The losses from not acting lie in the distant future, where they may count for less.
+
+::: {.notes}
+The reading's policy implication (insight 4): "shifting the policy conversation from the potentially negative future consequences of not acting (losses) on climate change to the positive benefits (gains) of immediate action is likely to increase public support."
 
 On the puzzle itself: a meta-analysis "of 93 studies involving over 20,000 participants" on message framing "did not find a single context where loss-framed appeals had statistically greater persuasive power than gain-framed appeals" (as reported in Gal & Rucker 2018, p. 509).
+
+The link to temporal discounting is our reading of the passage. The reading itself stresses the uncertainty. A limitation of the temporal discounting step is described at the end of these notes.
 
 **A limitation: do future losses fade like future gains?**
 
