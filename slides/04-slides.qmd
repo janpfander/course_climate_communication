@@ -483,9 +483,35 @@ The reading therefore suggests talking about "the positive benefits (gains) of i
 ::: {.notes}
 The reading's passage (insight 4) names both ingredients, time and certainty: "when climate change impacts are framed as potential (i.e., uncertain) losses in the distant future, whereas climate change solutions are framed as certain losses for society at present, it encourages people to conclude that maintaining the status quo may be 'worth the gamble.'" Just before: "prospect theory (Kahneman & Tversky, 1979) demonstrates that people are more risk-seeking in loss domains than they are in gain domains. In particular, people are more reluctant to take action when losses are paired with uncertainty (Tversky & Shafir, 1992)."
 
-The link to time discounting on this slide is our reading of that passage. The reading itself stresses the uncertainty. A caveat from Ruggeri et al. 2022: gains seem to be discounted more than losses. Their example: people "prefer to receive $500 now over $550 in 12 months, but also prefer to pay $500 now over paying $550 in 12 months". This gain–loss asymmetry was the most common anomaly (40.1%).
+The link to time discounting on this slide is our reading of that passage. The reading itself stresses the uncertainty. The next slide states a limitation of the time discounting step.
 
 Whether losses weigh more than equal gains in general is disputed (Gal & Rucker 2018, see the notes of "1. Losses and gains").
+:::
+
+## A limitation: do future losses fade like future gains?
+
+Our answer assumes that now beats later for losses too: a loss in the distant future should count for less than a loss today.
+
+. . .
+
+In the 61-country study, 40.1% of participants showed a different pattern, a gain–loss asymmetry [@ruggeriGlobalizabilityTemporalDiscounting2022].
+
+. . .
+
+The authors' example: people "prefer to receive \$500 now over \$550 in 12 months, but also prefer to pay \$500 now over paying \$550 in 12 months".
+
+. . .
+
+For these people, a future loss does not seem to fade in the way a future gain does. This weakens the time discounting step of our answer. The uncertainty step is not affected, since the study did not test risk.
+
+::: {.notes}
+What we would expect. Someone who takes $500 now over $550 in a year tells us that money in a year is worth clearly less to them than money today. If now beats later in the same way for losses, the same person should prefer to pay $550 in a year over paying $500 today, because the later payment should also feel smaller. Our answer on the previous slide uses exactly this logic: the climate loss is far away, so it shrinks, and the immediate cost of acting looms larger.
+
+What Ruggeri et al. 2022 find. Many people do the opposite for losses. They take the money now, and they also pay now, although paying later would be the consistent choice. The paper calls this gain–loss asymmetry: "Gains are discounted more than losses". It was the most common of the anomalies they tested: "from 13.8% for absolute magnitude to 40.1% for gain–loss asymmetry", and "Gain–loss rates were the most common anomaly in 80.3% (49) of the countries".
+
+Why this matters for us. These people accept a smaller loss today to avoid a larger loss later. This is the kind of choice climate action asks for. So a delayed loss does not simply fade for them, and "the distant loss counts for less" is weaker than it sounds on the previous slide. Note that this does not go against loss aversion itself. It fits the idea that people take losses seriously, also when they lie in the future. What it goes against is the combination we used: loss aversion plus time discounting.
+
+What it does not show. 40.1% is a minority of participants. The choices are about money, with delays of 12 months. And risk was not part of the task: "we do not explicitly test risk in the temporal measures". Climate impacts are uncertain and decades away. The part of our answer that rests on uncertainty ("worth the gamble") is untouched, and this is the part the reading itself stresses.
 :::
 
 ## 2. Now beats later, and climate change
