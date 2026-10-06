@@ -636,7 +636,7 @@ In a further study, they also donated more to a climate charity: \$2.04 on avera
 
 . . .
 
-People who found today warmer than usual also reported more unusually warm days over the past year (N = 270, r = 0.41) [@zavalHowWarmDays2014]. What is available today seems to colour the memory of the whole year.
+People who found today warmer than usual also reported more unusually warm days over the past year (N = 270, r = 0.41) [@zavalHowWarmDays2014], suggesting availibiltiy bias in memory.
 
 ::: {.notes}
 Li, Johnson & Zaval 2011, Psychological Science, 22(4), 454–459, DOI 10.1177/0956797611400913.
@@ -696,7 +696,7 @@ Our mental model 4 suggests a simple fix: tell people how many others care.
 
 . . .
 
-In a study across 11 countries, giving people the actual numbers was "largely ineffective" [@geigerWhatWeThink2025].
+However, in a study across 11 countries, giving people the actual numbers was "largely ineffective" [@geigerWhatWeThink2025].
 
 ::: {.notes}
 Andre et al. 2024 make the first point: "This perception gap, combined with individuals showing conditionally cooperative behaviour, poses challenges to further climate action."
@@ -712,7 +712,9 @@ In the United States, households received letters "comparing their electricity u
 
 . . .
 
-This equals the effect of a short-run electricity price increase of 11 to 20%. And it lasts: when the reports stopped after two years, the effect decayed by only 10 to 20 percent per year [@allcottShortRunLongRunEffects2014].
+This equals the effect of a short-run electricity price increase of 11 to 20%. 
+
+And it lasts: when the reports stopped after two years, the effect decayed by only 10 to 20 percent per year [@allcottShortRunLongRunEffects2014].
 
 . . .
 
@@ -734,7 +736,9 @@ A caution on the wording of norm messages (Schultz et al. 2007, Psychological Sc
 
 . . .
 
-Across 27 countries (n = 10,527), the consensus message substantially reduced misperceptions and slightly increased climate change beliefs. It did not directly increase support for public action [@veckalov27countryTestCommunicating2024].
+Across 27 countries (n = 10,527), the consensus message substantially reduced misperceptions and slightly increased climate change beliefs. 
+
+It did, however, not directly increase support for public action [@veckalov27countryTestCommunicating2024].
 
 ::: {.notes}
 The scientific consensus can be read as a norm among experts. van der Linden 2021 (Current Opinion in Psychology, DOI 10.1016/j.copsyc.2021.01.005) describes the gateway belief model as an "account of how attitude change happens in response to normative cues about scientific agreement".
