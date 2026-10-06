@@ -154,7 +154,7 @@
     "href": "slides/04-slides.html#section",
     "title": "Mental models and framing",
     "section": "",
-    "text": "Trigger warning to psychologists\n\n\nA narrow definition of mental models:\nA simplified picture, in someone’s head, of how something works (e.g., climate change as a bathtub (Sterman & Sweeney, 2002)).\n\nA broader definition I would like to take today:\nGeneral features of human psychology that describe how people think, decide, and act across a range of contexts.\n\n\n\n\n\n\nThe bathtub is the example for the narrow sense. Sterman & Sweeney 2002, System Dynamics Review, DOI 10.1002/sdr.242: graduate students were given descriptions of the climate system from the IPCC. From the abstract: “Overall performance was poor. Subjects often select trajectories that violate conservation of matter”, and many “believe that stabilizing emissions near current rates would stabilize the climate, when in fact emissions would continue to exceed removal”.\nThe picture: the atmosphere is a bathtub. Emissions are the tap, removal is the drain, and the CO2 concentration is the water level. As long as more flows in than drains out, the level keeps rising, even if the tap is not opened any further. Sterman’s wording for the mistaken belief: “analogous to arguing a bathtub filled faster than it drains will never overflow” (https://www.mit.edu/~jsterman/Understanding_public.html)."
+    "text": "Trigger warning to psychologists\n\n\n\nA narrow definition of mental models:\nA simplified picture, in someone’s head, of how something works (e.g., climate change as a bathtub (Sterman & Sweeney, 2002)).\n\n\nA broader definition I would like to take today:\nGeneral features of human psychology that describe how people think, decide, and act across a range of contexts.\n\n\n\n\n\n\nThe bathtub is the example for the narrow sense. Sterman & Sweeney 2002, System Dynamics Review, DOI 10.1002/sdr.242: graduate students were given descriptions of the climate system from the IPCC. From the abstract: “Overall performance was poor. Subjects often select trajectories that violate conservation of matter”, and many “believe that stabilizing emissions near current rates would stabilize the climate, when in fact emissions would continue to exceed removal”.\nThe picture: the atmosphere is a bathtub. Emissions are the tap, removal is the drain, and the CO2 concentration is the water level. As long as more flows in than drains out, the level keeps rising, even if the tap is not opened any further. Sterman’s wording for the mistaken belief: “analogous to arguing a bathtub filled faster than it drains will never overflow” (https://www.mit.edu/~jsterman/Understanding_public.html)."
   },
   {
     "objectID": "slides/04-slides.html#a-slide-with-a-title",
@@ -224,28 +224,28 @@
     "href": "slides/04-slides.html#section-5",
     "title": "Mental models and framing",
     "section": "",
-    "text": "What causes more deaths: tornadoes or asthma?\n\nHands. Tornadoes are seen as more frequent killers than asthma, although asthma causes 20 times more deaths. The same example was on the Week 1 slides."
+    "text": "The Marshmallow Test\n▶ Watch the video on YouTube\n\nThe Marshmallow Test (Walter Mischel, Stanford, 1960s) was on the Week 1 slides, but there was no time to show the video. It illustrates the choice between a smaller reward now and a larger reward later.\nThe famous follow-up finding, that waiting predicts later achievement, turned out weaker in a replication: the correlation “was only half the size of those reported in the original studies and was reduced by two thirds in the presence of controls for family background, early cognitive ability, and the home environment” (Watts, Duncan & Quan 2018, Psychological Science, DOI 10.1177/0956797618761661)."
   },
   {
     "objectID": "slides/04-slides.html#section-6",
     "href": "slides/04-slides.html#section-6",
     "title": "Mental models and framing",
     "section": "",
-    "text": "Imagine you are about to buy a jacket for $125 and a calculator for $15. The calculator is on sale for $10 at another branch of the store, 20 minutes’ drive away. Would you make the trip?\n\nNow imagine the calculator costs $125 and is on sale for $120 at the other branch. Would you make the trip?\n\nHands after each version. Adapted from Tversky & Kahneman 1981, Problem 10. In the original the two versions went to two different groups (N = 93 and N = 88) and the jacket price was swapped as well ($15 in the second version), so that the total was the same."
+    "text": "What causes more deaths: tornadoes or asthma?\n\nHands. Tornadoes are seen as more frequent killers than asthma, although asthma causes 20 times more deaths. The same example was on the Week 1 slides."
   },
   {
     "objectID": "slides/04-slides.html#section-7",
     "href": "slides/04-slides.html#section-7",
     "title": "Mental models and framing",
     "section": "",
-    "text": "What’s the evidence on framing effects in climate change communication?"
+    "text": "Imagine you are about to buy a jacket for $125 and a calculator for $15. The calculator is on sale for $10 at another branch of the store, 20 minutes’ drive away. Would you make the trip?\n\nNow imagine the calculator costs $125 and is on sale for $120 at the other branch. Would you make the trip?\n\nHands after each version. Adapted from Tversky & Kahneman 1981, Problem 10. In the original the two versions went to two different groups (N = 93 and N = 88) and the jacket price was swapped as well ($15 in the second version), so that the total was the same."
   },
   {
     "objectID": "slides/04-slides.html#section-8",
     "href": "slides/04-slides.html#section-8",
     "title": "Mental models and framing",
     "section": "",
-    "text": "If people would like to avoid losses more, how does this relate to today’s reading, suggesting that positive frames might aid?\nGo read the paper again and discuss with your neighbor (5 minutes).\n\n\nPointer for students: insight 4 in the reading, “Framing the Big Picture: Nobody Likes Losing (but Everyone Likes Gaining)”."
+    "text": "What’s the evidence on framing effects in climate change communication?"
   },
   {
     "objectID": "slides/04-slides.html#now-beats-later",
@@ -259,7 +259,7 @@
     "href": "slides/04-slides.html#section-9",
     "title": "Mental models and framing",
     "section": "",
-    "text": "How big are the effects?"
+    "text": "If people would like to avoid losses more, how does this relate to today’s reading, suggesting that positive frames might aid?\nGo read the paper again and discuss with your neighbor (5 minutes).\n\n\nPointer for students: insight 4 in the reading, “Framing the Big Picture: Nobody Likes Losing (but Everyone Likes Gaining)”."
   },
   {
     "objectID": "slides/04-slides.html#losses-and-gains",
@@ -273,21 +273,21 @@
     "href": "slides/04-slides.html#section-10",
     "title": "Mental models and framing",
     "section": "",
-    "text": "In week 2, the conclusion was that facts alone rarely change minds.\n\nA recent line of research complicates this picture."
+    "text": "How big are the effects?"
   },
   {
     "objectID": "slides/04-slides.html#section-11",
     "href": "slides/04-slides.html#section-11",
     "title": "Mental models and framing",
     "section": "",
-    "text": "Why do facts seem to work in conversations with chatbots?"
+    "text": "In week 2, the conclusion was that facts alone rarely change minds.\n\nA recent line of research complicates this picture."
   },
   {
     "objectID": "slides/04-slides.html#section-12",
     "href": "slides/04-slides.html#section-12",
     "title": "Mental models and framing",
     "section": "",
-    "text": "Loss aversion\nTemporal discounting\nAvailability bias\nSocial norms\nMental accounting\n\n\nA. “Leverage intrinsic motivation to support long-term environmental goals.”\nB. “Frame policy solutions in terms of what can be gained (not in terms of what is lost).”\nC. “Highlight relevant personal experiences through affective recall, stories, and metaphors.”\nD. “Emphasize the present and make climate change impacts and solutions locally relevant.”\nE. “Activate and leverage relevant social group norms to promote and increase collective action.”\n\n(Van Der Linden et al., 2015, Table 1)\n\nSolution: 1–B, 2–D, 3–C, 4–E. Advice A (intrinsic motivation) has no match. Mental model 5 has no advice, mental accounting is not in the reading. Debrief question: what advice would you write for number 5? Optional example for A: Gneezy & Rustichini 2000, “A Fine is a Price” (DOI 10.1086/468061). A day-care fine for late parents: “the number of late-coming parents increased significantly”, and it did not go down again after the fine was removed."
+    "text": "Why do facts seem to work in conversations with chatbots?"
   },
   {
     "objectID": "slides/04-slides.html#what-others-do",
@@ -301,7 +301,7 @@
     "href": "slides/04-slides.html#section-13",
     "title": "Mental models and framing",
     "section": "",
-    "text": "A carbon tax\n\nWhere should the money go?\n\nOpen question to the room, a few answers."
+    "text": "Loss aversion\nTemporal discounting\nAvailability bias\nSocial norms\nMental accounting\n\n\nA. “Leverage intrinsic motivation to support long-term environmental goals.”\nB. “Frame policy solutions in terms of what can be gained (not in terms of what is lost).”\nC. “Highlight relevant personal experiences through affective recall, stories, and metaphors.”\nD. “Emphasize the present and make climate change impacts and solutions locally relevant.”\nE. “Activate and leverage relevant social group norms to promote and increase collective action.”\n\n(Van Der Linden et al., 2015, Table 1)\n\nSolution: 1–B, 2–D, 3–C, 4–E. Advice A (intrinsic motivation) has no match. Mental model 5 has no advice, mental accounting is not in the reading. Debrief question: what advice would you write for number 5? Optional example for A: Gneezy & Rustichini 2000, “A Fine is a Price” (DOI 10.1086/468061). A day-care fine for late parents: “the number of late-coming parents increased significantly”, and it did not go down again after the fine was removed."
   },
   {
     "objectID": "slides/04-slides.html#section-14",
@@ -924,7 +924,7 @@
     "href": "slides/04-slides.html#a-kind-of-definition",
     "title": "Mental models and framing",
     "section": "A (kind of) definition",
-    "text": "A (kind of) definition\nFeatures of human psychology that describe how people think, decide, and act…\n\n… that often seem to deviate from rational choice.\n\n\nMany terms for roughly the same idea: heuristics, biases, mental shortcuts."
+    "text": "A (kind of) definition\nFeatures of human psychology that describe how people think, decide, and act…\n\n… that often seem to deviate from rational choice.\n\n\nMany terms for roughly the same idea: heuristics, biases, mental shortcuts…"
   },
   {
     "objectID": "slides/04-slides.html#they-are-the-same-1",
@@ -952,7 +952,7 @@
     "href": "slides/04-slides.html#today",
     "title": "Mental models and framing",
     "section": "Today",
-    "text": "Today\nToday we look at five that matter for communicating about climate change. Four are central to today’s reading, the fifth is more recent.\n\nLoss aversion (losses weigh more than gains)\nTemporal discounting (now beats later)\nAvailability bias (experience beats statistics)\nSocial norms (we conform to what others do)\nMental accounting (we put money into boxes)"
+    "text": "Today\nWe will look at five mental models that matter for communicating about climate change. Four are central to today’s reading, the fifth is more recent.\n\nLoss aversion (losses weigh more than gains)\nTemporal discounting (now beats later)\nAvailability bias (experience beats statistics)\nSocial norms (we conform to what others do)\nMental accounting (we put money into boxes)"
   },
   {
     "objectID": "slides/04-slides.html#now-beats-later-in-61-countries",

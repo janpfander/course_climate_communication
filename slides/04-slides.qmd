@@ -6,9 +6,12 @@ subtitle: "Psychology of Climate Change Communication · Week 4"
 ##
 
 ::: {.callout-note title="Trigger warning to psychologists"}
-A **narrow** definition of mental models:
+
+::: {.fragment}
+A **narrow** definition of **mental models**:
 
 A simplified picture, in someone’s head, of how something works (e.g., climate change as a bathtub [@stermanCloudySkiesAssessing2002]).
+:::
 
 ::: {.fragment}
 A **broader** definition I would like to take today:
@@ -158,7 +161,7 @@ Features of human psychology that describe how people think, decide, and act...
 
 . . .
 
-Many terms for roughly the same idea: heuristics, biases, mental shortcuts.
+Many terms for roughly the same idea: heuristics, biases, mental shortcuts...
 
 ## The mind as an information-processing device
 
@@ -238,7 +241,7 @@ Most of the time they serve us well. Sometimes they lead to choices that look od
 
 ## Today
 
-Today we look at five that matter for communicating about climate change. Four are central to today's reading, the fifth is more recent.
+We will look at five mental models that matter for communicating about climate change. Four are central to today's reading, the fifth is more recent.
 
 ::: {.incremental}
 1. Loss aversion (losses weigh more than gains)
@@ -290,11 +293,11 @@ Would you rather receive CHF 100 today, or CHF 110 in a year?
 Hands. The amounts are an illustration. The structure of the choice (10% more after one year) is the first question in Ruggeri et al. 2022, two slides further.
 :::
 
-## The Marshmallow Test
+## {.big-center}
 
-{{< video https://www.youtube.com/watch?v=QX_oy9614HQ width="100%" height="520" >}}
+The Marshmallow Test
 
-[<https://www.youtube.com/watch?v=QX_oy9614HQ>]{.citation}
+[▶ Watch the video on YouTube](https://www.youtube.com/watch?v=QX_oy9614HQ){target="_blank"}
 
 ::: {.notes}
 The Marshmallow Test (Walter Mischel, Stanford, 1960s) was on the Week 1 slides, but there was no time to show the video. It illustrates the choice between a smaller reward now and a larger reward later.
