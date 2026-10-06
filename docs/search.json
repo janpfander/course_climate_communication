@@ -144,9 +144,765 @@
     "href": "index.html#schedule",
     "title": "The Psychology of Climate Change Communication",
     "section": "Schedule",
-    "text": "Schedule\nGuest speaker descriptions and some readings are still being finalized. Full session descriptions and readings are in the syllabus. Slides are posted in the table below after each session, Quarto decks as HTML and PDF, other decks as PDF.\n\n Course calendar — get all sessions into your calendar app.\n Subscribe  Download .ics\n\nSubscribing keeps the events up to date when the schedule changes. A downloaded copy will not receive later changes. In Google Calendar, subscribe via Settings → Add calendar → From URL with https://janpfander.github.io/course_climate_communication/course-sessions.ics.\n\n\n\n\n\n\n    \n\n    \n\n    \n    \n    \n      \n        \n        \n              \n                #\n                Date\n                Topic\n                Lecturer\n                Slides\n                Group presentations\n              \n        \n        \n        \n                \n                  1\n                  15.09.2026\n                  Introduction and key concepts in environmental psychology\n                  Viktoria Cologna & Jan Pfänder\n                  PDF\n                  No presentations\n                \n                \n                  2\n                  22.09.2026\n                  Public opinion on climate change and the deficit model\n                  Viktoria Cologna\n                  PDF\n                  No presentations\n                \n                \n                  3\n                  29.09.2026\n                  A question of trust\n                  Viktoria Cologna\n                  PDF\n                  No presentations\n                \n                \n                  4\n                  06.10.2026\n                  Mental models and framing\n                  Jan Pfänder\n                  \n                  No presentations\n                \n                \n                  5\n                  13.10.2026\n                  Climate change emotions\n                  Viktoria Cologna\n                  \n                  Groups 1 & 2\n                \n                \n                  6\n                  20.10.2026\n                  Guest speaker: Dr. Cornelia Schwierz\n                  Invited speaker\n                  \n                  Group 3\n                \n                \n                  7\n                  27.10.2026\n                  Guest speaker: Prof. Dr. Reto Knutti\n                  Invited speaker\n                  \n                  Group 4\n                \n                \n                  8\n                  03.11.2026\n                  Climate change in the media\n                  Viktoria Cologna\n                  \n                  Groups 5 & 6\n                \n                \n                  9\n                  10.11.2026\n                  Climate change misinformation\n                  Jan Pfänder\n                  \n                  Group 7\n                \n                \n                  10\n                  17.11.2026\n                  Guest speaker: Dr. Leonard Creutzburg\n                  Invited speaker\n                  \n                  Group 8\n                \n                \n                  11\n                  24.11.2026\n                  From communication to behavior change\n                  Jan Pfänder\n                  \n                  Group 9\n                \n                \n                  12\n                  01.12.2026\n                  Guest speaker: Dr. Cornelia Staub\n                  Invited speaker\n                  \n                  Group 10\n                \n                \n                  13\n                  08.12.2026\n                  Guest speaker: Dr. Cornelia Eisenach\n                  Invited speaker\n                  \n                  Group 11\n                \n                \n                  14\n                  15.12.2026\n                  Discussion and lessons learnt\n                  Viktoria Cologna & Jan Pfänder\n                  \n                  Groups 12 & 13",
+    "text": "Schedule\nGuest speaker descriptions and some readings are still being finalized. Full session descriptions and readings are in the syllabus. Slides are posted in the table below after each session, Quarto decks as HTML and PDF, other decks as PDF.\n\n Course calendar — get all sessions into your calendar app.\n Subscribe  Download .ics\n\nSubscribing keeps the events up to date when the schedule changes. A downloaded copy will not receive later changes. In Google Calendar, subscribe via Settings → Add calendar → From URL with https://janpfander.github.io/course_climate_communication/course-sessions.ics.\n\n\n\n\n\n\n    \n\n    \n\n    \n    \n    \n      \n        \n        \n              \n                #\n                Date\n                Topic\n                Lecturer\n                Slides\n                Group presentations\n              \n        \n        \n        \n                \n                  1\n                  15.09.2026\n                  Introduction and key concepts in environmental psychology\n                  Viktoria Cologna & Jan Pfänder\n                  PDF\n                  No presentations\n                \n                \n                  2\n                  22.09.2026\n                  Public opinion on climate change and the deficit model\n                  Viktoria Cologna\n                  PDF\n                  No presentations\n                \n                \n                  3\n                  29.09.2026\n                  A question of trust\n                  Viktoria Cologna\n                  PDF\n                  No presentations\n                \n                \n                  4\n                  06.10.2026\n                  Mental models and framing\n                  Jan Pfänder\n                  HTML\n                  No presentations\n                \n                \n                  5\n                  13.10.2026\n                  Climate change emotions\n                  Viktoria Cologna\n                  \n                  Groups 1 & 2\n                \n                \n                  6\n                  20.10.2026\n                  Guest speaker: Dr. Cornelia Schwierz\n                  Invited speaker\n                  \n                  Group 3\n                \n                \n                  7\n                  27.10.2026\n                  Guest speaker: Prof. Dr. Reto Knutti\n                  Invited speaker\n                  \n                  Group 4\n                \n                \n                  8\n                  03.11.2026\n                  Climate change in the media\n                  Viktoria Cologna\n                  \n                  Groups 5 & 6\n                \n                \n                  9\n                  10.11.2026\n                  Climate change misinformation\n                  Jan Pfänder\n                  \n                  Group 7\n                \n                \n                  10\n                  17.11.2026\n                  Guest speaker: Dr. Leonard Creutzburg\n                  Invited speaker\n                  \n                  Group 8\n                \n                \n                  11\n                  24.11.2026\n                  From communication to behavior change\n                  Jan Pfänder\n                  \n                  Group 9\n                \n                \n                  12\n                  01.12.2026\n                  Guest speaker: Dr. Cornelia Staub\n                  Invited speaker\n                  \n                  Group 10\n                \n                \n                  13\n                  08.12.2026\n                  Guest speaker: Dr. Cornelia Eisenach\n                  Invited speaker\n                  \n                  Group 11\n                \n                \n                  14\n                  15.12.2026\n                  Discussion and lessons learnt\n                  Viktoria Cologna & Jan Pfänder\n                  \n                  Groups 12 & 13",
     "crumbs": [
       "Home"
     ]
+  },
+  {
+    "objectID": "slides/04-slides.html#section",
+    "href": "slides/04-slides.html#section",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "I will show two slides, one for each half of the room.\n\nPlease look away while the other half is reading.\n\n\nRead the text, make your choice, and write it down.\n\nLeft half reads first, right half closes eyes. Then swap."
+  },
+  {
+    "objectID": "slides/04-slides.html#a-slide-with-a-title",
+    "href": "slides/04-slides.html#a-slide-with-a-title",
+    "title": "Mental models and framing",
+    "section": "A slide with a title",
+    "text": "A slide with a title\nA claim with its source (Van Der Linden, Maibach, and Leiserowitz 2015)"
+  },
+  {
+    "objectID": "slides/04-slides.html#section-1",
+    "href": "slides/04-slides.html#section-1",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "Left half: who chose Program A?\n\nRight half: who chose Program C?\n\nA and C are the same programme: 200 of the 600 people live for sure. B and D are the same gamble."
+  },
+  {
+    "objectID": "slides/04-slides.html#references",
+    "href": "slides/04-slides.html#references",
+    "title": "Mental models and framing",
+    "section": "References",
+    "text": "References\n\n\nAndre, Peter, Teodora Boneva, Felix Chopra, and Armin Falk. 2024. “Globally Representative Evidence on the Actual and Perceived Support for Climate Action.” Nature Climate Change 14 (3): 253–59. https://doi.org/10.1038/s41558-024-01925-3.\n\n\nBernauer, Thomas, and Liam F. McGrath. 2016. “Simple Reframing Unlikely to Boost Public Support for Climate Policy.” Nature Climate Change 6 (7): 680–83. https://doi.org/10.1038/nclimate2948.\n\n\nCostello, Thomas H., Gordon Pennycook, and David G. Rand. 2024. “Durably Reducing Conspiracy Beliefs Through Dialogues with AI.” Science 385 (6714): eadq1814. https://doi.org/10.1126/science.adq1814.\n\n\nDasandi, Niheer, Hilary Graham, David Hudson, Slava Jankin, Jennifer vanHeerde-Hudson, and Nick Watts. 2022. “Positive, Global, and Health or Environment Framing Bolsters Public Support for Climate Policies.” Communications Earth &Amp; Environment 3 (1). https://doi.org/10.1038/s43247-022-00571-x.\n\n\nDoyen, Stéphane, Olivier Klein, Cora-Lise Pichon, and Axel Cleeremans. 2012. “Behavioral Priming: It’s All in the Mind, but Whose Mind?” PLoS ONE 7 (1): e29081. https://doi.org/10.1371/journal.pone.0029081.\n\n\nFeinberg, Matthew, and Robb Willer. 2012. “The Moral Roots of Environmental Attitudes.” Psychological Science 24 (1): 56–62. https://doi.org/10.1177/0956797612449177.\n\n\nGeiger, Sandra J., Jana K. Köhler, Zenith N. C. Delabrida, Karla A. Garduño-Realivazquez, Christian A. P. Haugestad, Hirotaka Imada, Aishwarya Iyer, et al. 2025. “What We Think Others Think and Do About Climate Change: A Multicountry Test of Pluralistic Ignorance and Public-Consensus Messaging.” Psychological Science 36 (6): 421–42. https://doi.org/10.1177/09567976251335585.\n\n\nGigerenzer, Gerd. 2015. “On the Supposed Evidence for Libertarian Paternalism.” Review of Philosophy and Psychology 6 (3): 361–83. https://doi.org/10.1007/s13164-015-0248-1.\n\n\nHardisty, David J., Eric J. Johnson, and Elke U. Weber. 2009. “A Dirty Word or a Dirty World?” Psychological Science 21 (1): 86–92. https://doi.org/10.1177/0956797609355572.\n\n\nHornsey, Matthew J., Samuel Pearson, Christian Bretter, Sarah MacInnes, Jarren L. Nylund, and Saphira Rekker. 2025. “The Promise and Limitations of Using GenAI to Reduce Climate Scepticism.” Nature Climate Change, September, 1–7. https://doi.org/10.1038/s41558-025-02425-8.\n\n\nJacquet, Jennifer, Kristin Hagel, Christoph Hauert, Jochem Marotzke, Torsten Röhl, and Manfred Milinski. 2013. “Intra- and Intergenerational Discounting in the Climate Game.” Nature Climate Change 3 (12): 1025–28. https://doi.org/10.1038/nclimate2024.\n\n\nKlein, Richard A., Kate A. Ratliff, Michelangelo Vianello, Reginald B. Adams, Štěpán Bahník, Michael J. Bernstein, Konrad Bocian, et al. 2014. “Investigating Variation in Replicability.” Social Psychology 45 (3): 142–52. https://doi.org/10.1027/1864-9335/a000178.\n\n\nKlein, Richard A., Michelangelo Vianello, Fred Hasselman, Byron G. Adams, Reginald B. Adams, Sinan Alper, Mark Aveyard, et al. 2018. “Many Labs 2: Investigating Variation in Replicability Across Samples and Settings.” Advances in Methods and Practices in Psychological Science 1 (4): 443–90. https://doi.org/10.1177/2515245918810225.\n\n\nLevin, Irwin P., and Gary J. Gaeth. 1988. “How Consumers Are Affected by the Framing of Attribute Information Before and After Consuming the Product.” Journal of Consumer Research 15 (3): 374. https://doi.org/10.1086/209174.\n\n\nLichtenstein, Sarah, Paul Slovic, Baruch Fischhoff, Mark Layman, and Barbara Combs. 1978. “Judged Frequency of Lethal Events.” Journal of Experimental Psychology: Human Learning and Memory 4 (6): 551–78. https://doi.org/10.1037/0278-7393.4.6.551.\n\n\nLiu, Grace, Jake C. Snell, Thomas L. Griffiths, and Rachit Dubey. 2025. “Binary Climate Data Visuals Amplify Perceived Impact of Climate Change.” Nature Human Behaviour, April, 1–10. https://doi.org/10.1038/s41562-025-02183-9.\n\n\nMason, Katherine A., Madalina Vlasceanu, and John T. Jost. 2024. “Effects of System-Sanctioned Framing on Climate Awareness and Environmental Action in the United States and Beyond.” Proceedings of the National Academy of Sciences 121 (38): e2405973121. https://doi.org/10.1073/pnas.2405973121.\n\n\nMcNeil, Barbara J., Stephen G. Pauker, Harold C. Sox, and Amos Tversky. 1982. “On the Elicitation of Preferences for Alternative Therapies.” New England Journal of Medicine 306 (21): 1259–62. https://doi.org/10.1056/NEJM198205273062103.\n\n\nMus, Mathilde, Hugo Mercier, and Coralie Chevallier. 2023. “Designing an Acceptable and Fair Carbon Tax: The Role of Mental Accounting.” PLOS Climate 2 (10): e0000227. https://doi.org/10.1371/journal.pclm.0000227.\n\n\nRugg, Donald. 1941. “Experiments in Wording Questions: II.” Public Opinion Quarterly 5 (1): 91. https://doi.org/10.1086/265467.\n\n\nSchimmack, Ulrich. 2017. “Reconstruction of a Train Wreck: How Priming Research Went Off the Rails.” Replicability-Index. February 2, 2017. https://replicationindex.com/2017/02/02/reconstruction-of-a-train-wreck-how-priming-research-went-of-the-rails/.\n\n\nSchuldt, J. P., S. H. Konrath, and N. Schwarz. 2011. “\"Global Warming\" or \"Climate Change\"?: Whether the Planet Is Warming Depends on Question Wording.” Public Opinion Quarterly 75 (1): 115–24. https://doi.org/10.1093/poq/nfq073.\n\n\nSimmons, Joseph P., Leif D. Nelson, and Uri Simonsohn. 2011. “False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant.” Psychological Science 22 (11): 1359–66. https://doi.org/10.1177/0956797611417632.\n\n\nSparkman, Gregg, Nathan Geiger, and Elke U. Weber. 2022. “Americans Experience a False Social Reality by Underestimating Popular Climate Policy Support by Nearly Half.” Nature Communications 13 (1). https://doi.org/10.1038/s41467-022-32412-y.\n\n\nSpence, Alexa, and Nick Pidgeon. 2010. “Framing and Communicating Climate Change: The Effects of Distance and Outcome Frame Manipulations.” Global Environmental Change 20 (4): 656–67. https://doi.org/10.1016/j.gloenvcha.2010.07.002.\n\n\nTversky, Amos, and Daniel Kahneman. 1981. “The Framing of Decisions and the Psychology of Choice.” Science 211 (4481): 453–58. https://doi.org/10.1126/science.7455683.\n\n\nVan Der Linden, Sander, Edward Maibach, and Anthony Leiserowitz. 2015. “Improving Public Engagement With Climate Change: Five ‘Best Practice’ Insights From Psychological Science.” Perspectives on Psychological Science 10 (6): 758–63. https://doi.org/10.1177/1745691615598516.\n\n\nVlasceanu, Madalina, Kimberly C. Doell, Joseph B. Bak-Coleman, Boryana Todorova, Michael M. Berkebile-Weinberg, Samantha J. Grayson, Yash Patel, et al. 2024. “Addressing Climate Change with Behavioral Science: A Global Intervention Tournament in 63 Countries.” Science Advances 10 (6): eadj5778. https://doi.org/10.1126/sciadv.adj5778.\n\n\nVoelkel, Jan G., Ashwini Ashokkumar, Adina T. Abeles, Jarret T. Crawford, Kylie Fuller, Chrystal Redekopp, Renata Bongiorno, et al. 2026. “A Registered Report Megastudy on the Persuasiveness of the Most-Cited Climate Messages.” Nature Climate Change, January, 1–12. https://doi.org/10.1038/s41558-025-02536-2.\n\n\nZaval, Lisa, Elizabeth A. Keenan, Eric J. Johnson, and Elke U. Weber. 2014. “How Warm Days Increase Belief in Global Warming.” Nature Climate Change 4 (2): 143–47. https://doi.org/10.1038/nclimate2093."
+  },
+  {
+    "objectID": "slides/04-slides.html#left-half",
+    "href": "slides/04-slides.html#left-half",
+    "title": "Mental models and framing",
+    "section": "Left half",
+    "text": "Left half\nImagine that Switzerland is preparing for the outbreak of an unusual disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimate of the consequences of the programs are as follows:\nIf Program A is adopted, 200 people will be saved.\nIf Program B is adopted, there is 1/3 probability that 600 people will be saved, and 2/3 probability that no people will be saved.\nWhich of the two programs would you favor?\n\nWording from Tversky & Kahneman 1981, Problem 1. Two changes, the same ones Many Labs 1 made: “the U.S.” is replaced by the country of data collection, and “Asian” is dropped from “an unusual Asian disease”."
+  },
+  {
+    "objectID": "slides/04-slides.html#right-half",
+    "href": "slides/04-slides.html#right-half",
+    "title": "Mental models and framing",
+    "section": "Right half",
+    "text": "Right half\nImagine that Switzerland is preparing for the outbreak of an unusual disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimate of the consequences of the programs are as follows:\nIf Program C is adopted 400 people will die.\nIf Program D is adopted there is 1/3 probability that nobody will die, and 2/3 probability that 600 people will die.\nWhich of the two programs would you favor?\n\nWording from Tversky & Kahneman 1981, Problem 2, with the cover story of Problem 1 (as in the original). Same two changes."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-2",
+    "href": "slides/04-slides.html#section-2",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "Programs A and C are the same program. So are B and D.\n\nThe facts are identical. What differs is the wording, and the wording seems to change what people choose.\n\n\nThis is called a framing effect. To understand why it happens, we first need to talk about how the mind works."
+  },
+  {
+    "objectID": "slides/04-slides.html#in-1981",
+    "href": "slides/04-slides.html#in-1981",
+    "title": "Mental models and framing",
+    "section": "In 1981",
+    "text": "In 1981\n“200 people will be saved”\n72% choose the sure programme\n\n“400 people will die”\n22% choose the sure programme\n[CITATION NEEDED: Tversky & Kahneman 1981]\n\nTversky & Kahneman 1981, Science, DOI 10.1126/science.7455683 (not in Zotero yet). Problem 1: N = 152, Program A 72%, Program B 28%. Problem 2: N = 155, Program C 22%, Program D 78%. Students at Stanford University and the University of British Columbia."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-3",
+    "href": "slides/04-slides.html#section-3",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "Would you rather receive CHF 100 today, or CHF 110 in a year?\n\nHands. The amounts are only an illustration, they come from no study."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-4",
+    "href": "slides/04-slides.html#section-4",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "What causes more deaths: tornadoes or asthma?\n\nHands. Answer according to Mélusine Boon-Falleur’s slide on Lichtenstein et al. 1978: tornadoes are seen as more frequent killers, although asthma causes 20 times more deaths. This number is taken from her slide and was not checked in the paper."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-5",
+    "href": "slides/04-slides.html#section-5",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "Would you be willing to give 1% of your income to fight climate change?\n\nWhat share of people in your country do you think would say yes?\n\nHands for the first question. For the second: more than half, or less than half? The question wording here is simplified, it is not the survey’s exact item."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-6",
+    "href": "slides/04-slides.html#section-6",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "Imagine you are about to buy a jacket for $125 and a calculator for $15. The calculator is on sale for $10 at another branch of the store, 20 minutes’ drive away. Would you make the trip?\n\nNow imagine the calculator costs $125 and is on sale for $120 at the other branch. Would you make the trip?\n\nHands after each version. Adapted from Tversky & Kahneman 1981, Problem 10. In the original the two versions went to two different groups (N = 93 and N = 88) and the jacket price was swapped as well ($15 in the second version), so that the total was the same."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-7",
+    "href": "slides/04-slides.html#section-7",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "Losses and gains\nNow beats later\nExperience beats statistics\nWhat others do\nMoney has labels\n\n\nA. “Leverage intrinsic motivation to support long-term environmental goals.”\nB. “Frame policy solutions in terms of what can be gained (not in terms of what is lost).”\nC. “Highlight relevant personal experiences through affective recall, stories, and metaphors.”\nD. “Emphasize the present and make climate change impacts and solutions locally relevant.”\nE. “Activate and leverage relevant social group norms to promote and increase collective action.”\n\n(Van Der Linden, Maibach, and Leiserowitz 2015, Table 1)\n\nSolution: 1–B, 2–D, 3–C, 4–E. Advice A (intrinsic motivation) has no match. Mental model 5 has no advice, mental accounting is not in the reading. Debrief question: what advice would you write for number 5? Optional example for A from Mélusine’s lecture 1: Gneezy & Rustichini 2000, “A Fine is a Price” (DOI 10.1086/468061). A day-care fine for late parents: “the number of late-coming parents increased significantly”, and it did not go down again after the fine was removed."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-8",
+    "href": "slides/04-slides.html#section-8",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "These studies suggest that framing matters for climate change communication.\n\nBut most of them are single experiments, some of them small, and the interlude taught us to be careful.\n\n\nWhat happens when frames are tested in large samples, side by side?"
+  },
+  {
+    "objectID": "slides/04-slides.html#now-beats-later",
+    "href": "slides/04-slides.html#now-beats-later",
+    "title": "Mental models and framing",
+    "section": "2. Now beats later",
+    "text": "2. Now beats later\n“people tend to heavily discount (uncertain) future events when making trade-offs between cost and benefits that accrue at different points in time” (Van Der Linden, Maibach, and Leiserowitz 2015)\n\nThis is called time discounting. Something similar seems to hold for distance more generally: what is far away in time, in space, or from people like us tends to feel less urgent.\n\n\nFor many people, climate change is all three at once: “a nonurgent and psychologically distant risk—spatially, temporally, and socially”.\n\nBoth quotes are from the reading (insight 3, “Out of Sight, Out of Mind: The Nature of Psychological Distance”)."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-9",
+    "href": "slides/04-slides.html#section-9",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "In week 2, the conclusion was that facts alone rarely change minds.\n\nA recent line of research complicates this picture."
+  },
+  {
+    "objectID": "slides/04-slides.html#losses-and-gains",
+    "href": "slides/04-slides.html#losses-and-gains",
+    "title": "Mental models and framing",
+    "section": "1. Losses and gains",
+    "text": "1. Losses and gains\nBack to our experiment. Why would “saved” and “die” lead to different choices?\n\nTversky and Kahneman’s answer: people judge outcomes as gains or losses relative to a reference point, and they treat the two differently.\n\n\n“choices involving gains are often risk averse and choices involving losses are often risk taking”\n(Tversky and Kahneman 1981)\n\nThe quote is from Tversky & Kahneman 1981. The reading (insight 4): “people psychologically evaluate gains and losses in fundamentally different ways”. Prospect theory patterns replicated in 19 countries (Ruggeri et al. 2020, n = 4,098: “The results replicated for 94% of items, with some attenuation.”). Whether losses in general weigh more than gains is disputed: Gal & Rucker 2018 conclude that “current evidence does not support that losses, on balance, tend to be any more impactful than gains”."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-10",
+    "href": "slides/04-slides.html#section-10",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "Would you give 1% of your income to fight climate change?\n\nHow many people would?\n\nHands for the first question. For the second: more than half, or less than half?"
+  },
+  {
+    "objectID": "slides/04-slides.html#section-11",
+    "href": "slides/04-slides.html#section-11",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "69% say yes\n\n125 countries, nearly 130,000 people\n(Andre et al. 2024)\n\nAndre et al. 2024: “69% of the global population expresses a willingness to contribute 1% of their personal income, 86% endorse pro-climate social norms and 89% demand intensified political action.” People “systematically underestimate the willingness of their fellow citizens to act”."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-12",
+    "href": "slides/04-slides.html#section-12",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "United States\n\n66–80% support major climate policies\n\n\nPeople guess 37–43%\n[CITATION NEEDED: Sparkman, Geiger & Weber 2022]\n\nSparkman, Geiger & Weber 2022, Nature Communications, DOI 10.1038/s41467-022-32412-y (not in Zotero yet). Representative sample, N = 6,119. “80–90% of Americans underestimate the prevalence of support for major climate change mitigation policies and climate concern.”"
+  },
+  {
+    "objectID": "slides/04-slides.html#what-others-do",
+    "href": "slides/04-slides.html#what-others-do",
+    "title": "Mental models and framing",
+    "section": "4. What others do",
+    "text": "4. What others do\n“People are social beings who respond to group norms” (Van Der Linden, Maibach, and Leiserowitz 2015)\n\nWe pay close attention to what others think and do, and we tend to adjust to it.\n\n\nIf people underestimate how much others care about climate change, the norm they respond to is weaker than the real one. This could hold climate action back.\n\nThe quote is the heading of insight 2 in the reading. Andre et al. 2024 make the last point: “This perception gap, combined with individuals showing conditionally cooperative behaviour, poses challenges to further climate action.”"
+  },
+  {
+    "objectID": "slides/04-slides.html#section-13",
+    "href": "slides/04-slides.html#section-13",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "A carbon tax\n\nWhere should the money go?\n\nOpen question to the room, a few answers."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-14",
+    "href": "slides/04-slides.html#section-14",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "More people accept the tax\nwhen the money goes to green projects\n\nSix experiments, United Kingdom and France, 7,100 people\n(Mus, Mercier, and Chevallier 2023)\n\nMus, Mercier & Chevallier 2023: “an acceptability boost when the use of tax revenues matches the tax domain thematically”. Most support for a mixed scheme: most revenue to green projects, the rest to low-income households. The same pattern for tobacco taxes (health) and inheritance taxes (social)."
+  },
+  {
+    "objectID": "slides/04-slides.html#money-has-labels",
+    "href": "slides/04-slides.html#money-has-labels",
+    "title": "Mental models and framing",
+    "section": "5. Money has labels",
+    "text": "5. Money has labels\nIn the original study, 68% were willing to make the trip to save $5 on a $15 calculator. Only 29% were willing to make the same trip to save $5 on a $125 calculator.\n\nPeople do not seem to treat the $5 as simply $5. They set it against the price of the item, as if each purchase had its own account.\n\n\nThis is called mental accounting: people seem to keep separate mental budgets, and money in one budget is not treated like money in another.\n(Tversky and Kahneman 1981)\n\nA second example in the same paper, Problems 8 and 9: after losing a $10 bill, 88% would still buy a $10 theatre ticket. After losing the ticket itself, only 46% would buy another one. Mental accounting effects replicated across 21 countries (Priolo et al. 2026)."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-15",
+    "href": "slides/04-slides.html#section-15",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "Shortcuts are not stupidity\n(Gigerenzer 2015)\n\n42–44 min. Gigerenzer 2015 on the evidence for “latent irrationality”: it “suffers from narrow logical norms” and “from a confirmation bias, that is, selective reporting of research”."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-16",
+    "href": "slides/04-slides.html#section-16",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "In pairs, 7 minutes\n\nMatch the four to the advice in the reading\n\n\nWhich advice has no match?\n\n44–56 min. 7 minutes of work, 5 minutes of debrief."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-17",
+    "href": "slides/04-slides.html#section-17",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "Now beats later\nLosses and gains\nWhat others do\nMoney has labels\n\n\nA. Leverage intrinsic motivation to support long-term environmental goals.\nB. Frame policy solutions in terms of what can be gained (not in terms of what is lost).\nC. Highlight relevant personal experiences through affective recall, stories, and metaphors.\nD. Emphasize the present and make climate change impacts and solutions locally relevant.\nE. Activate and leverage relevant social group norms to promote and increase collective action.\n\n(Van Der Linden, Maibach, and Leiserowitz 2015)\n\nAdvice lines copied from Table 1 of the reading. Solution: 1–D, 2–B, 3–E. A and C have no match (intrinsic motivation, experience over analysis). Number 4 has no advice, mental accounting is not in the reading. Debrief question: what advice would you write for number 4?"
+  },
+  {
+    "objectID": "slides/04-slides.html#section-18",
+    "href": "slides/04-slides.html#section-18",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "What you just did has a name\n\nFraming\n\n\nThe same information, packaged to fit a mental model\n\n56–60 min."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-19",
+    "href": "slides/04-slides.html#section-19",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "Two sides of the same coin\n\nA mental model is how people think\n\n\nA frame is a message built for it"
+  },
+  {
+    "objectID": "slides/04-slides.html#section-20",
+    "href": "slides/04-slides.html#section-20",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "Can a song make you younger?\n\n60–77 min."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-21",
+    "href": "slides/04-slides.html#section-21",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "20 students\n\n“When I’m Sixty-Four”\n\n\n“nearly a year-and-a-half younger”\np = .040\n(Simmons, Nelson, and Simonsohn 2011)\n\nSimmons, Nelson & Simonsohn 2011, Study 2. Students listened to “When I’m Sixty-Four” or to “Kalimba”, then gave their birth date and their father’s age. “people were nearly a year-and-a-half younger after listening to ‘When I’m Sixty-Four’ (adjusted M = 20.1 years) rather than to ‘Kalimba’ (adjusted M = 21.5 years), F(1, 17) = 4.92, p = .040.” The authors ran it “to demonstrate something false”."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-22",
+    "href": "slides/04-slides.html#section-22",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "What the first report left out\n\n34 participants, three songs\n\n\nAn extra control: father’s age\n\n\nA look at the results after about every 10 participants\n\nFrom the paper’s transparent re-report. Without father’s age as a control the difference was not significant (p = .33)."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-23",
+    "href": "slides/04-slides.html#section-23",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "Psychology re-ran its classics\n\n28 findings, 15,305 people, 36 countries and territories\n\n\n15 held\n[CITATION NEEDED: Klein et al. 2018, Many Labs 2]\n\nMany Labs 2, Klein et al. 2018, DOI 10.1177/2515245918810225 (not in Zotero yet). “15 (54%)” replicated. Median effect size 0.60 for the original findings and 0.15 for the replications."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-24",
+    "href": "slides/04-slides.html#section-24",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "Our experiment from the start?\n\nIt holds\n\nThe gain/loss framing effect replicated in Many Labs 1 and Many Labs 2. NOT VERIFIED IN THE PRIMARY PAPERS: that it came out smaller than the original (secondary sources FORRT and Data Colada: d = 0.40 in Many Labs 2, “less than half the size of the original”). Check before saying “smaller”."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-25",
+    "href": "slides/04-slides.html#section-25",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "And climate messages?"
+  },
+  {
+    "objectID": "slides/04-slides.html#section-26",
+    "href": "slides/04-slides.html#section-26",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "The ten most-cited climate messages\n13,544 Americans\n\nAttitudes move by 1 to 4 percentage points\n\n\nDonations do not move\n(Voelkel et al. 2026)\n\nVoelkel et al. 2026. “Six messages significantly affected multiple preregistered attitudes, with effects ranging from 1 to 4 percentage points.” “No message increased pro-environmental donations”. Five replications of three highly cited strategies (N = 3,216) found “limited evidence”."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-27",
+    "href": "slides/04-slides.html#section-27",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "11 interventions\n59,440 people, 63 countries\n\nSmall effects\n\n\nNo intervention got people to plant more trees\n(Vlasceanu et al. 2024)\n\nVlasceanu et al. 2024. Effectiveness “was small, largely limited to nonclimate skeptics”. Decreasing psychological distance strengthened beliefs by 2.3%. “no intervention increased the more effortful behavior—several interventions even reduced tree planting”."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-28",
+    "href": "slides/04-slides.html#section-28",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "A patriotic frame\n\nIt works in the United States\n\n\nIt backfires in Germany, Belgium and Russia\n(Mason, Vlasceanu, and Jost 2024)\n\nMason, Vlasceanu & Jost 2024. Effective in an aggregated analysis of 63 countries, “although the overall effect sizes were small”. “moderately successful in some countries (e.g., Brazil, France, Israel), it backfired in others (Germany, Belgium, Russia)”."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-29",
+    "href": "slides/04-slides.html#section-29",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "Telling people what others really think\n\n“largely ineffective”\n(Geiger et al. 2025)\n\nGeiger et al. 2025, 11 countries. People underestimated pro-climate views by 7.5% (Indonesia) to 20.8% (Brazil). Giving them the real numbers “was largely ineffective, except for a slight increase in willingness to express one’s proclimate opinion”."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-30",
+    "href": "slides/04-slides.html#section-30",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "Frames nudge a little\n\nAnd it matters who is listening"
+  },
+  {
+    "objectID": "slides/04-slides.html#section-31",
+    "href": "slides/04-slides.html#section-31",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "Facts alone rarely change minds\n\nReally?\n\n77–88 min. Discussion."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-32",
+    "href": "slides/04-slides.html#section-32",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "2,190 people who believe a conspiracy theory\n\nA conversation with an AI, built on evidence\n\n\nBelief drops by about 20%\n\n\nStill there two months later\n(Costello, Pennycook, and Rand 2024)\n\nCostello, Pennycook & Rand 2024. “personalized evidence-based dialogues with GPT-4 Turbo. The intervention reduced conspiracy belief by ~20%. The effect remained 2 months later”."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-33",
+    "href": "slides/04-slides.html#section-33",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "Climate sceptics and ChatGPT\n\nSmall effects\n\n\nThey fade\n(Hornsey et al. 2025)\n\nHornsey et al. 2025. Study 1 n = 949, study 2 n = 333. Effects on scepticism “are inconsistent across two studies and susceptible to decay over time”."
+  },
+  {
+    "objectID": "slides/04-slides.html#section-34",
+    "href": "slides/04-slides.html#section-34",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "Did we bury the deficit model too early?"
+  },
+  {
+    "objectID": "slides/04-slides.html#section-35",
+    "href": "slides/04-slides.html#section-35",
+    "title": "Mental models and framing",
+    "section": "",
+    "text": "People use simple pictures and shortcuts\n\nA frame is a message built for them\n\n\nTested at scale, frames help a little\n\n88–90 min. Take-home."
+  },
+  {
+    "objectID": "slides/04-slides.html#where-we-are",
+    "href": "slides/04-slides.html#where-we-are",
+    "title": "Mental models and framing",
+    "section": "Where we are",
+    "text": "Where we are\nWeek 2: Can facts change people’s minds? Communicating facts alone often does not seem to be enough.\n\nWeek 3: Trust is an important condition. Without trust in the messenger, it is hard to change minds.\n\n\nToday: the way we communicate about climate change also has to fit how people think.\n\n0–5 min. Recap, kept superficial on purpose."
+  },
+  {
+    "objectID": "slides/04-slides.html#overview",
+    "href": "slides/04-slides.html#overview",
+    "title": "Mental models and framing",
+    "section": "Overview",
+    "text": "Overview\n\nA quick experiment\nMental models\nFraming\nDoes it work for climate change?\nBack to the deficit model"
+  },
+  {
+    "objectID": "slides/04-slides.html#the-original-study",
+    "href": "slides/04-slides.html#the-original-study",
+    "title": "Mental models and framing",
+    "section": "The original study",
+    "text": "The original study\nWhen the programs were described in terms of lives saved, 72% of participants chose the sure option (Program A).\n\nWhen the same programs were described in terms of deaths, only 22% chose the sure option (Program C).\n(Tversky and Kahneman 1981)\n\nTversky & Kahneman 1981, Science, DOI 10.1126/science.7455683. Problem 1: N = 152, Program A 72%, Program B 28%. Problem 2: N = 155, Program C 22%, Program D 78%. Students at Stanford University and the University of British Columbia."
+  },
+  {
+    "objectID": "slides/04-slides.html#what-is-a-mental-model",
+    "href": "slides/04-slides.html#what-is-a-mental-model",
+    "title": "Mental models and framing",
+    "section": "What is a mental model?",
+    "text": "What is a mental model?\nA working definition for today: a mental model is a simplified picture, in someone’s head, of how something works.\n\nWe need such pictures. The world is too complex to reason through every judgement and decision from scratch.\n\n\nMost of the time they serve us well. Sometimes they lead to choices that look odd from the outside.\n\nBroad everyday sense, chosen for this lecture. The reading never uses the term. In research on climate change it often means lay people’s understanding of how climate change works."
+  },
+  {
+    "objectID": "slides/04-slides.html#an-example-the-bathtub",
+    "href": "slides/04-slides.html#an-example-the-bathtub",
+    "title": "Mental models and framing",
+    "section": "An example: the bathtub",
+    "text": "An example: the bathtub\nThink of the atmosphere as a bathtub. Emissions flow in, natural removal drains out.\n\nAs long as more flows in than drains out, the level keeps rising.\n\n\nMany people seem to hold a different picture, in which stabilising emissions near current rates would be enough to stabilise the climate.\n[CITATION NEEDED: Sterman & Sweeney 2002]\n\nOptional slide. Sterman & Sweeney 2002, System Dynamics Review, DOI 10.1002/sdr.242 (not in Zotero yet). From the abstract, on graduate students who were given IPCC descriptions: “Overall performance was poor. Subjects often select trajectories that violate conservation of matter… Still more believe that stabilizing emissions near current rates would stabilize the climate, when in fact emissions would continue to exceed removal”. Bathtub image from Sterman’s own page: “analogous to arguing a bathtub filled faster than it drains will never overflow”. Only the abstract was read, not the full paper."
+  },
+  {
+    "objectID": "slides/04-slides.html#many-names-for-similar-things",
+    "href": "slides/04-slides.html#many-names-for-similar-things",
+    "title": "Mental models and framing",
+    "section": "Many names for similar things",
+    "text": "Many names for similar things\nPsychologists have described a great many regularities in how people judge and decide. They appear under different names: heuristics, biases, shortcuts, mental models.\n\nToday we look at five that matter for communicating about climate change. Four are central to today’s reading, the fifth is more recent.\n\n\n\nLosses and gains\nNow beats later\nExperience beats statistics\nWhat others do\nMoney has labels\n\n\n\nFor each one, we go from the general finding to evidence that it matters for climate change."
+  },
+  {
+    "objectID": "slides/04-slides.html#most-people-say-yes-and-most-underestimate-how-many-others-do",
+    "href": "slides/04-slides.html#most-people-say-yes-and-most-underestimate-how-many-others-do",
+    "title": "Mental models and framing",
+    "section": "Most people say yes, and most underestimate how many others do",
+    "text": "Most people say yes, and most underestimate how many others do\n\n(Fig. 3 from Andre et al. 2024, CC BY 4.0)\nAndre et al. 2024: representative survey in 125 countries, nearly 130,000 people. “69% of the global population expresses a willingness to contribute 1% of their personal income, 86% endorse pro-climate social norms and 89% demand intensified political action.” Panel b: actual willingness 69%, average perceived willingness of others 43%. Circles are actual proportions per country, triangles are perceived proportions."
+  },
+  {
+    "objectID": "slides/04-slides.html#the-same-pattern-in-the-united-states",
+    "href": "slides/04-slides.html#the-same-pattern-in-the-united-states",
+    "title": "Mental models and framing",
+    "section": "The same pattern in the United States",
+    "text": "The same pattern in the United States\n\n(Fig. 1 from Sparkman, Geiger, and Weber 2022, CC BY 4.0)\nSparkman, Geiger & Weber 2022, Nature Communications, DOI 10.1038/s41467-022-32412-y. N = 6,119. Grey shapes: what people think the level of support is. Red lines: actual support from national polls. “While 66–80% Americans support these policies, Americans estimate the prevalence to only be between 37–43% on average.” RE = renewable energy."
+  },
+  {
+    "objectID": "slides/04-slides.html#the-same-five-dollars",
+    "href": "slides/04-slides.html#the-same-five-dollars",
+    "title": "Mental models and framing",
+    "section": "The same five dollars",
+    "text": "The same five dollars\nIn the original study, 68% were willing to make the trip to save $5 on a $15 calculator.\n\nOnly 29% were willing to make the same trip to save $5 on a $125 calculator.\n\n\nPeople do not seem to treat the $5 as simply $5. They set it against the price of the item, as if each purchase had its own account.\n[CITATION NEEDED: Tversky & Kahneman 1981]"
+  },
+  {
+    "objectID": "slides/04-slides.html#mental-accounts-and-carbon-taxes",
+    "href": "slides/04-slides.html#mental-accounts-and-carbon-taxes",
+    "title": "Mental models and framing",
+    "section": "Mental accounts and carbon taxes",
+    "text": "Mental accounts and carbon taxes\n\n(Fig. 2 from Mus, Mercier, and Chevallier 2023, CC BY 4.0)\nMus, Mercier & Chevallier 2023. Support for a carbon tax increase on a ten-point scale, with revenues either not earmarked or earmarked for environmental protection. UK: N = 706, d = 0.23. France: N = 429, d = 0.71."
+  },
+  {
+    "objectID": "slides/04-slides.html#are-these-mistakes",
+    "href": "slides/04-slides.html#are-these-mistakes",
+    "title": "Mental models and framing",
+    "section": "Are these mistakes?",
+    "text": "Are these mistakes?\nIt is tempting to read this list as a catalogue of human irrationality.\n\nNot everyone agrees. Gigerenzer argues that the evidence for systematic irrationality “suffers from narrow logical norms” and from “selective reporting of research” (2015).\n\n\nFor communicators, a more useful reading may be this: these are regular features of how people think, and a message can fit them more or less well.\n\nMélusine Boon-Falleur’s lecture 3 ends on the same note: heuristics often satisfice, and many follow a simple logic that minimises costly errors (the “smoke detector principle”)."
+  },
+  {
+    "objectID": "slides/04-slides.html#your-turn",
+    "href": "slides/04-slides.html#your-turn",
+    "title": "Mental models and framing",
+    "section": "Your turn",
+    "text": "Your turn\nThe reading for today gives five pieces of advice for communicating about climate change.\n\nIn pairs, match each of our five mental models to the advice that builds on it.\n\n\nWhich advice has no match? Which mental model has no advice? (7 minutes)\n\n7 minutes of work, 5 minutes of debrief."
+  },
+  {
+    "objectID": "slides/04-slides.html#what-you-just-did-has-a-name",
+    "href": "slides/04-slides.html#what-you-just-did-has-a-name",
+    "title": "Mental models and framing",
+    "section": "What you just did has a name",
+    "text": "What you just did has a name\nFraming means packaging essentially the same information differently, by appealing to the mental models people use.\n\nThe hope is that a message which fits how people think is more likely to change beliefs and behaviour.\n\n\nIn that sense, mental models and framing are two sides of the same coin. One describes how people think, the other what communicators do with it."
+  },
+  {
+    "objectID": "slides/04-slides.html#can-a-song-make-you-younger",
+    "href": "slides/04-slides.html#can-a-song-make-you-younger",
+    "title": "Mental models and framing",
+    "section": "Can a song make you younger?",
+    "text": "Can a song make you younger?\nIn 2011, three psychologists reported an experiment with 20 students. Some listened to “When I’m Sixty-Four” by the Beatles, the others to a control song.\n\nThose who had listened to the Beatles were “nearly a year-and-a-half younger” afterwards (p = .040) (Simmons, Nelson, and Simonsohn 2011).\n\n\nThis is impossible, of course. That was the point.\n\nSimmons, Nelson & Simonsohn 2011, Study 2. Students listened to “When I’m Sixty-Four” or to “Kalimba”, then gave their birth date and their father’s age. “people were nearly a year-and-a-half younger after listening to ‘When I’m Sixty-Four’ (adjusted M = 20.1 years) rather than to ‘Kalimba’ (adjusted M = 21.5 years), F(1, 17) = 4.92, p = .040.” The authors ran it “to demonstrate something false”."
+  },
+  {
+    "objectID": "slides/04-slides.html#how-to-find-something-that-is-not-there",
+    "href": "slides/04-slides.html#how-to-find-something-that-is-not-there",
+    "title": "Mental models and framing",
+    "section": "How to find something that is not there",
+    "text": "How to find something that is not there\nThe authors then listed what their first report had left out:\n\n\nthere were 34 participants and three songs\nthe data were analysed after about every 10 participants\nthe effect only appeared when the age of the participants’ fathers was controlled for\n\n\n\nEach of these choices can be defended on its own. Together, they allow researchers to present almost anything as a significant finding.\n\nWithout father’s age as a control the difference was not significant (p = .33). Title of the paper: “False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant”."
+  },
+  {
+    "objectID": "slides/04-slides.html#psychology-re-ran-its-classics",
+    "href": "slides/04-slides.html#psychology-re-ran-its-classics",
+    "title": "Mental models and framing",
+    "section": "Psychology re-ran its classics",
+    "text": "Psychology re-ran its classics\nIn response, large teams of researchers repeated well-known experiments with thousands of participants.\n\nOne of these projects re-ran 28 findings with 15,305 participants in 36 countries and territories. 15 of the 28 findings (54%) replicated.\n\n\nMost effects were smaller than first reported. The median effect size was 0.60 in the original studies and 0.15 in the replications.\n[CITATION NEEDED: Klein et al. 2018, Many Labs 2]\n\nMany Labs 2, Klein et al. 2018, DOI 10.1177/2515245918810225 (not in Zotero yet). Abstract: “fifteen (54%) of the replications provided evidence in the same direction and statistically significant as the original finding”. “21 (75%) had effect sizes smaller than the original finding”. Effect sizes are Cohen’s d."
+  },
+  {
+    "objectID": "slides/04-slides.html#what-about-our-examples",
+    "href": "slides/04-slides.html#what-about-our-examples",
+    "title": "Mental models and framing",
+    "section": "What about our examples?",
+    "text": "What about our examples?\nThe disease problem replicated in 36 samples with 6,271 participants. The effect was about half the size of the original (0.60, originally 1.13).\n\nThe calculator problem replicated as well, again with a smaller effect: 49% against 32% were willing to make the trip (originally 68% against 29%).\n\n\nA climate example did not replicate. In an earlier study, unscrambling sentences with heat-related words increased concern about global warming. With 4,204 participants, the effect was gone (d = −0.03).\n[CITATION NEEDED: Klein et al. 2014, Many Labs 1; Klein et al. 2018, Many Labs 2]\n\nDisease problem: Many Labs 1, Klein et al. 2014, DOI 10.1027/1864-9335/a000178 (not in Zotero yet), Table 2: original effect size 1.13, weighted replication effect size 0.60 (99% CI 0.53, 0.67), significant in the same direction in 86% of the 36 samples. Calculator problem: Many Labs 2, N = 7,228, d = 0.40 against 1.08 in the original. The replication used a ceramic vase and a wall hanging with updated prices. Climate example: Zaval, Keenan, Johnson & Weber 2014, Study 3A, DOI 10.1038/nclimate2093, original d = 0.31 on concern. Many Labs 2: heat priming M = 2.47, cold priming M = 2.50, “not consistent with the hypothesis that temperature priming alters concern about global warming”."
+  },
+  {
+    "objectID": "slides/04-slides.html#and-climate-messages",
+    "href": "slides/04-slides.html#and-climate-messages",
+    "title": "Mental models and framing",
+    "section": "And climate messages?",
+    "text": "And climate messages?\nThe same logic has reached climate change communication: test many messages at once, in one large sample, on the same outcomes.\n\nSuch studies are called megastudies. Here are four recent results."
+  },
+  {
+    "objectID": "slides/04-slides.html#the-ten-most-cited-climate-messages",
+    "href": "slides/04-slides.html#the-ten-most-cited-climate-messages",
+    "title": "Mental models and framing",
+    "section": "The ten most-cited climate messages",
+    "text": "The ten most-cited climate messages\nA megastudy tested the ten most-cited climate messaging strategies on 13,544 Americans (Voelkel et al. 2026).\n\nSix of the ten messages changed attitudes, by 1 to 4 percentage points.\n\n\nNo message increased donations to environmental causes.\n\nA megastudy tests many messages at once, in one large sample, on the same outcomes. Voelkel et al. 2026: “Six messages significantly affected multiple preregistered attitudes, with effects ranging from 1 to 4 percentage points.” “No message increased pro-environmental donations, suggesting costly behaviours are difficult to influence with messaging alone.” “Persuasiveness varied little across party lines”. Five replications of three highly cited strategies (N = 3,216) found “limited evidence of persuasive effects”."
+  },
+  {
+    "objectID": "slides/04-slides.html#eleven-interventions-in-63-countries",
+    "href": "slides/04-slides.html#eleven-interventions-in-63-countries",
+    "title": "Mental models and framing",
+    "section": "Eleven interventions in 63 countries",
+    "text": "Eleven interventions in 63 countries\n59,440 participants were assigned to one of 11 interventions designed by experts (Vlasceanu et al. 2024).\n\nEffects were small, and largely limited to people who were not sceptical about climate change to begin with.\n\n\nReducing psychological distance, our mental model 2, strengthened climate beliefs by 2.3%.\n\n\nNo intervention increased an effortful behaviour, a task that led to trees being planted. Several interventions reduced it.\n\nVlasceanu et al. 2024. “the interventions’ effectiveness was small, largely limited to nonclimate skeptics, and differed across outcomes: Beliefs were strengthened mostly by decreasing psychological distance (by 2.3%), policy support by writing a letter to a future-generation member (2.6%), information sharing by negative emotion induction (12.1%), and no intervention increased the more effortful behavior—several interventions even reduced tree planting.”"
+  },
+  {
+    "objectID": "slides/04-slides.html#the-same-frame-different-audiences",
+    "href": "slides/04-slides.html#the-same-frame-different-audiences",
+    "title": "Mental models and framing",
+    "section": "The same frame, different audiences",
+    "text": "The same frame, different audiences\nFraming climate action as patriotic increased belief in climate change and support for climate policies in the United States (Mason, Vlasceanu, and Jost 2024).\n\nAcross 63 countries, similar messages had small effects on average.\n\n\nIn some countries the frame was moderately successful (Brazil, France, Israel). In others it backfired (Germany, Belgium, Russia).\n\nMason, Vlasceanu & Jost 2024. The message framed pro-environmental initiatives “as patriotic and necessary to maintain the American ‘way of life’”. The country-level analyses were exploratory. The words and labels examples above show the same thing within the United States: who hears a frame matters. More on identity and motivated reasoning in week 9."
+  },
+  {
+    "objectID": "slides/04-slides.html#telling-people-what-others-think",
+    "href": "slides/04-slides.html#telling-people-what-others-think",
+    "title": "Mental models and framing",
+    "section": "Telling people what others think",
+    "text": "Telling people what others think\nOur mental model 4 suggests a simple fix: tell people how many others care.\n\nAcross 11 countries, people did underestimate the share of others who hold pro-climate views, by 7.5% in Indonesia and up to 20.8% in Brazil (Geiger et al. 2025).\n\n\nGiving them the actual numbers, however, was “largely ineffective”.\n\nGeiger et al. 2025, n = 3,653 in 11 countries. Providing information about the actual public consensus “was largely ineffective, except for a slight increase in willingness to express one’s proclimate opinion”."
+  },
+  {
+    "objectID": "slides/04-slides.html#what-should-we-take-from-this",
+    "href": "slides/04-slides.html#what-should-we-take-from-this",
+    "title": "Mental models and framing",
+    "section": "What should we take from this?",
+    "text": "What should we take from this?\nThe mental models themselves seem to be real. The classic effects replicate, and people around the world underestimate each other.\n\nMessages built on them can move attitudes, typically by a few percentage points.\n\n\nCostly behaviour is much harder to influence with a message alone.\n\n\nAnd the effect of a frame depends on who is listening."
+  },
+  {
+    "objectID": "slides/04-slides.html#conversations-with-an-ai",
+    "href": "slides/04-slides.html#conversations-with-an-ai",
+    "title": "Mental models and framing",
+    "section": "Conversations with an AI",
+    "text": "Conversations with an AI\n2,190 people who believed in a conspiracy theory discussed it with an AI model, which responded with evidence tailored to their own arguments (Costello, Pennycook, and Rand 2024).\n\nBelief in the conspiracy theory fell by about 20%.\n\n\nThe effect was still there two months later, even among participants with deeply entrenched beliefs.\n\nCostello, Pennycook & Rand 2024. “personalized evidence-based dialogues with GPT-4 Turbo. The intervention reduced conspiracy belief by ~20%. The effect remained 2 months later, generalized across a wide range of conspiracy theories, and occurred even among participants with deeply entrenched beliefs.” Their reading: “previous failures in correcting conspiracy beliefs may be due to counterevidence being insufficiently compelling and tailored”."
+  },
+  {
+    "objectID": "slides/04-slides.html#and-for-climate-change",
+    "href": "slides/04-slides.html#and-for-climate-change",
+    "title": "Mental models and framing",
+    "section": "And for climate change?",
+    "text": "And for climate change?\nHere the picture is more mixed. In two studies, climate sceptics had short conversations with ChatGPT (Hornsey et al. 2025).\n\nThe conversations led to small increases in intentions to act, and to less confidence in sceptical views.\n\n\nThe effects on scepticism itself were inconsistent across the two studies, and they tended to fade over time.\n\nHornsey et al. 2025. Study 1 n = 949, study 2 n = 333. “the effects on reducing scepticism among sceptics are inconsistent across two studies and susceptible to decay over time. Increasing the conversation length from three to six rounds yielded no additional benefit.”"
+  },
+  {
+    "objectID": "slides/04-slides.html#discussion",
+    "href": "slides/04-slides.html#discussion",
+    "title": "Mental models and framing",
+    "section": "Discussion",
+    "text": "Discussion\nIf tailored evidence from an AI can change minds, was the deficit model wrong, or were the facts just badly delivered?\n\nIs a personalised conversation still “facts alone”, or is it a form of framing?\n\n\nWhat could go wrong?"
+  },
+  {
+    "objectID": "slides/04-slides.html#to-take-home",
+    "href": "slides/04-slides.html#to-take-home",
+    "title": "Mental models and framing",
+    "section": "To take home",
+    "text": "To take home\nPeople rely on simplified pictures of the world, mental models, to perceive, judge and decide.\n\nFraming means fitting a message to these pictures. The classic framing effects are real, but smaller than first reported.\n\n\nFor climate change, large studies suggest that framing helps modestly: a few percentage points on attitudes, and little on costly behaviour."
+  },
+  {
+    "objectID": "slides/04-slides.html#recap",
+    "href": "slides/04-slides.html#recap",
+    "title": "Mental models and framing",
+    "section": "Recap",
+    "text": "Recap\nWeek 1 · Introduction and key concepts in environmental psychology\n\nWeek 2 · Public opinion on climate change and the deficit model\nCan facts change people’s minds? Communicating facts alone often does not seem to be enough.\n\n\nWeek 3 · A question of trust\nWithout trust in the messenger, it is hard to change minds.\n\n\nWeek 4 · Mental models and framing\nToday: the way we communicate about climate change also has to fit how people think.\n\nRecap, kept superficial on purpose."
+  },
+  {
+    "objectID": "slides/04-slides.html#how-does-the-mind-work",
+    "href": "slides/04-slides.html#how-does-the-mind-work",
+    "title": "Mental models and framing",
+    "section": "How does the mind work?",
+    "text": "How does the mind work?\nA common approach in the cognitive sciences is to study the human mind as an information-processing device.\n\nInformation comes in, the mind does something with it, and a perception, a judgement or a decision comes out.\n\n\nThe interesting part is the step in the middle.\n\nThis opening (information-processing view, brain image, illusions) follows Mélusine Boon-Falleur’s lectures 1 and 2, “Psychology and the Sustainable Transition”, Sciences Po."
+  },
+  {
+    "objectID": "slides/04-slides.html#the-mind-as-an-information-processing-device",
+    "href": "slides/04-slides.html#the-mind-as-an-information-processing-device",
+    "title": "Mental models and framing",
+    "section": "The mind as an information-processing device",
+    "text": "The mind as an information-processing device\n\nInput → Computation → Output\n\nImage from Mélusine Boon-Falleur’s slides. Rights not cleared, the file is not published."
+  },
+  {
+    "objectID": "slides/04-slides.html#which-square-is-darker-a-or-b",
+    "href": "slides/04-slides.html#which-square-is-darker-a-or-b",
+    "title": "Mental models and framing",
+    "section": "Which square is darker, A or B?",
+    "text": "Which square is darker, A or B?\n\nChecker shadow illusion, Edward H. Adelson\nImage: Wikimedia Commons, “Grey square optical illusion”, original by Edward H. Adelson, licence “copyrighted free use”."
+  },
+  {
+    "objectID": "slides/04-slides.html#they-are-the-same",
+    "href": "slides/04-slides.html#they-are-the-same",
+    "title": "Mental models and framing",
+    "section": "They are the same",
+    "text": "They are the same\n\nEdward H. Adelson\nImage: Wikimedia Commons, “Grey square optical illusion proof2”, original by Edward H. Adelson, licence “copyrighted free use”."
+  },
+  {
+    "objectID": "slides/04-slides.html#what-happened-here",
+    "href": "slides/04-slides.html#what-happened-here",
+    "title": "Mental models and framing",
+    "section": "What happened here?",
+    "text": "What happened here?\nSquares A and B have exactly the same shade of grey. Yet we see B as lighter.\n\nThe visual system does not simply report what is on the screen. It seems to take the shadow into account, and to correct for it.\n\n\nThis correction is fast and automatic. Knowing about it does not make the illusion go away."
+  },
+  {
+    "objectID": "slides/04-slides.html#which-horizontal-line-is-longer",
+    "href": "slides/04-slides.html#which-horizontal-line-is-longer",
+    "title": "Mental models and framing",
+    "section": "Which horizontal line is longer?",
+    "text": "Which horizontal line is longer?\n\nMüller-Lyer illusion (1889)\n\nImage: Wikimedia Commons, “Müller-Lyer Illusion - MathWorld version”, public domain. The lines are equally long, the top row shows them overlaid. Reference on Mélusine’s slide: Müller-Lyer, F. C. (1889), Optische Urteilstäuschungen."
+  },
+  {
+    "objectID": "slides/04-slides.html#which-monster-is-bigger",
+    "href": "slides/04-slides.html#which-monster-is-bigger",
+    "title": "Mental models and framing",
+    "section": "Which monster is bigger?",
+    "text": "Which monster is bigger?\n\nRoger Shepard, Terror Subterra\nImage from Mélusine Boon-Falleur’s slides. Rights not cleared, the file is not published."
+  },
+  {
+    "objectID": "slides/04-slides.html#from-perception-to-judgement",
+    "href": "slides/04-slides.html#from-perception-to-judgement",
+    "title": "Mental models and framing",
+    "section": "From perception to judgement",
+    "text": "From perception to judgement\nOutside the lab, these built-in assumptions are useful. Correcting for shadows and for perspective usually gives the right answer.\n\nThe idea behind today’s lecture is that something similar happens when we judge and decide. The mind relies on simplified assumptions about how the world works.\n\n\nWe will call these assumptions mental models."
+  },
+  {
+    "objectID": "slides/04-slides.html#a-different-picture-the-rational-decision-maker",
+    "href": "slides/04-slides.html#a-different-picture-the-rational-decision-maker",
+    "title": "Mental models and framing",
+    "section": "A different picture: the rational decision-maker",
+    "text": "A different picture: the rational decision-maker\nMuch of economics and political science starts from rational choice theory.\n\nThe main idea: individuals make rational decisions by analysing the costs and benefits of every available option.\n\n\nOur opening experiment is hard to reconcile with this picture. The costs and benefits of the two programs were identical. Only the description changed.\n\nThe definition of rational choice theory follows Mélusine Boon-Falleur’s lecture 2 (“From Homo Economicus to Homo Bias”)."
+  },
+  {
+    "objectID": "slides/04-slides.html#a-long-list-of-regularities",
+    "href": "slides/04-slides.html#a-long-list-of-regularities",
+    "title": "Mental models and framing",
+    "section": "A long list of regularities",
+    "text": "A long list of regularities\n\nCognitive Bias Codex. Design: John Manoogian III, categories: Buster Benson. CC BY-SA 4.0, via Wikimedia Commons\nThe codex groups 188 cognitive biases listed on Wikipedia. The point of the slide is the sheer number, nobody needs to read it."
+  },
+  {
+    "objectID": "slides/04-slides.html#losses-gains-and-climate-change",
+    "href": "slides/04-slides.html#losses-gains-and-climate-change",
+    "title": "Mental models and framing",
+    "section": "Losses, gains and climate change",
+    "text": "Losses, gains and climate change\nClimate solutions are often “framed as an immediate loss for society (e.g., higher taxes, reducing energy consumption)” (Van Der Linden, Maibach, and Leiserowitz 2015).\n\nIn one experiment, 161 participants read the same information about climate change impacts, framed either in terms of gains or in terms of losses.\n\n\nGain frames led to more positive attitudes towards climate change mitigation than loss frames.\n(Spence and Pidgeon 2010)\n\nSpence & Pidgeon 2010, Global Environmental Change, DOI 10.1016/j.gloenvcha.2010.07.002. Abstract: “gain frames were superior to loss frames in increasing positive attitudes towards climate change mitigation, and also increased the perceived severity of climate change impacts.” The text was adapted from the 2007 IPCC report. One small study, see section 4."
+  },
+  {
+    "objectID": "slides/04-slides.html#discounting-in-a-climate-game",
+    "href": "slides/04-slides.html#discounting-in-a-climate-game",
+    "title": "Mental models and framing",
+    "section": "Discounting in a climate game",
+    "text": "Discounting in a climate game\nIn a group experiment framed around climate change, participants could contribute money to avoid a collective loss.\n\nThe rewards of cooperating were paid out after one day, after seven weeks, or several decades later.\n\n\nThe longer the delay, the less the groups cooperated. Gains “delayed significantly into the future” were found to “markedly diminish cooperation”.\n(Jacquet et al. 2013)\n\nJacquet, Hagel, Hauert, Marotzke, Röhl & Milinski 2013, Nature Climate Change, DOI 10.1038/nclimate2024. Abstract: “The rewards of defection were immediate, whereas the rewards of cooperation were delayed by one day, delayed by seven weeks (intragenerational discounting), or delayed by several decades and spread over a much larger” group. Only the abstract was read."
+  },
+  {
+    "objectID": "slides/04-slides.html#experience-beats-statistics",
+    "href": "slides/04-slides.html#experience-beats-statistics",
+    "title": "Mental models and framing",
+    "section": "3. Experience beats statistics",
+    "text": "3. Experience beats statistics\nWhen people judge how frequent different causes of death are, their estimates are “systematically biased”. Some causes are exaggerated, others underestimated.\n\nThe authors traced this to “disproportionate exposure, memorability, or imaginability”. What comes to mind easily seems more frequent.\n\n\nThe reading states the general point as: “The human brain privileges experience over analysis” (Van Der Linden, Maibach, and Leiserowitz 2015).\n(Lichtenstein et al. 1978)\n\nLichtenstein, Slovic, Fischhoff, Layman & Combs 1978, DOI 10.1037/0278-7393.4.6.551, quotes from the abstract. The pattern is often called the availability heuristic. Another example from Mélusine’s slides: Gigerenzer 2004 on people avoiding flights after 11 September 2001 and driving instead (not checked)."
+  },
+  {
+    "objectID": "slides/04-slides.html#experience-and-climate-change",
+    "href": "slides/04-slides.html#experience-and-climate-change",
+    "title": "Mental models and framing",
+    "section": "Experience and climate change",
+    "text": "Experience and climate change\n“Climate change judgements can depend on whether today seems warmer or colder than usual”.\n\nPeople seem to “use less relevant but available information (for example, today’s temperature) in place of more diagnostic but less accessible information (for example, global climate change patterns)”.\n\n\nStatistics about global averages are hard to experience. A warm day is not.\n(Zaval et al. 2014)\n\nZaval, Keenan, Johnson & Weber 2014, Nature Climate Change, DOI 10.1038/nclimate2093, quotes from the abstract (“local warming effect”). One of the five studies in this paper, a priming study, did not replicate in Many Labs 2. This comes up in the interlude."
+  },
+  {
+    "objectID": "slides/04-slides.html#mental-accounting-and-climate-change",
+    "href": "slides/04-slides.html#mental-accounting-and-climate-change",
+    "title": "Mental models and framing",
+    "section": "Mental accounting and climate change",
+    "text": "Mental accounting and climate change\nCarbon taxes meet strong public resistance. How acceptable they are depends on what happens with the revenue.\n\nAcross six experiments in the United Kingdom and France (N = 7,100), a carbon tax was more acceptable when its revenue went to environmental projects (Mus, Mercier, and Chevallier 2023).\n\n\nThe authors’ explanation: people expect money raised in one domain to be spent in that same domain. The same pattern appeared for tobacco taxes and health spending, and for inheritance taxes and social spending.\n\nMus et al. 2023: “people create mental budgets where the origin of revenues is matched thematically with their domain of use”. Most support for a mixed scheme: most revenue to green projects, the rest to low-income households."
+  },
+  {
+    "objectID": "slides/04-slides.html#classic-example-1-the-same-beef",
+    "href": "slides/04-slides.html#classic-example-1-the-same-beef",
+    "title": "Mental models and framing",
+    "section": "Classic example 1: the same beef",
+    "text": "Classic example 1: the same beef\nConsumers rated ground beef that was labelled either “75% lean” or “25% fat”.\n\nTheir evaluations were more favourable for the beef labelled “75% lean”.\n\n\nThe effect became smaller once consumers had actually tasted the meat.\n(Levin and Gaeth 1988)\n\nLevin & Gaeth 1988, Journal of Consumer Research, DOI 10.1086/209174. Abstract: “the magnitude of this information framing effect lessened when consumers actually tasted the meat”. A link to mental model 3: direct experience weakens the frame."
+  },
+  {
+    "objectID": "slides/04-slides.html#classic-example-2-the-same-operation",
+    "href": "slides/04-slides.html#classic-example-2-the-same-operation",
+    "title": "Mental models and framing",
+    "section": "Classic example 2: the same operation",
+    "text": "Classic example 2: the same operation\nPeople were asked to imagine they had lung cancer, and to choose between surgery and radiation therapy.\n\nThe outcomes were described either as the probability of living or as the probability of dying.\n\n\nSurgery was substantially more attractive when the outcomes were framed in terms of living. This held for patients, for graduate students, and for physicians.\n(McNeil et al. 1982)\n\nMcNeil, Pauker, Sox & Tversky 1982, New England Journal of Medicine, DOI 10.1056/NEJM198205273062103. 238 patients, 491 graduate students, 424 physicians. Only the abstract was read."
+  },
+  {
+    "objectID": "slides/04-slides.html#classic-example-3-the-same-question",
+    "href": "slides/04-slides.html#classic-example-3-the-same-question",
+    "title": "Mental models and framing",
+    "section": "Classic example 3: the same question",
+    "text": "Classic example 3: the same question\nIn 1941, Americans were asked about speeches against democracy.\n\nAsked whether the United States should allow such speeches, 62% said no.\n\n\nAsked whether the United States should forbid them, only 46% said yes.\n(Rugg 1941; numbers as reported in Klein et al. 2014)\n\nRugg 1941, Public Opinion Quarterly, DOI 10.1086/265467. Numbers as reported in Many Labs 1 (Klein et al. 2014), the original paper was not read."
+  },
+  {
+    "objectID": "slides/04-slides.html#what-these-examples-share",
+    "href": "slides/04-slides.html#what-these-examples-share",
+    "title": "Mental models and framing",
+    "section": "What these examples share",
+    "text": "What these examples share\nIn each case the information is the same, or logically equivalent. Only the description differs.\n\nAnd in each case the description shifts what people prefer: lean beef, the operation, free speech, or Program A.\n\n\nBefore we turn to climate change, a short interlude. Can we trust findings like these?"
+  },
+  {
+    "objectID": "slides/04-slides.html#interlude-can-a-song-make-you-younger",
+    "href": "slides/04-slides.html#interlude-can-a-song-make-you-younger",
+    "title": "Mental models and framing",
+    "section": "Interlude: can a song make you younger?",
+    "text": "Interlude: can a song make you younger?\nIn 2011, three psychologists reported that students were “nearly a year-and-a-half younger” after listening to “When I’m Sixty-Four” by the Beatles (Simmons, Nelson, and Simonsohn 2011).\n\nThis is impossible, of course. The authors wanted to show how easily a false finding can be produced.\n\n\nTheir recipe: more participants and songs than first reported, a convenient control variable, and repeated looks at the data.\n\nSimmons, Nelson & Simonsohn 2011, Study 2. Reported: 20 students, “When I’m Sixty-Four” or “Kalimba”, adjusted M = 20.1 against 21.5 years, F(1, 17) = 4.92, p = .040. Left out at first: 34 participants and three songs, analyses after about every 10 participants, and father’s age as a control. Without that control p = .33."
+  },
+  {
+    "objectID": "slides/04-slides.html#interlude-thinking-fast-and-slow",
+    "href": "slides/04-slides.html#interlude-thinking-fast-and-slow",
+    "title": "Mental models and framing",
+    "section": "Interlude: Thinking, Fast and Slow",
+    "text": "Interlude: Thinking, Fast and Slow\nIn his 2011 bestseller, Daniel Kahneman described studies in which subtle cues changed behaviour. In the best known, students who had worked with words related to old age then walked more slowly down a corridor.\n\nHis verdict at the time: “disbelief is not an option.”\n\n\nA later replication with automated timing and a larger sample “failed to show priming”. In 2017, Kahneman wrote: “I placed too much faith in underpowered studies.”\n(Doyen et al. 2012; Schimmack 2017)\n\nThese are priming studies. The book passage is quoted as reproduced in Schimmack, Heene & Kesavan 2017: “disbelief is not an option. The results are not made up, nor are they statistical flukes. You have no choice but to accept that the major conclusions of these studies are true.” Original study: Bargh, Chen & Burrows 1996 (DOI 10.1037/0022-3514.71.2.230). Replication: Doyen, Klein, Pichon & Cleeremans 2012, PLoS ONE, DOI 10.1371/journal.pone.0029081. Kahneman’s sentence is from his comment of 14 February 2017 under the blog post: “What the blog gets absolutely right is that I placed too much faith in underpowered studies.”"
+  },
+  {
+    "objectID": "slides/04-slides.html#interlude-what-held-up",
+    "href": "slides/04-slides.html#interlude-what-held-up",
+    "title": "Mental models and framing",
+    "section": "Interlude: what held up?",
+    "text": "Interlude: what held up?\nLarge teams have since repeated many classic studies with thousands of participants.\n\nFraming effects mostly held. The disease problem replicated at about half its original size, and the allow/forbid question and the calculator problem replicated as well.\n\n\nPriming effects mostly did not. Showing people a flag or banknotes had no measurable effect, and heat-related words did not change concern about global warming.\n\n\nSo the classic framing effects seem to be real, but often smaller than first reported.\n(Klein et al. 2014, 2018)\n\nMany Labs 1 (Klein et al. 2014, DOI 10.1027/1864-9335/a000178): 13 effects, 36 samples, 6,344 participants. Effect sizes original against replication: disease problem 1.13 against 0.60, allowed/forbidden 0.65 against 1.96, flag priming 0.50 against 0.03, currency priming 0.80 against −0.02. Many Labs 2 (Klein et al. 2018, DOI 10.1177/2515245918810225): 28 findings, 15,305 participants, 15 (54%) replicated, median effect size 0.60 in the originals and 0.15 in the replications. Calculator problem: 49% against 32% made the trip, N = 7,228 (originally 68% against 29%). Heat priming (Zaval et al. 2014, Study 3A): original d = 0.31, replication d = −0.03, N = 4,204."
+  },
+  {
+    "objectID": "slides/04-slides.html#framing-climate-change-words",
+    "href": "slides/04-slides.html#framing-climate-change-words",
+    "title": "Mental models and framing",
+    "section": "Framing climate change: words",
+    "text": "Framing climate change: words\nIs it “global warming” or “climate change”?\n\nIn a survey experiment with 2,267 Americans, Republicans were less likely to say the phenomenon is real when it was called “global warming” (44.0%) than when it was called “climate change” (60.2%).\n\n\nDemocrats were unaffected by the wording (86.9% and 86.4%).\n(Schuldt, Konrath, and Schwarz 2011)\n\nSchuldt, Konrath & Schwarz 2011, Public Opinion Quarterly, DOI 10.1093/poq/nfq073. “the partisan divide on the issue dropped from 42.9 percentage points under a ‘global warming’ frame to 26.2 percentage points under a ‘climate change’ frame”."
+  },
+  {
+    "objectID": "slides/04-slides.html#framing-climate-change-labels",
+    "href": "slides/04-slides.html#framing-climate-change-labels",
+    "title": "Mental models and framing",
+    "section": "Framing climate change: labels",
+    "text": "Framing climate change: labels\n898 Americans chose between otherwise identical products. One of them included a surcharge for emitted carbon dioxide.\n\nThe surcharge was labelled either as a “tax” or as an “offset”.\n\n\nThe label changed the preferences of Republicans and Independents. It did not affect the preferences of Democrats.\n(Hardisty, Johnson, and Weber 2009)\n\nHardisty, Johnson & Weber 2010, Psychological Science, “A Dirty Word or a Dirty World?”, DOI 10.1177/0956797609355572. The abstract speaks of “an earmarked tax or an offset”, a link to mental accounting."
+  },
+  {
+    "objectID": "slides/04-slides.html#framing-climate-change-values",
+    "href": "slides/04-slides.html#framing-climate-change-values",
+    "title": "Mental models and framing",
+    "section": "Framing climate change: values",
+    "text": "Framing climate change: values\nEnvironmental messages are mostly phrased in terms of harm and care, moral concerns that are more deeply held by liberals than by conservatives.\n\nWhen pro-environmental messages were reframed in terms of purity, a value that resonates more among conservatives, the difference in environmental attitudes between liberals and conservatives was “largely eliminated”.\n(Feinberg and Willer 2012)\n\nFeinberg & Willer 2013, Psychological Science, “The Moral Roots of Environmental Attitudes”, DOI 10.1177/0956797612449177 (published online 2012). United States."
+  },
+  {
+    "objectID": "slides/04-slides.html#framing-climate-change-themes",
+    "href": "slides/04-slides.html#framing-climate-change-themes",
+    "title": "Mental models and framing",
+    "section": "Framing climate change: themes",
+    "text": "Framing climate change: themes\n7,500 adults in China, Germany, India, the United Kingdom and the United States saw climate messages that varied at random.\n\nSupport for climate policies was higher with a positive frame (opportunity instead of threat), with health and environment themes, and with a global and immediate perspective.\n\n\nAmong people unconcerned about climate change, positive and health frames increased support.\n(Dasandi et al. 2022)\n\nDasandi, Graham, Hudson, Jankin, vanHeerde-Hudson & Watts 2022, Communications Earth & Environment, DOI 10.1038/s43247-022-00571-x. Conjoint experiment. Messages varied on framing (positive or negative), theme (health, environment, economy, migration), scale (individual, community, national, global) and time (current, 2030, 2050)."
+  },
+  {
+    "objectID": "slides/04-slides.html#framing-climate-change-data",
+    "href": "slides/04-slides.html#framing-climate-change-data",
+    "title": "Mental models and framing",
+    "section": "Framing climate change: data",
+    "text": "Framing climate change: data\nThe same climate trend can be shown as continuous data (mean temperature) or as binary data (did the lake freeze this winter, yes or no).\n\nPeople who saw the binary data perceived the impact of climate change as larger (d = 0.40, N = 799) (Liu et al. 2025).\n\n\nThe authors link this to the “boiling frog” effect: a slow, gradual shift is easy to overlook.\n\nLiu, Snell, Griffiths & Dubey 2025, Nature Human Behaviour. “our approach does not involve selective data presentation but rather compares different datasets that reflect equivalent trends in climate change over time”. A link to mental model 3. The figure is in Anne Urai’s Leiden deck 6, p. 6. No open licence found, so no figure here."
+  },
+  {
+    "objectID": "slides/04-slides.html#reframing-climate-policy",
+    "href": "slides/04-slides.html#reframing-climate-policy",
+    "title": "Mental models and framing",
+    "section": "Reframing climate policy",
+    "text": "Reframing climate policy\nClimate policy is usually justified by the risks of climate change. Would other benefits be more convincing: innovation, green jobs, community, health?\n\nTwo survey experiments with 1,675 participants in total suggest that they are not.\n\n\n“simple reframing of climate policy is unlikely to increase public support”\n(Bernauer and McGrath 2016)\n\nBernauer & McGrath 2016, Nature Climate Change, DOI 10.1038/nclimate2948 (ETH Zurich). “strategies to garner public support based on the traditional justification of reducing the risks of climate change remain the most effective”."
+  },
+  {
+    "objectID": "slides/04-slides.html#without-the-tunnel",
+    "href": "slides/04-slides.html#without-the-tunnel",
+    "title": "Mental models and framing",
+    "section": "Without the tunnel",
+    "text": "Without the tunnel\n\nAfter Roger Shepard, Terror Subterra, background removed\n\nThe two figures are the same size. Version with the background removed, made by Jan with ChatGPT on 2026-10-06 from the image on the previous slide. Derived from Shepard’s drawing, so it stays in the uncleared folder."
+  },
+  {
+    "objectID": "slides/04-slides.html#which-monster-is-bigger-1",
+    "href": "slides/04-slides.html#which-monster-is-bigger-1",
+    "title": "Mental models and framing",
+    "section": "Which monster is bigger?",
+    "text": "Which monster is bigger?\n\nRoger Shepard, Terror Subterra\nA blank canvas of the same size as the drawing, with one red line where the figure at the back will be. Title and source line are identical on the four slides so that the image keeps the same size and position."
+  },
+  {
+    "objectID": "slides/04-slides.html#which-monster-is-bigger-2",
+    "href": "slides/04-slides.html#which-monster-is-bigger-2",
+    "title": "Mental models and framing",
+    "section": "Which monster is bigger?",
+    "text": "Which monster is bigger?\n\nRoger Shepard, Terror Subterra\nThe second line is identical to the first, placed where the figure in front will be."
+  },
+  {
+    "objectID": "slides/04-slides.html#one-line",
+    "href": "slides/04-slides.html#one-line",
+    "title": "Mental models and framing",
+    "section": "One line",
+    "text": "One line\n\n\nA blank canvas of the same size as the drawing, with one red line where the figure at the back will be."
+  },
+  {
+    "objectID": "slides/04-slides.html#two-lines-of-the-same-length",
+    "href": "slides/04-slides.html#two-lines-of-the-same-length",
+    "title": "Mental models and framing",
+    "section": "Two lines of the same length",
+    "text": "Two lines of the same length\n\n\nThe second line is identical to the first, placed where the figure in front will be."
+  },
+  {
+    "objectID": "slides/04-slides.html#the-lines-stay-where-they-were",
+    "href": "slides/04-slides.html#the-lines-stay-where-they-were",
+    "title": "Mental models and framing",
+    "section": "The lines stay where they were",
+    "text": "The lines stay where they were\n\nRoger Shepard, Terror Subterra\n\nSame drawing, same two lines. Each line runs from head to feet of the figure beside it, so the two figures are the same size."
+  },
+  {
+    "objectID": "slides/04-slides.html#which-monster-is-bigger-3",
+    "href": "slides/04-slides.html#which-monster-is-bigger-3",
+    "title": "Mental models and framing",
+    "section": "Which monster is bigger?",
+    "text": "Which monster is bigger?\n\nRoger Shepard, Terror Subterra\nSame drawing, same two lines. Each line runs from head to feet of the figure beside it, so the two figures are the same size."
   }
 ]

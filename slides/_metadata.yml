@@ -1,0 +1,15 @@
+# Shared settings for every deck in slides/. A deck only sets its own title
+# and subtitle. Styling: assets/slides/theme.scss on top of the brand colors.
+author: "Dr. Viktoria Cologna and Dr. Jan Pfänder"
+bibliography: ../references.bib
+format:
+  revealjs:
+    theme: [default, ../assets/slides/theme.scss]
+    slide-number: true
+    progress: true
+    chalkboard: true
+    history: false
+    center-title-slide: false
+    toc: false
+    template-partials:
+      - ../assets/slides/title-slide.html

@@ -39,3 +39,8 @@
 
 # rendered copy of the local-only resources/ folder
 /docs/resources/
+
+# Images taken from other lecturers' slides for use in class. Rights not
+# cleared, so they stay out of the public repo and the published site.
+/slides/images/not_cleared/
+/docs/slides/images/not_cleared/

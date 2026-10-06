@@ -1,0 +1,128 @@
+/*-- scss:defaults --*/
+
+// Lecture slides (slides/NN-slides.qmd). Colors come from _brand.yml, the same
+// Navajo palette as the website: cream background, charcoal text, navy accent.
+$presentation-heading-font-weight: 600;
+
+/*-- scss:rules --*/
+
+// The $brand-* variables only exist in the rules layer.
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  color: $brand-navy;
+}
+
+// Logos appear on the title slide only. Quarto puts the logo from _brand.yml
+// in a corner of every slide (and `logo: false` is rejected for revealjs), so
+// it is hidden here. With a logo, Quarto also moves the slide number to the top
+// right. Put it back to the bottom right.
+.reveal .slide-logo {
+  display: none !important;
+}
+.reveal.has-logo .slide-number {
+  top: auto;
+  bottom: 18px;
+  right: 18px;
+}
+
+// Title slide: text left-aligned and vertically centred, Eawag logo top right.
+.reveal .slides #title-slide {
+  height: 100%;
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+
+  .title {
+    font-size: 2.2em;
+    line-height: 1.15;
+    margin: 0 0 0.35em;
+    max-width: 68%;
+  }
+  .subtitle {
+    color: $brand-maroon;
+    font-size: 0.95em;
+    font-weight: 600;
+    margin: 0 0 1.6em;
+    max-width: 68%;
+  }
+  .author {
+    font-size: 0.75em;
+    margin: 0;
+  }
+  .title-logo {
+    position: absolute;
+    margin: 0;
+    max-width: none;
+    max-height: none;
+  }
+  .title-logo-eawag {
+    top: 0;
+    right: 0;
+    height: 64px;
+  }
+  // Course logo: large, on the right, vertically centred.
+  .title-logo-course {
+    right: 3%;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 270px;
+  }
+}
+
+// Section dividers (`# Title`): maroon, like the hexagon of the course logo.
+.reveal .slides section.title-slide.level1 h1 {
+  color: $brand-maroon;
+}
+
+// Images are centred by default, like figures.
+.reveal .slides section img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.reveal .slides section figure {
+  text-align: center;
+}
+// Quarto turns the caption of a stretched image into a plain `p.caption`
+// and leaves it at the left margin. Treat it like a figure caption.
+.reveal .slides section img.r-stretch + p.caption {
+  text-align: center;
+}
+// A paragraph right after an image (the source line under a figure) is
+// centred as well.
+.reveal .slides section img + p {
+  text-align: center;
+}
+
+// In-text citations (pandoc citeproc wraps them in `span.citation`): render
+// smaller than body text so references are unobtrusive on slides.
+.reveal .citation {
+  font-size: 0.7em;
+}
+
+// Progress bar: thicker and accent-coloured, pinned at the bottom.
+.reveal .progress {
+  height: 8px;
+  color: $brand-navy;
+}
+
+// Statement slides: `## {.big-center}` as the slide header centres one phrase
+// in the middle of the slide.
+.reveal .slides section.big-center {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  text-align: center;
+  font-size: 1.35em;
+  // border-box keeps the side padding inside the slide width. Without it the
+  // slide is wider than 100% and the text sits right of the centre.
+  box-sizing: border-box;
+  padding: 0 6%;
+}
+.reveal .slides section.big-center h2:empty {
+  display: none;
+}

@@ -50,7 +50,7 @@ The site is built with [Quarto](https://quarto.org/) and published from
 | `_brand.yml` | Brand colors and logo |
 | `references.bib` | Bibliography |
 | `_includes/` | Text shared by the syllabus and the evaluation document via `{{< include >}}`: `header.md` (logos, instructors) and `assessment.md` |
-| `assets/` | `styles.css` and `theme-dark.scss` (styling, light and dark theme), `apa-cv.csl` (citation style that prints full references inline), `course-structure.lua` (Pandoc filter that turns the session blocks in `syllabus.qmd` into the course structure table) |
+| `assets/` | `styles.css` and `theme-dark.scss` (styling, light and dark theme), `apa-cv.csl` (citation style that prints full references inline), `course-structure.lua` (Pandoc filter that turns the session blocks in `syllabus.qmd` into the course structure table), `slides/` (theme and title slide of the Quarto decks) |
 | `tools/` | Scripts for the group assignment and the group list PDF, citation whitelist |
 | `slides/` | Lecture slides: Quarto revealjs decks (`NN-slides.qmd`) and PDFs (`NN-slides.pdf`). PowerPoint sources (`NN-slides.pptx`) are kept here but gitignored |
 | `images/` | Logos |
@@ -128,6 +128,12 @@ The schedule table on the homepage looks for these files at render time and
 shows an HTML and/or PDF button per session. `slides/_template-slides.qmd` is
 the starting point for a new Quarto deck (files starting with `_` are not
 rendered).
+
+All Quarto decks share `slides/_metadata.yml` (authors, bibliography, reveal.js
+options) and the theme in `assets/slides/`: `theme.scss` (website colors from
+`_brand.yml`) and `title-slide.html` (title slide with the Eawag logo top
+right and the large course logo, the only slide that carries logos). A deck
+itself only sets `title` and `subtitle`.
 
 - **Quarto deck:** copy the template to `slides/NN-slides.qmd` and
   `quarto render`. Then print the deck to PDF by hand (works in Firefox and

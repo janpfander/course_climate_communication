@@ -1,23 +1,31 @@
 ---
-title: "Session 01 — Topic"
-subtitle: "The Psychology of Climate Change Communication"
-author: "Viktoria Cologna & Jan Pfänder"
-institute: "ETH Zurich"
-format:
-  revealjs:
-    slide-number: true
-    chalkboard: true
-    history: false
-    logo: ../images/logo.svg
+title: "Topic of the session"
+subtitle: "Psychology of Climate Change Communication · Week NN"
 ---
 
-## Template deck
+<!-- Copy this file to `NN-slides.qmd` (two-digit session number). Files
+     starting with `_` are not rendered. Theme, logos and the other settings
+     come from `_metadata.yml`. -->
 
-Copy this file to `NN-slides.qmd` (two-digit session number) for each session. Files starting with `_` are not rendered. The Navajo brand colors from `_brand.yml` apply automatically.
+##
 
-- Bullet one
-- Bullet two
+One phrase per slide
 
-## Second slide
+. . .
 
-Content here.
+then the next one
+
+# A section
+
+## A slide with a title
+
+A claim with its source [@vanderlindenImprovingPublicEngagement2015]
+
+## {.big-center}
+
+One statement, centred
+
+## References
+
+::: {#refs}
+:::

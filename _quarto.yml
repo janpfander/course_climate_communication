@@ -12,6 +12,7 @@ project:
     - "!notes/"
   resources:
     - images/eth_logo.svg
+    - images/eawag_logo.svg
     - "slides/*.pdf"
 
 website:

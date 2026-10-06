@@ -29,7 +29,7 @@
   width: 130px;
   height: 22px;
   margin: 0.6rem auto 0.2rem;
-  background: url(images/eth_logo.svg) no-repeat center / contain;
+  background: url(../images/eth_logo.svg) no-repeat center / contain;
 }
 
 /* Sidebar: the title is wrapped in a home link — render it as plain text */
