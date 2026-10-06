@@ -658,7 +658,7 @@
     "href": "slides/04-slides.html#recap",
     "title": "Mental models and framing",
     "section": "Recap",
-    "text": "Recap\nWeek 2 · Public opinion on climate change and the deficit model\nCan facts change people’s minds? Maybe, but they are often not quite enough.\n\nWeek 3 · A question of trust\nWithout trust in the messenger, it is hard to change minds.\n\n\nTODAY: Week 4 · Mental models and framing\nHow can we communicate more effectively to change minds? By appealing to features of human psychology.\n\n\n(some of these features were teased in Week 1 already)"
+    "text": "Recap\nWeek 2 · Public opinion on climate change and the deficit model\nCan facts change people’s minds? Maybe, but they are often not quite enough.\n\nWeek 3 · A question of trust\nWithout trust in the messenger, it is hard to change minds.\n\n\nTODAY\nWeek 4 · Mental models and framing\nHow can we communicate more effectively to change minds? By appealing to features of human psychology.\n\n\n(some of these features were teased in Week 1 already)"
   },
   {
     "objectID": "slides/04-slides.html#how-does-the-mind-work",
@@ -938,7 +938,7 @@
     "href": "slides/04-slides.html#from-visual-perception-to-information-processing",
     "title": "Mental models and framing",
     "section": "From visual perception to information processing",
-    "text": "From visual perception to information processing\nVisual illusions occur because our brains rely on certain standard operating procedures (e.g., correcting for shadows).\n\nThese procedures use simplified assumptions about how the world works.\n\n\nThe idea behind today’s lecture is that this is also true for information processing.\n\n\nHere, we will call these standard operating procedures mental models."
+    "text": "From visual perception to information processing\nVisual illusions occur because our brains rely on certain standard operating procedures (e.g., correcting for shadows).\n\nThese procedures use simplified assumptions about how the world works.\n\n\nThe idea behind today’s lecture is that this is also true for information processing.\n\nHere, we will call these standard operating procedures mental models."
   },
   {
     "objectID": "slides/04-slides.html#why-do-we-use-mental-models",
@@ -952,7 +952,7 @@
     "href": "slides/04-slides.html#today",
     "title": "Mental models and framing",
     "section": "Today",
-    "text": "Today\nWe will look at five mental models that matter for communicating about climate change. Four are central to today’s reading, the fifth is more recent.\n\nLoss aversion (losses weigh more than gains)\nTemporal discounting (now beats later)\nAvailability bias (experience beats statistics)\nSocial norms (we conform to what others do)\nMental accounting (we put money into boxes)"
+    "text": "Today\nWe will look at five mental models that matter for communicating about climate change.\n\nLoss aversion (losses weigh more than gains)\nTemporal discounting (now beats later)\nAvailability bias (experience beats statistics)\nSocial norms (we conform to what others do)\nMental accounting (we put money into boxes)\n\n\nThose who did today’s reading will recognize the first four."
   },
   {
     "objectID": "slides/04-slides.html#now-beats-later-in-61-countries",
@@ -1036,14 +1036,14 @@
     "href": "slides/04-slides.html#loss-aversion",
     "title": "Mental models and framing",
     "section": "1. Loss aversion",
-    "text": "1. Loss aversion\nBack to our experiment. Why would “saved” and “die” lead to different choices?\n\n“choices involving gains are often risk averse and choices involving losses are often risk taking”\n(Tversky & Kahneman, 1981)\n\n\nIn our experiment: faced with a certain loss (400 deaths), most people (78%) preferred the gamble that offered a chance of losing nothing.\n\n\nIn other words, people try hard to avoid losses (more than they try to increase gains).\n\nTversky and Kahneman’s answer: people judge outcomes as gains or losses relative to a reference point, and they treat the two differently.\nThe quote is from Tversky & Kahneman 1981. The reading (insight 4): “people psychologically evaluate gains and losses in fundamentally different ways”. Prospect theory patterns replicated in 19 countries (Ruggeri et al. 2020, n = 4,098: “The results replicated for 94% of items, with some attenuation.”).\nLoss aversion and risk taking are two different things. Loss aversion is “the idea that losses loom larger than equivalent magnitude gains”, for example that “the loss of $5 is more painful than the gain of $5 is pleasurable” (Gal & Rucker 2018, Journal of Consumer Psychology, DOI 10.1002/jcpy.1047, p. 497). To show it, a loss has to be compared with a gain of the same size. Risk taking is about the choice between a sure outcome and a gamble. Our experiment shows the second: people take the sure option when the outcomes are described as gains, and they gamble when the same outcomes are described as losses. Gal and Rucker say this about the disease problem directly: it “manifests the reflection effect whereby people tend to be risk seeking in the domain of losses and risk averse in the domain of gains”, which is “distinct from loss aversion” (p. 509).\nWhether losses in general weigh more than gains is disputed: Gal & Rucker 2018 conclude that “current evidence does not support that losses, on balance, tend to be any more impactful than gains”. How they reach this conclusion:\n\nThe classic demonstrations (status quo bias, endowment effect) can be explained by inertia, which “requires no differential sensitivity to losses” (p. 503).\nWhen taking a bet is not the more active option, the asymmetry disappears. In one low-stakes study “48% of participants chose the safe option” and 52% the risky one (p. 506).\n“with low stakes, gains actually appear to loom larger than losses” (p. 507).\nA meta-analysis “of 93 studies involving over 20,000 participants” on message framing “did not find a single context where loss-framed appeals had statistically greater persuasive power than gain-framed appeals” (p. 509).\nThey grant that losses may weigh more when stakes are high, and for protected goods “such as a town’s mountain view or lakefront access” (p. 512)."
+    "text": "1. Loss aversion\n\nBack to our experiment. Why would “saved” and “die” lead to different choices?\n\n\n“choices involving gains are often risk averse and choices involving losses are often risk taking”\n(Tversky & Kahneman, 1981)\n\n\nIn our experiment: faced with a certain loss (400 deaths), most people (78%) preferred the gamble that offered a chance of losing nothing.\n\n\nIn other words, people try hard to avoid losses (more than they try to increase gains).\n\nTversky and Kahneman’s answer: people judge outcomes as gains or losses relative to a reference point, and they treat the two differently.\nThe quote is from Tversky & Kahneman 1981. The reading (insight 4): “people psychologically evaluate gains and losses in fundamentally different ways”. Prospect theory patterns replicated in 19 countries (Ruggeri et al. 2020, n = 4,098: “The results replicated for 94% of items, with some attenuation.”).\nTechnically, loss aversion and risk taking are two different things. Loss aversion is “the idea that losses loom larger than equivalent magnitude gains”, for example that “the loss of $5 is more painful than the gain of $5 is pleasurable” (Gal & Rucker 2018, Journal of Consumer Psychology, DOI 10.1002/jcpy.1047, p. 497). To show it, a loss has to be compared with a gain of the same size. Risk taking is about the choice between a sure outcome and a gamble. Our experiment shows the second: people take the sure option when the outcomes are described as gains, and they gamble when the same outcomes are described as losses. Gal and Rucker say this about the disease problem directly: it “manifests the reflection effect whereby people tend to be risk seeking in the domain of losses and risk averse in the domain of gains”, which is “distinct from loss aversion” (p. 509).\nWhether losses in general weigh more than gains is disputed: Gal & Rucker 2018 conclude that “current evidence does not support that losses, on balance, tend to be any more impactful than gains”. How they reach this conclusion:\n\nThe classic demonstrations (status quo bias, endowment effect) can be explained by inertia, which “requires no differential sensitivity to losses” (p. 503).\nWhen taking a bet is not the more active option, the asymmetry disappears. In one low-stakes study “48% of participants chose the safe option” and 52% the risky one (p. 506).\n“with low stakes, gains actually appear to loom larger than losses” (p. 507).\nA meta-analysis “of 93 studies involving over 20,000 participants” on message framing “did not find a single context where loss-framed appeals had statistically greater persuasive power than gain-framed appeals” (p. 509).\nThey grant that losses may weigh more when stakes are high, and for protected goods “such as a town’s mountain view or lakefront access” (p. 512)."
   },
   {
     "objectID": "slides/04-slides.html#temporal-discounting",
     "href": "slides/04-slides.html#temporal-discounting",
     "title": "Mental models and framing",
     "section": "2. Temporal discounting",
-    "text": "2. Temporal discounting\nWould you rather receive CHF 100 today, or CHF 110 in a year?\n\nHands. The amounts are an illustration. The structure of the choice (10% more after one year) is the first question in Ruggeri et al. 2022, two slides further."
+    "text": "2. Temporal discounting\n\nWould you rather receive CHF 100 today, or CHF 110 in a year?\n\nHands. The amounts are an illustration. The structure of the choice (10% more after one year) is the first question in Ruggeri et al. 2022, two slides further."
   },
   {
     "objectID": "slides/04-slides.html#temporal-discounting-in-61-countries",
@@ -1071,7 +1071,7 @@
     "href": "slides/04-slides.html#social-norms",
     "title": "Mental models and framing",
     "section": "4. Social norms",
-    "text": "4. Social norms\n“People are social beings who respond to group norms” (Van Der Linden et al., 2015)\n\nWe pay close attention to what others think and do, and we tend to adjust to it.\n\nThe quote is the heading of insight 2 in the reading."
+    "text": "4. Social norms\n\n“People are social beings who respond to group norms” (Van Der Linden et al., 2015)\n\n\nWe pay close attention to what others think and do, and we tend to adjust to it.\n\nThe quote is the heading of insight 2 in the reading."
   },
   {
     "objectID": "slides/04-slides.html#social-norms-paying-taxes",
@@ -1085,7 +1085,7 @@
     "href": "slides/04-slides.html#mental-accounting",
     "title": "Mental models and framing",
     "section": "5. Mental accounting",
-    "text": "5. Mental accounting\nImagine you are about to buy a jacket for $125 and a calculator for $15. The calculator is on sale for $10 at another branch of the store, 20 minutes’ drive away. Would you make the trip?\n\nNow imagine the calculator costs $125 and is on sale for $120 at the other branch. Would you make the trip?\n\nHands after each version. Adapted from Tversky & Kahneman 1981, Problem 10. In the original the two versions went to two different groups (N = 93 and N = 88) and the jacket price was swapped as well ($15 in the second version), so that the total was the same."
+    "text": "5. Mental accounting\n\nImagine you are about to buy a jacket for $125 and a calculator for $15. The calculator is on sale for $10 at another branch of the store, 20 minutes’ drive away. Would you make the trip?\n\n\nNow imagine the calculator costs $125 and is on sale for $120 at the other branch. Would you make the trip?\n\nHands after each version. Adapted from Tversky & Kahneman 1981, Problem 10. In the original the two versions went to two different groups (N = 93 and N = 88) and the jacket price was swapped as well ($15 in the second version), so that the total was the same."
   },
   {
     "objectID": "slides/04-slides.html#loss-aversion-and-climate-change",
@@ -1141,7 +1141,7 @@
     "href": "slides/04-slides.html#availability-bias",
     "title": "Mental models and framing",
     "section": "3. Availability bias",
-    "text": "3. Availability bias\nWhat causes more deaths: tornadoes or asthma?\n\nIn the original study, students saw tornadoes as more frequent killers than asthma, “even though the latter is 20 times more likely” (Lichtenstein et al., 1978).\n\nHands before the answer appears. Lichtenstein et al. 1978: “Tornadoes were seen by the student subjects as more frequent killers than asthma, even though the latter is 20 times more likely”. Their Table 1 gives a death rate of 44 per 100 million for tornadoes and 920 per 100 million for asthma. Another pair from the same paper: “Death by lightning was judged less likely than death by botulism even though it is 52 times more frequent”. The same example was on the Week 1 slides."
+    "text": "3. Availability bias\n\nWhat causes more deaths: tornadoes or asthma?\n\n\nIn the original study, students saw tornadoes as more frequent killers than asthma, “even though the latter is 20 times more likely” (Lichtenstein et al., 1978).\n\n\nFrom todays reading (Van Der Linden et al., 2015):\n\n“The human brain privileges experience over analysis”\n\n\n\n\nIn this case, hardly lived experience, but rather “disproportionate exposure, memorability, or imaginability”, reinforced, e.g., by news coverage\n\n\nHands before the answer appears. Lichtenstein et al. 1978: “Tornadoes were seen by the student subjects as more frequent killers than asthma, even though the latter is 20 times more likely”. Their Table 1 gives a death rate of 44 per 100 million for tornadoes and 920 per 100 million for asthma. Another pair from the same paper: “Death by lightning was judged less likely than death by botulism even though it is 52 times more frequent”. The same example was on the Week 1 slides."
   },
   {
     "objectID": "slides/04-slides.html#social-norms-paying-taxes-1",
@@ -1289,5 +1289,12 @@
     "title": "Mental models and framing",
     "section": "Other framing effects: labels",
     "text": "Other framing effects: labels\n898 Americans chose between otherwise identical products. One of them included a surcharge for emitted carbon dioxide.\n\nThe surcharge was labelled either as a “tax” or as an “offset”.\n\n\nThe label changed the preferences of Republicans and Independents. It did not affect the preferences of Democrats.\n(Hardisty et al., 2009)\n\nHardisty, Johnson & Weber 2010, Psychological Science, “A Dirty Word or a Dirty World?”, DOI 10.1177/0956797609355572. The abstract speaks of “an earmarked tax or an offset”, a link to mental accounting."
+  },
+  {
+    "objectID": "slides/04-slides.html#a-kind-of-definition-of-mental-models",
+    "href": "slides/04-slides.html#a-kind-of-definition-of-mental-models",
+    "title": "Mental models and framing",
+    "section": "A (kind of) definition of mental models",
+    "text": "A (kind of) definition of mental models\nFeatures of human psychology that describe how people think, decide, and act…\n\n… that often seem to deviate from rational choice.\n\n\nMany terms for roughly the same idea: heuristics, biases, mental shortcuts…"
   }
 ]

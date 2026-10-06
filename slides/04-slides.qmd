@@ -38,7 +38,9 @@ Without trust in the messenger, it is hard to change minds.
 
 . . .
 
-**TODAY: Week 4 · Mental models and framing**\
+**TODAY**
+
+**Week 4 · Mental models and framing**\
 How can we communicate more effectively to change minds? By appealing to features of human psychology.
 
 . . .
@@ -151,7 +153,7 @@ In the previous example, the costs and benefits of the two programs were identic
 
 # 2. Mental models
 
-## A (kind of) definition
+## A (kind of) definition of mental models
 
 Features of human psychology that describe how people think, decide, and act...
 
@@ -227,9 +229,9 @@ These procedures use simplified assumptions about how the world works.
 
 The idea behind today's lecture is that this is also true for information processing.
 
-. . .
-
+::: {.notes}
 Here, we will call these standard operating procedures *mental models*.
+:::
 
 ## Why do we use mental models?
 
@@ -241,7 +243,7 @@ Most of the time they serve us well. Sometimes they lead to choices that look od
 
 ## Today
 
-We will look at five mental models that matter for communicating about climate change. Four are central to today's reading, the fifth is more recent.
+We will look at five mental models that matter for communicating about climate change. 
 
 ::: {.incremental}
 1. Loss aversion (losses weigh more than gains)
@@ -251,7 +253,13 @@ We will look at five mental models that matter for communicating about climate c
 5. Mental accounting (we put money into boxes)
 :::
 
+::: {.notes}
+Those who did today's reading will recognize the first four.
+:::
+
 ## 1. Loss aversion
+
+. . .
 
 Back to our experiment. Why would "saved" and "die" lead to different choices?
 
@@ -274,7 +282,7 @@ Tversky and Kahneman's answer: people judge outcomes as gains or losses relative
 
 The quote is from Tversky & Kahneman 1981. The reading (insight 4): "people psychologically evaluate gains and losses in fundamentally different ways". Prospect theory patterns replicated in 19 countries (Ruggeri et al. 2020, n = 4,098: "The results replicated for 94% of items, with some attenuation.").
 
-Loss aversion and risk taking are two different things. Loss aversion is "the idea that losses loom larger than equivalent magnitude gains", for example that "the loss of $5 is more painful than the gain of $5 is pleasurable" (Gal & Rucker 2018, Journal of Consumer Psychology, DOI 10.1002/jcpy.1047, p. 497). To show it, a loss has to be compared with a gain of the same size. Risk taking is about the choice between a sure outcome and a gamble. Our experiment shows the second: people take the sure option when the outcomes are described as gains, and they gamble when the same outcomes are described as losses. Gal and Rucker say this about the disease problem directly: it "manifests the reflection effect whereby people tend to be risk seeking in the domain of losses and risk averse in the domain of gains", which is "distinct from loss aversion" (p. 509).
+Technically, loss aversion and risk taking are two different things. Loss aversion is "the idea that losses loom larger than equivalent magnitude gains", for example that "the loss of $5 is more painful than the gain of $5 is pleasurable" (Gal & Rucker 2018, Journal of Consumer Psychology, DOI 10.1002/jcpy.1047, p. 497). To show it, a loss has to be compared with a gain of the same size. Risk taking is about the choice between a sure outcome and a gamble. Our experiment shows the second: people take the sure option when the outcomes are described as gains, and they gamble when the same outcomes are described as losses. Gal and Rucker say this about the disease problem directly: it "manifests the reflection effect whereby people tend to be risk seeking in the domain of losses and risk averse in the domain of gains", which is "distinct from loss aversion" (p. 509).
 
 Whether losses in general weigh more than gains is disputed: Gal & Rucker 2018 conclude that "current evidence does not support that losses, on balance, tend to be any more impactful than gains". How they reach this conclusion:
 
@@ -286,6 +294,8 @@ Whether losses in general weigh more than gains is disputed: Gal & Rucker 2018 c
 :::
 
 ## 2. Temporal discounting
+
+. . .
 
 Would you rather receive CHF 100 today, or CHF 110 in a year?
 
@@ -335,35 +345,31 @@ What to see: no country is near 0. National means range "from Japan (mean = 7.1,
 
 ## 3. Availability bias
 
+. . .
+
 What causes more deaths: tornadoes or asthma?
 
 . . .
 
 In the original study, students saw tornadoes as more frequent killers than asthma, "even though the latter is 20 times more likely" [@lichtensteinJudgedFrequencyLethal1978].
 
+. . .
+
+From todays reading [@vanderlindenImprovingPublicEngagement2015]: 
+
+- "The human brain privileges experience over analysis"
+
+. . .
+
+- In this case, hardly lived experience, but rather "disproportionate exposure, memorability, or imaginability", reinforced, e.g., by news coverage
+
 ::: {.notes}
 Hands before the answer appears. Lichtenstein et al. 1978: "Tornadoes were seen by the student subjects as more frequent killers than asthma, even though the latter is 20 times more likely". Their Table 1 gives a death rate of 44 per 100 million for tornadoes and 920 per 100 million for asthma. Another pair from the same paper: "Death by lightning was judged less likely than death by botulism even though it is 52 times more frequent". The same example was on the Week 1 slides.
 :::
 
-## 3. Availability bias
-
-When people judge how frequent different causes of death are, their estimates are "systematically biased". Some causes are exaggerated, others underestimated.
-
-. . .
-
-The authors traced this to "disproportionate exposure, memorability, or imaginability". What comes to mind easily seems more frequent.
-
-. . .
-
-The reading states the general point as: "The human brain privileges experience over analysis" [@vanderlindenImprovingPublicEngagement2015].
-
-[@lichtensteinJudgedFrequencyLethal1978]
-
-::: {.notes}
-Lichtenstein, Slovic, Fischhoff, Layman & Combs 1978, DOI 10.1037/0278-7393.4.6.551, quotes from the abstract. The pattern is called the availability bias, or the availability heuristic.
-:::
-
 ## 4. Social norms
+
+. . .
 
 "People are social beings who respond to group norms" [@vanderlindenImprovingPublicEngagement2015]
 
@@ -402,6 +408,8 @@ Does it replicate? The record is mixed. A meta-analysis of tax nudges (Antinyan 
 :::
 
 ## 5. Mental accounting
+
+. . .
 
 Imagine you are about to buy a jacket for \$125 and a calculator for \$15. The calculator is on sale for \$10 at another branch of the store, 20 minutes' drive away. Would you make the trip?
 
