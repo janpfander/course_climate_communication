@@ -998,16 +998,18 @@ A single message cannot answer back. In a discussion, a person's counterargument
 
 . . .
 
-In France, 701 participants could ask a chatbot their questions about COVID-19 vaccines. After a few minutes, their attitudes towards vaccination were more positive and their intentions to get vaccinated were higher [@altayInformationDeliveredChatbot2021].
+In a study on genetically modified organisms (GMOs), giving people good arguments that rebut the most common counterarguments led to much more positive attitudes towards GMOs [@altayScalingInteractiveArgumentation2022].
 
 . . .
 
 This may also explain the conversations with an AI. Earlier attempts may have failed because the counterevidence was "insufficiently compelling and tailored" [@costelloDurablyReducingConspiracy2024].
 
 ::: {.notes}
-Altay, Hacquin, Chevallier & Mercier 2021, Journal of Experimental Psychology: Applied, DOI 10.1037/xap0000400. Intentions ß = 0.12, attitudes ß = 0.23. Their argument: if people "do not have an interlocutor who can address these counter-arguments (e.g., if they read a leaflet), they are less likely to change their minds", and "The interactivity that small-group discussion provides is, however, difficult to scale up."
+Altay, Schwartz, Hacquin, Allard, Blancke & Mercier 2022, Nature Human Behaviour, DOI 10.1038/s41562-021-01271-w. Their starting point: "Discussion is more convincing than standard, unidirectional messaging, but its interactive nature makes it difficult to scale up. We created a chatbot to emulate the most important traits of discussion." The result: "Providing participants with good arguments rebutting the most common counterarguments against GMOs led to much more positive attitudes towards GMOs, whether the participants could immediately see all the arguments or could select the most relevant arguments in a chatbot." And: "Participants holding the most negative attitudes displayed more attitude change in favour of GMOs."
 
-A caveat: it may be the good arguments more than the interactivity. In a study on genetically modified organisms, good arguments against the most common counterarguments led to much more positive attitudes, but "we found no evidence that an interactive chatbot proves more persuasive than a list of arguments and counterarguments" (Altay et al. 2022, Nature Human Behaviour, DOI 10.1038/s41562-021-01271-w).
+A caveat from the same study: it may be the good arguments more than the interactivity. "Participants updated their beliefs when presented with good arguments, but we found no evidence that an interactive chatbot proves more persuasive than a list of arguments and counterarguments."
+
+A second example: in France, 701 participants could ask a chatbot their questions about COVID-19 vaccines. After a few minutes, their attitudes towards vaccination were more positive (ß = 0.23) and their intentions to get vaccinated were higher (ß = 0.12) (Altay, Hacquin, Chevallier & Mercier, Journal of Experimental Psychology: Applied, DOI 10.1037/xap0000400). Their argument: if people "do not have an interlocutor who can address these counter-arguments (e.g., if they read a leaflet), they are less likely to change their minds".
 
 Costello et al. 2024 on their own result: the AI can "tailor counterarguments to specific conspiracies, reasoning, and evidence the believer brings to bear". They also write that "the causal mechanisms underpinning our results remain unformalized".
 :::
