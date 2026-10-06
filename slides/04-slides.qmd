@@ -43,7 +43,9 @@ Without trust in the messenger, it is hard to change minds.
 **TODAY: Week 4 · Mental models and framing**\
 How can we communicate more effectively to change minds? By appealing to features of human psychology.
 
-(some of these were teased in Week 1 already)
+. . .
+
+(some of these features were teased in Week 1 already)
 
 ::: {.notes}
 Recap, kept superficial on purpose.
@@ -138,7 +140,7 @@ The facts are identical. What differs is the wording, and the wording seems to c
 
 . . .
 
-This is called a *framing effect*. To understand why it happens, we first need to talk about how the mind works.
+This is called a *framing effect*. It happens, because we use *mental models* to evaluate information.
 
 ## From homo economicus to homo psychologicus
 
@@ -150,11 +152,11 @@ The main idea: individuals make rational decisions by analysing the costs and be
 
 . . .
 
-Mental models and framing effects are hard to reconcile with this picture. The costs and benefits of the two programs were identical. Only the description changed.
+However, some human judgements and behaviors seem hard to reconcile with this view. 
 
-::: {.notes}
-The definition of rational choice theory follows Mélusine Boon-Falleur's lecture 2 ("From Homo Economicus to Homo Bias").
-:::
+. . .
+
+In the previous example, the costs and benefits of the two programs were identical - a purely rational actor would not have made a difference.
 
 # 2. Mental models
 
@@ -254,25 +256,13 @@ Today we look at five that matter for communicating about climate change. Four a
 
 1. Loss aversion (losses weigh more than gains)
 2. Temporal discounting (now beats later)
-3. Availability heuristic (experience beats statistics)
+3. Availability bias (experience beats statistics)
 4. Social norms (we conform to what others do)
 5. Mental accounting (we put money into boxes)
-
-. . .
-
-We first look at each of them in general. In the second half, we come back to them and ask what they mean for communicating about climate change.
-
-::: {.notes}
-Term for number 3: availability heuristic (Mélusine Boon-Falleur's lecture 2 calls it availability bias). The reading's own heading is "The Human Brain Privileges Experience Over Analysis".
-:::
 
 ## 1. Loss aversion
 
 Back to our experiment. Why would "saved" and "die" lead to different choices?
-
-. . .
-
-Tversky and Kahneman's answer: people judge outcomes as gains or losses relative to a reference point, and they treat the two differently.
 
 . . .
 
@@ -284,8 +274,16 @@ Tversky and Kahneman's answer: people judge outcomes as gains or losses relative
 
 In our experiment: faced with a certain loss (400 deaths), most people (78%) preferred the gamble that offered a chance of losing nothing.
 
+. . .
+
+In other words, people try hard to avoid losses (more than they try to increase gains)
+
 ::: {.notes}
-The quote is from Tversky & Kahneman 1981. The reading (insight 4): "people psychologically evaluate gains and losses in fundamentally different ways". Prospect theory patterns replicated in 19 countries (Ruggeri et al. 2020, n = 4,098: "The results replicated for 94% of items, with some attenuation."). Whether losses in general weigh more than gains is disputed: Gal & Rucker 2018 conclude that "current evidence does not support that losses, on balance, tend to be any more impactful than gains".
+Tversky and Kahneman's answer: people judge outcomes as gains or losses relative to a reference point, and they treat the two differently.
+
+The quote is from Tversky & Kahneman 1981. The reading (insight 4): "people psychologically evaluate gains and losses in fundamentally different ways". Prospect theory patterns replicated in 19 countries (Ruggeri et al. 2020, n = 4,098: "The results replicated for 94% of items, with some attenuation."). 
+
+Whether losses in general weigh more than gains is disputed: Gal & Rucker 2018 conclude that "current evidence does not support that losses, on balance, tend to be any more impactful than gains".
 :::
 
 ## 2. Temporal discounting
