@@ -7,10 +7,21 @@ subtitle: "Psychology of Climate Change Communication · Week 4"
      Images in images/not_cleared/ come from Mélusine Boon-Falleur's slides
      (resources/sciencespo_melusine_boon_falleur/). They are gitignored. -->
 
+## Trigger warning to psychologists
+
+A narrow definition of mental models: 
+
+A simplified picture, in someone’s head, of how something works (e.g., climate change as a bathtub [bring back the example here with a citation and some notes for me to explain])
+
+A broader definition I would like to take today: 
+
+General features of human psychology that describe how people think, decide, and act across a range of contexts. 
+
+
 ## Recap
 
 **Week 2 · Public opinion on climate change and the deficit model**\
-Can facts change people's minds? Communicating facts alone often does not change minds.
+Can facts change people's minds? Maybe, but they are often not quite enough.
 
 . . .
 
@@ -20,7 +31,9 @@ Without trust in the messenger, it is hard to change minds.
 . . .
 
 **TODAY: Week 4 · Mental models and framing**\
-If the kind of message and how we package fits how people's psychology, it may be more effective in changing minds. it way we communicate about climate change also has to fit how people think.
+How can we communicate more effectively to change minds? By appealing to features of human psychology.
+
+(some of these were teasered in Week 1 already)
 
 ::: {.notes}
 Recap, kept superficial on purpose.
@@ -30,9 +43,8 @@ Recap, kept superficial on purpose.
 
 1. A quick experiment
 2. Mental models
-3. Framing
-4. Does it work for climate change?
-5. Back to the deficit model
+3. Framing effects in climate change communication
+5. Revisting the deficit model
 
 # 1. A quick experiment
 
@@ -118,23 +130,36 @@ The facts are identical. What differs is the wording, and the wording seems to c
 
 This is called a *framing effect*. To understand why it happens, we first need to talk about how the mind works.
 
-# 2. Mental models
+## From homo economicus to homo psychologicus
 
-## How does the mind work?
-
-A common approach in the cognitive sciences is to study the human mind as an information-processing device.
+Much of economics and political science starts from *rational choice theory*.
 
 . . .
 
-Information comes in, the mind does something with it, and a perception, a judgement or a decision comes out.
+The main idea: individuals make rational decisions by analysing the costs and benefits of every available option.
 
 . . .
 
-The interesting part is the step in the middle.
+Mental models and framing effects hard to reconcile with this picture. The costs and benefits of the two programs were identical. Only the description changed.
 
 ::: {.notes}
-This opening (information-processing view, brain image, illusions) follows Mélusine Boon-Falleur's lectures 1 and 2, "Psychology and the Sustainable Transition", Sciences Po.
+The definition of rational choice theory follows Mélusine Boon-Falleur's lecture 2 ("From Homo Economicus to Homo Bias").
 :::
+
+# 2. Mental models
+
+## A (kind of) definition
+
+Features of human psychology that describe how people think, decide, and act...
+
+. . .
+
+... that often seem to deviate from rational choice.
+
+. . .
+
+Many terms for roughly the same idea: heuristics, biases, mental shortcuts
+
 
 ## The mind as an information-processing device
 
@@ -143,7 +168,12 @@ This opening (information-processing view, brain image, illusions) follows Mélu
 Input → Computation → Output
 
 ::: {.notes}
-Image from Mélusine Boon-Falleur's slides. Rights not cleared, the file is not published.
+
+In cognitive science, people study the mind as an information-processing device.
+
+Information comes in, the mind does something with it, and a perception, a judgement or a decision comes out.
+
+To convince you that our mind is not just a perfect mirror of reality, let's have a look at some well known optical illusions.
 :::
 
 ## Which square is darker, A or B?
@@ -159,120 +189,73 @@ Image: Wikimedia Commons, "Grey square optical illusion", original by Edward H. 
 ![[Edward H. Adelson]{.citation}](images/checker_shadow_proof.svg)
 
 ::: {.notes}
-Image: Wikimedia Commons, "Grey square optical illusion proof2", original by Edward H. Adelson, licence "copyrighted free use".
-:::
-
-## What happened here?
+What happened here?
 
 Squares A and B have exactly the same shade of grey. Yet we see B as lighter.
 
-. . .
-
 The visual system does not simply report what is on the screen. It seems to take the shadow into account, and to correct for it.
 
-. . .
-
 This correction is fast and automatic. Knowing about it does not make the illusion go away.
+:::
 
 ## Which monster is bigger?
 
 ![[Roger Shepard, Terror Subterra]{.citation}](images/not_cleared/terror_subterra.png)
 
-::: {.notes}
-Image from Mélusine Boon-Falleur's slides. Rights not cleared, the file is not published.
-:::
-
 ## Which monster is bigger?
 
 ![[Roger Shepard, Terror Subterra]{.citation}](images/not_cleared/terror_subterra_line1.png)
-
-::: {.notes}
-A blank canvas of the same size as the drawing, with one red line where the figure at the back will be. Title and source line are identical on the four slides so that the image keeps the same size and position.
-:::
 
 ## Which monster is bigger?
 
 ![[Roger Shepard, Terror Subterra]{.citation}](images/not_cleared/terror_subterra_line2.png)
 
-::: {.notes}
-The second line is identical to the first, placed where the figure in front will be.
-:::
 
-## Which monster is bigger?
+## They are the same
 
 ![[Roger Shepard, Terror Subterra]{.citation}](images/not_cleared/terror_subterra_lines.png)
 
-::: {.notes}
-Same drawing, same two lines. Each line runs from head to feet of the figure beside it, so the two figures are the same size.
-:::
+## From visual perception to information processing
 
-## From perception to judgement
+Visual illusions occur because our brains relies on certain standard operation procedures (e.g., correcting for shadows).
 
-Outside the lab, these built-in assumptions are useful. Correcting for shadows and for perspective usually gives the right answer.
+. . . 
 
-. . .
-
-The idea behind today's lecture is that something similar happens when we judge and decide. The mind relies on simplified assumptions about how the world works.
+These procedures use simplified assumptions about how the world works.
 
 . . .
 
-We will call these assumptions *mental models*.
-
-## What is a mental model?
-
-A working definition for today: a mental model is a simplified picture, in someone's head, of how something works.
+The idea behind today's lecture is that is also true for information processing.
 
 . . .
 
-We need such pictures. The world is too complex to reason through every judgement and decision from scratch.
+Here, we will call these standard operation procedures *mental models*.
+
+. . .
+
+There are many synonyms (with roughly*) the same meaning: heuristics, biases, shortcuts, mental models.
+
+*psychologists would not approve
+
+## Why do we use mental models?
+
+The world is too complex to reason through every judgement and decision from scratch.
 
 . . .
 
 Most of the time they serve us well. Sometimes they lead to choices that look odd from the outside.
 
-::: {.notes}
-Broad everyday sense, chosen for this lecture. The reading never uses the term. In research on climate change it often means lay people's understanding of how climate change works.
-:::
-
-## A different picture: the rational decision-maker
-
-Much of economics and political science starts from *rational choice theory*.
-
-. . .
-
-The main idea: individuals make rational decisions by analysing the costs and benefits of every available option.
-
-. . .
-
-Our opening experiment is hard to reconcile with this picture. The costs and benefits of the two programs were identical. Only the description changed.
-
-::: {.notes}
-The definition of rational choice theory follows Mélusine Boon-Falleur's lecture 2 ("From Homo Economicus to Homo Bias").
-:::
-
-## A long list of regularities
-
-![[Cognitive Bias Codex. Design: John Manoogian III, categories: Buster Benson. CC BY-SA 4.0, via Wikimedia Commons]{.citation}](images/cognitive_bias_codex.svg)
-
-::: {.notes}
-The codex groups 188 cognitive biases listed on Wikipedia. The point of the slide is the sheer number, nobody needs to read it.
-:::
-
-## Many names for similar things
-
-Psychologists have described a great many regularities in how people judge and decide. They appear under different names: heuristics, biases, shortcuts, mental models.
-
-. . .
+## Today
 
 Today we look at five that matter for communicating about climate change. Four are central to today's reading, the fifth is more recent.
 
 . . .
 
-1. Losses and gains
-2. Now beats later
-3. Experience beats statistics
-4. What others do
-5. Money has labels
+1. Loss aversion (losses weigh more than gains)
+2. Temporal discounting (now beats later)
+3. [What is the scientific term here] (Experience beats statistics)
+4. Social norms (we conform to what others do)
+5. Mental accounting (we put money into boxes)
 
 . . .
 
@@ -314,9 +297,23 @@ Gain frames led to more positive attitudes towards climate change mitigation tha
 Spence & Pidgeon 2010, Global Environmental Change, DOI 10.1016/j.gloenvcha.2010.07.002. Abstract: "gain frames were superior to loss frames in increasing positive attitudes towards climate change mitigation, and also increased the perceived severity of climate change impacts." The text was adapted from the 2007 IPCC report. One small study, see section 4.
 :::
 
-##
+---
+
+[Exercise: if people would like to avoid losses more, how does this relate to todays reading, suggesting that positive frames might aid]
+
+Go read the paper gain and discuss with your neighbor 5mins
+
+---
+
+[to answer this, we need to introduce probability in loss aversion]
+
+---
+
+## 2. Now beats later
 
 Would you rather receive CHF 100 today, or CHF 110 in a year?
+
+[Here, we'd need to present some actual evidence on time discounting]
 
 ::: {.notes}
 Hands. The amounts are only an illustration, they come from no study.
@@ -498,83 +495,24 @@ The authors' explanation: people expect money raised in one domain to be spent i
 Mus et al. 2023: "people create mental budgets where the origin of revenues is matched thematically with their domain of use". Most support for a mixed scheme: most revenue to green projects, the rest to low-income households.
 :::
 
-## Are these mistakes?
+# Framing
 
-It is tempting to read this list as a catalogue of human irrationality.
+## How does framing relate to mental models? 
 
-. . .
+They are two sides of the same coin
 
-Not everyone agrees. Gigerenzer argues that the evidence for systematic irrationality "suffers from narrow logical norms" and from "selective reporting of research" [-@gigerenzerSupposedEvidenceLibertarian2015].
+A framing effect is the "odd observation", where the same information only packaged slightly differently causes different reactions
 
-. . .
+If similar framing effects are regularly appearing across contexts, we call it a mental model
 
-For communicators, a more useful reading may be this: these are regular features of how people think, and a message can fit them more or less well.
+## A (kind of) practical definition
 
-::: {.notes}
-Mélusine Boon-Falleur's lecture 3 ends on the same note: heuristics often satisfice, and many follow a simple logic that minimises costly errors (the "smoke detector principle").
-:::
+How to package the essentially same information slightly differently, by appealing to the mental models.
 
-# 3. Framing
+---
 
-## Your turn
+What's the evidence on framing effects in climate change communication [center big]
 
-The reading for today gives five pieces of advice for communicating about climate change.
-
-. . .
-
-In pairs, match each of our five mental models to the advice that builds on it.
-
-. . .
-
-Which advice has no match? Which mental model has no advice? (7 minutes)
-
-::: {.notes}
-7 minutes of work, 5 minutes of debrief.
-:::
-
-## {.smaller}
-
-:::: {.columns}
-
-::: {.column width="35%"}
-1. Losses and gains
-2. Now beats later
-3. Experience beats statistics
-4. What others do
-5. Money has labels
-:::
-
-::: {.column width="65%"}
-A. "Leverage intrinsic motivation to support long-term environmental goals."
-
-B. "Frame policy solutions in terms of what can be gained (not in terms of what is lost)."
-
-C. "Highlight relevant personal experiences through affective recall, stories, and metaphors."
-
-D. "Emphasize the present and make climate change impacts and solutions locally relevant."
-
-E. "Activate and leverage relevant social group norms to promote and increase collective action."
-:::
-
-::::
-
-[@vanderlindenImprovingPublicEngagement2015, Table 1]
-
-::: {.notes}
-Solution: 1–B, 2–D, 3–C, 4–E. Advice A (intrinsic motivation) has no match. Mental model 5 has no advice, mental accounting is not in the reading. Debrief question: what advice would you write for number 5? Optional example for A from Mélusine's lecture 1: Gneezy & Rustichini 2000, "A Fine is a Price" (DOI 10.1086/468061). A day-care fine for late parents: "the number of late-coming parents increased significantly", and it did not go down again after the fine was removed.
-:::
-
-## What you just did has a name
-
-Framing means packaging essentially the same information differently, by appealing to the mental models people use.
-
-. . .
-
-The hope is that a message which fits how people think is more likely to change beliefs and behaviour.
-
-. . .
-
-In that sense, mental models and framing are two sides of the same coin. One describes how people think, the other what communicators do with it.
 
 ## Classic example 1: the same beef
 
@@ -952,6 +890,16 @@ Is a personalised conversation still "facts alone", or is it a form of framing?
 
 What could go wrong?
 
+
+## A long list of regularities
+
+![[Cognitive Bias Codex. Design: John Manoogian III, categories: Buster Benson. CC BY-SA 4.0, via Wikimedia Commons]{.citation}](images/cognitive_bias_codex.svg)
+
+::: {.notes}
+The codex groups 188 cognitive biases listed on Wikipedia. The point of the slide is the sheer number, nobody needs to read it.
+:::
+
+
 ## To take home
 
 People rely on simplified pictures of the world, mental models, to perceive, judge and decide.
@@ -967,4 +915,75 @@ For climate change, large studies suggest that framing helps modestly: a few per
 ## References
 
 ::: {#refs}
+:::
+
+
+---
+
+# backup slides (potentiall thrown out)
+
+
+## Are these mistakes?
+
+It is tempting to read this list as a catalogue of human irrationality.
+
+. . .
+
+Not everyone agrees. Gigerenzer argues that the evidence for systematic irrationality "suffers from narrow logical norms" and from "selective reporting of research" [-@gigerenzerSupposedEvidenceLibertarian2015].
+
+. . .
+
+For communicators, a more useful reading may be this: these are regular features of how people think, and a message can fit them more or less well.
+
+::: {.notes}
+Mélusine Boon-Falleur's lecture 3 ends on the same note: heuristics often satisfice, and many follow a simple logic that minimises costly errors (the "smoke detector principle").
+:::
+
+
+## Your turn
+
+The reading for today gives five pieces of advice for communicating about climate change.
+
+. . .
+
+In pairs, match each of our five mental models to the advice that builds on it.
+
+. . .
+
+Which advice has no match? Which mental model has no advice? (7 minutes)
+
+::: {.notes}
+7 minutes of work, 5 minutes of debrief.
+:::
+
+## {.smaller}
+
+:::: {.columns}
+
+::: {.column width="35%"}
+1. Losses and gains
+2. Now beats later
+3. Experience beats statistics
+4. What others do
+5. Money has labels
+:::
+
+::: {.column width="65%"}
+A. "Leverage intrinsic motivation to support long-term environmental goals."
+
+B. "Frame policy solutions in terms of what can be gained (not in terms of what is lost)."
+
+C. "Highlight relevant personal experiences through affective recall, stories, and metaphors."
+
+D. "Emphasize the present and make climate change impacts and solutions locally relevant."
+
+E. "Activate and leverage relevant social group norms to promote and increase collective action."
+:::
+
+::::
+
+[@vanderlindenImprovingPublicEngagement2015, Table 1]
+
+::: {.notes}
+Solution: 1–B, 2–D, 3–C, 4–E. Advice A (intrinsic motivation) has no match. Mental model 5 has no advice, mental accounting is not in the reading. Debrief question: what advice would you write for number 5? Optional example for A from Mélusine's lecture 1: Gneezy & Rustichini 2000, "A Fine is a Price" (DOI 10.1086/468061). A day-care fine for late parents: "the number of late-coming parents increased significantly", and it did not go down again after the fine was removed.
 :::
