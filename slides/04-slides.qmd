@@ -461,13 +461,15 @@ What's the evidence on framing effects in climate change communication?
 
 ## 1. Loss aversion and climate change
 
-Climate solutions are often "framed as an immediate loss for society (e.g., higher taxes, reducing energy consumption)" [@vanderlindenImprovingPublicEngagement2015].
+"Much of the media, scientific, and policy discourse around climate change has consistently invoked the idea of 'losses.' For example, climate solutions are often framed as an immediate loss for society (e.g., higher taxes, reducing energy consumption)." [@vanderlindenImprovingPublicEngagement2015]
 
-. . .
-
-In one experiment, 161 participants read the same information about climate change impacts, framed either in terms of gains or in terms of losses [@spenceFramingCommunicatingClimate2010].
+::: {.notes}
+The quote is from the reading (insight 4, "Framing the Big Picture: Nobody Likes Losing (but Everyone Likes Gaining)").
+:::
 
 ## Gain frame or loss frame? {.smaller}
+
+In one experiment, 161 participants read the same information about climate change impacts, framed either in terms of gains or in terms of losses [@spenceFramingCommunicatingClimate2010].
 
 :::: {.columns}
 
@@ -494,7 +496,7 @@ In one experiment, 161 participants read the same information about climate chan
 
 . . .
 
-Gain frames led to more positive attitudes towards climate change mitigation than loss frames [@spenceFramingCommunicatingClimate2010].
+Gain frames led to more positive attitudes towards climate change mitigation than loss frames.
 
 ::: {.notes}
 Spence & Pidgeon 2010, Global Environmental Change, DOI 10.1016/j.gloenvcha.2010.07.002. The extracts are from the paper's Appendix A. The text was adapted from the 2007 IPCC report, about 900 words in total, "adjusted to either describe the losses that will occur from climate change or the gains that will occur from climate change mitigation". Participants lived in or near Cardiff. A second manipulation varied whether the impacts were described for the UK or for continental Europe.
@@ -582,6 +584,14 @@ Jacquet, Hagel, Hauert, Marotzke, Röhl & Milinski 2013, Nature Climate Change, 
 
 ## 3. Availability bias and climate change
 
+"Statistical descriptions of the risk of climate change often fail to elicit action because statistical information, by itself, means very little to (most) people. Experience, on the other hand, can be a powerful teacher." [@vanderlindenImprovingPublicEngagement2015]
+
+::: {.notes}
+The quote is from the reading (insight 1, "The Human Brain Privileges Experience Over Analysis"). It continues with an example of availability: "although the odds of death or injury from a terrorist attack in the United States are very low, terrorism is ranked as a top national priority, whereas the reality of climate change is not. The difference lies in the fact that for terrorism, vivid, memorable experiences readily come to mind". And on why climate change is different: it "is a slow-moving, 'invisible' process that cannot easily be experienced directly".
+:::
+
+## Today's weather and beliefs about climate change
+
 "Climate change judgements can depend on whether today seems warmer or colder than usual".
 
 . . .
@@ -615,6 +625,14 @@ Liu, Snell, Griffiths & Dubey 2025, Nature Human Behaviour. "our approach does n
 :::
 
 ## 4. Social norms and climate change
+
+"the more people hear social referents (e.g., family and friends) talk about the risk of climate change, and the more climate change is viewed within one's social network as a risk that requires action, the more it amplifies an individual's own risk perception and intention to act" [@vanderlindenImprovingPublicEngagement2015]
+
+::: {.notes}
+The quote is from the reading (insight 2, "People Are Social Beings Who Respond to Group Norms"). The reading also names the two kinds of evidence that come later in this block. On consensus: "highlighting descriptive norms such as the high degree of scientific agreement (97%) on human-caused climate change can lead to greater science acceptance and support for public action". On energy use: "when people are informed about the average energy consumption of their neighbors, they tend to adjust their own energy use to conform to the group norm". And a condition: social norms are an "underemployed" lever, but "to be leveraged, they must first be in place".
+:::
+
+##
 
 Would you be willing to give 1% of your income to fight climate change?
 

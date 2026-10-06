@@ -238,14 +238,14 @@
     "href": "slides/04-slides.html#section-7",
     "title": "Mental models and framing",
     "section": "",
-    "text": "How big are the effects?"
+    "text": "Would you be willing to give 1% of your income to fight climate change?\n\nWhat share of people in your country do you think would say yes?\n\nHands for the first question. For the second: more than half, or less than half? The question wording here is simplified, it is not the survey’s exact item."
   },
   {
     "objectID": "slides/04-slides.html#section-8",
     "href": "slides/04-slides.html#section-8",
     "title": "Mental models and framing",
     "section": "",
-    "text": "In week 2, the conclusion was that facts alone rarely change minds.\n\nA recent line of research complicates this picture."
+    "text": "How big are the effects?"
   },
   {
     "objectID": "slides/04-slides.html#now-beats-later",
@@ -259,7 +259,7 @@
     "href": "slides/04-slides.html#section-9",
     "title": "Mental models and framing",
     "section": "",
-    "text": "Why do facts seem to work in conversations with chatbots?"
+    "text": "In week 2, the conclusion was that facts alone rarely change minds.\n\nA recent line of research complicates this picture."
   },
   {
     "objectID": "slides/04-slides.html#losses-and-gains",
@@ -273,7 +273,7 @@
     "href": "slides/04-slides.html#section-10",
     "title": "Mental models and framing",
     "section": "",
-    "text": "Loss aversion\nTemporal discounting\nAvailability bias\nSocial norms\nMental accounting\n\n\nA. “Leverage intrinsic motivation to support long-term environmental goals.”\nB. “Frame policy solutions in terms of what can be gained (not in terms of what is lost).”\nC. “Highlight relevant personal experiences through affective recall, stories, and metaphors.”\nD. “Emphasize the present and make climate change impacts and solutions locally relevant.”\nE. “Activate and leverage relevant social group norms to promote and increase collective action.”\n\n(Van Der Linden et al., 2015, Table 1)\n\nSolution: 1–B, 2–D, 3–C, 4–E. Advice A (intrinsic motivation) has no match. Mental model 5 has no advice, mental accounting is not in the reading. Debrief question: what advice would you write for number 5? Optional example for A: Gneezy & Rustichini 2000, “A Fine is a Price” (DOI 10.1086/468061). A day-care fine for late parents: “the number of late-coming parents increased significantly”, and it did not go down again after the fine was removed."
+    "text": "Why do facts seem to work in conversations with chatbots?"
   },
   {
     "objectID": "slides/04-slides.html#section-11",
@@ -1092,7 +1092,7 @@
     "href": "slides/04-slides.html#loss-aversion-and-climate-change",
     "title": "Mental models and framing",
     "section": "1. Loss aversion and climate change",
-    "text": "1. Loss aversion and climate change\nClimate solutions are often “framed as an immediate loss for society (e.g., higher taxes, reducing energy consumption)” (Van Der Linden et al., 2015).\n\nIn one experiment, 161 participants read the same information about climate change impacts, framed either in terms of gains or in terms of losses (Spence & Pidgeon, 2010)."
+    "text": "1. Loss aversion and climate change\n“Much of the media, scientific, and policy discourse around climate change has consistently invoked the idea of ‘losses.’ For example, climate solutions are often framed as an immediate loss for society (e.g., higher taxes, reducing energy consumption).” (Van Der Linden et al., 2015)\n\nThe quote is from the reading (insight 4, “Framing the Big Picture: Nobody Likes Losing (but Everyone Likes Gaining)”)."
   },
   {
     "objectID": "slides/04-slides.html#temporal-discounting-and-climate-change",
@@ -1113,7 +1113,7 @@
     "href": "slides/04-slides.html#social-norms-and-climate-change",
     "title": "Mental models and framing",
     "section": "4. Social norms and climate change",
-    "text": "4. Social norms and climate change\nWould you be willing to give 1% of your income to fight climate change?\n\nWhat share of people in your country do you think would say yes?\n\nHands for the first question. For the second: more than half, or less than half? The question wording here is simplified, it is not the survey’s exact item."
+    "text": "4. Social norms and climate change\n“the more people hear social referents (e.g., family and friends) talk about the risk of climate change, and the more climate change is viewed within one’s social network as a risk that requires action, the more it amplifies an individual’s own risk perception and intention to act” (Van Der Linden et al., 2015)\n\nThe quote is from the reading (insight 2, “People Are Social Beings Who Respond to Group Norms”). The reading also names the two kinds of evidence that come later in this block. On consensus: “highlighting descriptive norms such as the high degree of scientific agreement (97%) on human-caused climate change can lead to greater science acceptance and support for public action”. On energy use: “when people are informed about the average energy consumption of their neighbors, they tend to adjust their own energy use to conform to the group norm”. And a condition: social norms are an “underemployed” lever, but “to be leveraged, they must first be in place”."
   },
   {
     "objectID": "slides/04-slides.html#mental-accounting-and-carbon-taxes",
@@ -1155,7 +1155,7 @@
     "href": "slides/04-slides.html#availability-bias-and-climate-change",
     "title": "Mental models and framing",
     "section": "3. Availability bias and climate change",
-    "text": "3. Availability bias and climate change\n“Climate change judgements can depend on whether today seems warmer or colder than usual”.\n\nPeople seem to “use less relevant but available information (for example, today’s temperature) in place of more diagnostic but less accessible information (for example, global climate change patterns)”.\n\n\nStatistics about global averages are hard to experience. A warm day is not.\n(Zaval et al., 2014)\n\nZaval, Keenan, Johnson & Weber 2014, Nature Climate Change, DOI 10.1038/nclimate2093, quotes from the abstract (“local warming effect”). One of the five studies in this paper, a priming study, did not replicate in Many Labs 2."
+    "text": "3. Availability bias and climate change\n“Statistical descriptions of the risk of climate change often fail to elicit action because statistical information, by itself, means very little to (most) people. Experience, on the other hand, can be a powerful teacher.” (Van Der Linden et al., 2015)\n\nThe quote is from the reading (insight 1, “The Human Brain Privileges Experience Over Analysis”). It continues with an example of availability: “although the odds of death or injury from a terrorist attack in the United States are very low, terrorism is ranked as a top national priority, whereas the reality of climate change is not. The difference lies in the fact that for terrorism, vivid, memorable experiences readily come to mind”. And on why climate change is different: it “is a slow-moving, ‘invisible’ process that cannot easily be experienced directly”."
   },
   {
     "objectID": "slides/04-slides.html#other-framing-effects",
@@ -1267,7 +1267,7 @@
     "href": "slides/04-slides.html#gain-frame-or-loss-frame",
     "title": "Mental models and framing",
     "section": "Gain frame or loss frame?",
-    "text": "Gain frame or loss frame?\n\n\nGain frame\n“By mitigating climate change, we can prevent further increases in winter floods in maritime regions and flash floods throughout Europe.”\n“By preventing further sea-level rises, we can prevent the inland migration of beaches and save up to 20% of coastal wetlands …”\n\n\n\nLoss frame\n“Without mitigating climate change, we will see further increases in winter floods in maritime regions and flash floods throughout Europe.”\n“With further sea-level rises, beaches will migrate inland and threaten up to 20% of coastal wetlands …”\n\n\nGain frames led to more positive attitudes towards climate change mitigation than loss frames (Spence & Pidgeon, 2010).\n\nSpence & Pidgeon 2010, Global Environmental Change, DOI 10.1016/j.gloenvcha.2010.07.002. The extracts are from the paper’s Appendix A. The text was adapted from the 2007 IPCC report, about 900 words in total, “adjusted to either describe the losses that will occur from climate change or the gains that will occur from climate change mitigation”. Participants lived in or near Cardiff. A second manipulation varied whether the impacts were described for the UK or for continental Europe.\nWorth pointing out: the gain frame here is about losses that can be prevented. Both versions talk about floods. What differs is whether the floods are presented as avoidable through action or as coming without action.\nAbstract: “gain frames were superior to loss frames in increasing positive attitudes towards climate change mitigation, and also increased the perceived severity of climate change impacts.” The loss frame had effects of its own: fear was higher (M = 3.45 against 3.10) and people recalled more statements (M = 6.93 against 4.96). The abstract says the advantage of the gain frame “was partially suppressed by lower fear responses and poorer information recall”."
+    "text": "Gain frame or loss frame?\nIn one experiment, 161 participants read the same information about climate change impacts, framed either in terms of gains or in terms of losses (Spence & Pidgeon, 2010).\n\n\nGain frame\n“By mitigating climate change, we can prevent further increases in winter floods in maritime regions and flash floods throughout Europe.”\n“By preventing further sea-level rises, we can prevent the inland migration of beaches and save up to 20% of coastal wetlands …”\n\n\n\nLoss frame\n“Without mitigating climate change, we will see further increases in winter floods in maritime regions and flash floods throughout Europe.”\n“With further sea-level rises, beaches will migrate inland and threaten up to 20% of coastal wetlands …”\n\n\nGain frames led to more positive attitudes towards climate change mitigation than loss frames.\n\nSpence & Pidgeon 2010, Global Environmental Change, DOI 10.1016/j.gloenvcha.2010.07.002. The extracts are from the paper’s Appendix A. The text was adapted from the 2007 IPCC report, about 900 words in total, “adjusted to either describe the losses that will occur from climate change or the gains that will occur from climate change mitigation”. Participants lived in or near Cardiff. A second manipulation varied whether the impacts were described for the UK or for continental Europe.\nWorth pointing out: the gain frame here is about losses that can be prevented. Both versions talk about floods. What differs is whether the floods are presented as avoidable through action or as coming without action.\nAbstract: “gain frames were superior to loss frames in increasing positive attitudes towards climate change mitigation, and also increased the perceived severity of climate change impacts.” The loss frame had effects of its own: fear was higher (M = 3.45 against 3.10) and people recalled more statements (M = 6.93 against 4.96). The abstract says the advantage of the gain frame “was partially suppressed by lower fear responses and poorer information recall”."
   },
   {
     "objectID": "slides/04-slides.html#social-norms-that-change-behaviour-energy-use-at-home",
@@ -1296,5 +1296,12 @@
     "title": "Mental models and framing",
     "section": "A (kind of) definition of mental models",
     "text": "A (kind of) definition of mental models\nFeatures of human psychology that describe how people think, decide, and act…\n\n… that often seem to deviate from rational choice.\n\n\nMany terms for roughly the same idea: heuristics, biases, mental shortcuts…"
+  },
+  {
+    "objectID": "slides/04-slides.html#todays-weather-and-beliefs-about-climate-change",
+    "href": "slides/04-slides.html#todays-weather-and-beliefs-about-climate-change",
+    "title": "Mental models and framing",
+    "section": "Today’s weather and beliefs about climate change",
+    "text": "Today’s weather and beliefs about climate change\n“Climate change judgements can depend on whether today seems warmer or colder than usual”.\n\nPeople seem to “use less relevant but available information (for example, today’s temperature) in place of more diagnostic but less accessible information (for example, global climate change patterns)”.\n\n\nStatistics about global averages are hard to experience. A warm day is not.\n(Zaval et al., 2014)\n\nZaval, Keenan, Johnson & Weber 2014, Nature Climate Change, DOI 10.1038/nclimate2093, quotes from the abstract (“local warming effect”). One of the five studies in this paper, a priming study, did not replicate in Many Labs 2."
   }
 ]
