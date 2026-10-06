@@ -133,7 +133,7 @@ The facts are identical. What differs is the wording, and the wording seems to c
 
 . . .
 
-This is called a *framing effect*. It happens, because we use *mental models* to evaluate information.
+This is called a *framing effect*. It happens because we use *mental models* to evaluate information.
 
 ## From homo economicus to homo psychologicus
 
@@ -149,7 +149,7 @@ However, some human judgements and behaviors seem hard to reconcile with this vi
 
 . . .
 
-In the previous example, the costs and benefits of the two programs were identical - a purely rational actor would not have made a difference.
+In the previous example, the costs and benefits of the two programs were identical. A purely rational actor would not have made a difference.
 
 # 2. Mental models
 
@@ -243,7 +243,7 @@ Most of the time they serve us well. Sometimes they lead to choices that look od
 
 ## Today
 
-We will look at five mental models that matter for communicating about climate change. 
+We will look at five mental models that matter for communicating about climate change.
 
 ::: {.incremental}
 1. Loss aversion (losses weigh more than gains)
@@ -355,13 +355,13 @@ In the original study, students saw tornadoes as more frequent killers than asth
 
 . . .
 
-From todays reading [@vanderlindenImprovingPublicEngagement2015]: 
+From today's reading [@vanderlindenImprovingPublicEngagement2015]:
 
 - "The human brain privileges experience over analysis"
 
 . . .
 
-- In this case, hardly lived experience, but rather "disproportionate exposure, memorability, or imaginability", reinforced, e.g., by news coverage
+- In this case, hardly lived experience, but rather "disproportionate exposure, memorability, or imaginability" [@lichtensteinJudgedFrequencyLethal1978], reinforced, e.g., by news coverage
 
 ::: {.notes}
 Hands before the answer appears. Lichtenstein et al. 1978: "Tornadoes were seen by the student subjects as more frequent killers than asthma, even though the latter is 20 times more likely". Their Table 1 gives a death rate of 44 per 100 million for tornadoes and 920 per 100 million for asthma. Another pair from the same paper: "Death by lightning was judged less likely than death by botulism even though it is 52 times more frequent". The same example was on the Week 1 slides.
@@ -509,7 +509,7 @@ Abstract: "gain frames were superior to loss frames in increasing positive attit
 ##
 
 ::: {.exercise}
-How are these findings (gain frames beat loss frames) compatible with loss aversion (losses weigh more than gains)? 
+How are these findings (gain frames beat loss frames) compatible with loss aversion (losses weigh more than gains)?
 
 Go read the section in the paper again and discuss with your neighbor (5 minutes).
 
@@ -526,7 +526,7 @@ They are not compatible.
 
 . . .
 
-Important take away: Mental models are no universal rules that always apply in different contexts.
+Important take-away: mental models are no universal rules that always apply in different contexts.
 
 . . .
 
@@ -551,15 +551,15 @@ One could link this second argument to temporal discounting: the losses from not
 
 **A limitation: do future losses fade like future gains?**
 
-Our answer assumes that a loss in the distant future counts for less than a loss today. In the 61-country study, 40.1% of participants did not treat losses that way. They preferred to receive money now, but they also preferred to pay now over paying more in 12 months (Ruggeri et al. 2022). For these people, a future loss does not seem to fade like a future gain.
+The temporal discounting argument assumes that a loss in the distant future counts for less than a loss today. In the 61-country study, 40.1% of participants did not treat losses that way. They preferred to receive money now, but they also preferred to pay now over paying more in 12 months (Ruggeri et al. 2022). For these people, a future loss does not seem to fade like a future gain.
 
-What we would expect. Someone who takes $500 now over $550 in a year tells us that money in a year is worth clearly less to them than money today. If now beats later in the same way for losses, the same person should prefer to pay $550 in a year over paying $500 today, because the later payment should also feel smaller. Our answer on this slide uses exactly this logic: the climate loss is far away, so it shrinks, and the immediate cost of acting looms larger.
+What we would expect. Someone who takes $500 now over $550 in a year tells us that money in a year is worth clearly less to them than money today. If now beats later in the same way for losses, the same person should prefer to pay $550 in a year over paying $500 today, because the later payment should also feel smaller. The temporal discounting argument uses exactly this logic: the climate loss is far away, so it shrinks, and the immediate cost of acting looms larger.
 
 What Ruggeri et al. 2022 find. Many people do the opposite for losses. The authors' example: people "prefer to receive $500 now over $550 in 12 months, but also prefer to pay $500 now over paying $550 in 12 months". They take the money now, and they also pay now, although paying later would be the consistent choice. The paper calls this gain–loss asymmetry: "Gains are discounted more than losses". It was the most common of the anomalies they tested: "from 13.8% for absolute magnitude to 40.1% for gain–loss asymmetry", and "Gain–loss rates were the most common anomaly in 80.3% (49) of the countries".
 
-Why this matters for us. These people accept a smaller loss today to avoid a larger loss later. This is the kind of choice climate action asks for. So a delayed loss does not simply fade for them, and "the distant loss counts for less" is weaker than it sounds on this slide. Note that this does not go against loss aversion itself. It fits the idea that people take losses seriously, also when they lie in the future. What it goes against is the combination we used: loss aversion plus temporal discounting.
+Why this matters for us. These people accept a smaller loss today to avoid a larger loss later. This is the kind of choice climate action asks for. So a delayed loss does not simply fade for them, and "the distant loss counts for less" is weaker than it sounds. Note that this does not go against loss aversion itself. It fits the idea that people take losses seriously, also when they lie in the future. What it goes against is the combination of loss aversion and temporal discounting.
 
-What it does not show. 40.1% is a minority of participants. The choices are about money, with delays of 12 months. And risk was not part of the task: "we do not explicitly test risk in the temporal measures". Climate impacts are uncertain and decades away. The part of our answer that rests on uncertainty ("worth the gamble") is untouched, and this is the part the reading itself stresses.
+What it does not show. 40.1% is a minority of participants. The choices are about money, with delays of 12 months. And risk was not part of the task: "we do not explicitly test risk in the temporal measures". Climate impacts are uncertain and decades away. The part of the reading's argument that rests on uncertainty ("worth the gamble") is untouched, and this is the part the reading itself stresses.
 :::
 
 ## 2. Temporal discounting and climate change
@@ -584,7 +584,7 @@ The rewards of cooperating were paid out after one day, after seven weeks, or se
 
 . . .
 
-The longer the delay, the less the groups cooperated. Gains "delayed significantly into the future" were found to "markedly diminish cooperation".
+With a delay of several decades, cooperation decreased markedly: "all groups failed to reach the collective target". The seven-week delay had a weaker effect.
 
 [@jacquetIntraIntergenerationalDiscounting2013]
 
@@ -876,17 +876,11 @@ In some countries the frame was moderately successful (Brazil, France, Israel). 
 Mason, Vlasceanu & Jost 2024. The country-level analyses were exploratory.
 :::
 
-## How big are the effects? Small.
+## {.big-center}
 
-Messages built on mental models can move attitudes, typically by a few percentage points.
+Effects of messaging interventions, even if framed by psychological researchers who are experts, are small.
 
-. . .
-
-Costly behaviour is much harder to influence with a message alone.
-
-. . .
-
-And the effect of a frame depends on who is listening.
+They typically shift attitudes by only a few percentage points.
 
 ::: {.notes}
 We will discuss these studies in more detail in session 11, "From communication to behavior change".
@@ -896,11 +890,15 @@ We will discuss these studies in more detail in session 11, "From communication 
 
 ##
 
-In week 2, the conclusion was that facts alone rarely change minds.
+In week 2, part of the conclusion was that facts alone rarely change minds.
 
 . . .
 
 A recent line of research complicates this picture.
+
+::: {.notes}
+This is often the starting point when arguing that psychology matters.
+:::
 
 ## Conversations with an AI
 
@@ -996,7 +994,7 @@ The link back to "How big are the effects?": one-way messages moved attitudes by
 
 ## Chatbots as scaled-up dialogue
 
-A leaflet cannot answer back. In a discussion, a person's counterarguments can be addressed one by one.
+A single message cannot answer back. In a discussion, a person's counterarguments can be addressed one by one.
 
 . . .
 
@@ -1012,26 +1010,6 @@ Altay, Hacquin, Chevallier & Mercier 2021, Journal of Experimental Psychology: A
 A caveat: it may be the good arguments more than the interactivity. In a study on genetically modified organisms, good arguments against the most common counterarguments led to much more positive attitudes, but "we found no evidence that an interactive chatbot proves more persuasive than a list of arguments and counterarguments" (Altay et al. 2022, Nature Human Behaviour, DOI 10.1038/s41562-021-01271-w).
 
 Costello et al. 2024 on their own result: the AI can "tailor counterarguments to specific conspiracies, reasoning, and evidence the believer brings to bear". They also write that "the causal mechanisms underpinning our results remain unformalized".
-:::
-
-## Discussion
-
-If tailored evidence from an AI can change minds, was the deficit model wrong, or were the facts just badly delivered?
-
-. . .
-
-Is a personalised conversation still "facts alone", or is it a form of framing?
-
-. . .
-
-What could go wrong?
-
-## A long list of regularities
-
-![[Cognitive Bias Codex. Design: John Manoogian III, categories: Buster Benson. CC BY-SA 4.0, via Wikimedia Commons]{.citation}](images/cognitive_bias_codex.svg)
-
-::: {.notes}
-The codex groups 188 cognitive biases listed on Wikipedia. The point of the slide is the sheer number, nobody needs to read it.
 :::
 
 ## To take home
@@ -1052,227 +1030,9 @@ For climate change, large studies suggest that framing helps modestly: a few per
 
 . . .
 
-Facts seem to work better in a dialogue, where arguments can be exchanged, than in one-way messages.
+Facts still matter: they seem to work better in a dialogue, where arguments can be exchanged, than in one-way messages.
 
 ## References
 
 ::: {#refs}
-:::
-
-# Backup slides (potentially thrown out)
-
-## Reframing climate policy
-
-Climate policy is usually justified by the risks of climate change. Would other benefits be more convincing: innovation, green jobs, community, health?
-
-. . .
-
-Two survey experiments with 1,675 participants in total suggest that they are not.
-
-. . .
-
-"simple reframing of climate policy is unlikely to increase public support"
-
-[@bernauerSimpleReframingUnlikely2016]
-
-::: {.notes}
-Bernauer & McGrath 2016, Nature Climate Change, DOI 10.1038/nclimate2948 (ETH Zurich). "strategies to garner public support based on the traditional justification of reducing the risks of climate change remain the most effective".
-:::
-
-## Interlude: can a song make you younger?
-
-In 2011, three psychologists reported that students were "nearly a year-and-a-half younger" after listening to "When I'm Sixty-Four" by the Beatles [@simmonsFalsePositivePsychologyUndisclosed2011].
-
-. . .
-
-This is impossible, of course. The authors wanted to show how easily a false finding can be produced.
-
-. . .
-
-Their recipe: more participants and songs than first reported, a convenient control variable, and repeated looks at the data.
-
-::: {.notes}
-Simmons, Nelson & Simonsohn 2011, Study 2. Reported: 20 students, "When I'm Sixty-Four" or "Kalimba", adjusted M = 20.1 against 21.5 years, F(1, 17) = 4.92, p = .040. Left out at first: 34 participants and three songs, analyses after about every 10 participants, and father's age as a control. Without that control p = .33.
-:::
-
-## Interlude: Thinking, Fast and Slow
-
-In his 2011 bestseller, Daniel Kahneman described studies in which subtle cues changed behaviour. In the best known, students who had worked with words related to old age then walked more slowly down a corridor.
-
-. . .
-
-His verdict at the time: "disbelief is not an option."
-
-. . .
-
-A later replication with automated timing and a larger sample "failed to show priming". In 2017, Kahneman wrote: "I placed too much faith in underpowered studies."
-
-[@doyenBehavioralPrimingIts2012; @schimmackReconstructionTrainWreck2017]
-
-::: {.notes}
-These are priming studies. The book passage is quoted as reproduced in Schimmack, Heene & Kesavan 2017: "disbelief is not an option. The results are not made up, nor are they statistical flukes. You have no choice but to accept that the major conclusions of these studies are true." Original study: Bargh, Chen & Burrows 1996 (DOI 10.1037/0022-3514.71.2.230). Replication: Doyen, Klein, Pichon & Cleeremans 2012, PLoS ONE, DOI 10.1371/journal.pone.0029081. Kahneman's sentence is from his comment of 14 February 2017 under the blog post: "What the blog gets absolutely right is that I placed too much faith in underpowered studies."
-:::
-
-## Interlude: what held up?
-
-Large teams have since repeated many classic studies with thousands of participants.
-
-. . .
-
-Framing effects mostly held. The disease problem replicated at about half its original size, and the calculator problem replicated as well.
-
-. . .
-
-Priming effects mostly did not. Showing people a flag or banknotes had no measurable effect, and heat-related words did not change concern about global warming.
-
-. . .
-
-So the classic framing effects seem to be real, but often smaller than first reported.
-
-[@kleinInvestigatingVariationReplicability2014; @kleinManyLabs22018]
-
-::: {.notes}
-Many Labs 1 (Klein et al. 2014, DOI 10.1027/1864-9335/a000178): 13 effects, 36 samples, 6,344 participants. Effect sizes original against replication: disease problem 1.13 against 0.60, allowed/forbidden 0.65 against 1.96, flag priming 0.50 against 0.03, currency priming 0.80 against −0.02. Many Labs 2 (Klein et al. 2018, DOI 10.1177/2515245918810225): 28 findings, 15,305 participants, 15 (54%) replicated, median effect size 0.60 in the originals and 0.15 in the replications. Calculator problem: 49% against 32% made the trip, N = 7,228 (originally 68% against 29%). Heat priming (Zaval et al. 2014, Study 3A): original d = 0.31, replication d = −0.03, N = 4,204.
-:::
-
-## Classic example 1: the same beef
-
-Consumers rated ground beef that was labelled either "75% lean" or "25% fat".
-
-. . .
-
-Their evaluations were more favourable for the beef labelled "75% lean".
-
-. . .
-
-The effect became smaller once consumers had actually tasted the meat.
-
-[@levinHowConsumersAre1988]
-
-::: {.notes}
-Levin & Gaeth 1988, Journal of Consumer Research, DOI 10.1086/209174. Abstract: "the magnitude of this information framing effect lessened when consumers actually tasted the meat". A link to mental model 3: direct experience weakens the frame.
-:::
-
-## Classic example 2: the same operation
-
-People were asked to imagine they had lung cancer, and to choose between surgery and radiation therapy.
-
-. . .
-
-The outcomes were described either as the probability of living or as the probability of dying.
-
-. . .
-
-Surgery was substantially more attractive when the outcomes were framed in terms of living. This held for patients, for graduate students, and for physicians.
-
-[@mcneilElicitationPreferencesAlternative1982]
-
-::: {.notes}
-McNeil, Pauker, Sox & Tversky 1982, New England Journal of Medicine, DOI 10.1056/NEJM198205273062103. 238 patients, 491 graduate students, 424 physicians.
-:::
-
-## Classic example 3: the same question
-
-In 1941, Americans were asked about speeches against democracy.
-
-. . .
-
-Asked whether the United States should *allow* such speeches, 62% said no.
-
-. . .
-
-Asked whether the United States should *forbid* them, only 46% said yes.
-
-[@ruggExperimentsWordingQuestions1941; numbers as reported in @kleinInvestigatingVariationReplicability2014]
-
-::: {.notes}
-Rugg 1941, Public Opinion Quarterly, DOI 10.1086/265467. Numbers as reported in Many Labs 1 (Klein et al. 2014).
-:::
-
-## What these examples share
-
-In each case the information is the same, or logically equivalent. Only the description differs.
-
-. . .
-
-And in each case the description shifts what people prefer: lean beef, the operation, free speech, or Program A.
-
-## Social norms: hotel towels
-
-Many hotels ask their guests to reuse their towels, with an appeal that focuses on environmental protection.
-
-. . .
-
-In two field experiments, signs saying that "the majority of guests reuse their towels" "proved superior" to this standard appeal [@goldsteinRoomViewpointUsing2008].
-
-. . .
-
-A replication in two hotels in Germany did not confirm this. There, such messages "were not more effective than the standard message" [@bohnerRoomViewpointRevisited2014].
-
-::: {.notes}
-Goldstein, Cialdini & Griskevicius 2008, Journal of Consumer Research, DOI 10.1086/586910. Replication: Bohner & Schlüter 2014, PLoS ONE, DOI 10.1371/journal.pone.0104086, Study 1 N = 724, Study 2 N = 204: "both standard and descriptive norm messages increased reuse rates compared to a no-message baseline. However, descriptive norm messages were not more effective than the standard message". A pooled Bayesian analysis exists (Scheibehenne, Jamil & Wagenmakers 2016, Psychological Science, DOI 10.1177/0956797616644081).
-:::
-
-## Are these mistakes?
-
-It is tempting to read this list as a catalogue of human irrationality.
-
-. . .
-
-Not everyone agrees. Gigerenzer argues that the evidence for systematic irrationality "suffers from narrow logical norms" and from "selective reporting of research" [-@gigerenzerSupposedEvidenceLibertarian2015].
-
-. . .
-
-For communicators, a more useful reading may be this: these are regular features of how people think, and a message can fit them more or less well.
-
-::: {.notes}
-Heuristics often satisfice, and many follow a simple logic that minimises costly errors (the "smoke detector principle").
-:::
-
-## Your turn
-
-The reading for today gives five pieces of advice for communicating about climate change.
-
-. . .
-
-In pairs, match each of our five mental models to the advice that builds on it.
-
-. . .
-
-Which advice has no match? Which mental model has no advice? (7 minutes)
-
-::: {.notes}
-7 minutes of work, 5 minutes of debrief.
-:::
-
-## {.smaller}
-
-:::: {.columns}
-
-::: {.column width="35%"}
-1. Loss aversion
-2. Temporal discounting
-3. Availability bias
-4. Social norms
-5. Mental accounting
-:::
-
-::: {.column width="65%"}
-A. "Leverage intrinsic motivation to support long-term environmental goals."
-
-B. "Frame policy solutions in terms of what can be gained (not in terms of what is lost)."
-
-C. "Highlight relevant personal experiences through affective recall, stories, and metaphors."
-
-D. "Emphasize the present and make climate change impacts and solutions locally relevant."
-
-E. "Activate and leverage relevant social group norms to promote and increase collective action."
-:::
-
-::::
-
-[@vanderlindenImprovingPublicEngagement2015, Table 1]
-
-::: {.notes}
-Solution: 1–B, 2–D, 3–C, 4–E. Advice A (intrinsic motivation) has no match. Mental model 5 has no advice, mental accounting is not in the reading. Debrief question: what advice would you write for number 5? Optional example for A: Gneezy & Rustichini 2000, "A Fine is a Price" (DOI 10.1086/468061). A day-care fine for late parents: "the number of late-coming parents increased significantly", and it did not go down again after the fine was removed.
 :::
