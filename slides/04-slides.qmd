@@ -522,43 +522,28 @@ Pointer for students: insight 4 in the reading, "Framing the Big Picture: Nobody
 
 ## Why gain frames, if people would like to avoid losses?
 
-As climate change is usually presented, both options are losses. Wanting to avoid losses does not tell us which one to pick.
-
-|  | Our experiment | Climate change |
-|---|---|---|
-| **A sure loss** | Program C: 400 people will die | Act: certain costs today (e.g., higher taxes) |
-| **A gamble** | Program D: maybe nobody dies, maybe 600 people die | Do not act: uncertain losses in the distant future |
+Loss aversion alone would predict that loss frames work better. Studies do not find this consistently.
 
 . . .
 
-Between a sure loss and a gamble, most people gamble (78% chose Program D). For climate change, the gamble is to do nothing: the status quo seems "worth the gamble" [@vanderlindenImprovingPublicEngagement2015].
+What seems to matter is whether the behaviour is seen as safe or as risky. Faced with losses, people take risks. Faced with gains, they prefer the safe option, as in our experiment.
+
+. . .
+
+Mitigating climate change is the safe option, because it prevents possible future damage. A gain frame therefore fits it better [@spenceFramingCommunicatingClimate2010].
 
 ::: {.notes}
-Two losses are in play, and they differ in time and in certainty. The reading's passage (insight 4): "when climate change impacts are framed as potential (i.e., uncertain) losses in the distant future, whereas climate change solutions are framed as certain losses for society at present, it encourages people to conclude that maintaining the status quo may be 'worth the gamble.'" Just before: "prospect theory (Kahneman & Tversky, 1979) demonstrates that people are more risk-seeking in loss domains than they are in gain domains. In particular, people are more reluctant to take action when losses are paired with uncertainty (Tversky & Shafir, 1992)."
+This is the explanation Spence & Pidgeon 2010 give themselves. They start from loss aversion, "the idea that individuals tend to dislike losses more than equivalent gains", and note that "Empirical evidence supporting the stronger influence of loss frames is inconsistent". The pattern in the literature: "loss frames are more effective in changing behaviours considered risky whilst gain frames are more effective within behaviours considered safe". The reason from prospect theory: "people are less inclined to take risks when considering gains", while "people will take risks to avoid losses".
 
-The same pattern as in our experiment: "choices involving gains are often risk averse and choices involving losses are often risk taking" (Tversky & Kahneman 1981). When losses are uncertain, people tend to gamble.
+Their example from health: sunscreen use is a prevention behaviour, seen as low in risk, and is promoted better with gain frames. Testing for HIV is a detection behaviour, seen as risky in the short term because one may get bad news, and is promoted better with loss frames. Their argument for climate change: "climate change mitigation actions are most similar to prevention behaviour in that mitigation behaviour is undertaken in order to prevent potential future negative impacts of climate change."
 
-The mapping on the slide: acting on climate change is the sure option, with costs that are certain and come today. Not acting is the gamble, because the impacts are uncertain and far away. In our experiment the same two kinds of options were Program C and Program D.
-:::
-
-## Why gain frames, if people would like to avoid losses?
-
-When the same options were described as gains, most people took the sure option (72% chose Program A).
-
-. . .
-
-Hence the reading's advice: present acting as a gain, and talk about "the positive benefits (gains) of immediate action" [@vanderlindenImprovingPublicEngagement2015].
-
-. . .
-
-Now beats later adds to this. The losses from not acting lie in the distant future, where they may count for less.
-
-::: {.notes}
-The reading's policy implication (insight 4): "shifting the policy conversation from the potentially negative future consequences of not acting (losses) on climate change to the positive benefits (gains) of immediate action is likely to increase public support."
+The link to our experiment: described as gains, most people took the sure option (72% chose Program A). Described as losses, most people gambled (78% chose Program D).
 
 On the puzzle itself: a meta-analysis "of 93 studies involving over 20,000 participants" on message framing "did not find a single context where loss-framed appeals had statistically greater persuasive power than gain-framed appeals" (as reported in Gal & Rucker 2018, p. 509).
 
-The link to temporal discounting is our reading of the passage. The reading itself stresses the uncertainty. A limitation of the temporal discounting step is described at the end of these notes.
+The reading adds a second argument about public debate in general. Its passage (insight 4): "when climate change impacts are framed as potential (i.e., uncertain) losses in the distant future, whereas climate change solutions are framed as certain losses for society at present, it encourages people to conclude that maintaining the status quo may be 'worth the gamble.'" Just before: "prospect theory (Kahneman & Tversky, 1979) demonstrates that people are more risk-seeking in loss domains than they are in gain domains. In particular, people are more reluctant to take action when losses are paired with uncertainty (Tversky & Shafir, 1992)." This argument is about how climate policy is usually talked about. It does not explain the result of the experiment, because the texts in the experiment never mentioned the costs of acting.
+
+One could link this second argument to temporal discounting: the losses from not acting lie in the distant future, where they may count for less. This link is our reading, the reading itself stresses the uncertainty.
 
 **A limitation: do future losses fade like future gains?**
 
