@@ -2,6 +2,7 @@
 # and subtitle. Styling: assets/slides/theme.scss on top of the brand colors.
 author: "Dr. Viktoria Cologna and Dr. Jan Pfänder"
 bibliography: ../references.bib
+csl: ../assets/apa.csl
 format:
   revealjs:
     theme: [default, ../assets/slides/theme.scss]
@@ -9,7 +10,6 @@ format:
     progress: true
     chalkboard: true
     history: false
-    center-title-slide: false
     toc: false
     template-partials:
       - ../assets/slides/title-slide.html

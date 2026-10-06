@@ -126,3 +126,21 @@ $presentation-heading-font-weight: 600;
 .reveal .slides section.big-center h2:empty {
   display: none;
 }
+
+// Exercise boxes: `::: {.exercise}` marks an announced exercise, so that it is
+// visible at a glance. The header with the pencil is added here.
+.reveal .exercise {
+  border: 2px solid $brand-maroon;
+  border-left-width: 12px;
+  border-radius: 8px;
+  background: rgba($brand-gold, 0.28);
+  padding: 0.5em 0.9em 0.3em 0.9em;
+  margin: 0.4em 0;
+}
+.reveal .exercise::before {
+  content: "\270E\00a0 Exercise";
+  display: block;
+  font-weight: 700;
+  color: $brand-maroon;
+  margin-bottom: 0.2em;
+}
