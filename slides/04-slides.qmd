@@ -676,18 +676,20 @@ The intervention told participants the actual share from a recent survey in thei
 
 ## Social norms that change behaviour: energy use at home
 
-In the United States, home energy reports based on social comparison were mailed repeatedly to more than six million households [@allcottShortRunLongRunEffects2014].
+In the United States, households received letters "comparing their electricity use to that of their neighbors". In randomised field experiments with 600,000 households, these reports reduced energy consumption by 2.0% on average [@allcottSocialNormsEnergy2011].
 
 . . .
 
-Households kept responding to the reports even after two years. When the reports stopped, the effects decayed only slowly, at 10 to 20 percent per year.
+This equals the effect of a short-run electricity price increase of 11 to 20%. And it lasts: when the reports stopped after two years, the effect decayed by only 10 to 20 percent per year [@allcottShortRunLongRunEffects2014].
 
 . . .
 
 A synthesis of 430 field studies on climate-friendly behaviour found that "interventions based on social comparisons or financial incentives were the most effective" [@bergquistFieldInterventionsClimate2023].
 
 ::: {.notes}
-Allcott & Rogers 2014, American Economic Review, DOI 10.1257/aer.104.10.3003, on the Opower programme: "social comparison-based home energy reports are repeatedly mailed to more than six million households nationwide". "if reports are discontinued after two years, effects are relatively persistent, decaying at 10–20 percent per year", and consumers "continue to respond to repeated treatment even after two years".
+Allcott 2011, Journal of Public Economics, DOI 10.1016/j.jpubeco.2011.03.003, on the Home Energy Reports of the company Opower: "Using data from randomized natural field experiments at 600,000 treatment and control households across the United States, I estimate that the average program reduces energy consumption by 2.0%." The effect "is equivalent to that of a short-run electricity price increase of 11 to 20%". It differs by household: "households in the highest decile of pre-treatment consumption decrease usage by 6.3%, while consumption by the lowest decile decreases by only 0.3%".
+
+Allcott & Rogers 2014, American Economic Review, DOI 10.1257/aer.104.10.3003, on the same programme: "social comparison-based home energy reports are repeatedly mailed to more than six million households nationwide". "if reports are discontinued after two years, effects are relatively persistent, decaying at 10–20 percent per year", and consumers "continue to respond to repeated treatment even after two years".
 
 Bergquist et al. 2023, PNAS, DOI 10.1073/pnas.2214851120: a second-order meta-analysis of 10 meta-analyses with 430 primary studies in field settings. "interventions based on social comparisons or financial incentives were the most effective, while education or feedback was the least effective." How big? Overall, adjusted for publication bias, d = 0.18, which "translates into a mean treatment effect of 7 percentage points". In large-scale interventions (n > 9,000) the effect "was adjusted downward to approximately 2 percentage points", and home energy reports are their example of such a large-scale, less direct technique.
 
