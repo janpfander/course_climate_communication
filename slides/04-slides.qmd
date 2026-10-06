@@ -622,7 +622,7 @@ In a further study, they also donated more to a climate charity: \$2.04 on avera
 
 . . .
 
-An easy judgement (today's temperature) seems to replace a hard one (global temperature trends).
+People who found today warmer than usual also reported more unusually warm days over the past year (N = 270, r = 0.41) [@zavalHowWarmDays2014]. What is available today seems to colour the memory of the whole year.
 
 ::: {.notes}
 Li, Johnson & Zaval 2011, Psychological Science, 22(4), 454–459, DOI 10.1177/0956797611400913.
@@ -635,7 +635,13 @@ The data are correlational. To address reverse causation (believers may perceive
 
 Their interpretation is attribute substitution, "in which an easily accessible judgment (the current day's local temperature) is used in place of a more complex and less accessible one (global temperature trends)".
 
-A follow-up with five further studies supports this explanation (Zaval, Keenan, Johnson & Weber 2014, Nature Climate Change, DOI 10.1038/nclimate2093): people "use less relevant but available information (for example, today's temperature) in place of more diagnostic but less accessible information (for example, global climate change patterns)". One of the five, in which words related to heat were used as a prime, did not replicate in Many Labs 2 (original d = 0.31, replication d = −0.03, N = 4,204).
+The follow-up: Zaval, Keenan, Johnson & Weber 2014, Nature Climate Change, DOI 10.1038/nclimate2093, five studies with US participants. People "use less relevant but available information (for example, today's temperature) in place of more diagnostic but less accessible information (for example, global climate change patterns)".
+
+- Study 1 (N = 686): the effect appeared whether the question said "global warming" or "climate change".
+- Study 2 (N = 330): reading a text on the difference between weather fluctuations and climate change did not remove it. "increased knowledge does not eliminate the local warming effect".
+- Study 3a (N = 300): words related to heat, used as a prime, increased belief. This is the study that did not replicate in Many Labs 2 (original d = 0.31, replication d = −0.03, N = 4,204).
+- Study 3b (N = 251): asking about yesterday's temperature had no effect. It seems to be the immediate experience that counts.
+- Study 4 (N = 270), on the slide: participants were asked "over the past year, what percentage of days seemed to be warmer than usual for that time of year, compared with the historical average?" This estimate correlated with how warm today seemed (r = 0.41), and with belief in global warming (r = 0.35). The authors conclude that present temperature abnormalities "lead to an overestimation of the frequency of similar past events".
 :::
 
 ## 4. Social norms and climate change
