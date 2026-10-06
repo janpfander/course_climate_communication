@@ -337,8 +337,12 @@ What to see: no country is near 0. National means range "from Japan (mean = 7.1,
 
 What causes more deaths: tornadoes or asthma?
 
+. . .
+
+In the original study, students saw tornadoes as more frequent killers than asthma, "even though the latter is 20 times more likely" [@lichtensteinJudgedFrequencyLethal1978].
+
 ::: {.notes}
-Hands. Tornadoes are seen as more frequent killers than asthma, although asthma causes 20 times more deaths. The same example was on the Week 1 slides.
+Hands before the answer appears. Lichtenstein et al. 1978: "Tornadoes were seen by the student subjects as more frequent killers than asthma, even though the latter is 20 times more likely". Their Table 1 gives a death rate of 44 per 100 million for tornadoes and 920 per 100 million for asthma. Another pair from the same paper: "Death by lightning was judged less likely than death by botulism even though it is 52 times more frequent". The same example was on the Week 1 slides.
 :::
 
 ## 3. Availability bias
