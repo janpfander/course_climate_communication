@@ -3,21 +3,30 @@ title: "Mental models and framing"
 subtitle: "Psychology of Climate Change Communication · Week 4"
 ---
 
+## Trigger warning to psychologists
+
 <!-- Lecture plan, sources and verified numbers: ~/.claude/plans/i-will-send-you-generic-panda.md
+     Restructure of 2026-10-06 (general mental models first, climate evidence in section 3): ~/.claude/plans/witty-drifting-tide.md
      Images in images/not_cleared/ come from Mélusine Boon-Falleur's slides
      (resources/sciencespo_melusine_boon_falleur/). They are gitignored. -->
 
-## Trigger warning to psychologists
-
 A narrow definition of mental models:
 
-A simplified picture, in someone’s head, of how something works (e.g., climate change as a bathtub [bring back the example here with a citation and some notes for me to explain])
+A simplified picture, in someone’s head, of how something works (e.g., climate change as a bathtub [@stermanCloudySkiesAssessing2002]).
 
 . . .
 
 A broader definition I would like to take today:
 
 General features of human psychology that describe how people think, decide, and act across a range of contexts.
+
+::: {.notes}
+The bathtub is the example for the narrow sense. Sterman & Sweeney 2002, System Dynamics Review, DOI 10.1002/sdr.242: graduate students were given descriptions of the climate system from the IPCC. From the abstract: "Overall performance was poor. Subjects often select trajectories that violate conservation of matter", and many "believe that stabilizing emissions near current rates would stabilize the climate, when in fact emissions would continue to exceed removal".
+
+The picture: the atmosphere is a bathtub. Emissions are the tap, removal is the drain, and the CO2 concentration is the water level. As long as more flows in than drains out, the level keeps rising, even if the tap is not opened any further. Sterman's wording for the mistaken belief: "analogous to arguing a bathtub filled faster than it drains will never overflow" (https://www.mit.edu/~jsterman/Understanding_public.html).
+
+Only the abstract and Sterman's web page were read.
+:::
 
 ## Recap
 
@@ -251,13 +260,17 @@ Today we look at five that matter for communicating about climate change. Four a
 
 1. Loss aversion (losses weigh more than gains)
 2. Temporal discounting (now beats later)
-3. [What is the scientific term here] (Experience beats statistics)
+3. Availability heuristic (experience beats statistics)
 4. Social norms (we conform to what others do)
 5. Mental accounting (we put money into boxes)
 
 . . .
 
-For each one, we go from the general finding to evidence that it matters for climate change.
+We first look at each of them in general. In the second half, we come back to them and ask what they mean for communicating about climate change.
+
+::: {.notes}
+Term for number 3: availability heuristic (Mélusine Boon-Falleur's lecture 2 calls it availability bias). The reading's own heading is "The Human Brain Privileges Experience Over Analysis".
+:::
 
 ## 1. Losses and gains
 
@@ -277,42 +290,28 @@ Tversky and Kahneman's answer: people judge outcomes as gains or losses relative
 The quote is from Tversky & Kahneman 1981. The reading (insight 4): "people psychologically evaluate gains and losses in fundamentally different ways". Prospect theory patterns replicated in 19 countries (Ruggeri et al. 2020, n = 4,098: "The results replicated for 94% of items, with some attenuation."). Whether losses in general weigh more than gains is disputed: Gal & Rucker 2018 conclude that "current evidence does not support that losses, on balance, tend to be any more impactful than gains".
 :::
 
-## Losses, gains and climate change
-
-Climate solutions are often "framed as an immediate loss for society (e.g., higher taxes, reducing energy consumption)" [@vanderlindenImprovingPublicEngagement2015].
-
-. . .
-
-In one experiment, 161 participants read the same information about climate change impacts, framed either in terms of gains or in terms of losses.
-
-. . .
-
-Gain frames led to more positive attitudes towards climate change mitigation than loss frames.
-
-[@spenceFramingCommunicatingClimate2010]
-
-::: {.notes}
-Spence & Pidgeon 2010, Global Environmental Change, DOI 10.1016/j.gloenvcha.2010.07.002. Abstract: "gain frames were superior to loss frames in increasing positive attitudes towards climate change mitigation, and also increased the perceived severity of climate change impacts." The text was adapted from the 2007 IPCC report. One small study, see section 4.
-:::
-
-##
-
-[Exercise: if people would like to avoid losses more, how does this relate to today's reading, suggesting that positive frames might aid]
-
-Go read the paper again and discuss with your neighbor (5 minutes).
-
-##
-
-[to answer this, we need to introduce probability in loss aversion]
-
 ## 2. Now beats later
 
 Would you rather receive CHF 100 today, or CHF 110 in a year?
 
-[Here, we'd need to present some actual evidence on time discounting]
+::: {.notes}
+Hands. The amounts are an illustration. The structure of the choice (10% more after one year) is the first question in Ruggeri et al. 2022, on the next slide.
+:::
+
+## Now beats later, in 61 countries
+
+In 61 countries, 13,629 people were asked this kind of question: an amount of money now, or 10% more in 12 months [@ruggeriGlobalizabilityTemporalDiscounting2022].
+
+. . .
+
+For participants in the United States, this meant US\$500 immediately or US\$550 in one year.
+
+. . .
+
+The result: "Temporal discounting was present in all countries, with only modest variability in national means".
 
 ::: {.notes}
-Hands. The amounts are only an illustration, they come from no study.
+Ruggeri et al. 2022, Nature Human Behaviour, DOI 10.1038/s41562-022-01392-w, CC BY 4.0. First choice: "approximately 10% of the national monthly household income average" immediately, "or 110% of that value in 12 months". Those who chose the immediate option were then offered 120%, and then 150%. Caption of Fig. 3: "all locations indicate some preference for immediate over delayed". Also: "countries with lower incomes typically had greater temporal discounting levels in the baseline items". The paper's main interest is in intertemporal choice anomalies: "54% of participants showed at least one anomaly".
 :::
 
 ## 2. Now beats later
@@ -323,30 +322,8 @@ Hands. The amounts are only an illustration, they come from no study.
 
 This is called *time discounting*. Something similar seems to hold for distance more generally: what is far away in time, in space, or from people like us tends to feel less urgent.
 
-. . .
-
-For many people, climate change is all three at once: "a nonurgent and psychologically distant risk—spatially, temporally, and socially".
-
 ::: {.notes}
-Both quotes are from the reading (insight 3, "Out of Sight, Out of Mind: The Nature of Psychological Distance").
-:::
-
-## Discounting in a climate game
-
-In a group experiment framed around climate change, participants could contribute money to avoid a collective loss.
-
-. . .
-
-The rewards of cooperating were paid out after one day, after seven weeks, or several decades later.
-
-. . .
-
-The longer the delay, the less the groups cooperated. Gains "delayed significantly into the future" were found to "markedly diminish cooperation".
-
-[@jacquetIntraIntergenerationalDiscounting2013]
-
-::: {.notes}
-Jacquet, Hagel, Hauert, Marotzke, Röhl & Milinski 2013, Nature Climate Change, DOI 10.1038/nclimate2024. Abstract: "The rewards of defection were immediate, whereas the rewards of cooperation were delayed by one day, delayed by seven weeks (intragenerational discounting), or delayed by several decades and spread over a much larger" group. Only the abstract was read.
+The quote is from the reading (insight 3, "Out of Sight, Out of Mind: The Nature of Psychological Distance").
 :::
 
 ##
@@ -375,52 +352,6 @@ The reading states the general point as: "The human brain privileges experience 
 Lichtenstein, Slovic, Fischhoff, Layman & Combs 1978, DOI 10.1037/0278-7393.4.6.551, quotes from the abstract. The pattern is often called the availability heuristic. Another example from Mélusine's slides: Gigerenzer 2004 on people avoiding flights after 11 September 2001 and driving instead (not checked).
 :::
 
-## Experience and climate change
-
-"Climate change judgements can depend on whether today seems warmer or colder than usual".
-
-. . .
-
-People seem to "use less relevant but available information (for example, today's temperature) in place of more diagnostic but less accessible information (for example, global climate change patterns)".
-
-. . .
-
-Statistics about global averages are hard to experience. A warm day is not.
-
-[@zavalHowWarmDays2014]
-
-::: {.notes}
-Zaval, Keenan, Johnson & Weber 2014, Nature Climate Change, DOI 10.1038/nclimate2093, quotes from the abstract ("local warming effect"). One of the five studies in this paper, a priming study, did not replicate in Many Labs 2. This comes up in the interlude.
-:::
-
-##
-
-Would you be willing to give 1% of your income to fight climate change?
-
-. . .
-
-What share of people in your country do you think would say yes?
-
-::: {.notes}
-Hands for the first question. For the second: more than half, or less than half? The question wording here is simplified, it is not the survey's exact item.
-:::
-
-## Most people say yes, and most underestimate how many others do
-
-![[Fig. 3 from @andreGloballyRepresentativeEvidence2024, CC BY 4.0]](images/andre2024_fig3.png)
-
-::: {.notes}
-Andre et al. 2024: representative survey in 125 countries, nearly 130,000 people. "69% of the global population expresses a willingness to contribute 1% of their personal income, 86% endorse pro-climate social norms and 89% demand intensified political action." Panel b: actual willingness 69%, average perceived willingness of others 43%. Circles are actual proportions per country, triangles are perceived proportions.
-:::
-
-## The same pattern in the United States
-
-![[Fig. 1 from @sparkmanAmericansExperienceFalse2022, CC BY 4.0]](images/sparkman2022_fig1.png)
-
-::: {.notes}
-Sparkman, Geiger & Weber 2022, Nature Communications, DOI 10.1038/s41467-022-32412-y. N = 6,119. Grey shapes: what people think the level of support is. Red lines: actual support from national polls. "While 66–80% Americans support these policies, Americans estimate the prevalence to only be between 37–43% on average." RE = renewable energy.
-:::
-
 ## 4. What others do
 
 "People are social beings who respond to group norms" [@vanderlindenImprovingPublicEngagement2015]
@@ -429,12 +360,28 @@ Sparkman, Geiger & Weber 2022, Nature Communications, DOI 10.1038/s41467-022-324
 
 We pay close attention to what others think and do, and we tend to adjust to it.
 
+::: {.notes}
+The quote is the heading of insight 2 in the reading.
+:::
+
+## What others do: paying taxes
+
+In the United Kingdom, people who were late with their tax payment received a reminder letter. Some of these letters included a social norm message.
+
 . . .
 
-If people underestimate how much others care about climate change, the norm they respond to is weaker than the real one. This could hold climate action back.
+Across two field experiments with more than 200,000 people, including such messages "increases payment rates for overdue tax" [@hallsworthBehavioralistTaxCollector2017].
+
+. . .
+
+Messages about what others do (descriptive norms) seemed to be more effective than messages about what one ought to do (injunctive norms).
 
 ::: {.notes}
-The quote is the heading of insight 2 in the reading. Andre et al. 2024 make the last point: "This perception gap, combined with individuals showing conditionally cooperative behaviour, poses challenges to further climate action."
+Hallsworth, List, Metcalfe & Vlaev 2017, Journal of Public Economics, DOI 10.1016/j.jpubeco.2017.02.003. Abstract: "two large-scale natural field experiments", "administrative data from > 200,000 individuals in the United Kingdom", "Descriptive norms appear to be more effective than injunctive norms". Also: "We find no evidence that loss framing is more effective than gain framing." Only the abstract was read.
+
+Does it replicate? The record is mixed. A meta-analysis of tax nudges (Antinyan & Asatryan 2024, Economic Journal, DOI 10.1093/ej/ueae088): "simple reminders increase the probability of compliance by 2.7 percentage points, while tax morale and deterrence nudges increase compliance by an additional 1.4 and 3.2 percentage points". A study with all income taxpayers in Belgium (De Neve et al. 2021, Journal of Political Economy, DOI 10.1086/713096): "invoking tax morale is not effective and often backfires". Not checked: whether "tax morale" in these two papers includes social norm letters.
+
+Alternative example in the backup slides: hotel towels (Goldstein et al. 2008). Its direct replication failed.
 :::
 
 ##
@@ -467,7 +414,229 @@ This is called *mental accounting*: people seem to keep separate mental budgets,
 A second example in the same paper, Problems 8 and 9: after losing a $10 bill, 88% would still buy a $10 theatre ticket. After losing the ticket itself, only 46% would buy another one. Mental accounting effects replicated across 21 countries (Priolo et al. 2026).
 :::
 
-## Mental accounts and carbon taxes
+# 3. Framing effects in climate change communication
+
+## How does framing relate to mental models?
+
+They are two sides of the same coin.
+
+. . .
+
+A framing effect is the "odd observation", where the same information only packaged slightly differently causes different reactions.
+
+. . .
+
+If similar framing effects are regularly appearing across contexts, we call it a mental model.
+
+## A (kind of) practical definition
+
+How to package the essentially same information slightly differently, by appealing to the mental models.
+
+## {.big-center}
+
+What's the evidence on framing effects in climate change communication?
+
+## 1. Losses, gains and climate change
+
+Climate solutions are often "framed as an immediate loss for society (e.g., higher taxes, reducing energy consumption)" [@vanderlindenImprovingPublicEngagement2015].
+
+. . .
+
+In one experiment, 161 participants read the same information about climate change impacts, framed either in terms of gains or in terms of losses.
+
+. . .
+
+Gain frames led to more positive attitudes towards climate change mitigation than loss frames.
+
+[@spenceFramingCommunicatingClimate2010]
+
+::: {.notes}
+Spence & Pidgeon 2010, Global Environmental Change, DOI 10.1016/j.gloenvcha.2010.07.002. Abstract: "gain frames were superior to loss frames in increasing positive attitudes towards climate change mitigation, and also increased the perceived severity of climate change impacts." The text was adapted from the 2007 IPCC report. One small study, see the large tests later in this section.
+:::
+
+## Exercise
+
+If people would like to avoid losses more, how does this relate to today's reading, suggesting that positive frames might aid?
+
+. . .
+
+Go read the paper again and discuss with your neighbor (5 minutes).
+
+::: {.notes}
+Jan's note: to answer this, we need to introduce probability in loss aversion. Pointer for students: insight 4 in the reading, "Framing the Big Picture: Nobody Likes Losing (but Everyone Likes Gaining)".
+:::
+
+## Why gain frames, if people would like to avoid losses?
+
+Climate solutions are often presented as certain losses today (e.g., higher taxes), and climate impacts as uncertain losses in the distant future.
+
+. . .
+
+Remember our experiment: "choices involving gains are often risk averse and choices involving losses are often risk taking" [@tverskyFramingDecisionsPsychology1981].
+
+. . .
+
+When everything is framed as a loss, this "encourages people to conclude that maintaining the status quo may be 'worth the gamble'" [@vanderlindenImprovingPublicEngagement2015].
+
+. . .
+
+The reading therefore suggests talking about "the positive benefits (gains) of immediate action".
+
+::: {.notes}
+This is the reading's own argument (insight 4): "prospect theory (Kahneman & Tversky, 1979) demonstrates that people are more risk-seeking in loss domains than they are in gain domains. In particular, people are more reluctant to take action when losses are paired with uncertainty (Tversky & Shafir, 1992). In other words, when climate change impacts are framed as potential (i.e., uncertain) losses in the distant future, whereas climate change solutions are framed as certain losses for society at present, it encourages people to conclude that maintaining the status quo may be 'worth the gamble.'"
+
+So the advice to use gain frames rests on risk attitudes, the probability part of prospect theory. The claim that losses weigh more than gains is a separate one, and it is disputed (Gal & Rucker 2018, see the notes of "1. Losses and gains").
+:::
+
+## Framing climate change: themes
+
+7,500 adults in China, Germany, India, the United Kingdom and the United States saw climate messages that varied at random.
+
+. . .
+
+Support for climate policies was higher with a positive frame (opportunity instead of threat), with health and environment themes, and with a global and immediate perspective.
+
+. . .
+
+Among people unconcerned about climate change, positive and health frames increased support.
+
+[@dasandiPositiveGlobalHealth2022]
+
+::: {.notes}
+Dasandi, Graham, Hudson, Jankin, vanHeerde-Hudson & Watts 2022, Communications Earth & Environment, DOI 10.1038/s43247-022-00571-x. Conjoint experiment. Messages varied on framing (positive or negative), theme (health, environment, economy, migration), scale (individual, community, national, global) and time (current, 2030, 2050).
+:::
+
+## Reframing climate policy
+
+Climate policy is usually justified by the risks of climate change. Would other benefits be more convincing: innovation, green jobs, community, health?
+
+. . .
+
+Two survey experiments with 1,675 participants in total suggest that they are not.
+
+. . .
+
+"simple reframing of climate policy is unlikely to increase public support"
+
+[@bernauerSimpleReframingUnlikely2016]
+
+::: {.notes}
+Bernauer & McGrath 2016, Nature Climate Change, DOI 10.1038/nclimate2948 (ETH Zurich). "strategies to garner public support based on the traditional justification of reducing the risks of climate change remain the most effective".
+:::
+
+## 2. Now beats later, and climate change
+
+For many people, climate change is distant in all three ways at once: "a nonurgent and psychologically distant risk—spatially, temporally, and socially" [@vanderlindenImprovingPublicEngagement2015].
+
+. . .
+
+The reading's advice follows from this: "Emphasize the present and make climate change impacts and solutions locally relevant."
+
+::: {.notes}
+The quote is from the reading (insight 3, "Out of Sight, Out of Mind: The Nature of Psychological Distance"), the advice from its Table 1.
+:::
+
+## Discounting in a climate game
+
+In a group experiment framed around climate change, participants could contribute money to avoid a collective loss.
+
+. . .
+
+The rewards of cooperating were paid out after one day, after seven weeks, or several decades later.
+
+. . .
+
+The longer the delay, the less the groups cooperated. Gains "delayed significantly into the future" were found to "markedly diminish cooperation".
+
+[@jacquetIntraIntergenerationalDiscounting2013]
+
+::: {.notes}
+Jacquet, Hagel, Hauert, Marotzke, Röhl & Milinski 2013, Nature Climate Change, DOI 10.1038/nclimate2024. Abstract: "The rewards of defection were immediate, whereas the rewards of cooperation were delayed by one day, delayed by seven weeks (intragenerational discounting), or delayed by several decades and spread over a much larger" group. Only the abstract was read.
+:::
+
+## 3. Experience and climate change
+
+"Climate change judgements can depend on whether today seems warmer or colder than usual".
+
+. . .
+
+People seem to "use less relevant but available information (for example, today's temperature) in place of more diagnostic but less accessible information (for example, global climate change patterns)".
+
+. . .
+
+Statistics about global averages are hard to experience. A warm day is not.
+
+[@zavalHowWarmDays2014]
+
+::: {.notes}
+Zaval, Keenan, Johnson & Weber 2014, Nature Climate Change, DOI 10.1038/nclimate2093, quotes from the abstract ("local warming effect"). One of the five studies in this paper, a priming study, did not replicate in Many Labs 2. This comes up in the interlude.
+:::
+
+## Framing climate change: data
+
+The same climate trend can be shown as continuous data (mean temperature) or as binary data (did the lake freeze this winter, yes or no).
+
+. . .
+
+People who saw the binary data perceived the impact of climate change as larger (d = 0.40, N = 799) [@liuBinaryClimateData2025].
+
+. . .
+
+The authors link this to the "boiling frog" effect: a slow, gradual shift is easy to overlook.
+
+::: {.notes}
+Liu, Snell, Griffiths & Dubey 2025, Nature Human Behaviour. "our approach does not involve selective data presentation but rather compares different datasets that reflect equivalent trends in climate change over time". A link to mental model 3. The figure is in Anne Urai's Leiden deck 6, p. 6. No open licence found, so no figure here.
+:::
+
+## 4. What others do, and climate change
+
+Would you be willing to give 1% of your income to fight climate change?
+
+. . .
+
+What share of people in your country do you think would say yes?
+
+::: {.notes}
+Hands for the first question. For the second: more than half, or less than half? The question wording here is simplified, it is not the survey's exact item.
+:::
+
+## Most people say yes, and most underestimate how many others do
+
+![[Fig. 3 from @andreGloballyRepresentativeEvidence2024, CC BY 4.0]](images/andre2024_fig3.png)
+
+::: {.notes}
+Andre et al. 2024: representative survey in 125 countries, nearly 130,000 people. "69% of the global population expresses a willingness to contribute 1% of their personal income, 86% endorse pro-climate social norms and 89% demand intensified political action." Panel b: actual willingness 69%, average perceived willingness of others 43%. Circles are actual proportions per country, triangles are perceived proportions.
+:::
+
+## The same pattern in the United States
+
+![[Fig. 1 from @sparkmanAmericansExperienceFalse2022, CC BY 4.0]](images/sparkman2022_fig1.png)
+
+::: {.notes}
+Sparkman, Geiger & Weber 2022, Nature Communications, DOI 10.1038/s41467-022-32412-y. N = 6,119. Grey shapes: what people think the level of support is. Red lines: actual support from national polls. "While 66–80% Americans support these policies, Americans estimate the prevalence to only be between 37–43% on average." RE = renewable energy.
+:::
+
+## Telling people what others think
+
+If people underestimate how much others care about climate change, the norm they respond to is weaker than the real one. This could hold climate action back.
+
+. . .
+
+Our mental model 4 suggests a simple fix: tell people how many others care.
+
+. . .
+
+Across 11 countries, people did underestimate the share of others who hold pro-climate views, by 7.5% in Indonesia and up to 20.8% in Brazil [@geigerWhatWeThink2025].
+
+. . .
+
+Giving them the actual numbers, however, was "largely ineffective".
+
+::: {.notes}
+Andre et al. 2024 make the first point: "This perception gap, combined with individuals showing conditionally cooperative behaviour, poses challenges to further climate action." Geiger et al. 2025, n = 3,653 in 11 countries. Providing information about the actual public consensus "was largely ineffective, except for a slight increase in willingness to express one's proclimate opinion".
+:::
+
+## 5. Mental accounts and carbon taxes
 
 ![[Fig. 2 from @musDesigningAcceptableFair2023, CC BY 4.0]](images/mus2023_fig2.png)
 
@@ -491,93 +660,91 @@ The authors' explanation: people expect money raised in one domain to be spent i
 Mus et al. 2023: "people create mental budgets where the origin of revenues is matched thematically with their domain of use". Most support for a mixed scheme: most revenue to green projects, the rest to low-income households.
 :::
 
-# 3. Framing effects in climate change communication
+## Framing climate change: labels
 
-## How does framing relate to mental models?
-
-They are two sides of the same coin.
+898 Americans chose between otherwise identical products. One of them included a surcharge for emitted carbon dioxide.
 
 . . .
 
-A framing effect is the "odd observation", where the same information only packaged slightly differently causes different reactions.
+The surcharge was labelled either as a "tax" or as an "offset".
 
 . . .
 
-If similar framing effects are regularly appearing across contexts, we call it a mental model.
+The label changed the preferences of Republicans and Independents. It did not affect the preferences of Democrats.
 
-## A (kind of) practical definition
-
-How to package the essentially same information slightly differently, by appealing to the mental models.
-
-## {.big-center}
-
-What's the evidence on framing effects in climate change communication?
-
-## Classic example 1: the same beef
-
-Consumers rated ground beef that was labelled either "75% lean" or "25% fat".
-
-. . .
-
-Their evaluations were more favourable for the beef labelled "75% lean".
-
-. . .
-
-The effect became smaller once consumers had actually tasted the meat.
-
-[@levinHowConsumersAre1988]
+[@hardistyDirtyWordDirty2009]
 
 ::: {.notes}
-Levin & Gaeth 1988, Journal of Consumer Research, DOI 10.1086/209174. Abstract: "the magnitude of this information framing effect lessened when consumers actually tasted the meat". A link to mental model 3: direct experience weakens the frame.
+Hardisty, Johnson & Weber 2010, Psychological Science, "A Dirty Word or a Dirty World?", DOI 10.1177/0956797609355572. The abstract speaks of "an earmarked tax or an offset", a link to mental accounting.
 :::
 
-## Classic example 2: the same operation
+##
 
-People were asked to imagine they had lung cancer, and to choose between surgery and radiation therapy.
-
-. . .
-
-The outcomes were described either as the probability of living or as the probability of dying.
+Not every frame builds on one of our five mental models.
 
 . . .
 
-Surgery was substantially more attractive when the outcomes were framed in terms of living. This held for patients, for graduate students, and for physicians.
+Some frames seem to work through the words that are chosen, or through the values and identities that a message appeals to.
 
-[@mcneilElicitationPreferencesAlternative1982]
+## Framing climate change: words
+
+Is it "global warming" or "climate change"?
+
+. . .
+
+In a survey experiment with 2,267 Americans, Republicans were less likely to say the phenomenon is real when it was called "global warming" (44.0%) than when it was called "climate change" (60.2%).
+
+. . .
+
+Democrats were unaffected by the wording (86.9% and 86.4%).
+
+[@schuldtGlobalWarmingClimate2011]
 
 ::: {.notes}
-McNeil, Pauker, Sox & Tversky 1982, New England Journal of Medicine, DOI 10.1056/NEJM198205273062103. 238 patients, 491 graduate students, 424 physicians. Only the abstract was read.
+Schuldt, Konrath & Schwarz 2011, Public Opinion Quarterly, DOI 10.1093/poq/nfq073. "the partisan divide on the issue dropped from 42.9 percentage points under a 'global warming' frame to 26.2 percentage points under a 'climate change' frame".
 :::
 
-## Classic example 3: the same question
+## Framing climate change: values
 
-In 1941, Americans were asked about speeches against democracy.
-
-. . .
-
-Asked whether the United States should *allow* such speeches, 62% said no.
+Environmental messages are mostly phrased in terms of harm and care, moral concerns that are more deeply held by liberals than by conservatives.
 
 . . .
 
-Asked whether the United States should *forbid* them, only 46% said yes.
+When pro-environmental messages were reframed in terms of purity, a value that resonates more among conservatives, the difference in environmental attitudes between liberals and conservatives was "largely eliminated".
 
-[@ruggExperimentsWordingQuestions1941; numbers as reported in @kleinInvestigatingVariationReplicability2014]
+[@feinbergMoralRootsEnvironmental2012]
 
 ::: {.notes}
-Rugg 1941, Public Opinion Quarterly, DOI 10.1086/265467. Numbers as reported in Many Labs 1 (Klein et al. 2014), the original paper was not read.
+Feinberg & Willer 2013, Psychological Science, "The Moral Roots of Environmental Attitudes", DOI 10.1177/0956797612449177 (published online 2012). United States.
 :::
 
-## What these examples share
+## The same frame, different audiences
 
-In each case the information is the same, or logically equivalent. Only the description differs.
-
-. . .
-
-And in each case the description shifts what people prefer: lean beef, the operation, free speech, or Program A.
+Framing climate action as patriotic increased belief in climate change and support for climate policies in the United States [@masonEffectsSystemsanctionedFraming2024].
 
 . . .
 
-Before we turn to climate change, a short interlude. Can we trust findings like these?
+Across 63 countries, similar messages had small effects on average.
+
+. . .
+
+In some countries the frame was moderately successful (Brazil, France, Israel). In others it backfired (Germany, Belgium, Russia).
+
+::: {.notes}
+Mason, Vlasceanu & Jost 2024. The message framed pro-environmental initiatives "as patriotic and necessary to maintain the American 'way of life'". The country-level analyses were exploratory. The words and labels examples above show the same thing within the United States: who hears a frame matters. More on identity and motivated reasoning in week 9.
+:::
+
+##
+
+These studies suggest that framing matters for climate change communication.
+
+. . .
+
+But most of them are single experiments, and some of them are small.
+
+. . .
+
+Can we trust findings like these? A short interlude.
 
 ## Interlude: can a song make you younger?
 
@@ -619,7 +786,7 @@ Large teams have since repeated many classic studies with thousands of participa
 
 . . .
 
-Framing effects mostly held. The disease problem replicated at about half its original size, and the allow/forbid question and the calculator problem replicated as well.
+Framing effects mostly held. The disease problem replicated at about half its original size, and the calculator problem replicated as well.
 
 . . .
 
@@ -635,119 +802,9 @@ So the classic framing effects seem to be real, but often smaller than first rep
 Many Labs 1 (Klein et al. 2014, DOI 10.1027/1864-9335/a000178): 13 effects, 36 samples, 6,344 participants. Effect sizes original against replication: disease problem 1.13 against 0.60, allowed/forbidden 0.65 against 1.96, flag priming 0.50 against 0.03, currency priming 0.80 against −0.02. Many Labs 2 (Klein et al. 2018, DOI 10.1177/2515245918810225): 28 findings, 15,305 participants, 15 (54%) replicated, median effect size 0.60 in the originals and 0.15 in the replications. Calculator problem: 49% against 32% made the trip, N = 7,228 (originally 68% against 29%). Heat priming (Zaval et al. 2014, Study 3A): original d = 0.31, replication d = −0.03, N = 4,204.
 :::
 
-## Framing climate change: words
-
-Is it "global warming" or "climate change"?
-
-. . .
-
-In a survey experiment with 2,267 Americans, Republicans were less likely to say the phenomenon is real when it was called "global warming" (44.0%) than when it was called "climate change" (60.2%).
-
-. . .
-
-Democrats were unaffected by the wording (86.9% and 86.4%).
-
-[@schuldtGlobalWarmingClimate2011]
-
-::: {.notes}
-Schuldt, Konrath & Schwarz 2011, Public Opinion Quarterly, DOI 10.1093/poq/nfq073. "the partisan divide on the issue dropped from 42.9 percentage points under a 'global warming' frame to 26.2 percentage points under a 'climate change' frame".
-:::
-
-## Framing climate change: labels
-
-898 Americans chose between otherwise identical products. One of them included a surcharge for emitted carbon dioxide.
-
-. . .
-
-The surcharge was labelled either as a "tax" or as an "offset".
-
-. . .
-
-The label changed the preferences of Republicans and Independents. It did not affect the preferences of Democrats.
-
-[@hardistyDirtyWordDirty2009]
-
-::: {.notes}
-Hardisty, Johnson & Weber 2010, Psychological Science, "A Dirty Word or a Dirty World?", DOI 10.1177/0956797609355572. The abstract speaks of "an earmarked tax or an offset", a link to mental accounting.
-:::
-
-## Framing climate change: values
-
-Environmental messages are mostly phrased in terms of harm and care, moral concerns that are more deeply held by liberals than by conservatives.
-
-. . .
-
-When pro-environmental messages were reframed in terms of purity, a value that resonates more among conservatives, the difference in environmental attitudes between liberals and conservatives was "largely eliminated".
-
-[@feinbergMoralRootsEnvironmental2012]
-
-::: {.notes}
-Feinberg & Willer 2013, Psychological Science, "The Moral Roots of Environmental Attitudes", DOI 10.1177/0956797612449177 (published online 2012). United States.
-:::
-
-## Framing climate change: themes
-
-7,500 adults in China, Germany, India, the United Kingdom and the United States saw climate messages that varied at random.
-
-. . .
-
-Support for climate policies was higher with a positive frame (opportunity instead of threat), with health and environment themes, and with a global and immediate perspective.
-
-. . .
-
-Among people unconcerned about climate change, positive and health frames increased support.
-
-[@dasandiPositiveGlobalHealth2022]
-
-::: {.notes}
-Dasandi, Graham, Hudson, Jankin, vanHeerde-Hudson & Watts 2022, Communications Earth & Environment, DOI 10.1038/s43247-022-00571-x. Conjoint experiment. Messages varied on framing (positive or negative), theme (health, environment, economy, migration), scale (individual, community, national, global) and time (current, 2030, 2050).
-:::
-
-## Framing climate change: data
-
-The same climate trend can be shown as continuous data (mean temperature) or as binary data (did the lake freeze this winter, yes or no).
-
-. . .
-
-People who saw the binary data perceived the impact of climate change as larger (d = 0.40, N = 799) [@liuBinaryClimateData2025].
-
-. . .
-
-The authors link this to the "boiling frog" effect: a slow, gradual shift is easy to overlook.
-
-::: {.notes}
-Liu, Snell, Griffiths & Dubey 2025, Nature Human Behaviour. "our approach does not involve selective data presentation but rather compares different datasets that reflect equivalent trends in climate change over time". A link to mental model 3. The figure is in Anne Urai's Leiden deck 6, p. 6. No open licence found, so no figure here.
-:::
-
 ##
 
-These studies suggest that framing matters for climate change communication.
-
-. . .
-
-But most of them are single experiments, some of them small, and the interlude taught us to be careful.
-
-. . .
-
-What happens when frames are tested in large samples, side by side?
-
-## Reframing climate policy
-
-Climate policy is usually justified by the risks of climate change. Would other benefits be more convincing: innovation, green jobs, community, health?
-
-. . .
-
-Two survey experiments with 1,675 participants in total suggest that they are not.
-
-. . .
-
-"simple reframing of climate policy is unlikely to increase public support"
-
-[@bernauerSimpleReframingUnlikely2016]
-
-::: {.notes}
-Bernauer & McGrath 2016, Nature Climate Change, DOI 10.1038/nclimate2948 (ETH Zurich). "strategies to garner public support based on the traditional justification of reducing the risks of climate change remain the most effective".
-:::
+Back to climate change. What happens when frames are tested in large samples, side by side?
 
 ## The ten most-cited climate messages
 
@@ -783,38 +840,6 @@ No intervention increased an effortful behaviour, a task that led to trees being
 
 ::: {.notes}
 Vlasceanu et al. 2024. "the interventions' effectiveness was small, largely limited to nonclimate skeptics, and differed across outcomes: Beliefs were strengthened mostly by decreasing psychological distance (by 2.3%), policy support by writing a letter to a future-generation member (2.6%), information sharing by negative emotion induction (12.1%), and no intervention increased the more effortful behavior—several interventions even reduced tree planting."
-:::
-
-## The same frame, different audiences
-
-Framing climate action as patriotic increased belief in climate change and support for climate policies in the United States [@masonEffectsSystemsanctionedFraming2024].
-
-. . .
-
-Across 63 countries, similar messages had small effects on average.
-
-. . .
-
-In some countries the frame was moderately successful (Brazil, France, Israel). In others it backfired (Germany, Belgium, Russia).
-
-::: {.notes}
-Mason, Vlasceanu & Jost 2024. The message framed pro-environmental initiatives "as patriotic and necessary to maintain the American 'way of life'". The country-level analyses were exploratory. The words and labels examples above show the same thing within the United States: who hears a frame matters. More on identity and motivated reasoning in week 9.
-:::
-
-## Telling people what others think
-
-Our mental model 4 suggests a simple fix: tell people how many others care.
-
-. . .
-
-Across 11 countries, people did underestimate the share of others who hold pro-climate views, by 7.5% in Indonesia and up to 20.8% in Brazil [@geigerWhatWeThink2025].
-
-. . .
-
-Giving them the actual numbers, however, was "largely ineffective".
-
-::: {.notes}
-Geiger et al. 2025, n = 3,653 in 11 countries. Providing information about the actual public consensus "was largely ineffective, except for a slight increase in willingness to express one's proclimate opinion".
 :::
 
 ## What should we take from this?
@@ -897,11 +922,11 @@ The codex groups 188 cognitive biases listed on Wikipedia. The point of the slid
 
 ## To take home
 
-People rely on simplified pictures of the world, mental models, to perceive, judge and decide.
+Mental models are general features of human psychology that describe how people think, decide, and act. They often seem to deviate from rational choice.
 
 . . .
 
-Framing means fitting a message to these pictures. The classic framing effects are real, but smaller than first reported.
+Framing means packaging essentially the same information differently, by appealing to these mental models. The classic framing effects seem to be real, but smaller than first reported.
 
 . . .
 
@@ -913,6 +938,84 @@ For climate change, large studies suggest that framing helps modestly: a few per
 :::
 
 # Backup slides (potentially thrown out)
+
+## Classic example 1: the same beef
+
+Consumers rated ground beef that was labelled either "75% lean" or "25% fat".
+
+. . .
+
+Their evaluations were more favourable for the beef labelled "75% lean".
+
+. . .
+
+The effect became smaller once consumers had actually tasted the meat.
+
+[@levinHowConsumersAre1988]
+
+::: {.notes}
+Levin & Gaeth 1988, Journal of Consumer Research, DOI 10.1086/209174. Abstract: "the magnitude of this information framing effect lessened when consumers actually tasted the meat". A link to mental model 3: direct experience weakens the frame.
+:::
+
+## Classic example 2: the same operation
+
+People were asked to imagine they had lung cancer, and to choose between surgery and radiation therapy.
+
+. . .
+
+The outcomes were described either as the probability of living or as the probability of dying.
+
+. . .
+
+Surgery was substantially more attractive when the outcomes were framed in terms of living. This held for patients, for graduate students, and for physicians.
+
+[@mcneilElicitationPreferencesAlternative1982]
+
+::: {.notes}
+McNeil, Pauker, Sox & Tversky 1982, New England Journal of Medicine, DOI 10.1056/NEJM198205273062103. 238 patients, 491 graduate students, 424 physicians. Only the abstract was read.
+:::
+
+## Classic example 3: the same question
+
+In 1941, Americans were asked about speeches against democracy.
+
+. . .
+
+Asked whether the United States should *allow* such speeches, 62% said no.
+
+. . .
+
+Asked whether the United States should *forbid* them, only 46% said yes.
+
+[@ruggExperimentsWordingQuestions1941; numbers as reported in @kleinInvestigatingVariationReplicability2014]
+
+::: {.notes}
+Rugg 1941, Public Opinion Quarterly, DOI 10.1086/265467. Numbers as reported in Many Labs 1 (Klein et al. 2014), the original paper was not read.
+:::
+
+## What these examples share
+
+In each case the information is the same, or logically equivalent. Only the description differs.
+
+. . .
+
+And in each case the description shifts what people prefer: lean beef, the operation, free speech, or Program A.
+
+## What others do: hotel towels
+
+Many hotels ask their guests to reuse their towels, with an appeal that focuses on environmental protection.
+
+. . .
+
+In two field experiments, signs saying that "the majority of guests reuse their towels" "proved superior" to this standard appeal [@goldsteinRoomViewpointUsing2008].
+
+. . .
+
+A replication in two hotels in Germany did not confirm this. There, such messages "were not more effective than the standard message" [@bohnerRoomViewpointRevisited2014].
+
+::: {.notes}
+Alternative to the tax example in section 2. Goldstein, Cialdini & Griskevicius 2008, Journal of Consumer Research, DOI 10.1086/586910. Replication: Bohner & Schlüter 2014, PLoS ONE, DOI 10.1371/journal.pone.0104086, Study 1 N = 724, Study 2 N = 204: "both standard and descriptive norm messages increased reuse rates compared to a no-message baseline. However, descriptive norm messages were not more effective than the standard message". A pooled Bayesian analysis exists (Scheibehenne, Jamil & Wagenmakers 2016, Psychological Science, DOI 10.1177/0956797616644081). Its abstract could not be read, so its conclusion is not reported here. Only abstracts were read.
+:::
 
 ## Are these mistakes?
 
