@@ -722,24 +722,6 @@ Mus et al. 2023: "people create mental budgets where the origin of revenues is m
 Mus, Mercier & Chevallier 2023. Support for a carbon tax increase on a ten-point scale, with revenues either not earmarked or earmarked for environmental protection. UK: N = 706, d = 0.23. France: N = 429, d = 0.71.
 :::
 
-## Framing climate change: labels
-
-898 Americans chose between otherwise identical products. One of them included a surcharge for emitted carbon dioxide.
-
-. . .
-
-The surcharge was labelled either as a "tax" or as an "offset".
-
-. . .
-
-The label changed the preferences of Republicans and Independents. It did not affect the preferences of Democrats.
-
-[@hardistyDirtyWordDirty2009]
-
-::: {.notes}
-Hardisty, Johnson & Weber 2010, Psychological Science, "A Dirty Word or a Dirty World?", DOI 10.1177/0956797609355572. The abstract speaks of "an earmarked tax or an offset", a link to mental accounting.
-:::
-
 ## Other framing effects
 
 Not every frame builds on one of our five mental models.
@@ -764,6 +746,24 @@ Democrats were unaffected by the wording (86.9% and 86.4%).
 
 ::: {.notes}
 Schuldt, Konrath & Schwarz 2011, Public Opinion Quarterly, DOI 10.1093/poq/nfq073. "the partisan divide on the issue dropped from 42.9 percentage points under a 'global warming' frame to 26.2 percentage points under a 'climate change' frame".
+:::
+
+## Other framing effects: labels
+
+898 Americans chose between otherwise identical products. One of them included a surcharge for emitted carbon dioxide.
+
+. . .
+
+The surcharge was labelled either as a "tax" or as an "offset".
+
+. . .
+
+The label changed the preferences of Republicans and Independents. It did not affect the preferences of Democrats.
+
+[@hardistyDirtyWordDirty2009]
+
+::: {.notes}
+Hardisty, Johnson & Weber 2010, Psychological Science, "A Dirty Word or a Dirty World?", DOI 10.1177/0956797609355572. The abstract speaks of "an earmarked tax or an offset", a link to mental accounting.
 :::
 
 ## Other framing effects: values
