@@ -526,7 +526,7 @@ They are not compatible.
 
 . . .
 
-Mental models are no universal rules that always apply in different contexts.
+Important take away: Mental models are no universal rules that always apply in different contexts.
 
 . . .
 
@@ -568,7 +568,7 @@ For many people, climate change is distant in all three ways at once: "a nonurge
 
 . . .
 
-The reading's advice follows from this: "Emphasize the present and make climate change impacts and solutions locally relevant."
+The reading's advice: "Emphasize the present and make climate change impacts and solutions locally relevant."
 
 ::: {.notes}
 The quote is from the reading (insight 3, "Out of Sight, Out of Mind: The Nature of Psychological Distance"), the advice from its Table 1.
@@ -589,7 +589,15 @@ The longer the delay, the less the groups cooperated. Gains "delayed significant
 [@jacquetIntraIntergenerationalDiscounting2013]
 
 ::: {.notes}
-Jacquet, Hagel, Hauert, Marotzke, Röhl & Milinski 2013, Nature Climate Change, DOI 10.1038/nclimate2024. Abstract: "The rewards of defection were immediate, whereas the rewards of cooperation were delayed by one day, delayed by seven weeks (intragenerational discounting), or delayed by several decades and spread over a much larger" group.
+Jacquet, Hagel, Hauert, Marotzke, Röhl & Milinski 2013, Nature Climate Change, DOI 10.1038/nclimate2024.
+
+The setup: a "collective-risk group experiment framed around climate change". Participants played in groups of 6 over 10 rounds. In each round, every player could invest €0 (selfish), €2 (the fair share) or €4 (altruistic) towards a collective target. If the group missed the target, the players risked "losing an additional endowment with a high probability". So cooperating means giving up money now for a benefit that only comes if the group as a whole succeeds.
+
+What was varied: when the reward for cooperation was paid. "The rewards of defection were immediate, whereas the rewards of cooperation were delayed by one day, delayed by seven weeks (intragenerational discounting), or delayed by several decades and spread over a much larger number of potential beneficiaries (intergenerational discounting)."
+
+The result: "intergenerational discounting leads to a marked decrease in cooperation; all groups failed to reach the collective target. Intragenerational discounting was weaker by comparison."
+
+The authors' conclusion: "international negotiations to mitigate climate change are unlikely to succeed if individual countries' short-term gains can arise only from defection".
 :::
 
 ## 3. Availability bias and climate change
@@ -602,36 +610,20 @@ The quote is from the reading (insight 1, "The Human Brain Privileges Experience
 
 ## Today's weather and beliefs about climate change
 
-"Climate change judgements can depend on whether today seems warmer or colder than usual".
+In three studies, residents of the United States and Australia were asked about global warming, and whether the day of the study was warmer or colder than usual [@liLocalWarmingDaily2011].
 
 . . .
 
-People seem to "use less relevant but available information (for example, today's temperature) in place of more diagnostic but less accessible information (for example, global climate change patterns)".
+Those who thought the day was warmer than usual believed more in global warming and were more concerned about it. They also donated more money to a global-warming charity.
 
 . . .
 
-Statistics about global averages are hard to experience. A warm day is not.
-
-[@zavalHowWarmDays2014]
+Five further studies support the explanation: people "use less relevant but available information (for example, today's temperature) in place of more diagnostic but less accessible information (for example, global climate change patterns)" [@zavalHowWarmDays2014].
 
 ::: {.notes}
-Zaval, Keenan, Johnson & Weber 2014, Nature Climate Change, DOI 10.1038/nclimate2093, quotes from the abstract ("local warming effect"). One of the five studies in this paper, a priming study, did not replicate in Many Labs 2.
-:::
+Li, Johnson & Zaval 2011, Psychological Science, DOI 10.1177/0956797611400913, "Local Warming: Daily Temperature Change Influences Belief in Global Warming". The authors call the mechanism attribute substitution: the "replacement of a more complex, less easily accessed judgment with a simple, more accessible one".
 
-## Framing climate change: data
-
-The same climate trend can be shown as continuous data (mean temperature) or as binary data (did the lake freeze this winter, yes or no).
-
-. . .
-
-People who saw the binary data perceived the impact of climate change as larger (d = 0.40, N = 799) [@liuBinaryClimateData2025].
-
-. . .
-
-The authors link this to the "boiling frog" effect: a slow, gradual shift is easy to overlook.
-
-::: {.notes}
-Liu, Snell, Griffiths & Dubey 2025, Nature Human Behaviour. "our approach does not involve selective data presentation but rather compares different datasets that reflect equivalent trends in climate change over time". A link to mental model 3.
+Zaval, Keenan, Johnson & Weber 2014, Nature Climate Change, DOI 10.1038/nclimate2093. "present temperature abnormalities are given undue weight and lead to an overestimation of the frequency of similar past events, thereby increasing belief in and concern for global warming." One of the five studies, in which words related to heat were used as a prime, did not replicate in Many Labs 2 (original d = 0.31, replication d = −0.03, N = 4,204).
 :::
 
 ## 4. Social norms and climate change
@@ -834,6 +826,22 @@ Among people unconcerned about climate change, positive and health frames increa
 
 ::: {.notes}
 Dasandi, Graham, Hudson, Jankin, vanHeerde-Hudson & Watts 2022, Communications Earth & Environment, DOI 10.1038/s43247-022-00571-x. Conjoint experiment. Messages varied on framing (positive or negative), theme (health, environment, economy, migration), scale (individual, community, national, global) and time (current, 2030, 2050).
+:::
+
+## Other framing effects: data
+
+The same climate trend can be shown as continuous data (mean temperature) or as binary data (did the lake freeze this winter, yes or no).
+
+. . .
+
+People who saw the binary data perceived the impact of climate change as larger (d = 0.40, N = 799) [@liuBinaryClimateData2025].
+
+. . .
+
+The authors link this to the "boiling frog" effect: a slow, gradual shift is easy to overlook.
+
+::: {.notes}
+Liu, Snell, Griffiths & Dubey 2025, Nature Human Behaviour. "our approach does not involve selective data presentation but rather compares different datasets that reflect equivalent trends in climate change over time". A link to mental model 3.
 :::
 
 ## {.big-center}
