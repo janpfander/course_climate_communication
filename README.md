@@ -122,6 +122,7 @@ Decks live flat in `slides/`, keyed by the two-digit session number:
 |---|---|---|
 | `slides/NN-slides.qmd` (Quarto revealjs) | committed | `docs/slides/NN-slides.html` |
 | `slides/NN-slides.pdf` | committed | `docs/slides/NN-slides.pdf` (copied via `resources` in `_quarto.yml`) |
+| `slides/NN-essay.pdf` (a speaker's essay posted instead of slides) | committed | `docs/slides/NN-essay.pdf` (same `resources` rule) |
 | `slides/NN-slides.pptx` | ignored (`*.pptx` in `.gitignore`) | never |
 
 The schedule table on the homepage looks for these files at render time and

@@ -65,7 +65,8 @@ overview <- data.frame(
 )
 names(overview)[1] <- "#"
 # Slides column: links to whatever exists in slides/ for each session.
-# NN-slides.qmd (Quarto deck) -> HTML link; NN-slides.pdf -> PDF link.
+# NN-slides.qmd (Quarto deck) -> HTML link, NN-slides.pdf -> PDF link,
+# NN-essay.pdf -> essay link (a speaker's text posted instead of slides).
 # Plain text links (raw HTML, since tinytable emits a raw HTML block).
 slide_id <- sprintf("%02d-slides", n)
 lnk <- function(href, label, blank = FALSE) {
@@ -77,6 +78,9 @@ overview$Slides <- mapply(function(id) {
     out <- c(out, lnk(paste0(id, ".html"), "HTML", blank = TRUE))
   if (file.exists(file.path("slides", paste0(id, ".pdf"))))
     out <- c(out, lnk(paste0(id, ".pdf"), "PDF"))
+  essay <- sub("-slides$", "-essay.pdf", id)
+  if (file.exists(file.path("slides", essay)))
+    out <- c(out, lnk(essay, "Essay (PDF)"))
   paste(out, collapse = " · ")
 }, slide_id)
 # Group presentations column: groups="1,2" on a session div lists the groups
