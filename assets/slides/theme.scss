@@ -144,3 +144,16 @@ $presentation-heading-font-weight: 600;
   color: $brand-maroon;
   margin-bottom: 0.2em;
 }
+
+// Tables: smaller text than body copy, full slide width, left-aligned cells
+// with a little breathing room. Pipe-table dash counts set the column widths.
+.reveal .slides section table {
+  font-size: 0.8em;
+  width: 100%;
+  border-collapse: collapse;
+  th, td {
+    text-align: left;
+    vertical-align: top;
+    padding: 0.35em 0.6em;
+  }
+}

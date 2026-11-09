@@ -1,0 +1,847 @@
+---
+title: "Climate change misinformation"
+subtitle: "Psychology of Climate Change Communication · Week 9"
+---
+
+<!-- Session 9, 10.11.2026, 90 minutes. Plan and timing: notes/09-slides-plan.md.
+     Source checks that are not lecture content: notes/09-slides-verification.md.
+     Second version 2026-11-09 after Jan's feedback: no recap, shorter slides, fewer
+     citations, Exxon introduced with a picture, the assigned reading woven in.
+     Opening rebuilt later that day: Reto Knutti recap and Mann & Hotez, WEF moved to part 3. -->
+
+## Two weeks ago
+
+::: {.columns}
+::: {.column width="35%"}
+![[Photo: ETH Zürich, D-USYS]{.citation}](images/reto_knutti_eth.jpg){height="420"}
+:::
+::: {.column width="65%"}
+Reto Knutti told us what it is like to be a climate scientist in public: he is attacked personally and discredited, rather than argued with.
+
+. . .
+
+Where do these attacks come from, and what do they do?
+:::
+:::
+
+::: {.notes}
+Recap of the guest lecture in week 7 (27.10.). Adjust the summary to what Reto actually said: the personal attacks, the attempts to discredit him as a person rather than engage with the science, and how he deals with it.
+
+Today's reading has a section on exactly this, "Disinformation versus scientists" (Lewandowsky 2021, section 3.3): "Several researchers have suggested that the constant barrage of public criticism and attacks on individual scientists has induced the scientific community to exercise undue caution or to 'err on the side of least drama'." And: "interviews with researchers have revealed that some forms of contrarian activities, such as the use of freedom-of-information requests, have led to changes in how scientists communicate and have imposed an additional work burden that draws time away from research."
+:::
+
+## Not an isolated experience
+
+::: {.columns}
+::: {.column width="35%"}
+![[@mannScienceSiegeHow2025]{.citation}](images/science_under_siege_cover.jpg){height="420"}
+:::
+::: {.column width="65%"}
+A recent book by two scientists who have lived through such attacks: climate and health action are "hampered by a common threat: politically and ideologically motivated opposition to science".
+:::
+:::
+
+::: {.notes}
+Say who they are: Michael Mann, climate scientist, and Peter Hotez, vaccine researcher, two scientists who have "spent the last twenty years on the front lines of the battle to convey accurate, reliable, and trustworthy information about science in the face of determined and nihilistic opposition". Today is about the first three forces, and about what psychology can say about the audience.
+
+Mann & Hotez 2025, Science Under Siege: How to Fight the Five Most Powerful Forces That Threaten Our World, PublicAffairs, 368 pages, published 9 September 2025. Quotes from the publisher's description (Hachette Book Group page): "From pandemics to the climate crisis, humanity faces tougher challenges than ever. [...] But our efforts to effectively tackle these existential crises are now hampered by a common threat: politically and ideologically motivated opposition to science. Michael E. Mann and Peter J. Hotez are two of the most respected and well-known scientists in the world and have spent the last twenty years on the front lines of the battle to convey accurate, reliable, and trustworthy information about science in the face of determined and nihilistic opposition. In this powerful manifesto, they reveal the five main forces threatening science: plutocrats, pros, petrostates, phonies, and the press."
+
+Mann himself has been a target of organised attacks on climate scientists for two decades. If you want a quote from inside the book rather than from the blurb, pick one from your copy.
+
+Bridge to the lecture: plutocrats, pros and petrostates are the supply side of part 1. The audience, and why some of it is receptive, is parts 2 and 3. What to do about it is part 4.
+:::
+
+## How common are such attacks?
+
+Of 468 climate scientists surveyed in 2023, 39% had experienced online harassment or abuse related to their research. Among those who appear in the media at least once a month, 73% had. [@globalwitnessGlobalHatingHow2023]
+
+. . .
+
+Of 321 scientists who spoke publicly about COVID-19, 15% had received death threats and 22% threats of physical or sexual violence. [@nogradyHopeYouHow2021]
+
+. . .
+
+Michael Mann sued two writers for defamation over attacks on his work. A jury found for him twelve years later.
+
+::: {.notes}
+Global Witness, "Global hating", 4 April 2023, https://globalwitness.org/en/campaigns/digital-threats/global-hating/introduction/. Verbatim: "Overall, 39% of all scientists polled (183 out of 468) have experienced online harassment or abuse"; "increases to 49% of scientists who have published more than 10 journal articles"; "Of those scientists who are in the media at least once a month (13% of respondents), 73% have experienced abuse"; "8% have received death threats"; "41% of affected scientists polled said their experience had made them less likely to post". Caveat: the invitation went to about 24,000 scientists, the 468 are a voluntary sample, so the shares are not representative. Reported in Nature by Vidal Valero 2023 [@vidalvaleroDeathThreatsTrolling2023]: "Among the 468 respondents, 39% said they had experienced online harassment or abuse related to their climate research."
+
+Nogrady 2021, Nature 598, 250–253, DOI 10.1038/d41586-021-02741-x, Nature's survey of scientists who had spoken to the media about COVID-19: "15% of 321 respondents said they had received death threats"; "22% had received threats of physical or sexual violence"; "more than 40% reported experiencing emotional or psychological distress"; "more than two-thirds of researchers reported negative experiences".
+
+Michael Mann v. Steyn and Simberg: Mann sued in 2012 over blog posts comparing him to a convicted child abuser and calling his research fraudulent. On 8 February 2024 a Washington, DC jury awarded him 1 dollar in compensatory damages from each writer and punitive damages of 1,000 dollars from Simberg and 1 million dollars from Steyn (AP, 8 February 2024; Tollefson 2024, Nature 626, 698–699, DOI 10.1038/d41586-024-00396-y). In 2025 the judge reduced the award against Steyn to 5,000 dollars, and Mann was ordered to pay about 530,000 dollars in legal fees to the National Review, which had been dropped from the case (Philadelphia Inquirer, 20 March 2025). So: a symbolic win after twelve years, at considerable cost. Use with care.
+
+Other verified figures, if wanted: a German representative survey of about 2,600 researchers (DZHW, 2024) found that 45% had experienced at least one form of hostility, with death threats or threats of violence at about 2%. An Australian survey of 2,086 academics (Peetz et al. 2024) found that 41% had experienced intimidation in the past five years. Full log with quotes and URLs in notes/09-research/attacks_on_scientists.md.
+:::
+
+## Overview
+
+1. A short history of organised climate change denial
+2. Recognising misinformation
+3. How big is the problem?
+4. Countering misinformation
+
+# 1. A short history of organised climate change denial
+
+## The Exxon case, which you saw last week
+
+::: {.columns}
+::: {.column width="35%"}
+![[Protest sign in Washington, DC, 2015. Photo: Johnny Silvercloud, Wikimedia Commons]{.citation}](images/exxon_knew_protest_2015.jpg){height="400"}
+:::
+::: {.column width="65%"}
+From 1977 on, Exxon's own scientists projected the warming accurately. The company's newspaper advertisements expressed doubt about it.
+
+. . .
+
+"Whereas [academic and government] scientists worked to communicate what they knew, ExxonMobil worked to deny it." [@supranAssessingExxonMobilsClimate2017; @supranAssessingExxonMobilsGlobal2023]
+:::
+:::
+
+::: {.notes}
+Recap only: Viktoria covered this in week 8 (her slides 19 to 24: the 1977 memo, the Supran et al. 2023 projection chart, the New York Times advertisements, Supran & Oreskes 2017). One minute, then move on to what is new, the playbook and the people behind it.
+
+Say it, do not show it: in 2015, journalists showed that the oil company's own scientists had understood climate change since the late 1970s. Introduce the company first: Exxon, since 1999 ExxonMobil, the successor of Rockefeller's Standard Oil, for decades the largest publicly traded oil company in the world. The story became public through the InsideClimate News series "Exxon: The Road Not Taken" (2015, Pulitzer finalist, https://www.pulitzer.org/finalists/insideclimate-news) and the hashtag #ExxonKnew on the sign.
+
+What the company knew: Supran, Rahmstorf & Oreskes 2023, Science, DOI 10.1126/science.abk0063, evaluated "all available global warming projections documented by—and in many cases modeled by—Exxon and ExxonMobil Corp scientists between 1977 and 2003. We find that most of their projections accurately forecast warming that is consistent with subsequent observations. Their projections were also consistent with, and at least as skillful as, those of independent academic and government models." In numbers: "63 to 83% of the climate projections reported by ExxonMobil scientists were accurate", average projected warming "0.20° ± 0.04°C per decade", warming predicted to become detectable "in the year 2000 ± 5".
+
+The 1982 internal memo with the CO2 projection chart is at https://www.climatefiles.com/exxonmobil/1982-memo-to-exxon-management-about-CO2-greenhouse-effect. Tobia's slides 9 and 10 quote three Exxon documents (1977, 1982, 1997) in French. I did not verify their English wording, so they are not on the slide.
+
+Supran & Oreskes 2017, Environmental Research Letters, DOI 10.1088/1748-9326/aa815f, documents from 1977 to 2014. Abstract: "83% of peer-reviewed papers and 80% of internal documents acknowledge that climate change is real and human-caused", while for advertorials 12% acknowledge this and 81% express doubt.
+
+The quote is from the outlook paragraph of Supran, Rahmstorf & Oreskes 2023: "ExxonMobil didn't just know 'something' about global warming decades ago—they knew as much as academic and government scientists knew. But whereas those scientists worked to communicate what they knew, ExxonMobil worked to deny it—including overemphasizing uncertainties, denigrating climate models, mythologizing global cooling, feigning ignorance about the discernibility of human-caused warming, and staying silent about the possibility of stranded fossil fuel assets in a carbon-constrained world."
+:::
+
+## Merchants of doubt
+
+::: {.columns}
+::: {.column width="35%"}
+![[@oreskesMerchantsDoubtHow2010]{.citation}](images/merchants_of_doubt_cover.jpg){height="400"}
+:::
+::: {.column width="65%"}
+Exxon's strategy of manufacturing doubt was borrowed from the tobacco industry: keep the public believing that the science is still open, so that regulation can wait.
+
+. . .
+
+A handful of politically connected scientists applied the same tactics, in turn, to tobacco, acid rain, the ozone hole and climate change.
+:::
+:::
+
+::: {.notes}
+Oreskes & Conway, Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming (Bloomsbury Press, 2010). Today's reading makes the same point: "Precedents from other pseudoscientific disinformation campaigns, for example by the tobacco industry, are helpful to understand these contexts" (Lewandowsky 2021, sidebar "Countering disinformation").
+
+The famous tobacco line "Doubt is our product" comes from a 1969 Brown & Williamson document in the UCSF Industry Documents Library (record rgy93f00). I could not open the archive to verify the wording, so the quote is not on the slide. If you want it, check https://www.industrydocuments.ucsf.edu/tobacco/docs/#id=rgy93f00.
+
+Who paid for it: Brulle 2014, Climatic Change, counted 91 US organisations opposing climate action with a combined annual income of just over 900 million dollars between 2003 and 2010, with an average of 64 million dollars a year in identifiable foundation support (caveat: total income of organisations that do many things). Farrell 2016, PNAS, 164 organisations and 40,785 texts from 1993 to 2013: those with corporate funding "were more likely to have written and disseminated texts meant to polarize the climate change issue". Both are in the references [@brulleInstitutionalizingDelayFoundation2014; @farrellCorporateFundingIdeological2016].
+:::
+
+## Doubt as a political strategy
+
+Advice to US Republican candidates by the pollster Frank Luntz, 2002:
+
+. . .
+
+> "Should the public come to believe that the scientific issues are settled, their views about global warming will change accordingly. Therefore, you need to continue to make the lack of scientific certainty a primary issue in the debate."
+
+[@luntzresearchcompaniesEnvironmentCleanerSafer2002, p. 137]
+
+::: {.notes}
+Quote read from the scanned memo, printed page 137, section "Winning the Global Warming Debate – An Overview", point 1. The full passage: "The scientific debate remains open. Voters believe that there is no consensus about global warming within the scientific community. Should the public come to believe that the scientific issues are settled, their views about global warming will change accordingly. Therefore, you need to continue to make the lack of scientific certainty a primary issue in the debate, and defer to scientists and other experts in the field." It closes with "and defer to scientists and other experts in the field." Scan: http://www.sindark.com/NonBlog/Articles/LuntzResearch_environment.pdf (scan metadata dated December 2002, reported in the press in March 2003).
+
+The memo says the strategy out loud. Today's reading lists the same rhetorical strategies, curated by public relations professionals: undermine the consensus, highlight uncertainty and demand certainty as a condition for action, attack individual scientists, undermine institutions such as peer review, and project pseudoscientific alternatives through a network of blogs (Lewandowsky 2021, sidebar "Rhetorical strategies of disinformation"). The belief that Luntz wanted to protect is exactly what consensus messaging (part 4) tries to correct.
+:::
+
+## From "it's not happening" to "solutions won't work"
+
+![[@coanComputerassistedClassificationContrarian2021]{.citation}](images/coan2021_fig2.png){height="500"}
+
+::: {.notes}
+Coan, Boussalis, Cook & Nanko 2021, Scientific Reports, DOI 10.1038/s41598-021-01714-4. A classifier trained on 255,449 documents from 20 conservative think tanks (CTTs) and 33 contrarian blogs, sorted into five "super-claims": it's not happening, it's not us, it's not bad, solutions won't work, and climate science or the movement is unreliable.
+
+From the paper: "In general, CTTs focus predominantly on the shortcomings of climate solutions (category 4) and attacks on climate science and scientists (category 5)." The categories 1 to 3 "are the least prevalent forms". They describe a "clear transition in 2005 towards accusations of alarmism, bias, hypocrisy, conspiracy, and corruption". For 14 think tanks with funding data, the share of funding from ten key donors was positively associated with category 5 and with categories 1 to 3.
+
+Panel (b): among think tanks, "solutions won't work" is the dominant claim from around 2008 on, while "it's not happening" and "it's not us" are a few percent. Panel (c): blogs stay more focused on attacking the science.
+
+The lesson for communicators: outright denial of the science is no longer the main message. The argument has moved to the solutions.
+:::
+
+## Discourses of climate delay
+
+Discourses of climate delay are arguments that "accept the existence of climate change, but justify inaction or inadequate efforts". [@lambDiscoursesClimateDelay2020]
+
+::: {.notes}
+Lamb et al. 2020, Global Sustainability, DOI 10.1017/sus.2020.13. Quote from the abstract, which continues: proponents of delay "would argue for minimal action or action taken by others. They focus attention on the negative social effects of climate policies and raise doubt that mitigation is possible." The paper is a guide for recognising these discourses, which is the syllabus question for today: what are discourses that delay action on climate change?
+:::
+
+##
+
+![[@lambDiscoursesClimateDelay2020]{.citation}](images/lamb2020_fig1.png){height="580"}
+
+::: {.notes}
+Four families, reading clockwise from the top: redirect responsibility (someone else should take action first: individualism, whataboutism, the free-rider excuse), push non-transformative solutions (technological optimism, all talk little action, fossil fuel solutionism, no sticks just carrots), emphasize the downsides (policy perfectionism, appeal to well-being, appeal to social justice), and surrender (change is impossible, doomism).
+
+Ask the room: which of these have you heard in Switzerland in the last year? Whataboutism ("Switzerland is tiny") and technological optimism are usually the first answers.
+:::
+
+## Where things stand today
+
+On climate denial YouTube channels, "old denial", the claim that climate change is not happening, not caused by us, or not bad, fell from 65% of claims in 2018 to 30% in 2023. [@centerforcounteringdigitalhateNewClimateDenial2024]
+
+. . .
+
+"New denial", which instead attacks the science, the scientists and the solutions, rose from 35% to 70%.
+
+. . .
+
+Denial has not disappeared. It has changed its message.
+
+::: {.notes}
+Center for Countering Digital Hate (research with Climate Action Against Disinformation), "The New Climate Denial", 16 January 2024, https://www.counterharm.com/research/new-climate-denial/ (PDF linked there). Executive summary: "We gathered transcripts for 12,058 videos from climate denial YouTube channels"; "Data was drawn from 96 YouTube channels"; videos posted between 1 January 2018 and 30 September 2023; "Videos in our dataset containing denial claims were viewed 325 million times"; "New Denial constitutes 70% of denialist claims in 2023, up from 35% in 2018."; "Old Denial constitutes 30% of denialist claims in 2023, down from 65% in 2018."; the classifier is CARDS by Coan, Boussalis, Cook and Nanko, "78% accurate in categorizing claims in our dataset"; "YouTube is making up to $13.4 million a year from ads on the channels we studied."
+
+Their definition of New Denial: "the departure from rejection of anthropogenic climate change, to attacks on climate science and scientists, and rhetoric seeking to undermine confidence in solutions to climate change". An NGO report, not peer-reviewed, say so.
+:::
+
+# 2. Recognising misinformation
+
+## Some definitions
+
+**Misinformation** is false or misleading information, regardless of whether anyone intended to mislead.
+
+. . .
+
+**Disinformation** is misinformation that is spread deliberately, to deceive.
+
+. . .
+
+**Fake news** imitates the form of news media content without its editorial process.
+
+::: {.notes}
+Part 1 was about disinformation. Most of the psychological research we turn to now is about misinformation, because experiments rarely know what the sender intended.
+
+Definitions in this form follow the Stanford Internet Observatory wording that Tobia Spampatti used in his Geneva lecture (2024), translated freely. Today's reading defines misinformation as false information in general and disinformation as "intentionally disseminated false information" (Lewandowsky 2021, margin definitions).
+:::
+
+## Recognising techniques
+
+You do not need to know every false claim. Most misinformation relies on a small set of rhetorical techniques, and those can be learned.
+
+. . .
+
+One list of five goes by the acronym **FLICC**: fake experts, logical fallacies, impossible expectations, cherry picking, conspiracy theories. [@cookDeconstructingClimateScience2020]
+
+::: {.notes}
+Cook, J. (2020). Deconstructing climate science denial. In D. Holmes & L. M. Richardson (Eds.), Research Handbook on Communicating Climate Change. Edward Elgar. DOI 10.4337/9781789900408.00014. The five categories in Cook's own words on Skeptical Science: "Fake experts, Logical fallacies, Impossible expectations, Cherry picking, and Conspiracy theories" (https://skepticalscience.com/history-FLICC-5-techniques-science-denial.html). The five techniques go back to Hoofnagle (2007), the acronym to Cook (2013). A graphic of the full taxonomy is on Wikimedia Commons (CC BY-SA 4.0), a German version ("PLURV") at klimafakten.de.
+
+Today's reading lists the strategies of organised disinformation in similar terms (sidebar "Rhetorical strategies of disinformation"): undermine and question the scientific consensus, highlight uncertainty and demand certainty as a condition for action, attack individual scientists, undermine institutions such as peer review, project pseudoscientific alternatives through a network of blogs.
+:::
+
+## FLICC with climate examples
+
+| Technique | Typical climate claim |
+|:--------------|:--------------------------------------------------|
+| **F**ake experts | "Thousands of scientists signed a petition against the climate consensus." |
+| **L**ogical fallacies | "The climate has always changed, so humans cannot be the cause now." |
+| **I**mpossible expectations | "If they can't forecast next week's weather, how can they predict 2100?" |
+| **C**herry picking | "There has been no warming since the record year of 1998." |
+| **C**onspiracy theories | "Climate scientists fake data to keep their grants." |
+
+::: {.notes}
+The example claims are stylised paraphrases of common contrarian arguments, written for the slide, not quotations. The categories are Cook's. The cherry-picking example refers to the "pause" argument that compares later years with the exceptionally warm El Niño year 1998.
+
+The fake-experts example is the Oregon Petition. Today's reading: "a petition that purports to show that 31,000 scientists disagree with the scientific consensus (virtually none of the signatories have relevant scientific credentials) has been identified as particularly damaging", and "The most frequently shared climate article on social media in 2016 featured this misleading petition" (Lewandowsky 2021, section 3.2.2).
+:::
+
+## Techniques online
+
+A second list, written for online misinformation, names six techniques: impersonation, emotional content, polarisation, conspiracy, discrediting, trolling. [@roozenbeekFakeNewsGame2019; @roozenbeekPsychologicalInoculationImproves2022]
+
+. . .
+
+It overlaps with FLICC, and we will meet it again in the inoculation games in part 4.
+
+## Do such techniques make false claims more convincing?
+
+Not much. In five EU countries, adding most of these techniques to a claim about climate change made people agree with it *less*. [@nohlenPersuasionTechniquesMake2025]
+
+. . .
+
+The main reason: people agreed less with *true* claims written in this style.
+
+::: {.notes}
+Give one-line definitions orally. Tobia's slides 23 to 29 define them (in French, after Roozenbeek & van der Linden 2019): discrediting deflects criticism by attacking the source, conspiracy explains events through a small malicious elite, trolling provokes a reaction with bait, polarisation amplifies existing tensions between groups, impersonation fakes accounts or identities, emotional content plays on fear, anger or empathy.
+
+Roozenbeek & van der Linden 2019, Palgrave Communications, the "Bad News" game by Jon Roozenbeek and Sander van der Linden. The six badges in the game are discredit, conspiracy, trolling, polarization, impersonation, emotion. Their later inoculation videos target five related techniques, Roozenbeek et al. 2022, Science Advances: "We developed five short videos that inoculate people against manipulation techniques commonly used in misinformation: emotionally manipulative language, incoherence, false dichotomies, scapegoating, and ad hominem attacks."
+
+Nohlen et al. 2025 (preprint, in Zotero). Abstract: "In an online experiment with 5,121 participants from five EU countries, we examined how seven persuasion techniques influence agreement and perceived persuasiveness of climate change disinformation and factual claims. Persuasion techniques reduced agreement overall, mainly by lowering agreement with true claims. Some techniques (e.g., appeal to authority, black-and-white fallacy) increased agreement with false claims."
+
+The nuance: rhetorical tricks are not magic. People are somewhat sensitive to them, and the tricks can backfire for true information.
+:::
+
+##
+
+::: {.exercise}
+**Spot the technique** (pairs, 4 minutes)
+
+The next slide shows five claims about climate change. For each one, decide with your neighbour which technique it uses, from FLICC or from the discourses of delay.
+:::
+
+## Five claims {.smaller}
+
+1. "Switzerland causes a tiny fraction of global emissions. Nothing we do matters until China and India act."
+
+2. "Scientists were predicting an ice age in the 1970s. Now it is warming. They clearly have no idea."
+
+3. "Even the IPCC admits that the models have uncertainties. Until the science is certain, we should not wreck the economy."
+
+4. "Of course the climate scientists say it is a crisis. Their funding depends on it."
+
+5. "The real solution is carbon capture and new nuclear. Cutting emissions today is pointless when technology will fix it."
+
+::: {.notes}
+Suggested answers: (1) whataboutism, redirect responsibility (Lamb et al.). (2) misrepresentation and cherry picking, FLICC: a handful of 1970s press articles are treated as the scientific consensus of the time. (3) impossible expectations, plus the Luntz strategy of making uncertainty the issue. (4) conspiracy theory, FLICC. (5) technological optimism, push non-transformative solutions (Lamb et al.).
+
+All five claims are stylised examples written for this exercise, not quotations.
+:::
+
+## Repetition makes claims feel true
+
+A claim seen before is judged as more accurate than a new one, even when it is false. [@decheneTruthTruthMetaAnalytic2010; @pennycookPriorExposureIncreases2018; @pillaiEffectsRepeatingFalse2021]
+
+. . .
+
+This *illusory truth effect* is one of the better-replicated findings in misinformation research.
+
+::: {.notes}
+Dechêne, Stahl, Hansen & Wänke 2010, Personality and Social Psychology Review, DOI 10.1177/1088868309352251: "A meta-analysis of the truth effect was conducted [...] In all, 51 studies of the repetition-induced truth effect were included in the analysis." Hassan & Barber 2021, Cognitive Research, call it "a robust phenomenon" and show that the largest increase in perceived truth comes from the second encounter, with smaller increases after that.
+
+Pennycook, Cannon & Rand 2018, Journal of Experimental Psychology: General, DOI 10.1037/xge0000465. Abstract: "even a single exposure increases subsequent perceptions of accuracy, both within the same session and after a week", and "this 'illusory truth effect' for fake-news headlines occurs despite a low level of overall believability and even when the stories are labeled as contested by fact checkers". Pillai & Fazio 2021, WIREs Cognitive Science: "repetition increases belief in false information, even when the misinformation contradicts prior knowledge".
+
+The effect is real. What is weak is the inference that debunking therefore backfires. Ecker, Lewandowsky & Chadwick 2020, Cognitive Research, DOI 10.1186/s41235-020-00241-6, three experiments, N = 1,718: "While previous research has found little evidence of such familiarity backfire effects", they tested the hardest case, novel misinformation after a one-week delay, and found "substantial evidence against familiarity backfire. Corrections that exposed participants to novel misinformation did not lead to stronger misconceptions compared to a control group never exposed to the false claims or corrections. This suggests that it is safe to repeat misinformation when correcting it, even when the audience might be unfamiliar with the misinformation." The Debunking Handbook 2020 draws the same conclusion. Part 4 returns to the other kind of backfire, the worldview backfire effect, which also mostly failed to replicate.
+:::
+
+# 3. How big is the problem?
+
+## What decision makers think
+
+![[Figure C in @worldeconomicforumGlobalRisksReport2024]{.citation}](images/wef2024_figC.png){height="480"}
+
+::: {.notes}
+In 2024, the World Economic Forum asked its network of experts and decision makers to rank global risks by severity. Over a two-year horizon, "misinformation and disinformation" came first, ahead of extreme weather events. Over ten years, extreme weather came first and misinformation fifth. The ranking says something about how worried elites are, not necessarily about how big the problem is. That is the question of this part.
+:::
+
+## Has the supply of doubt worked? What the public believes
+
+In the EU, the share who say climate change is mostly natural rose from 26% in 2021 to 35% in 2024. [@europeancommissiondirectorate-generalforresearchandinnovationEuropeanCitizensKnowledge2021; @europeancommissiondirectorate-generalforresearchandinnovationEuropeanCitizensKnowledge2025; @rutjensScienceSkepticism242022]
+
+. . .
+
+Is misinformation the cause? That is what two camps of researchers disagree about.
+
+::: {.notes}
+Eurobarometer, "European citizens' knowledge and attitudes towards science and technology", 2021 (DOI 10.2775/071577) and Special Eurobarometer 557, 2025 (DOI 10.2777/6040908). The 26% and 35% figures are the ones used in Jan's Ambizione research plan (research_plan.qmd, "Overall objective"), where the item is described as the share who say climate change is mostly natural instead of human-caused. Check the exact item wording in the 2025 report before quoting it to students.
+
+Rutjens et al. 2022, Social Psychological and Personality Science, DOI 10.1177/19485506211001329, "Science skepticism across 24 countries": climate scepticism was related to political conservatism mostly in North America, and spirituality and religiosity predicted other forms of scepticism (vaccines, evolution) in more countries.
+
+Tobia's slide 5 shows a world map of the share who think climate change is caused mostly by humans. Its source is not given on the slide (it looks like the Yale "International Public Opinion on Climate Change" report). Use it only after checking the source.
+:::
+
+## The case for alarm
+
+Today's reading, Stephan Lewandowsky's review of climate disinformation, describes "an environment of rhetorical adversity in which disinformation abounds". [@lewandowskyClimateChangeDisinformation2021]
+
+. . .
+
+In 12 countries, reading real climate disinformation lowered belief in climate change, made people feel less positive about reducing emissions, and reduced pro-environmental behaviour. [@spampattiPsychologicalInoculationStrategies2023]
+
+::: {.notes}
+Lewandowsky 2021, abstract: "These political implications have created an environment of rhetorical adversity in which disinformation abounds, thus compounding the challenges for climate communicators." Section 3.2.2: "Misinformation demonstrably undermines the public's knowledge and acceptance of climate change. Just a handful of misleading numbers often used by 'skeptics' can lower acceptance of climate change. Misinformation can also cancel out the impact of accurate information. When people are presented with two conflicting pieces of information, the two can cancel each other out."
+
+The IPCC agrees [@hickeNorthAmerica2022]. Hicke et al. 2022, IPCC AR6 WGII, Chapter 14 (North America), Executive Summary, p. 1931 (https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-14/): "misinformation and politicisation of climate-change science has created polarisation in public and policy domains in North America, particularly in the USA, limiting climate action (high confidence). Vested interests have generated rhetoric and misinformation that undermines climate science and disregards risk and urgency (medium confidence). Resultant public misperception of climate risks and polarised public support for climate actions is delaying urgent adaptation planning and implementation (high confidence)." Not in the Summary for Policymakers, only in the chapter.
+
+Spampatti et al. 2023, Nature Human Behaviour, N = 6,816 in 12 countries. Abstract: "exposure to disinformation had strong detrimental effects on participants' climate change beliefs (δ = −0.16), affect towards climate mitigation action (δ = −0.33), ability to detect disinformation (δ = −0.14) and pro-environmental behaviour (δ = −0.24)". The behaviour measure was trees planted via completed pages of a task.
+:::
+
+## The case for calm
+
+Public debate makes "sweeping claims about the effects of exposure to false content online that are inconsistent with much of the current empirical evidence". [@budakMisunderstandingHarmsOnline2024]
+
+. . .
+
+The studies they review show "a pattern of low exposure to false and inflammatory content that is concentrated among a narrow fringe".
+
+::: {.notes}
+Budak, Nyhan, Rothschild, Thorson & Watts 2024, Nature, DOI 10.1038/s41586-024-07417-w. They name three misperceptions: "that average exposure to problematic content is high, that algorithms are largely responsible for this exposure and that social media is a primary cause of broader social problems such as polarization." All quotes from the abstract, the last one continues "with strong motivations to seek out such information". Their policy recommendation: hold platforms accountable for the tails of the distribution, and demand transparency and data access for researchers. Let us look at some of that data.
+:::
+
+## Poll 3
+
+What share of what people consume online is misinformation, according to studies that measure actual behaviour (browsing histories, feeds)?
+
+::: {.incremental}
+- less than 2%
+- 2 to 10%
+- 10 to 25%
+- more than 25%
+:::
+
+## How much misinformation is there?
+
+Across 443 studies that measured actual behaviour, misinformation is a median **1.3%** of what people consume online. [@altayRareScreensEveryones2026]
+
+. . .
+
+The top 1% of users account for 70% of misinformation sharing or exposure.
+
+. . .
+
+Asked in surveys, however, 58% of respondents say they have seen misinformation.
+
+::: {.notes}
+Altay et al. 2026 (systematic review, in Zotero, no DOI yet). Abstract: "In behavioural studies, misinformation is a median 1.3% of what people consume online; it reaches 12.0% of people at least once and makes up 13.0% of what they share. In surveys, 57.7% say they have seen misinformation and 19.8% say they have shared it. In content analyses, 23.0% of items are classified as misinformation. How misinformation was identified (by fact-checkers, domain lists, researchers, or classifiers) and at which level (sources or items) explained more of the variance between estimates than what the study was about; platform and topic explained less. [...] The top 1% of users account for a median 70% of misinformation sharing or exposure."
+
+Earlier single studies pointing the same way [@grinbergFakeNewsTwitter2019; @guessLessYouThink2019; @allenEvaluatingFakeNews2020]. Grinberg et al. 2019, Science (Twitter, 2016 US election): "Only 1% of individuals accounted for 80% of fake news source exposures, and 0.1% accounted for nearly 80% of fake news sources shared." Guess, Nagler & Tucker 2019, Science Advances (Facebook): "8.5% of respondents for whom we have linked Facebook data shared at least one such article", and "users over 65 shared nearly seven times as many articles from fake news domains as the youngest age group". Allen et al. 2020, Science Advances: "fake news comprises only 0.15% of Americans' daily media diet".
+
+The famous counter-example is Vosoughi, Roy & Aral 2018, Science [@vosoughiSpreadTrueFalse2018a]: on Twitter "falsehoods were 70% more likely to be retweeted than the truth". Altay, Berriche & Acerbi 2023 [@altayMisinformationMisinformationConceptual2023] list as one of six misconceptions that "falsehoods do not spread faster than the truth": the Vosoughi sample was fact-checked stories, which are selected for being contested, not a random sample of true and false content.
+
+Caveat to say out loud: most of these estimates come from the US and concern fact-checked "fake news". Keep that in mind for the reply from the other camp.
+:::
+
+## And for climate change specifically?
+
+In eight countries, 25% said they had seen false or misleading information about climate change in the past week. [@ejazClimateChangeNews2025]
+
+. . .
+
+How much people trusted their sources of information about climate change predicted belief in climate misinformation much better than how much news they consumed. [@ejazTrustKeyDeterminants2025]
+
+::: {.notes}
+Ejaz, Mukherjee & Fletcher 2025, Reuters Institute "Climate Change and News Audiences Report 2024" (DOI 10.60625/risj-vsjy-zm64, 8 countries: Brazil, France, Germany, India, Japan, Pakistan, UK, USA). Report text: "On average across eight countries, 25% of respondents in 2024 say that they had 'personally seen, read, or heard'" false or misleading information about climate change in the past week; "This is very similar to the 27% figure from 2023 and 2022"; highest in "India (43%)", lowest in "UK (17%) and Japan (16%)". Their caveat: "these are perceptions and do not necessarily reflect the prevalence".
+
+Ejaz, Altay, Fletcher & Nielsen 2025, New Media & Society, DOI 10.1177/14614448241250302: "online survey (N = 8541)"; "trust in sources of information about climate change and demographic variables were much stronger predictors of belief in misinformation about climate change than reported news consumption". This connects to week 3 on trust.
+:::
+
+## Are people gullible?
+
+Across 67 experiments in 40 countries, people rated true news as much more accurate than false news. When they made mistakes, they more often doubted true news than believed false news. [@pfanderSpottingFalseNews2025]
+
+. . .
+
+Most people say they would have to be *paid* to share fake news. [@altayWhyFewPeople2022]
+
+::: {.notes}
+Pfänder & Altay 2025, Nature Human Behaviour, DOI 10.1038/s41562-024-02086-1. Abstract: "We conducted a systematic literature review and pre-registered meta-analysis of 303 effect sizes from 67 experimental articles evaluating accuracy ratings of true and fact-checked false news (NParticipants = 194,438 from 40 countries across 6 continents). We found that people rated true news as more accurate than false news (Cohen's d = 1.12 [1.01, 1.22]) and were better at rating false news as false than at rating true news as true (Cohen's d = 0.32 [0.24, 0.39]). [...] We found no evidence that the political concordance of the news had an effect on discernment, but participants were more skeptical of politically discordant news (Cohen's d = 0.78 [0.62, 0.94])." This is my own work, say so. Our conclusion: "there is more room to increase the acceptance of true news than to reduce the acceptance of fact-checked false news."
+
+Altay, Hacquin & Mercier 2022, New Media & Society, N = 3,656. Abstract: "sharing fake news hurt one's reputation in a way that is difficult to fix, even for politically congruent fake news. [...] the majority of people declare they would have to be paid to share fake news".
+:::
+
+## Alarm has costs of its own
+
+Seeing a higher share of false news made people reject more *true* news and trust the news less. [@altayExposureHigherRates2025]
+
+. . .
+
+Alarmist articles about disinformation raised support for restricting speech. [@jungherrNegativeDownstreamEffects2024]
+
+. . .
+
+"Misinformation often reflects, rather than causes, underlying sociopolitical issues." [@altayRethinkingProblemMisinformation2026]
+
+::: {.notes}
+Altay et al. 2025, N = 2,735 participants, 49,158 observations, proportions of false news 17% to 83%. Abstract: "exposure to higher proportions of false news decreased trust in the news and increased skepticism in news judgments. Across conditions, participants were more likely to mistakenly rate true news as false than to rate false news as true".
+
+Jungherr & Rauchfleisch 2024, Political Behavior. Abstract: "The treatment emphasizing the dangers of disinformation indiscriminately (T1) raised the perceived dangers of disinformation among recipients. The balanced treatment (T2) lowered the perceived threat level. T1, but not T2, had negative downstream effects, increasing respondent support for heavily restrictive regulation of speech".
+
+Altay 2026, New Media & Society, abstract: "exposure to misinformation is lower than often believed, people are less gullible than commonly assumed, and misinformation often reflects, rather than causes, underlying sociopolitical issues."
+:::
+
+## The reply from the alarmed camp
+
+"The fight against misinformation is valid, warranted and urgently required." [@eckerMisinformationPosesBigger2024; @eckerWhyMisinformationMust2025]
+
+. . .
+
+The prevalence of misinformation "is nonnegligible if reasonably inclusive definitions are applied".
+
+. . .
+
+Much of the disagreement is about definitions. Fake news from fringe websites is rare. Misleading claims by politicians, think tanks and mainstream outlets are not counted in most prevalence studies.
+
+::: {.notes}
+Ecker et al. 2024, Nature (comment), DOI 10.1038/d41586-024-01587-3: "the fight against misinformation is valid, warranted and urgently required."
+
+Ecker et al. 2025, American Psychologist, DOI 10.1037/amp0001448. Abstract: "we rebut the two main claims, namely that misinformation is not of substantive concern (a) due to its low incidence and (b) because it has no causal influence on notable political or behavioral outcomes. Through a critical review of the current literature, we demonstrate that (a) the prevalence of misinformation is nonnegligible if reasonably inclusive definitions are applied and that (b) misinformation has causal impacts on important beliefs and behaviors."
+
+The last paragraph is my synthesis. For climate change specifically, the history in part 1 is exactly the kind of elite, well-funded disinformation that the fake-news prevalence studies do not capture. Today's reading also notes that false-balance media coverage "constitutes one of the most insidious, albeit sometimes inadvertent, forms of climate misinformation" (Lewandowsky 2021, section 3.2.1), another thing a fake-news count misses.
+:::
+
+## {.big-center}
+
+For climate change: a well-organised **supply** of doubt, meeting a **demand** from people whose worldview it fits.
+
+## Who is vulnerable? Worldview first
+
+Across 56 nations, when predicting belief in climate change, education, knowledge and experience of extreme weather were "overshadowed in predictive power by values, ideologies, worldviews and political orientation". [@hornseyMetaanalysesDeterminantsOutcomes2016; @lewandowskyWorldviewmotivatedRejectionScience2021]
+
+. . .
+
+Today's reading: climate change "challenges our cognitive abilities and the worldviews of many".
+
+::: {.notes}
+Hornsey, Harris, Bain & Fielding 2016, Nature Climate Change, DOI 10.1038/nclimate2943. Abstract: "Twenty-seven variables were examined by synthesizing 25 polls and 171 academic studies across 56 nations", and the demographic and experience variables were "overshadowed in predictive power by values, ideologies, worldviews and political orientation." Mostly US and Western data, polarisation is weaker elsewhere.
+
+Lewandowsky, Woike & Oberauer 2021, Cognition. Abstract: "U.S. surveys have repeatedly shown that the rejection of scientific evidence across a broad range of domains is preferentially associated with rightwing or libertarian worldviews [...] Both studies show that people's political worldviews are associated with their attitudes towards those scientific norms, and that those attitudes predict people's acceptance of vaccinations and climate science."
+
+Lewandowsky 2021, summary point 1: "Climate change challenges our cognitive abilities and the worldviews of many." Section 2 adds the cognitive side: the power of anecdotes (Inhofe's snowball, local temperature shaping beliefs) and the stock-and-flow problem (the bathtub from week 4). Link to part 1: the Luntz memo and the think-tank material were aimed at exactly this audience.
+:::
+
+## Accepting science in general, rejecting specific findings
+
+When US participants were shown the scientific answer to basic science questions, 95% accepted it. Among those who said they had no trust in science at all, 87% still accepted it. [@pfanderQuasiuniversalAcceptanceBasic2025a]
+
+. . .
+
+People reject the specific claims that conflict with their worldview, while accepting science in general.
+
+::: {.notes}
+Pfänder, Altay, Dubourg & Mercier 2025, Public Understanding of Science. Abstract: "Acceptance of the scientific consensus was very high in the sample as a whole (95.1%), but also in every sub-sample (e.g. no trust in science: 87.3%; complete endorsement of flat Earth theory: 87.2%). This quasi-universal acceptance of basic science suggests that people are motivated to reject specific scientific beliefs, and not science as a whole."
+:::
+
+## Lazy or biased?
+
+"Susceptibility to fake news is driven more by lazy thinking than it is by partisan bias per se." [@pennycookLazyNotBiased2019]
+
+. . .
+
+But paying people for accurate answers reduced partisan bias, the tendency to doubt true news from the other political side, by about 30%. [@rathjeAccuracySocialMotivations2023]
+
+## Who is vulnerable? Age
+
+Only 8.5% of US Facebook users shared any fake news in 2016. [@guessLessYouThink2019]
+
+. . .
+
+Users over 65 shared nearly seven times as much as the youngest age group. [@brashierAgingEraFake2020]
+
+::: {.notes}
+Pennycook & Rand 2019, Cognition, DOI 10.1016/j.cognition.2018.06.011, "two studies (total N = 3446 Mechanical Turk workers)". Their review in Pennycook & Rand 2021, Trends in Cognitive Sciences [@pennycookPsychologyFakeNews2021]: "poor truth discernment is associated with lack of careful reasoning and relevant knowledge, and the use of heuristics such as familiarity. Furthermore, there is a substantial disconnect between what people believe and what they share on social media."
+
+Rathje, Roozenbeek, Van Bavel & van der Linden 2023, Nature Human Behaviour, n = 3,364. Abstract: "Financial incentives improved accuracy and reduced partisan bias in judgements of headlines by about 30%, primarily by increasing the perceived accuracy of true news from the opposing party (d = 0.47). [...] incentives closed the gap in accuracy between conservatives and liberals by 52%." The two accounts are not mutually exclusive: people who reason more spot more falsehoods, and people motivated to be accurate reason more.
+
+Age: Guess, Nagler & Tucker 2019: "users over 65 shared nearly seven times as many articles from fake news domains as the youngest age group". Brashier & Schacter 2020, Current Directions: "Older adults are especially susceptible—they shared the most fake news during the 2016 U.S. election." and "cognitive declines cannot fully explain older adults' engagement with fake news." Digital literacy, social goals and trust seem to play a role.
+:::
+
+## Who is vulnerable? Putting it together
+
+A meta-analysis of 31 experiments with 11,561 US participants: people judged both true (69%) and false (67%) headlines well above chance. [@sultanSusceptibilityOnlineMisinformation2024a]
+
+. . .
+
+Older age, higher analytical thinking and identifying as a Democrat went with a better ability to tell true from false news.
+
+. . .
+
+News that fitted one's ideology, and news that felt familiar, went with naïvety: a tendency to call news true.
+
+. . .
+
+Showing the source next to the headline improved judgements, most for Republicans.
+
+::: {.notes}
+Sultan, Tump, Ehmann, Lorenz-Spreen, Hertwig, Gollwitzer & Kurvers 2024, PNAS, DOI 10.1073/pnas.2409329121. Abstract: "we conducted a systematic individual participant data meta-analysis covering 256,337 unique choices made by 11,561 US-based participants across 31 experiments. [...] We also disentangle the ability to discern between true and false news (discrimination ability) from response bias, that is, the tendency to label news as either true (true-news bias) or false (false-news bias). Across all studies, participants were well above-chance accurate for both true (68.51%) and false (67.24%) news headlines. We find that older age, higher analytical thinking skills, and identifying as a Democrat are associated with higher discrimination ability. Additionally, older age and higher analytical thinking skills are associated with a false-news bias (caution). In contrast, ideological congruency (alignment of participants' ideology with news), motivated reflection (higher analytical thinking skills being associated with a greater congruency effect), and self-reported familiarity with news are associated with a true-news bias (naïvety). [...] Displaying sources alongside news headlines is associated with improved discrimination ability, with Republicans benefiting more from source display."
+
+Two things to point out. First, the apparent contradiction with the previous slide: older adults share the most fake news (Guess et al. 2019) but judge headlines more accurately here. Sharing and believing are different things (the "disconnect" in Pennycook & Rand 2021), and older adults' sharing may have social rather than epistemic motives (Brashier & Schacter 2020). Second, the meta-analysis confirms both camps of the "lazy or biased" slide: analytical thinking helps (lazy), and ideological congruency produces a true-news bias (biased), with the two interacting ("motivated reflection"). All US data, which matters for the partisan findings.
+:::
+
+# 4. Countering misinformation
+
+## A toolbox
+
+One review sorts the tools into three families: *nudges* change the situation in which people read and share, *boosts* build people's own skills, and *refutation strategies* correct false claims directly. [@kozyrevaToolboxIndividuallevelInterventions2024]
+
+. . .
+
+Today we look at four tools: debunking, consensus messaging, prebunking, accuracy prompts.
+
+::: {.notes}
+Kozyreva et al. 2024, Nature Human Behaviour, DOI 10.1038/s41562-024-01881-0. Abstract: "81 scientific papers ... nine main types of interventions ... accuracy prompts, debunking and rebuttals, friction, inoculation, lateral reading and verification strategies, media-literacy tips, social norms, source-credibility labels, and warning and fact-checking labels."
+
+Media literacy example: Guess et al. 2020, PNAS [@guessDigitalMediaLiteracy2020]: tips "improved discernment between mainstream and false news headlines among both a nationally representative sample in the United States (by 26.5%) and a highly educated online sample in India (by 17.5%)", still measurable weeks later in the US but not in India.
+:::
+
+## 1. Debunking
+
+Corrections work, but rarely completely. People continue to rely on information they know has been corrected: the *continued influence effect*. [@lewandowskyMisinformationItsCorrection2012; @chanDebunkingMetaAnalysisPsychological2017; @walterHowUnringBell2018]
+
+. . .
+
+"Debunking can often correct factual misperceptions but may not shift attitudes or policy preferences." [@lewandowskyClimateChangeDisinformation2021]
+
+::: {.notes}
+Lewandowsky, Ecker, Seifert, Schwarz & Cook 2012, Psychological Science in the Public Interest, DOI 10.1177/1529100612451018: "why retractions of misinformation are so ineffective in memory updating and why efforts to retract misinformation can even backfire and, ironically, increase misbelief." Ecker et al. 2022, Nature Reviews Psychology, define the effect: belief in misinformation "exerts a lingering influence on people's reasoning after it has been corrected — an effect known as the continued influence effect."
+
+Chan, Jones, Hall Jamieson & Albarracín 2017, Psychological Science: "This meta-analysis (k = 52, N = 6,878) revealed large effects for presenting misinformation (ds = 2.41–3.08), debunking (ds = 1.14–1.33), and the persistence of misinformation in the face of debunking (ds = 0.75–1.06)." Walter & Murphy 2018, Communication Monographs: "corrective messages have a moderate influence on belief in misinformation (r = .35); however, it is more difficult to correct for misinformation in the context of politics (r = .15) and marketing (r = .18) than health (r = .27)." Walter et al. 2020, Political Communication [@walterFactCheckingMetaAnalysisWhat2020]: "(k = 30, N = 20,963). Fact-checking has a significantly positive overall influence on political beliefs (d = 0.29)".
+
+Lewandowsky 2021, sidebar "Countering disinformation": "Debunking can often correct factual misperceptions but may not shift attitudes or policy preferences." Section 4.3.2: when climate misinformation by Donald Trump is corrected, "people are responsive—that is, they update their factual understanding irrespective of partisanship—but their policy attitudes toward climate change remain unaffected".
+
+Fact-checking outside the US: Porter & Wood 2021, PNAS [@porterGlobalEffectivenessFactchecking2021] (Argentina, Nigeria, South Africa, UK, 22 fact-checks): "fact-checks reduced belief in misinformation by at least 0.59 points on a 5-point scale. Exposure to misinformation, however, only increased false beliefs by less than 0.07 points on the same scale." and "most effects still apparent more than 2 wk later".
+:::
+
+## The backfire effect, which mostly does not appear
+
+An influential 2010 study found that corrections could *increase* a misperception among the group most committed to it. [@nyhanWhenCorrectionsFail2010]
+
+. . .
+
+Later attempts to reproduce this, across 52 issues and more than 10,000 participants, "found no corrections capable of triggering backfire". [@woodElusiveBackfireEffect2019]
+
+::: {.notes}
+Nyhan & Reifler 2010, Political Behavior, DOI 10.1007/s11109-010-9112-2. Abstract: "We conducted four experiments ... corrections frequently fail to reduce misperceptions among the targeted ideological group. We also document several instances of a 'backfire effect' in which corrections actually increase misperceptions among the group in question."
+
+Wood & Porter 2019, Political Behavior, DOI 10.1007/s11109-018-9443-y. Verified fragment: "we found no corrections capable of triggering backfire". Five experiments with more than 10,000 participants and 52 issues (paraphrase). The Debunking Handbook 2020 summarises: "backfire effects occur only occasionally and the risk of occurrence is lower in most situations than once thought."
+
+Two kinds of backfire were feared: the worldview backfire effect (this slide) and the familiarity backfire effect (part 2, repeating the myth strengthens it). Both have little empirical support today. Message for communicators: do not be afraid to correct. Fear of backfire kept many people from debunking at all.
+:::
+
+## How to debunk
+
+The recommended order: state the fact, warn that a myth is coming, explain the fallacy behind the myth, end with the fact again. [@lewandowskyDebunkingHandbook20202020]
+
+. . .
+
+Does repeating the myth in order to correct it backfire? It seems not. [@eckerCanCorrectionsSpread2020a]
+
+. . .
+
+In public debates with science deniers, correcting the facts and exposing the technique both had positive effects on the audience. Not responding was the worst option. [@schmidEffectiveStrategiesRebutting2019]
+
+::: {.notes}
+Lewandowsky, Cook, Ecker et al. 2020, The Debunking Handbook 2020, DOI 10.17910/b7.1182, 22 authors, PDF at skepticalscience.com/docs/DebunkingHandbook2020.pdf. The recipe in the handbook's own words: "FACT / WARN ABOUT THE MYTH / EXPLAIN FALLACY / FACT".
+
+Schmid & Betsch 2019, Nature Human Behaviour, DOI 10.1038/s41562-019-0632-4. Abstract: "six experiments ... not responding to science deniers has a negative effect ... Providing the facts about the topic or uncovering the rhetorical techniques typical for denialism had positive effects. We found no evidence that ... rebutting science denialism in public discussions backfires, not even in vulnerable groups (for example, US conservatives)."
+
+Lewandowsky 2021, section 4.3.2: "Debunking has been shown to be more effective when the ideology of messengers is consonant with that of the audience—in particular, a Republican messenger correcting misinformation from a Republican source (e.g., Senator Inhofe)." Summary point 4: "Culturally aligned messages and messengers are more likely to be successful." Also: "Correction of specific pieces of misinformation can be achieved equally well with fact-based and logic-based corrections. Logic-based corrections that target reasoning flaws in disinformation have the advantage that they can be applied across domains of misinformation."
+:::
+
+## Debunking many people at once: dialogues with an AI
+
+A short personalised conversation with an AI reduced belief in conspiracy theories by about 20%, for at least two months. [@costelloDurablyReducingConspiracy2024]
+
+. . .
+
+"Many conspiracy theory believers can revise their views if presented with sufficiently compelling evidence."
+
+::: {.notes}
+Costello, Pennycook & Rand 2024, Science, DOI 10.1126/science.adq1814. Abstract: "we leveraged developments in generative artificial intelligence and engaged 2190 conspiracy believers in personalized evidence-based dialogues with GPT-4 Turbo. The intervention reduced conspiracy belief by ~20%. The effect remained 2 months later, generalized across a wide range of conspiracy theories, and occurred even among participants with deeply entrenched beliefs."
+
+We saw this study in week 4 under "revisiting the deficit model". It fits here too: tailored, evidence-based correction works, and facts are not useless. Today's reading, summary point 3: "Providing information about climate change, in particular about the scientific consensus and explanations of why it occurs, can enhance people's acceptance of science."
+:::
+
+## 2. Consensus messaging
+
+Telling people that nearly all climate scientists agree raises their estimate of the consensus, and with it belief in climate change. [@vanderlindenScientificConsensusClimate2015]
+
+. . .
+
+In 27 countries, the message "corrects misperceptions and slightly increases climate change beliefs and worry but not support for public action". [@veckalov27countryTestCommunicating2024]
+
+::: {.notes}
+van der Linden, Leiserowitz, Feinberg & Maibach 2015, PLoS ONE, DOI 10.1371/journal.pone.0118489 (the gateway belief model). Abstract: "Using national data (N = 1104) from a consensus-message experiment, we find that increasing public perceptions of the scientific consensus is significantly and causally associated with an increase in the belief that climate change is happening, human-caused and a worrisome threat."
+
+Većkalov et al. 2024, Nature Human Behaviour, DOI 10.1038/s41562-024-01928-2. Abstract: "The classic message corrects misperceptions and slightly increases climate change beliefs and worry but not support for public action. The updated message is equally effective but provides no added value. Both messages are more effective for audiences with lower message familiarity and higher misperceptions, including those with lower trust in climate scientists and right-leaning ideologies."
+
+The actual consensus [@cookQuantifyingConsensusAnthropogenic2013; @myersConsensusRevisitedQuantifying2021; @lynasGreater99Consensus2021]. Cook et al. 2013, ERL: 11,944 abstracts from 1991 to 2011, "Among abstracts expressing a position on AGW, 97.1% endorsed the consensus position that humans are causing global warming" (66.4% took no position). Myers et al. 2021, ERL: "Out of a group of 153 independently confirmed climate experts, 98.7% of those scientists indicated that the Earth is getting warmer mostly because of human activity", 100% among those with 20 or more climate papers. Lynas, Houlton & Perry 2021, ERL: four sceptical papers in a random sample of 3,000 from 88,125 climate papers since 2012, consensus "exceeds 99% in the peer reviewed scientific literature."
+
+Related: Kim et al. 2024, Research & Politics, N = 3,007 [@kimPersuadingClimateSkeptics2024]: a detailed causal explanation of why scientists conclude humans cause warming was slightly more effective than the consensus message on beliefs, but neither moved policy attitudes. Today's reading, summary point 3, recommends both: the consensus and "explanations of why it occurs".
+:::
+
+## 3. Prebunking, or psychological inoculation
+
+Expose people to a weakened dose of a persuasive attack, together with a refutation, and they build "mental antibodies" against the full attack later.
+
+. . .
+
+A fake petition of scientists disputing the consensus, like the one in the FLICC table, cancelled the effect of the consensus message. A warning beforehand that politically motivated groups use misleading tactics preserved most of that effect. [@vanderlindenInoculatingPublicMisinformation2017; @cookNeutralizingMisinformationInoculation2017]
+
+::: {.notes}
+van der Linden, Leiserowitz, Rosenthal & Maibach 2017, Global Challenges, DOI 10.1002/gch2.201600008, N = 2,167. Abstract: "communicating the scientific consensus on human‐caused climate change significantly increases public perception of the expert consensus by about 20 percentage points". Table 3, change in perceived consensus in percentage points: consensus message alone +19.72, misinformation (the fake "Oregon Petition" style counter-message) alone −8.99, consensus followed by misinformation −0.51, general inoculation plus misinformation +6.47, detailed inoculation plus misinformation +12.71. Tobia's slide 46 shows this figure.
+
+Cook, Lewandowsky & Ecker 2017, PLoS ONE, DOI 10.1371/journal.pone.0175799, Exp 1 N = 714, Exp 2 N = 392. Abstract: "inoculating messages that (1) explain the flawed argumentation technique used in the misinformation or that (2) highlight the scientific consensus on climate change were effective in neutralizing those adverse effects of misinformation."
+
+Today's reading, summary point 5: "Through a process known as inoculation, climate misinformation can be rebutted or, ideally, defanged before it is encountered." The reading's recommended approach is exactly this.
+:::
+
+## Inoculation as a game
+
+In the game *Bad News*, players run a fake news site and use the six online techniques from part 2. Afterwards, they rate manipulative headlines as less reliable. [@roozenbeekFakeNewsGame2019; @basolGoodNewsBad2020]
+
+. . .
+
+The effect decays within two months unless players are reminded of what they learned. [@maertensLongtermEffectivenessInoculation2021]
+
+. . .
+
+Short inoculation videos shown as YouTube ads to millions of users improved recognition of these techniques. [@roozenbeekPsychologicalInoculationImproves2022]
+
+::: {.notes}
+Roozenbeek & van der Linden 2019, Palgrave Communications, DOI 10.1057/s41599-019-0279-9: "N = 15,000 participants in a pre-post gameplay design", "ability to spot and resist misinformation improves after gameplay, irrespective of education, age, political ideology, and cognitive style." No control group, hence the replication: Basol, Roozenbeek & van der Linden 2020, Journal of Cognition, N = 196: "playing Bad News significantly improves people's ability to spot misinformation techniques compared to a gamified control group, and crucially, also increases people's level of confidence in their own judgments."
+
+Maertens et al. 2021, JEP: Applied, N = 151, 194, 170: "the inoculation effect remains stable for at least three months" with regular testing; without, "significant decay over a two-month time period so that the long-term inoculation effect was no longer significant." Same lesson in Capewell et al. 2024, Journal of Applied Social Psychology [@capewellMisinformationInterventionsDecay2024]: an immediate post-test preserved the effect after 48 h (d = 0.416), no immediate test did not (d = 0.010).
+
+Roozenbeek et al. 2022, Science Advances: "six randomized controlled studies (n = 6464) and an ecologically valid field study on YouTube (n = 22,632)". Full text: "The effect sizes for technique recognition range from Cohen's d = 0.28 (for the scapegoating study) to d = 0.68 (for the false dichotomies study)". YouTube: about 5.4 million people saw the ads over 15 days at about 0.05 dollars per view, and the recognition effect in the field was small (Cohen's h = 0.09).
+:::
+
+## Does inoculation hold up?
+
+One reanalysis of the game studies: *Bad News* and similar games did not improve people's ability to tell true from false news. They made people more sceptical of all news. [@modirrousta-galianGamifiedInoculationInterventions2023]
+
+. . .
+
+A later meta-analysis of 33 experiments: games and videos did improve this ability, without making people doubt everything. [@simchonSignalDetectionTheory2025]
+
+::: {.notes}
+Modirrousta-Galian & Higham 2023, JEP: General, "Gamified inoculation interventions do not improve discrimination between true and fake news: Reanalyzing existing research with receiver operating characteristic analysis."
+
+Simchon et al. 2025, Current Opinion in Psychology, DOI 10.1016/j.copsyc.2025.102194. Abstract: "We re-analyzed 33 inoculation experiments (combined N = 37,025) using Signal Detection Theory within a hierarchical Bayesian framework. Results show that both gamified and video-based interventions consistently improve discrimination between reliable and unreliable news, without increasing response bias".
+
+The methodological point for students: an intervention that makes people reject everything looks good if you only measure belief in false news. You need true items too.
+:::
+
+## Inoculation against climate disinformation, in 12 countries
+
+The 12-country study from part 3 also tested six inoculation strategies on 6,816 participants, who then read twenty pieces of real-world climate disinformation.
+
+. . .
+
+"While exposure to disinformation had strong detrimental effects [...], we found almost no evidence for protective effects of the inoculations." [@spampattiPsychologicalInoculationStrategies2023]
+
+##
+
+![[@spampattiPsychologicalInoculationStrategies2023]{.citation}](images/spampatti2023_fig2.png){height="520"}
+
+::: {.notes}
+Spampatti, Hahnel, Trutnevyte & Brosch 2023, Nature Human Behaviour. The six strategies: scientific consensus, trust in scientists, transparent communication, moralisation of climate action, accuracy, positive emotions. The figure shows the six inoculation conditions and the two controls on beliefs (a–c), truth discernment (d) and behaviour (e). The conditions sit on top of each other.
+
+This is the study of Tobia Spampatti, whose slides this session builds on, and it is a sobering result: against twenty pieces of real disinformation, one short inoculation message did little. The authors argue for more structural measures.
+:::
+
+## 4. Accuracy prompts
+
+Most people do not want to share false news. They just do not think about accuracy at the moment of sharing.
+
+. . .
+
+A simple reminder to think about accuracy improved the quality of what people went on to share, also in a field experiment on Twitter. [@pennycookShiftingAttentionAccuracy2021]
+
+## Comparing interventions in one experiment
+
+One large study compared nine interventions on 33,233 participants: "a wide variety of interventions can improve discernment", that is, the ability to tell true from false news. [@fazioCombatingMisinformationMegastudy2024]
+
+. . .
+
+The effects are real but modest, and they were measured only minutes after the intervention.
+
+::: {.notes}
+Pennycook, Epstein, Mosleh, Arechar, Eckles & Rand 2021, Nature, DOI 10.1038/s41586-021-03344-2. Abstract: "four survey experiments and a field experiment on Twitter; the results show that subtly shifting attention to accuracy increases the quality of news that people subsequently share." From the preprint (osf.io/3n9u8): in Study 1, whether a headline was true or false made a 55.9 percentage point difference to accuracy ratings but only 5.9 points to sharing intentions, which is the "disconnect" the intervention exploits. The field experiment messaged 5,379 Twitter users who had previously shared links to Breitbart or Infowars.
+
+A climate example: Lutzke et al. 2019, Global Environmental Change (n = 2,750), found that simple critical-thinking guidelines reduced the likelihood to trust, like and share fake news about climate change on Facebook, with small effect sizes. Today's reading cites this study as an extension of inoculation towards critical thinking.
+
+Fazio et al. 2024 (preprint, in Zotero), N = 33,233. Abstract: "The current megastudy with 33,233 US-based participants tests nine prominent misinformation interventions in an identical setting using true, false, and misleading health and political news headlines. We find that a wide variety of interventions can improve discernment between true versus false or misleading information during accuracy and sharing judgments." The interventions include accuracy nudges, digital literacy tips, inoculation and debunking.
+:::
+
+## The side effect: scepticism towards true news
+
+Fact-checks, media literacy tips and news coverage of misinformation were tested in the United States, Poland and Hong Kong with 6,127 participants. [@hoesProminentMisinformationInterventions2024]
+
+. . .
+
+"While all interventions successfully reduce belief in false information, they also negatively impact the credibility of factual information."
+
+. . .
+
+Making people more sceptical is easy. Making them better at telling true from false is the hard part.
+
+::: {.notes}
+Hoes, Aitken, Zhang, Gackowski & Wojcieszak 2024, Nature Human Behaviour, DOI 10.1038/s41562-024-01884-x. Abstract: "Current interventions to combat misinformation, including fact-checking, media literacy tips and media coverage of misinformation, may have unintended consequences for democracy. We propose that these interventions may increase scepticism towards all information, including accurate information. Across three online survey experiments in three diverse countries (the United States, Poland and Hong Kong; total n = 6,127), we tested the negative spillover effects of existing strategies and compared them with three alternative interventions against misinformation. We examined how exposure to fact-checking, media literacy tips and media coverage of misinformation affects individuals' perception of both factual and false information, as well as their trust in key democratic institutions. Our results show that while all interventions successfully reduce belief in false information, they also negatively impact the credibility of factual information."
+
+This is the same methodological point as the signal-detection debate about inoculation two slides back: an intervention that lowers belief in everything looks successful if you only measure belief in false news. Emma Hoes's related work: media attention to misinformation can itself undermine trust in scientists (Hoes et al. 2025, Political Behavior, DOI 10.1007/s11109-025-10090-y, in Zotero as hoesMediaAttentionMisinformation2025). The next slide shows one way out: tips that build trust in reliable news.
+:::
+
+## A different goal: trust in true news
+
+Tips that encouraged trust in reliable news improved people's ability to tell true from false news as much as tips that encouraged scepticism, and they also increased trust in traditional media. [@altayMediaLiteracyTips2024]
+
+. . .
+
+"There is more room to increase the acceptance of true news than to reduce the acceptance of fact-checked false news." [@pfanderSpottingFalseNews2025]
+
+## Beyond the individual
+
+Individual-level tools have modest effects that decay. Two structural measures remain.
+
+. . .
+
+Hold platforms accountable for the narrow fringe of users among whom, as we saw in part 3, exposure to misinformation concentrates. [@budakMisunderstandingHarmsOnline2024]
+
+. . .
+
+Address the organised supply of doubt from part 1.
+
+::: {.notes}
+Altay, Lyons & Modirrousta-Galian 2024, Communications Psychology, N = 3,919. Abstract: "Skepticism-enhancing tips, Trust-inducing tips, and a mix of both tips, increased participants' sharing and accuracy discernment. [...] the Trust-inducing tips increased trust in traditional media."
+
+Budak et al. 2024: "we recommend holding platforms accountable for facilitating exposure to false and extreme content in the tails of the distribution, where consumption is highest and the risk of real-world harm is greatest."
+:::
+
+##
+
+::: {.exercise}
+**Make your own misinformation** (10 minutes)
+
+Option A: in pairs, on one phone, play *Bad News* at [getbadnews.com](https://www.getbadnews.com/en) or [getbadnews.de](https://www.getbadnews.de). Stop after your third badge.
+
+Option B: in pairs, write one social media post against climate action using one technique from FLICC or one discourse of delay. Swap with the next pair. Can they name the technique?
+:::
+
+::: {.notes}
+This is the inoculation logic applied to the room: producing a weakened dose of the manipulation yourself. Debrief with two or three examples read aloud, and ask which technique the authors used and how a reader could have spotted it.
+
+Game check on 2026-11-08: Bad News is online at getbadnews.com (about 30 language versions, incl. German), browser only, no account. Educator material gives 10 to 20 minutes for the full game, hence the stop rule at three badges. Go Viral! is offline (domain parked). Harmony Square (harmonysquare.getbadnews.com) is a political alternative. Cranky Uncle (crankyuncle.com) is the only climate-specific game, but it is a spot-the-fallacy quiz, takes about 30 minutes, and needs an email sign-in or a teacher code requested in advance. It could be set as homework.
+
+Keep an eye on the clock. If less than 15 minutes remain, skip this exercise and show the Bad News badge screen instead.
+:::
+
+## To take home
+
+Companies that knew the science funded doubt about it. The message has shifted from denying the problem to attacking the solutions.
+
+. . .
+
+Misinformation can be recognised by its techniques, and those can be taught.
+
+## To take home
+
+Fake news is rare, and people are more sceptical than gullible. For climate change, the problem is an organised supply of doubt meeting a worldview-shaped demand.
+
+. . .
+
+Debunking, consensus messaging, prebunking and accuracy prompts all help somewhat. Effects are modest, they decay, and they do not replace structural measures.
+
+## What today's reading concludes
+
+1. Climate change challenges our cognitive abilities and the worldviews of many.
+2. Communication takes place in an environment of adversity.
+3. Information about the scientific consensus, and about why climate change occurs, can enhance acceptance of science.
+4. Culturally aligned messages and messengers are more likely to succeed.
+5. Inoculation can defang misinformation before it is encountered.
+
+[Summary points, shortened, from @lewandowskyClimateChangeDisinformation2021]{.citation}
+
+::: {.notes}
+Lewandowsky 2021, "Summary points", verbatim: "1. Climate change challenges our cognitive abilities and the worldviews of many. 2. Because addressing climate change has serious economic and political implications, any communication takes place in an environment of adversity. 3. Providing information about climate change, in particular about the scientific consensus and explanations of why it occurs, can enhance people's acceptance of science. 4. Culturally aligned messages and messengers are more likely to be successful. 5. Through a process known as inoculation, climate misinformation can be rebutted or, ideally, defanged before it is encountered."
+
+Where today's lecture went beyond the reading: the prevalence debate (part 3) and the mixed evidence on inoculation after 2021 (Spampatti et al. 2023, the signal-detection reanalyses).
+:::
+
+## References
+
+::: {#refs}
+:::

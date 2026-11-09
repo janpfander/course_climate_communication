@@ -1,3 +1,15 @@
 # Keys verified by hand; skipped by check_citations.py
 # metagGlobalWarmingsFive2015: Zotero uses the online-first year 2015 (print issue is 2017), confirmed by Jan 2026-09-15
 metagGlobalWarmingsFive2015
+# Eurobarometer reports carry EU Publications Office DOIs (10.2775/..., 10.2777/...), which are not registered with Crossref or DataCite. Both items were used and checked by Jan in the Ambizione research plan (~/git/ambizione/research_plan.qmd). Added 2026-11-09 for the session 9 slides
+europeancommissiondirectorate-generalforresearchandinnovationEuropeanCitizensKnowledge2021
+europeancommissiondirectorate-generalforresearchandinnovationEuropeanCitizensKnowledge2025
+# Grey literature and a book without Crossref records, created in Zotero on 2026-11-09 from the publishers' own pages for the session 9 slides (details in notes/09-slides-verification.md)
+luntzresearchcompaniesEnvironmentCleanerSafer2002
+oreskesMerchantsDoubtHow2010
+centerforcounteringdigitalhateNewClimateDenial2024
+worldeconomicforumGlobalRisksReport2024
+# Mann & Hotez 2025, Science Under Siege (PublicAffairs): book, no Crossref record, item was already in Jan's library. Added 2026-11-09 for the session 9 opening
+mannScienceSiegeHow2025
+# Global Witness 2023 "Global hating": NGO report without a DOI, created from the report page on 2026-11-09 for the session 9 opening
+globalwitnessGlobalHatingHow2023
