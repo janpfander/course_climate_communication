@@ -13,3 +13,11 @@ worldeconomicforumGlobalRisksReport2024
 mannScienceSiegeHow2025
 # Global Witness 2023 "Global hating": NGO report without a DOI, created from the report page on 2026-11-09 for the session 9 opening
 globalwitnessGlobalHatingHow2023
+# Reuters Institute Digital News Report 2018: report without a DOI, item cited by Jan in his PhD defense deck (~/git/presentations/phd_defense_presentation). Added 2026-11-09 for the session 9 closing section
+newmanReutersInstituteDigital2018
+# Michael Lewis, "Has Anyone Seen the President?", Bloomberg View, 9 Feb 2018: newspaper column, no DOI, source of the Bannon "flood the zone" quote. Zotero item created from the column URL on 2026-11-09 (wording checked against the Political Wire excerpt, notes/09-slides-verification.md)
+lewisHasAnyoneSeen2018
+# Kaufman, "The Carbon Footprint Sham", Mashable, 13 July 2020: web feature, no DOI, read in full on 2026-11-09 (BP, Ogilvy & Mather, 2004 calculator). Zotero item created from the article page
+kaufmanCarbonFootprintSham2020
+# Cook, Supran, Lewandowsky, Oreskes & Maibach 2019, "America Misled", George Mason University Center for Climate Change Communication: report, no DOI. Zotero item created 2026-11-09 from the Bristol press release and project page (the site itself was unreachable, error 526)
+cookAmericaMisledHow2019
