@@ -157,3 +157,12 @@ $presentation-heading-font-weight: 600;
     padding: 0.35em 0.6em;
   }
 }
+
+// Fragment that is visible from the start and turns bold when its step is reached
+.reveal .slides section .fragment.bold-in {
+  opacity: 1;
+  visibility: inherit;
+}
+.reveal .slides section .fragment.bold-in.visible {
+  font-weight: bold;
+}

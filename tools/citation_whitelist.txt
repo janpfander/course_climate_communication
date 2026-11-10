@@ -21,3 +21,16 @@ lewisHasAnyoneSeen2018
 kaufmanCarbonFootprintSham2020
 # Cook, Supran, Lewandowsky, Oreskes & Maibach 2019, "America Misled", George Mason University Center for Climate Change Communication: report, no DOI. Zotero item created 2026-11-09 from the Bristol press release and project page (the site itself was unreachable, error 526)
 cookAmericaMisledHow2019
+# Reuters Institute Digital News Report 2019: report without a DOI. Authors and chart (p. 21) checked against the PDF on 2026-11-10. Replaces the mislabelled 2018 chart in session 9
+newmanReutersInstituteDigital2019
+# Nohlen & Bruns 2025: JRC report without a DOI (repository handle JRC143145, dated 2025-09-09). Title and authors checked on the JRC page 2026-11-10, verified by Jan
+nohlenPersuasionTechniquesMake2025
+# Schimmack 2017: Replicability-Index blog post without a DOI (2017-02-02). Title and date checked 2026-11-10, verified by Jan. The post lists Heene and Kesavan as co-authors, missing in Zotero
+schimmackReconstructionTrainWreck2017
+# Cook 2020, "A history of FLICC: the 5 techniques of science denial", Skeptical Science blog post, no DOI. Title, author, date and the examples checked on the page 2026-11-10, used on the FLICC slide at Jan's request
+cookHistoryFLICC52020
+# Ordre Spontane blog post "Brandolini's law" (2014), no DOI, no named author on the page. Title, date and quoted tweet checked on the page 2026-11-10, cited at Jan's request
+BrandolinisLaw2014
+# News articles without DOIs, cited on the slide "Newspapers bought by the wealthy". Melley 2018 (AP, Boston Globe) and swissinfo.ch 2011, text checked on the pages 2026-11-10
+melleyBiotechBillionaireBuys2018
+NewspaperTakeoverReveals2011
