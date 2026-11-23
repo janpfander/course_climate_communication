@@ -34,3 +34,7 @@ BrandolinisLaw2014
 # News articles without DOIs, cited on the slide "Newspapers bought by the wealthy". Melley 2018 (AP, Boston Globe) and swissinfo.ch 2011, text checked on the pages 2026-11-10
 melleyBiotechBillionaireBuys2018
 NewspaperTakeoverReveals2011
+# Grey literature without DOIs, created in Zotero via the connector on 2026-11-23 for the session 11 slides. Titles, dates and quoted figures checked against the PDFs (Ipsos report April 2021, gfs.bern VOX reports July 2021 and July 2023, both on swissvotes.ch)
+ipsosEnvironmentalPerilsPerception2021
+gfs.bernVOXAnalyseJuni20212021
+gfs.bernVOXAnalyseJuni20232023
