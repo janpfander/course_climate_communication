@@ -256,7 +256,7 @@ How many times larger is the carbon footprint of the richest 1% in the USA than 
 
 ##
 
-In the USA, the richest 1% emit about 28 times as much as the poorest half. Across the four countries in the study, 93% of participants underestimated this inequality. [@nielsenUnderestimationPersonalCarbon2024]
+In the USA, a person in the richest 1% emits on average about 28 times as much as a person in the poorest half. Across the four countries in the study, 93% of participants underestimated this inequality. [@nielsenUnderestimationPersonalCarbon2024]
 
 . . .
 
