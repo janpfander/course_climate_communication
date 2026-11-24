@@ -59,7 +59,7 @@ Footprint calculators appear on the i-frame side of their table. Does this ring 
 ![[BP filling station. Photo: Richard Sutcliffe, geograph.org.uk, via Wikimedia Commons]{.citation}](images/bp_station_geograph.jpg){width="100%"}
 :::
 ::: {.column width="65%"}
-In the early 2000s, a BP campaign run by the public relations firm Ogilvy & Mather popularised the term "carbon footprint". In 2004, BP launched a calculator that let people work out their own footprint. [@kaufmanCarbonFootprintSham2020]
+In the early 2000s, BP and its public relations firm Ogilvy & Mather popularised the term "carbon footprint". In 2004, BP launched a footprint calculator. [@kaufmanCarbonFootprintSham2020]
 
 . . .
 
@@ -101,7 +101,7 @@ p. 12: "these problems remain unresolved primarily because of the active and coo
 
 ##
 
-Chater and Loewenstein's doubt is close to a conclusion of our session on misinformation. We concluded that interventions aimed at individuals tend to miss the bigger problems of the media landscape.
+Chater and Loewenstein's change of mind is close to a conclusion of our session on misinformation. We concluded that interventions aimed at individuals tend to miss the bigger problems of the media landscape.
 
 . . .
 
@@ -254,14 +254,14 @@ Wynes & Nicholas 2017, abstract: "we find that ten high school science textbooks
 
 ##
 
-Industry campaigns have also put the responsibility on individuals. Chater and Loewenstein's second example after BP is a US anti-littering campaign, funded by beverage and packaging companies, that told the public: "People start pollution. People can stop it." [@chaterIframeSframeHow2023]
+Industry campaigns have also put the responsibility on individuals. In their chapter on plastic waste, Chater and Loewenstein describe a US anti-littering campaign, funded by beverage and packaging companies, that told the public: "People start pollution. People can stop it." [@chaterIframeSframeHow2023]
 
 . . .
 
 Chater and Loewenstein cite the US EPA: less than 10% of plastic has been recycled in the last 40 years.
 
 ::: {.notes}
-Chater and Loewenstein use this campaign as a second example of the pattern they see behind the carbon footprint.
+Chater and Loewenstein treat plastic waste as another case of the pattern they see behind the carbon footprint (section 2.3, after obesity and retirement savings).
 
 Chater & Loewenstein 2023, p. 8, on the "Crying Indian" advertisement: "People start pollution. People can stop it." "The wider "Keep America Beautiful" campaign (ubiquitous from the 1950s until today), of which the ad was a part, was conceived and funded by beverage and packaging corporations including the American Can Co., Owens-Illinois Glass Co., and later Coca-Cola and Dixie Cup." On recycling: "promoting the myth that large-scale plastic recycling is technically and economically feasible, in order to allay concerns about new plastic. Yet, according to the Environmental Protection Agency (EPA), less than 10% of plastic has been recycled in the last 40 years." An industry partnership slogan (Earth911): "Thousands of individual small changes create a large, positive impact."
 
@@ -334,7 +334,7 @@ Cologna, Berthold & Siegrist 2022, Journal of Environmental Psychology, abstract
 
 ##
 
-In a survey in 125 countries, 69% said they would give 1% of their income to fight climate change. [@andreGloballyRepresentativeEvidence2024]
+In week 4, we saw a survey in 125 countries, where 69% said they would give 1% of their income to fight climate change. [@andreGloballyRepresentativeEvidence2024]
 
 . . .
 
@@ -368,13 +368,13 @@ The reading (p. 1): "less than 25% of householders who intended to implement flo
 
 ## How well do intentions predict what people do?
 
-Older meta-analyses, which pool the results of many studies, found moderately strong links between intentions and behaviour. Most of those studies asked people to report their own behaviour. [@fieldingUnderstandingReducingIntention2026; @bambergTwentyYearsHines2007]
+Older meta-analyses, which pool the results of many studies, found moderately strong links between intentions and behaviour. Many of those studies asked people to report their own behaviour. [@fieldingUnderstandingReducingIntention2026; @bambergTwentyYearsHines2007]
 
 . . .
 
 Guess: if we know people's intentions, how much of the differences in what they actually do can we account for? Write down a percentage.
 
-. . .
+##
 
 A newer meta-analysis, which used only observed behaviour and is not yet peer-reviewed, puts it at about 5%. [@fieldingUnderstandingReducingIntention2026]
 
@@ -412,7 +412,7 @@ Conner & Norman 2022, p. 8: "Sheeran (2002) noted that in relation to physical a
 
 ##
 
-In the control group of a US megastudy, which tests many interventions side by side, 79% committed to flying less and 71% to eating less beef. [@goldwertMegastudyBehavioralInterventions2026]
+In the control group of a US megastudy, which tests many interventions side by side, 79% said they were likely to commit to flying less and 71% to eating less beef. [@goldwertMegastudyBehavioralInterventions2026]
 
 . . .
 
@@ -428,7 +428,7 @@ Many intervention studies in climate communication measure intentions only. Crit
 
 . . .
 
-The next section shows an example.
+We will see an example in section 3.
 
 ::: {.notes}
 Dablander et al. 2025, PNAS letter (DOI 10.1073/pnas.2512457122), replying to Sinclair et al. 2025, an intervention tournament with 7,624 participants that tested 17 interventions. From the preprint version: "rather than measuring actual behavior, the authors measured intentions to share information about climate change and intentions to engage in pro-environmental behaviors." And: "the relative ordering of the effects in their intention-based intervention tournament is unlikely to be the same when targeting actual behavior." And: "A study of almost 16,000 young people found that 52% said they would participate in protests [8], yet our personal experience at protests points to attendance at least a thousand times smaller."
@@ -520,7 +520,7 @@ The reading lists tools for each level, from concrete plans to green defaults. T
 
 . . .
 
-In Chater and Loewenstein's terms, nearly all of these tools belong to the i-frame.
+In Chater and Loewenstein's terms, many of these tools, such as concrete plans, feedback and green defaults, belong to the i-frame.
 
 ::: {.notes}
 Tables 1–3 of the reading. Examples with the effect sizes as the reading reports them: implementation intentions ("On Monday night we eat vegetarian"), d = 0.47 (meta-analysis of experiments on pro-environmental behaviour), green defaults, d = 0.62 "across behavioural domains (health, food, environment, finance, prosocial and other)", financial incentives, d = 0.32 (second-order meta-analysis of field studies), social comparative feedback in RCTs, d = 0.08. Table notes: "Effect sizes can be interpreted as small at 0.2, medium at 0.5 and large at 0.8."
@@ -535,7 +535,7 @@ p. 7: "Advancing climate action will require coordinated efforts that reduce beh
 ## {.big-center}
 
 ::: {.statement}
-Intentions tend to predict observed behaviour only weakly, and most tools for closing the gap aim at the **person**, although many barriers lie in **structures**.
+Intentions tend to predict observed behaviour only weakly, and most research on closing the gap has tested tools aimed at the **person**, although many barriers lie in **structures**.
 :::
 
 ::: {.notes}
@@ -544,17 +544,17 @@ The reading sets one question aside on purpose, p. 1: "We therefore do not discu
 
 # 3. What do behavioural interventions achieve?
 
-## In the week 4 megastudy, no intervention increased tree planting
+## In the week 4 megastudy, no intervention raised tree planting
 
 In the megastudy from week 4, people in 63 countries could plant real trees by doing a tedious online task. [@vlasceanuAddressingClimateChange2024]
 
 . . .
 
-The interventions that reduced tree planting took longest to complete.
+Interventions that strengthened beliefs or policy support did not increase this effortful behaviour, as the critics of intention-only studies warned.
 
 . . .
 
-So interventions that strengthened beliefs or policy support did not increase this effortful behaviour, as the critics of intention-only studies warned.
+The interventions that reduced tree planting took longest to complete. Once the authors accounted for length, several interventions increased it.
 
 ::: {.notes}
 Vlasceanu et al. 2024, Science Advances, abstract: "Across 59,440 participants from 63 countries, the interventions' effectiveness was small, largely limited to nonclimate skeptics, and differed across outcomes: Beliefs were strengthened mostly by decreasing psychological distance (by 2.3%), policy support by writing a letter to a future-generation member (2.6%), information sharing by negative emotion induction (12.1%), and no intervention increased the more effortful behavior—several interventions even reduced tree planting."
@@ -669,10 +669,6 @@ Across 83 randomised trials, behavioural interventions had a very small effect w
 
 A 2026 reanalysis of the same trials, correcting for publication bias, concludes that the average effect of interventions without incentives is most likely zero. [@hardakerNoEvidenceThat2026]
 
-. . .
-
-Some specific interventions may still work. An earlier reanalysis of the same data had reached a larger estimate, so the answer depends partly on the method. [@vanderlindenAlternativeMetaanalysisBehavioral2020]
-
 ::: {.notes}
 Nisa et al. 2019, abstract: "Here we show that behavioural interventions promote climate change mitigation to a very small degree while the intervention lasts (d = −0.093 95% CI −0.160, −0.055), with no evidence of sustained positive effects once the intervention ends." Negative d means a beneficial effect in their coding. "We present a meta-analysis of randomised controlled trials comprising 3,092,678 observations". "The final sample according to our inclusion criteria comprised 83 studies, providing a total of 144 estimates."
 
@@ -705,15 +701,19 @@ Their conclusion: "Shifting climate policy focus toward incentives on the indivi
 
 ##
 
+Some specific interventions may still work. An earlier reanalysis of the same data had reached a larger estimate, so the answer depends partly on the method. [@vanderlindenAlternativeMetaanalysisBehavioral2020]
+
+##
+
 Nudges change how a choice is presented, for example which option is the default. A meta-analysis of nudges found a small-to-medium average effect. [@mertensEffectivenessNudgingMetaanalysis2022]
 
 . . .
 
-Corrected for publication bias, the estimates shrank sharply. Depending on the method, critics found a small average effect or no clear evidence of one. [@maierNoEvidenceNudging2022; @szasziNoReasonExpect2022]
+Corrected for publication bias, the estimates shrank, in some analyses to about zero. Depending on the method, critics found a small average effect or no clear evidence of one. [@maierNoEvidenceNudging2022; @szasziNoReasonExpect2022]
 
 . . .
 
-At scale, US government nudge units still found clear effects, but about a sixth of the size reported in academic journals. Their trials covered many policy areas besides climate. [@dellavignaRCTsScaleComprehensive2022]
+At scale, US government nudge units found clear effects, about a sixth of the size reported in journals, across many policy areas. [@dellavignaRCTsScaleComprehensive2022]
 
 ::: {.notes}
 Mertens, Herberz, Hahnel & Brosch 2022, PNAS, abstract: "Drawing on more than 200 studies reporting over 440 effect sizes (n = 2,148,439) ... Our results show that choice architecture interventions overall promote behavior change with a small to medium effect size of Cohen's d = 0.43 (95% CI [0.38, 0.48])." Also: "interventions that target the organization and structure of choice alternatives (decision structure) consistently outperform interventions that focus on the description of alternatives (decision information) or the reinforcement of behavioral intentions (decision assistance)."
@@ -757,20 +757,21 @@ In a Swiss field study, about 80% of customers kept a green electricity default 
 
 Chater and Loewenstein argue that emissions may barely change, because the default does not immediately produce new green power. Existing green electricity is only assigned to different customers. [@chaterIframeSframeHow2023]
 
-. . .
-
-With your neighbour: is a green default i-frame or s-frame? Then hands up for each.
-
 ::: {.notes}
 Liebe, Gewinner & Diekmann 2021, Nature Human Behaviour, DOI 10.1038/s41562-021-01070-3, abstract: "presenting renewable energy to existing customers as the standard option led to around 80% of the household and business sector customers staying with the green default, and the effects were largely stable over a time span of at least four years."
 
 Chater & Loewenstein 2023, p. 3: "the ultimate impact is likely to be slight. The energy system does not respond by instantaneously producing more green energy for newly defaulted consumers. Rather, existing green energy is reallocated, with no direct impact on the energy mix." p. 2: "the boundary between i- and s-frame policies is not always clear-cut".
 :::
 
+##
+
+With your neighbour: is a green default i-frame or s-frame? Then hands up for each.
+
+
 ## {.big-center}
 
 ::: {.statement}
-Information, feedback and other interventions without incentives tend to change behaviour only **a little**, possibly not at all. Changing the **structure** of a choice, as a default does, seems to move behaviour more, although it may cut fewer emissions than the uptake suggests.
+Information and feedback tend to change behaviour only **a little**, possibly not at all. Changing the **structure** of a choice seems to move behaviour more, but it may cut fewer emissions than the uptake suggests.
 :::
 
 [@bergquistFieldInterventionsClimate2023; @mertensEffectivenessNudgingMetaanalysis2022; @chaterIframeSframeHow2023]
@@ -891,7 +892,7 @@ Kukowski, Hofmann, Roozenbeek, van der Linden, Vandenbergh & Nielsen 2023, "The 
 
 ##
 
-How the measures are presented may matter. In a later study, 70% supported the tax when they read about it before the green default, and 60% when they read about it after. [@hagmannNudgingOutSupport2019]
+How the measures are presented may matter. In a later study, 70% supported the tax when they read about it before the green default, and 60% when they read about it after, a difference that could also be chance. [@hagmannNudgingOutSupport2019]
 
 . . .
 
@@ -960,6 +961,8 @@ Chater & Loewenstein 2023, Authors' Response, pp. 79–80, full sentence: "note 
 ##
 
 The IPCC estimates that demand-side measures could cut emissions in buildings, land transport and food by 40–70% by 2050. It counts changes in infrastructure and technology as well as behaviour, so the number does not tell us how much communication alone can do.
+
+##
 
 ![[@calvinIPCC2023Climate2023, Figure SPM.7b]{.citation}](images/ipcc_2023_syr_spm7b.png)
 
@@ -1049,11 +1052,11 @@ Fig. 1 of Kukowski et al. 2026, "The a-frame in action": for each of the five ro
 
 ##
 
-Personal behaviour may still matter for communicators. In vignette experiments, people were more likely to support policies when the advocate had a low carbon footprint. [@attariClimateChangeCommunicators2019]
+One of the five roles is the role model, and personal behaviour may still matter for communicators. In vignette experiments, people were more likely to support policies when the advocate had a low carbon footprint. [@attariClimateChangeCommunicators2019]
 
 . . .
 
-The penalty for a large footprint shrank when the communicator reduced it.
+A large footprint cost the communicator much less credibility when they had reduced it.
 
 ::: {.notes}
 Attari, Krantz & Weber 2019, Climatic Change, abstract: "We find that people are more likely to support policies if the advocate for these policies has a low carbon footprint." And: "Our new finding is that their carbon footprint also affects audience support for public policies advocated by the communicator. In a second study, we show that the negative effects of a large carbon footprint on credibility are greatly reduced if the communicator reforms their behavior by reducing their personal carbon footprints." Hypothetical vignettes with online samples.
@@ -1067,10 +1070,6 @@ A frontline Amazon worker has little say over corporate climate policy. An execu
 
 Back to whose behaviour: most emissions of the top 1% come through their investments, so some of their largest levers may lie outside consumption. [@chancelGlobalCarbonInequality2022; @nielsenRoleHighsocioeconomicstatusPeople2021]
 
-. . .
-
-The IPCC sees the highest potential for emissions reductions in people of high socio-economic status, as citizens, investors, consumers, role models and professionals. [@calvinIPCC2023Climate2023]
-
 ::: {.notes}
 Kukowski et al. 2026, p. 628: "A frontline worker for Amazon, for example, has limited ability to influence corporate climate policies, while an executive in the same company may shape procurement standards, investment decisions or political lobbying." p. 629: "Yet these same actors can obstruct necessary climate transitions by promoting delay, protecting carbon-intensive behaviours or leveraging political influence to resist transformative climate policy."
 
@@ -1082,6 +1081,11 @@ IPCC 2023, Synthesis Report: "Individuals with high socio-economic status contri
 
 Kukowski et al. 2026, p. 629: "(1) map behaviour by social role and institutional leverage; (2) prioritize high-impact, high-agency behaviours; and (3) increase agency for those who are constrained."
 :::
+
+##
+
+The IPCC sees the highest potential for emissions reductions in people of high socio-economic status, as citizens, investors, consumers, role models and professionals. [@calvinIPCC2023Climate2023]
+
 
 ## {.big-center}
 
@@ -1227,9 +1231,9 @@ Chater & Loewenstein 2023, p. 4: "Having a real impact will require systemic tra
 VOX 2023: "Mit anderen Worten: Das Bewusstsein für die Klimaproblematik ist vorhanden und ihr soll mit einer möglichst geringen finanziellen Belastung der Bevölkerung entgegengewirkt werden."
 :::
 
-## Messages can raise commitments to advocacy a little
+## Messages can raise stated commitments to advocacy
 
-In the US megastudy from section 2, a message that collective action works and feels good raised stated advocacy commitments by up to 10 percentage points. Effects on actual behaviour, such as writing a letter, were tested only in exploratory analyses. [@goldwertMegastudyBehavioralInterventions2026]
+In the US megastudy from section 2, a message that collective action works and feels good raised stated advocacy commitments by up to 10 percentage points. [@goldwertMegastudyBehavioralInterventions2026]
 
 . . .
 
@@ -1247,7 +1251,7 @@ Castiglione et al. 2022, Royal Society Open Science, DOI 10.1098/rsos.210006, ab
 
 ##
 
-In an online game, groups of about 24 people agreed on a name for a person in a picture. When about a quarter of a group consistently used a new name, the whole group switched. The authors caution that this threshold need not hold elsewhere. [@centolaExperimentalEvidenceTipping2018]
+In an online game, groups of about 24 people agreed on a name for a person in a picture. When about a quarter of a group consistently used a new name, the group's convention changed. The authors caution that this threshold need not hold elsewhere. [@centolaExperimentalEvidenceTipping2018]
 
 . . .
 
@@ -1266,7 +1270,7 @@ Constantino et al. 2022 [@constantinoScalingChangeCritical2022], abstract: "Soci
 ::: {.incremental}
 - Communication can explain how policies work and stress their fairness and effectiveness, the perceptions most closely tied to support. [@bergquistMetaanalysesFifteenDeterminants2022; @dechezlepretreFightingClimateChange2025]
 - Saying that a nudge is no substitute may protect support for bigger policies. [@hagmannNudgingOutSupport2019]
-- Messages can mobilise citizens a little, perhaps only briefly. [@goldwertMegastudyBehavioralInterventions2026]
+- Messages can raise stated commitments to advocacy a little, and nobody knows yet for how long. [@goldwertMegastudyBehavioralInterventions2026]
 :::
 
 ::: {.notes}
@@ -1323,9 +1327,9 @@ Early on, we saw BP's calculator, which asked each of us to measure our own foot
 
 . . .
 
-Today's evidence suggests that many people misjudge which personal actions matter, and that emissions are very unequal. Chater and Loewenstein add that a focus on personal footprints may draw attention away from the rules.
+Today's evidence suggests that many people misjudge which personal actions matter, and that emissions are very unequal. Chater and Loewenstein add that a focus on personal footprints may draw attention away from the rules, although the evidence for this is mixed.
 
-## Where should climate communication aim?
+## Where should communication aim?
 
 It could aim at people in roles that shape the rules, as citizens, professionals and investors, and especially at people of high socio-economic status.
 
