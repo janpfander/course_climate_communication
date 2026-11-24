@@ -73,6 +73,8 @@ Shortened from session 9 (slide "Individualism, made by an oil company").
 Kaufman, "The Carbon Footprint Sham", Mashable, 13 July 2020: "British Petroleum, the second largest non-state owned oil company in the world, with 18,700 gas and service stations worldwide, hired the public relations professionals Ogilvy & Mather to promote the slant that climate change is not the fault of an oil giant, but that of individuals. It's here that British Petroleum, or BP, first promoted and soon successfully popularized the term 'carbon footprint' in the early aughts. The company unveiled its 'carbon footprint calculator' in 2004". "In 2004 alone, 278,000 people calculated their footprints." Benjamin Franta, then at Stanford: "This is one of the most successful, deceptive PR campaigns maybe ever."
 
 Lamb et al. 2020, Figure 1: individualism belongs to the family "redirect responsibility" (someone else should take action first).
+
+Supran & Oreskes 2021 [@supranRhetoricFrameAnalysis2021], One Earth, on ExxonMobil, abstract: "they have used rhetoric of climate "risk" and consumer energy "demand" to construct a "Fossil Fuel Savior" (FFS) frame that downplays the reality and seriousness of climate change, normalizes fossil fuel lock-in, and individualizes responsibility."
 :::
 
 ##
@@ -300,7 +302,7 @@ In the USA, the richest 1% emit about 28 times as much as the poorest half. Acro
 
 . . .
 
-The more people underestimated it, the less they tended to support climate policy.
+Across the four countries, people who underestimated it more tended to support climate policy less. In separate country models, this link was clear only in Denmark and Nigeria.
 
 ::: {.notes}
 Nielsen, Bauer, Debnath, Emogor, Geiger, Ghai, Gwozdz & Hahnel 2024, Nature Climate Change, DOI 10.1038/s41558-024-02130-y. The ratio follows from the actual values given in the Methods for the USA: 269.3 tCO2-eq. for the top 1% and 9.7 tCO2-eq. for the bottom 50%.
@@ -376,6 +378,10 @@ Guess: if we know people's intentions, how much of the differences in what they 
 
 A newer meta-analysis, which used only observed behaviour and is not yet peer-reviewed, puts it at about 5%. [@fieldingUnderstandingReducingIntention2026]
 
+. . .
+
+That is a correlation of 0.22. Some methodologists warn that squaring a correlation in this way can make a medium effect look tiny. [@funderEvaluatingEffectSize2019]
+
 ::: {.notes}
 Fielding & Hornsey 2026, p. 1: "two meta-analyses (each including more than 50 datasets) suggest that intentions are moderately large predictors of environmentally relevant behaviour, with average correlations ranging from 0.38 to 0.52 (refs. 5,6). However, many of the studies in these meta-analytic reviews measure behaviour as self-reported recollections of past behaviours, which may be biased. A more recent meta-analysis, which drilled down exclusively to studies that quantified the association between intentions and objectively verifiable pro-environmental behaviour, found a relatively small correlation (r = 0.22, k = 224). In other words, self-reported intentions to engage in pro-environmental behaviour explained just 5% of the variance in actual pro-environmental behaviour."
 
@@ -384,6 +390,8 @@ The r = 0.22 meta-analysis is Chapman, McKay, Schultz & Gulliver 2026, a preprin
 Bamberg & Möser 2007, p. 20: "In our meta-analysis, the mean correlation of intention and proenvironmental behaviour is r = .52 (15 studies)". p. 19: "From the 15 retrieved intention–behaviour correlations only two are below .20."
 
 Across behaviours in general, Conner & Norman 2022, p. 2 [@connerUnderstandingIntentionbehaviorGap2022]: "Armitage and Conner (2001) reported that intention and perceived behavioral control explained 31% of the variance in self-reported behaviors, but only 20% of the variance in objective behaviors."
+
+Funder & Ozer 2019, Advances in Methods and Practices in Psychological Science, abstract: "the most common mistakes being to describe them in ways that are uninformative (e.g., using arbitrary standards) or misleading (e.g., squaring effect-size rs)." And: "an effect-size r of .20 indicates a medium effect that is of some explanatory and practical use even in the short run".
 :::
 
 ##
@@ -659,7 +667,11 @@ Across 83 randomised trials, behavioural interventions had a very small effect w
 
 . . .
 
-A 2026 reanalysis that corrected for publication bias concludes that the average effect is most likely zero. [@hardakerNoEvidenceThat2026]
+A 2026 reanalysis of the same trials, correcting for publication bias, concludes that the average effect of interventions without incentives is most likely zero. [@hardakerNoEvidenceThat2026]
+
+. . .
+
+Some specific interventions may still work. An earlier reanalysis of the same data had reached a larger estimate, so the answer depends partly on the method. [@vanderlindenAlternativeMetaanalysisBehavioral2020]
 
 ::: {.notes}
 Nisa et al. 2019, abstract: "Here we show that behavioural interventions promote climate change mitigation to a very small degree while the intervention lasts (d = −0.093 95% CI −0.160, −0.055), with no evidence of sustained positive effects once the intervention ends." Negative d means a beneficial effect in their coding. "We present a meta-analysis of randomised controlled trials comprising 3,092,678 observations". "The final sample according to our inclusion criteria comprised 83 studies, providing a total of 144 estimates."
@@ -697,11 +709,11 @@ Nudges change how a choice is presented, for example which option is the default
 
 . . .
 
-Corrected for publication bias, no clear evidence of an average effect remained. [@maierNoEvidenceNudging2022]
+Corrected for publication bias, the estimates shrank sharply. Depending on the method, critics found a small average effect or no clear evidence of one. [@maierNoEvidenceNudging2022; @szasziNoReasonExpect2022]
 
 . . .
 
-At scale, US government nudge units found about a sixth of the effect reported in academic journals. [@dellavignaRCTsScaleComprehensive2022]
+At scale, US government nudge units still found clear effects, but about a sixth of the size reported in academic journals. Their trials covered many policy areas besides climate. [@dellavignaRCTsScaleComprehensive2022]
 
 ::: {.notes}
 Mertens, Herberz, Hahnel & Brosch 2022, PNAS, abstract: "Drawing on more than 200 studies reporting over 440 effect sizes (n = 2,148,439) ... Our results show that choice architecture interventions overall promote behavior change with a small to medium effect size of Cohen's d = 0.43 (95% CI [0.38, 0.48])." Also: "interventions that target the organization and structure of choice alternatives (decision structure) consistently outperform interventions that focus on the description of alternatives (decision information) or the reinforcement of behavioral intentions (decision assistance)."
@@ -709,6 +721,10 @@ Mertens, Herberz, Hahnel & Brosch 2022, PNAS, abstract: "Drawing on more than 20
 Maier et al. 2022, PNAS letter: "We propose their finding of "moderate publication bias" (p. 1) is the real headline; when this publication bias is appropriately corrected for, no evidence for the effectiveness of nudges remains (Fig. 1)." Environment domain after correction: "0.01 [−0.18, 0.25]". Their hedge: "all intervention categories and domains apart from "finance" show evidence for heterogeneity, which implies that some nudges might be effective".
 
 DellaVigna & Linos 2022, Econometrica, DOI 10.3982/ecta18709, abstract: "We assemble a unique data set of 126 RCTs covering 23 million individuals, including all trials run by two of the largest Nudge Units in the United States." "In the Academic Journals papers, the average impact of a nudge is very large—an 8.7 percentage point take‐up effect, which is a 33.4% increase over the average control. In the Nudge Units sample, the average impact is still sizable and highly statistically significant, but smaller at 1.4 percentage points, an 8.0% increase." "selective publication in the Academic Journals sample, exacerbated by low statistical power, explains about 70 percent of the difference in effect sizes between the two samples." The trials cover many policy areas.
+
+Szaszi et al. 2022, PNAS letter on the same meta-analysis: "After adjusting for a hypothesized severe to moderate degree of publication bias, their adjusted estimated average effect of nudges is between d = 0.08 (severe) and d = 0.31 (moderate)." And: "Until then, with a few exceptions [e.g., defaults (6)], we see no reason to expect large and consistent effects when designing nudge experiments or running interventions."
+
+Mertens et al. 2022, reply [@mertensReplyMaierSzaszi2022]: "We agree that the publication bias observed in the current choice architecture literature is problematic."
 :::
 
 ## Defaults change the structure of a choice and can work well
@@ -719,12 +735,18 @@ In a German study, making green electricity the default raised its uptake nearly
 
 A provider or a regulator sets the default. The customer only decides whether to opt out.
 
+. . .
+
+Across many studies, defaults had a sizeable average effect, but they tended to work less well in environmental domains. [@jachimowiczWhenWhyDefaults2019]
+
 ::: {.notes}
 Ebeling & Lotz 2015, Nature Climate Change, abstract: "Setting the default choice to more expensive 'green' energy (that is, where consumers have to actively opt out if they do not want it) increased purchases of such nearly tenfold." Also: "county-level political preference for the green party uniquely predicted behaviour in the absence of the nudge, suggesting that default setting potentially overrules motivational aspects of green energy purchases."
 
 Kaiser, Bernauer, Sunstein & Reisch 2020 [@kaiserPowerGreenDefaults2020], Ecological Economics, abstract: "We show that in Germany, green defaults, automatically enrolling customers in renewable energy sources, tend to stick, especially but not only among those who are concerned about the problem of climate change. This finding, based on real-world rather than experimental evidence, attests to the power of automatic enrollment".
 
 Mertens et al. 2022: interventions on decision structure "consistently outperform" those on decision information.
+
+Jachimowicz, Duncan, Weber & Johnson 2019, Behavioural Public Policy, abstract: "While our analysis reveals a considerable influence of defaults (d = 0.68, 95% confidence interval = 0.53–0.83), we also discover substantial variation: the majority of default studies find positive effects, but several do not find a significant effect, and two even demonstrate negative effects." And: "we find that defaults in consumer domains are more effective and in environmental domains are less effective."
 :::
 
 ## Even a lasting green default may barely cut emissions
@@ -748,13 +770,15 @@ Chater & Loewenstein 2023, p. 3: "the ultimate impact is likely to be slight. Th
 ## {.big-center}
 
 ::: {.statement}
-Interventions aimed at individuals tend to change behaviour only **a little**, possibly not at all. Changing the **structure** of a choice, as a default does, seems to move behaviour more, although it may cut fewer emissions than the uptake suggests.
+Information, feedback and other interventions without incentives tend to change behaviour only **a little**, possibly not at all. Changing the **structure** of a choice, as a default does, seems to move behaviour more, although it may cut fewer emissions than the uptake suggests.
 :::
 
 [@bergquistFieldInterventionsClimate2023; @mertensEffectivenessNudgingMetaanalysis2022; @chaterIframeSframeHow2023]
 
 ::: {.notes}
 Bergquist et al. 2023, Discussion: "Knowledge, such as basic problem awareness, is likely a necessary but insufficient condition for behavioral change."
+
+Khanna et al. 2021 [@khannaMulticountryMetaanalysisRole2021], Nature Energy, abstract, on household energy trials: "We identify 122 studies and extract 360 effect sizes representing trials on 1.2 million households in 25 countries. We find that all the studied interventions reduce energy consumption of households. Our meta-regression evidences that monetary incentives are on an average more effective than behavioral interventions, but deploying the right combinations of interventions together can increase overall effectiveness."
 :::
 
 # 4. Do personal measures crowd out support for policy?
@@ -823,6 +847,8 @@ It also lowered their commitment to collective actions such as voting or marchin
 
 ::: {.notes}
 Goldwert, Patel, Nielsen, Goldberg & Vlasceanu 2025, PNAS Nexus, DOI 10.1093/pnasnexus/pgaf191, abstract: "Participants (n = 3,895) were randomly assigned to one of three experimental conditions [...] Both the Prediction and Information interventions led to more accurate efficacy perceptions and increased commitments to engage in higher-impact individual-level actions relative to the Control group. [...] However, we also found evidence for a negative spillover effect from individual to collective actions: participants in the literacy conditions decreased their commitments to collective climate actions such as voting or marching, suggesting an unintended consequence of interventions focusing solely on individual-level actions."
+
+Castro Santa, Drews & van den Bergh 2024 [@castrosantaBehavioralSpilloversGreen2024], Frontiers in Behavioral Economics, abstract: "Using an experiment among US citizens (N = 1,985), we show that spillovers from green purchases differ significantly between pro-environmental behaviors. In particular we find that spillovers are positive for green consumption and negative for climate policy support." And: "pro-environmental identity, previously suggested in the literature as a central moderator of spillover effects from green purchases, appears to be less determinant."
 :::
 
 ##
@@ -841,6 +867,18 @@ Crowding out found: Goldwert et al. 2025 (commitment to voting and marching), an
 Ghasemi et al. 2026: "Thus, the evidence remains mixed regarding the effects of individual pro-environmental actions, on subsequent behaviours, support for collective efforts, and broader climate policies."
 
 Ghasemi et al. 2025 [@ghasemiExposureIndividualClimate2025] is the pair of experiments in Iran and Australia quoted above.
+:::
+
+##
+
+Across spillover experiments, one green action had on average almost no effect on later policy support. [@makiMetaanalysisProenvironmentalBehaviour2019]
+
+::: {.notes}
+Maki et al. 2019, Nature Sustainability, abstract: "the spillover effect was negative and small for actual behaviour (d+ = −0.03) and policy support (d+ = −0.01) for PEB2."
+
+Geiger et al. 2021 [@geigerMoreGreenGray2021], Journal of Environmental Psychology, a Bayesian update with more studies, on behaviour (abstract): "A three-level Bayesian meta-analysis provided weak support for no spillover on intentions and strong support for no spillover on behaviors."
+
+Chater & Loewenstein 2023, Authors' Response, p. 79: they are "certainly not claiming that crowd-out is one of the most important causes of lack of progress on climate change".
 :::
 
 ##
@@ -1009,6 +1047,18 @@ p. 628, high-agency behaviours: "(1) they are embedded in roles where individual
 Fig. 1 of Kukowski et al. 2026, "The a-frame in action": for each of the five roles, an example of a high-impact behaviour, a constraint, and ways to use and to expand agency. p. 628: "Investors can advance fossil fuel divestment, which can shift social and political expectations, although these effects are limited."
 :::
 
+##
+
+Personal behaviour may still matter for communicators. In vignette experiments, people were more likely to support policies when the advocate had a low carbon footprint. [@attariClimateChangeCommunicators2019]
+
+. . .
+
+The penalty for a large footprint shrank when the communicator reduced it.
+
+::: {.notes}
+Attari, Krantz & Weber 2019, Climatic Change, abstract: "We find that people are more likely to support policies if the advocate for these policies has a low carbon footprint." And: "Our new finding is that their carbon footprint also affects audience support for public policies advocated by the communicator. In a second study, we show that the negative effects of a large carbon footprint on credibility are greatly reduced if the communicator reforms their behavior by reducing their personal carbon footprints." Hypothetical vignettes with online samples.
+:::
+
 ## Some roles carry far more influence than others
 
 A frontline Amazon worker has little say over corporate climate policy. An executive may shape procurement, investment and lobbying. [@kukowskiLeveragingAgencyClimate2026]
@@ -1081,6 +1131,14 @@ p. 236: "Among all determinants, fairness showed the strongest relationship with
 
 ::: {.notes}
 Fig. 1 of Bergquist et al. 2022: "Visual summary of the relationship between determinants and public opinion about climate change taxes and laws. [...] Geometrical centres of the diamond shapes represent mean values and end-points represent ±95% CI."
+:::
+
+##
+
+These are correlations. In a survey experiment in 20 countries, videos that explained how climate policies work raised support for them. Videos that only showed the impacts of climate change did not. [@dechezlepretreFightingClimateChange2025]
+
+::: {.notes}
+Dechezleprêtre, Fabre, Kruse, Planterose, Sanchez Chico & Stantcheva 2025, American Economic Review, abstract: "We conduct large-scale surveys with 40,000 respondents from 20 countries [...]. We identify three key perceptions affecting policy support: perceived effectiveness of policies in reducing emissions, their impact on low-income households, and their effect on respondents' households (self-interest). Educational videos clarifying policy mechanisms increase support for climate policies; those merely highlighting climate change's impacts do not."
 :::
 
 ##
@@ -1171,7 +1229,7 @@ VOX 2023: "Mit anderen Worten: Das Bewusstsein für die Klimaproblematik ist vor
 
 ## Messages can raise commitments to advocacy a little
 
-In the US megastudy from section 2, a message that collective action works and feels good raised advocacy commitments by up to 10 percentage points. [@goldwertMegastudyBehavioralInterventions2026]
+In the US megastudy from section 2, a message that collective action works and feels good raised stated advocacy commitments by up to 10 percentage points. Effects on actual behaviour, such as writing a letter, were tested only in exploratory analyses. [@goldwertMegastudyBehavioralInterventions2026]
 
 . . .
 
@@ -1206,7 +1264,7 @@ Constantino et al. 2022 [@constantinoScalingChangeCritical2022], abstract: "Soci
 ## On thin evidence, communication might help in three ways
 
 ::: {.incremental}
-- Communication can stress fairness and effectiveness, the two perceptions most closely tied to support. [@bergquistMetaanalysesFifteenDeterminants2022]
+- Communication can explain how policies work and stress their fairness and effectiveness, the perceptions most closely tied to support. [@bergquistMetaanalysesFifteenDeterminants2022; @dechezlepretreFightingClimateChange2025]
 - Saying that a nudge is no substitute may protect support for bigger policies. [@hagmannNudgingOutSupport2019]
 - Messages can mobilise citizens a little, perhaps only briefly. [@goldwertMegastudyBehavioralInterventions2026]
 :::
@@ -1265,7 +1323,7 @@ Early on, we saw BP's calculator, which asked each of us to measure our own foot
 
 . . .
 
-Today's evidence suggests that asking everyone to shrink their own footprint a little may aim at the wrong behaviours and the wrong people. Chater and Loewenstein add that it may draw attention away from changing the rules.
+Today's evidence suggests that many people misjudge which personal actions matter, and that emissions are very unequal. Chater and Loewenstein add that a focus on personal footprints may draw attention away from the rules.
 
 ## Where should climate communication aim?
 
