@@ -1743,7 +1743,7 @@
     "href": "slides/11-slides.html#overview",
     "title": "From communication to behavior change",
     "section": "Overview",
-    "text": "Overview\nWe approach it through six smaller questions:\n\nWhich behaviours matter, and whose?\nDo intentions become behaviour?\nWhat do behavioural interventions achieve?\nDo personal measures crowd out support for policy?\nDo we have to choose between individuals and systems?\nWhat can communication do for system change?"
+    "text": "Overview\nWe approach it through six smaller questions:\n\nWhich behaviours matter, and whose?\nDo intentions become behaviour?\nHow much can communication change behaviour?\nDo personal measures crowd out support for policy?\nDo we have to choose between individuals and systems?\nWhat can communication do for system change?"
   },
   {
     "objectID": "slides/11-slides.html#most-people-say-they-are-willing-to-act",
@@ -3465,7 +3465,7 @@
     "href": "slides/11-slides.html#section-39",
     "title": "From communication to behavior change",
     "section": "",
-    "text": "Information and feedback tend to change behaviour only a little, possibly not at all. Changing the structure of a choice seems to move behaviour more, but it may cut fewer emissions than the uptake suggests.\n\n(Bergquist et al., 2023; Chater & Loewenstein, 2023a; Mertens et al., 2022b)\n\nBergquist et al. 2023, Discussion: “Knowledge, such as basic problem awareness, is likely a necessary but insufficient condition for behavioral change.”\nKhanna et al. 2021 (Khanna et al., 2021), Nature Energy, abstract, on household energy trials: “We identify 122 studies and extract 360 effect sizes representing trials on 1.2 million households in 25 countries. We find that all the studied interventions reduce energy consumption of households. Our meta-regression evidences that monetary incentives are on an average more effective than behavioral interventions, but deploying the right combinations of interventions together can increase overall effectiveness.”"
+    "text": "Messages that inform people or give them feedback tend to change behaviour only a little, possibly not at all. Changing the structure of a choice seems to move behaviour more, but it may cut fewer emissions than the uptake suggests.\n\n(Bergquist et al., 2023; Chater & Loewenstein, 2023a; Mertens et al., 2022b)\n\nBergquist et al. 2023, Discussion: “Knowledge, such as basic problem awareness, is likely a necessary but insufficient condition for behavioral change.”\nKhanna et al. 2021 (Khanna et al., 2021), Nature Energy, abstract, on household energy trials: “We identify 122 studies and extract 360 effect sizes representing trials on 1.2 million households in 25 countries. We find that all the studied interventions reduce energy consumption of households. Our meta-regression evidences that monetary incentives are on an average more effective than behavioral interventions, but deploying the right combinations of interventions together can increase overall effectiveness.”"
   },
   {
     "objectID": "slides/11-slides.html#section-40",
@@ -4124,5 +4124,12 @@
     "title": "From communication to behavior change",
     "section": "Little is known about which interventions help people act in these roles",
     "text": "Little is known about which interventions help people act in these roles\n“Behavioural research has disproportionately focused on consumer behaviour while overlooking behaviour in other roles with potentially greater system-level influence.” (Kukowski et al., 2026)\n\nNielsen and colleagues add that more research is needed on when changes in individuals lead to changes in the system. (Nielsen, Cologna, et al., 2024)\n\nKukowski et al. 2026, p. 627.\nNielsen et al. 2024, abstract: “Behavioural science has yielded insights about the actions of individuals, particularly as consumers, that affect climate change. Behaviours in other spheres of life remain understudied.” And: “More research is also needed to understand better when changes at the individual and social levels lead to system-level changes.”\nFielding & Hornsey 2026, p. 4: “Of the three levels of analysis described in this paper, the majority of intervention research has focused on the intrapersonal level.”"
+  },
+  {
+    "objectID": "slides/11-slides.html#many-behavioural-interventions-are-communication",
+    "href": "slides/11-slides.html#many-behavioural-interventions-are-communication",
+    "title": "From communication to behavior change",
+    "section": "Many behavioural interventions are communication",
+    "text": "Many behavioural interventions are communication\nMany tools in this field send people a message: information, appeals, feedback on their own behaviour, reminders, or what other people do. (Bergquist et al., 2023)\n\nOthers change the choice itself, for example its default option or its price. This section asks how much each changes behaviour, starting with messages. (Mertens et al., 2022b)\n\nBergquist et al. 2023, p. 1, the interventions in their second-order meta-analysis: “voluntary change measures such as information, education, prompts, feedback, financial incentives, social influence approaches, and nudging techniques applied in real-world settings”.\nMertens et al. 2022, abstract, three kinds of choice architecture: “interventions that target the organization and structure of choice alternatives (decision structure) consistently outperform interventions that focus on the description of alternatives (decision information) or the reinforcement of behavioral intentions (decision assistance).”"
   }
 ]
