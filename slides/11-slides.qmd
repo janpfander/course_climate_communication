@@ -424,7 +424,13 @@ p. 254: "respondents who state they would be willing to contribute 1% of their m
 
 This matters because many intervention studies in climate communication measure intentions only. Critics argue that the interventions that raise intentions most need not change behaviour most. [@dablanderExpressingIntentionsNot2025a]
 
-. . .
+::: {.notes}
+Dablander et al. 2025, PNAS letter (DOI 10.1073/pnas.2512457122), replying to Sinclair et al. 2025, an intervention tournament with 7,624 participants that tested 17 interventions. From the preprint version: "rather than measuring actual behavior, the authors measured intentions to share information about climate change and intentions to engage in pro-environmental behaviors." And: "the relative ordering of the effects in their intention-based intervention tournament is unlikely to be the same when targeting actual behavior." And: "A study of almost 16,000 young people found that 52% said they would participate in protests [8], yet our personal experience at protests points to attendance at least a thousand times smaller."
+
+The reading (p. 7): "researchers and practitioners should move beyond treating intentions as a proxy for behaviour".
+:::
+
+##
 
 Even studies that record behaviour may not record the behaviour people stated intentions for. In a US megastudy, 79% said they were likely to commit to flying less. Fewer took actions the researchers could observe, such as donating (49%). [@goldwertMegastudyBehavioralInterventions2026]
 
@@ -434,10 +440,6 @@ Across 47 experiments, a medium-to-large change in intentions brought a behaviou
 
 ::: {.notes}
 Goldwert et al. 2026, PNAS Nexus, DOI 10.1093/pnasnexus/pgaf400, Results p. 5: "At baseline (i.e. in the control condition; n = 1,739), a majority of participants were likely to commit to lifestyle changes such as flying less (79%) or eating less beef (71%) ... Fewer participants, however, engaged in the behavioral outcomes, such as making real donations to environmental organizations (49%), or writing to their representative (41%). Even fewer participants reported joining climate organizations by subscribing to their newsletter (22%), signing petitions (19%), or sharing video information online (16%". The full study had 31,324 participants.
-
-Dablander et al. 2025, PNAS letter (DOI 10.1073/pnas.2512457122), replying to Sinclair et al. 2025, an intervention tournament with 7,624 participants that tested 17 interventions. From the preprint version: "rather than measuring actual behavior, the authors measured intentions to share information about climate change and intentions to engage in pro-environmental behaviors." And: "the relative ordering of the effects in their intention-based intervention tournament is unlikely to be the same when targeting actual behavior." And: "A study of almost 16,000 young people found that 52% said they would participate in protests [8], yet our personal experience at protests points to attendance at least a thousand times smaller."
-
-The reading (p. 7): "researchers and practitioners should move beyond treating intentions as a proxy for behaviour".
 
 Webb & Sheeran 2006, Psychological Bulletin, DOI 10.1037/0033-2909.132.2.249, abstract: "The present research obtained 47 experimental tests of intention-behavior relations that satisfied these criteria. Meta-analysis showed that a medium-to-large change in intention (d = 0.66) leads to a small-to-medium change in behavior (d = 0.36)."
 :::
