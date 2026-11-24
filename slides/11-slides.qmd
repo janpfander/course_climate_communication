@@ -482,12 +482,10 @@ Webb & Sheeran 2006, Psychological Bulletin, DOI 10.1037/0033-2909.132.2.249, ab
 
 ## Why does the gap arise, and how could it narrow?
 
-The reading traces the gap to three levels: the person, the social context and the structures people live in. [@fieldingUnderstandingReducingIntention2026]
-
-![[@fieldingUnderstandingReducingIntention2026, Fig. 1, top row]{.citation}](images/fielding_hornsey_2026_fig1_levels.png)
+![[@fieldingUnderstandingReducingIntention2026]{.citation}](images/fielding_hornsey_2026_fig1.png)
 
 ::: {.notes}
-Fig. 1 of the reading, top row: "Tripartite framework of mechanisms explaining the climate action intention–behaviour gap and proposed strategies to overcome the gap." Intrapersonal: cognitive biases, emotion-based drivers, behavioural habits. Social: social approval, observability, identity and norms. Structural: cost, convenience, system-based trust.
+Fig. 1 of the reading: "Tripartite framework of mechanisms explaining the climate action intention–behaviour gap and proposed strategies to overcome the gap." Intrapersonal: cognitive biases, emotion-based drivers, behavioural habits. Social: social approval, observability, identity and norms. Structural: cost, convenience, system-based trust. Each column lists interventions underneath the mechanisms.
 :::
 
 ##
@@ -511,13 +509,22 @@ For each level, think of a climate-friendly action that someone intends but does
 :::
 :::
 
-##
+## The person
 
+::: {.columns}
+::: {.column width="35%"}
+![](images/fielding_hornsey_2026_fig1_intrapersonal.png){width="100%"}
+
+[@fieldingUnderstandingReducingIntention2026, Fig. 1]{.citation}
+:::
+::: {.column width="65%"}
 We form intentions in the abstract ("I should use the car less") and act facing concrete costs ("I'm running late, and it's raining"). [@fieldingUnderstandingReducingIntention2026]
 
 . . .
 
 For driving and cycling, intentions predicted behaviour only when the habit was weak.
+:::
+:::
 
 ::: {.notes}
 Fielding & Hornsey 2026, p. 2: "It may be that people are 'cool' and far-sighted when they express their intentions, but when engaging in behaviour they are influenced by the 'hot' emotional system, which sensitizes them to its short-term costs (for example, time, money and effort)." And: "distant intentions might be thought of in abstract terms ('I should use the car less because I care about the planet'), whereas near-term behaviours are evaluated concretely, with everything that implies in terms of costs and obstacles (for example, 'I'm running late, and it's raining')."
@@ -525,13 +532,20 @@ Fielding & Hornsey 2026, p. 2: "It may be that people are 'cool' and far-sighted
 On habits, p. 2: "car-use and bicycle-use intentions predict behaviour when these behaviours are weakly habitual, but not when the behaviours are moderately or strongly habitual". Ouellette & Wood 1998 [@ouelletteHabitIntentionEveryday1998], abstract: "Well-practiced behaviors in constant contexts recur because the processing that initiates and controls their performance becomes automatic."
 :::
 
-##
+## The social context
 
+::: {.columns}
+::: {.column width="35%"}
+![](images/fielding_hornsey_2026_fig1_social.png){width="100%"}
+
+[@fieldingUnderstandingReducingIntention2026, Fig. 1]{.citation}
+:::
+::: {.column width="65%"}
 People seem to follow through more often when others can see what they do. [@fieldingUnderstandingReducingIntention2026]
 
-. . .
-
 Friends may draw someone to a climate protest, but the disapproval of family and colleagues can keep them at home.
+:::
+:::
 
 ::: {.notes}
 Fielding & Hornsey 2026, p. 3: "people may be more likely to act in line with their climate action intentions if they know they are visible to others. For example, people were especially likely to choose green consumer products over more luxurious non-green products when their decisions were visible to others". p. 2: "Social desirability is robustly associated with higher pro-environmental intentions".
@@ -539,9 +553,18 @@ Fielding & Hornsey 2026, p. 3: "people may be more likely to act in line with th
 On norms, p. 3: "Behaviour can be undermined, though, when norms are in conflict". And: "Climate activism is a behaviour where negative injunctive (most people don't approve of it) and descriptive norms (most people don't engage in it) might lead to a particularly large intention–behaviour gap. For example, an individual might be carried away by their friends' enthusiasm for attending a climate protest but then balk at attending when they think more deeply about their family's and colleagues' disapproval."
 :::
 
-##
+## The structures people live in
 
+::: {.columns}
+::: {.column width="35%"}
+![](images/fielding_hornsey_2026_fig1_structural.png){width="100%"}
+
+[@fieldingUnderstandingReducingIntention2026, Fig. 1]{.citation}
+:::
+::: {.column width="65%"}
 Where people lack control over a behaviour, intentions predict it weakly. A tenant cannot replace the heating system, and someone who means to take the bus may not if buses are unreliable. [@fieldingUnderstandingReducingIntention2026]
+:::
+:::
 
 ::: {.notes}
 Fielding & Hornsey 2026, p. 3: "the intention–behaviour relationship depends on the extent to which behaviour is within people's control; if there is low control, then a weak intention–behaviour relationship is expected." And: "Or they may be a renter who has no control over the household energy infrastructure. They might find that an electric vehicle is out of their price range and decide to take more public transport, but if public transport is unreliable and inconvenient, they are unlikely to use it."
@@ -569,16 +592,6 @@ The levels seem to work together, so a fix at one level may fail if another leve
 
 ::: {.notes}
 Fielding & Hornsey 2026, p. 6. The paragraph continues: "Ultimately, closing the intention–behaviour gap will require more than isolated fixes. It demands an appreciation of how personal motives, social relationships and structural conditions co-produce behaviour and how interventions at one level may succeed or fail depending on how well they interact with the others."
-:::
-
-## The reading lists interventions for each level
-
-![[@fieldingUnderstandingReducingIntention2026]{.citation}](images/fielding_hornsey_2026_fig1.png)
-
-::: {.notes}
-Fig. 1 of the reading: "Tripartite framework of mechanisms explaining the climate action intention–behaviour gap and proposed strategies to overcome the gap."
-
-Each column lists interventions underneath the mechanisms.
 :::
 
 ## {.big-center}
