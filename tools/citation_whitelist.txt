@@ -38,3 +38,5 @@ NewspaperTakeoverReveals2011
 ipsosEnvironmentalPerilsPerception2021
 gfs.bernVOXAnalyseJuni20212021
 gfs.bernVOXAnalyseJuni20232023
+# Created in Zotero via the connector on 2026-11-24 for the session 11 slides, metadata from the report's own "Cite as" and acknowledgements (PDF, May 2024). No DOI
+leiserowitzInternationalPublicOpinion2024
